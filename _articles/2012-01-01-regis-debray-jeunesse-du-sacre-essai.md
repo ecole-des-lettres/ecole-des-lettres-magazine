@@ -1,6 +1,6 @@
 ---
 id: 12381
-title: Régis Debray : « Jeunesse du sacré »
+title: "Régis Debray : « Jeunesse du sacré »"
 rubrique: Essai
 annee: 2012
 magazine: septembre 2012
