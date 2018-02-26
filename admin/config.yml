@@ -11,7 +11,7 @@ media_folder: "images/" # Folder where user uploaded files should go
 collections: # A list of collections the CMS should be able to edit
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
     label: Sommaires" # Used in the UI, ie.: "New Post"
-    folder: "_posts/"
+    folder: "_sommaires/"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
@@ -33,6 +33,24 @@ collections: # A list of collections the CMS should be able to edit
   - name: "articles" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Fiches" # Used in the UI, ie.: "New Post"
     folder: "_articles/"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Contenu", name: "body", widget: "markdown"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+  - name: "Zoom Sur" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Fiches" # Used in the UI, ie.: "New Post"
+    folder: "_zoomsur/"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Contenu", name: "body", widget: "markdown"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+  - name: "articles" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Documentalistes" # Used in the UI, ie.: "New Post"
+    folder: "_documentalistes/"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
