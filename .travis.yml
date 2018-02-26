@@ -1,29 +1,21 @@
 language: ruby
 rvm:
 - 2.4
-
-install:
-- bundle install
-# before_script:
-#  - chmod +x ./script/cibuild # or do this locally and commit
-
-# Assume bundler is being used, therefore
-# the `install` step will run `bundle install` by default.
-# script: ./script/cibuild
 script:
-  - bundle exec jekyll build
-  #- bundle exec rake test
-
-# branch whitelist, only for GitHub Pages
-branches:
-  only:
-  - master
-  - gh-pages     # test the gh-pages branch
-
+- bundle exec jekyll build
+after_success:
+- git clone https://$GITHUB_REPO
+- cd $(basename ${GITHUB_REPO%.git})
+- git config user.name "Travis CI"
+- git config user.email ${EMAIL}
+- rsync -az --delete --exclude '.git*' ../_site/ .
+- touch .nojekyll
+- git add -A .
+- git commit -m "Generated Jekyll site by Travis CI - ${TRAVIS_BUILD_NUMBER}"
+- git push --force "https://${DEPLOY_KEY}@${GITHUB_REPO}" HEAD:${REPO_TARGET_BRANCH}
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
-  #- secure: kK8FQvlXicyTN/ezzjN2RzDKT3LvZd+tGA3grx57yTK2yDLLPcFHj9lzv9TBhl3j1fFaV5d+btsHeRRcFhsQEg0iJbD4M1oyTEtl1pM8CdKaMHv6zqn5tXLATYpA/1zEKlT5xSX8zEoUoT90oJPyIJDcNvy0PYOmUjeH00AW8s603vSp7bd1jllak7cPNwvS8rwNMDWMJPrIC9mh+WVZVCt/OWBcA6AJeS59BvbqTOJs/SjOHgyuuEIgRmK5rj9NYp8Ptn254mBygZWxOI5JwYBToHWDTGh6xd49B4C9IGNOvPfudeag5LSfv5+d9JpmGyeYqFZ7ZAP4TNAq1RN3f1JG3bVnjMOCSoU8QjG6OuiKVrlt4sot5hzhiV5LeYjTPWI1JJX6Nj4Wub/IvUaUQjrj8uGUFPpaM9Jgh+90arWBYO99HyORn4rWbF+YASeyQIGrfsGOtNqplCtsir9j+7kbNDVrAdyiysoVqpUrFjgt1h6QbCXprN//JGsn7fRoyPYjsGLmqplnWLVk+A/7iY28CYZr3yt9XSMWalC49v6wVu2eTrNyV1AZJDh/NqnhZEfYC1JkVXZ54zkyvKe/N8QWCa7qVw9P4bS70WkHFPtiLe2ELdoKVrFGLryntVbzvO3FVXMrlZigPVU/EkWsZgV4o7XDNV1nJvvIfALzqVM=
-
-sudo: false # route your build to the container-based infrastructure for a faster build
-
+  - GITHUB_REPO: github.com/ecole-des-lettres/ecole-des-lettres-magazine.git
+  - REPO_TARGET_BRANCH: live
+  - secure: jtlCtR9RlIKs/zIbSpIWlZhx71OjMz0qXIyxZoPZG4O0E3/18QyOBkJIno16XIigzk1PxkCQx/vA+nFfkgzragd7tn5jjiD4uzh/Lz2Qfeyr1rzmNP6Y9BViNkvm1VU12kzQileH9NMft8mAuq8loZ6UP2muI8kxAJR3I92JLOvueLoJXo+fgijIoLLxtNbocYh2H3r5+GLt2Wtvbn96sBsVnwR9snAFx/89FgXz1AgoIU0AHsExnRj5uhvJCesITNbHH0sQ5LRL+jYriH2VIFv5bKWKbmB6CIDCucpbT/JpOl86qDNxVYcxwT9N81aNqXpZezcWwfMYOEc/Dbz/mkWOy5fzl1kBWzNs08tUrBn0QVhlVedzGR98Mdtih8PLMjRk0C2udZkEf0hnw98HnJoqw4LE+3Ij49dLb6G0MkFfDtTrOZUZfWHuDc8Aj1YufVrYDkJkpzZoKztXmN7/RJtJ9+4chxMm00gOoEL10PjfDvXGP4z9lGMDX0Yhh8/sEffKQFXPJlg2o2xmahSRdGRgNYwc8jh3mlHp4RJF6t6a7wwpFcUS99359qzhRJbm/r8IeBxJ4TCS+IX4qi4JMqBxEGsRlzy2akvcGH9tS5Xa1CqC1T1jrgORABYJAvwwJAaoHNLNXwlQjxH9HjEq3A2jyR+DvIXa7Ccr38BoMF4=
