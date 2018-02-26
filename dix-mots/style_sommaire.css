@@ -1,0 +1,239 @@
+@charset "utf-8";
+html {
+	margin: 0px;
+	padding: 0px;
+}
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	margin: 0px;
+	padding: 0px;
+	}
+#page {
+	width: 700px;
+	padding: 0px;
+	background-image: url(fond_laureats.gif);
+	background-repeat: no-repeat;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #F90;
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #F90;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #F90;
+	overflow: hidden;
+}
+#page_sans {
+	width: 700px;
+	padding: 0px;
+	background-image: url(fond_laureats.gif);
+	background-repeat: no-repeat;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	overflow: hidden;
+}
+#entete h1 {
+	text-align: center;
+	margin-top: 0px;
+	font-size: 24px;
+	padding-top: 20px;
+}
+
+
+#entete {
+	padding: 0px;
+	height: 200px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+#FlashID {
+}
+
+
+
+.article {
+	float: left;
+	clear: left;
+	width: 680px;
+	margin-bottom: 30px;
+	margin-left: 10px;
+}
+img {
+	padding: 0px;
+	margin: 0px;
+}
+
+
+.dessous {
+	clear: both;
+	float: left;
+	margin-top: 5px;
+	margin-right: 10px;
+	margin-bottom: 20px;
+}
+
+
+.image {
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 0px;
+}
+.casque {
+	padding: 0px;
+	float: left;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 121px;
+}
+.aligner {
+	margin-left: 121px;
+	margin-bottom: 20px;
+}
+.dessous_centre {
+	margin-top: 5px;
+	margin-right: 10px;
+	margin-bottom: 20px;
+	text-align: center;
+	clear: both;
+	font-size: 18px;
+}
+.centre {
+	text-align: center;
+	margin-bottom: 25px;
+}
+
+
+.marge_dessous {
+	margin-bottom: 110px;
+}
+.esp_dessous {
+	margin-bottom: 10px;
+}
+
+.titre1 {
+	font-size: 24px;
+	font-style: italic;
+	padding-top: 40px;
+}
+.chapo {
+	padding: 10px;
+	font-size: 14px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 15px;
+	margin-left: 0px;
+}
+.bleu2 {
+	color: #006fcb;
+	font-size: 30px;
+}
+.clear {
+	clear: both;
+}
+
+
+h1 {
+	margin: 0px;
+	padding: 0px;
+	color: #006fcb;
+	font-size: 14px;
+}
+h2 {
+	font-size: 17px;
+	text-align: center;
+	margin-bottom: 50px;
+}
+h3 {
+	text-align: center;
+	font-size: 16px;
+}
+h4 {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 40px;
+	margin-left: 120px;
+	background-image: url(arrow_orange.jpg);
+	background-repeat: no-repeat;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 25px;
+	color: #ff9e01;
+	font-style: italic;
+	font-size: 11px;
+	font-weight: normal;
+	background-position: 10px;
+}
+.audio {
+	padding-bottom: 8px;
+}
+
+
+h5 {
+	text-align: right;
+}
+
+.bleu {
+	color: #006fcb;
+}
+
+
+a:link {
+	font-weight: bold;
+	color: #ff9e01;
+	text-decoration: none;
+	margin: 0px;
+	padding: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+
+a:visited {
+	font-weight: bold;
+	text-decoration: none;
+	color: #ff9e01;
+}
+.logo_pdf {
+	text-decoration: none;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+.fleche {
+	background-position: 0px 0px;
+}
+#contenu_video {
+	text-align: center;
+	padding-top: 20px;
+}
+#contenu_video p {
+	padding: 0px;
+	margin-top: 21px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+}
+#page_sans #FlashID {
+	padding: 0px;
+	width: 553px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 70px;
+}

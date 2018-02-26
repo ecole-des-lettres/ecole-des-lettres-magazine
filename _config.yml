@@ -1,0 +1,40 @@
+
+baseurl: '/pages'
+permalink: :year/:title.html
+
+exclude:
+  - vendor
+  - gems
+
+collections:
+  sommaires:
+    output: true
+  zoomsur:
+    output: true
+  documentalistes:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: "default"
+  - scope:
+      path: "_sommaires/"
+      type: "sommaires"
+    values:
+      permalink: sommaires/:year/:title.html
+      layout: "default"
+  - scope:
+      path: "_zoomsur/"
+      type: "zoomsur"
+    values:
+      permalink: zoomsur/:year/:title.html
+      layout: "default"
+  - scope:
+      path: "_documentalistes/"
+      type: "documentalistes"
+    values:
+      permalink: documentalistes/:year/:title.html
+      layout: "default"
