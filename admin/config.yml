@@ -41,8 +41,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
       - label: "Niveaux"
         name: "niveau_etudes"
-        widget: "select"
-        options: ["cours préparatoire", "cours élémentaire", "cours moyen", "sixième", "cinquième", "quatrième", "troisième", "seconde", "seconde technologique", "première", "première technologique", "terminale", "bac pro", "BTS", "classes préparatoires et concours", "agrégation", "CAPES"]
+        widget: "list"
+        default: ["cours préparatoire", "cours élémentaire", "cours moyen", "sixième", "cinquième", "quatrième", "troisième", "seconde", "seconde technologique", "première", "première technologique", "terminale", "bac pro", "BTS", "classes préparatoires et concours", "agrégation", "CAPES"]
       - label: "Auteurs"
         name: "auteurs"
         widget: "list"
