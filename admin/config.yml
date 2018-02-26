@@ -39,6 +39,19 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Contenu", name: "body", widget: "markdown"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+      - label: "Niveaux"
+        name: "niveau_etudes"
+        widget: "select"
+        options: ["cours préparatoire", "cours élémentaire", "cours moyen", "sixième", "cinquième", "quatrième", "troisième", "seconde", "seconde technologique", "première", "première technologique", "terminale", "bac pro", "BTS", "classes préparatoires et concours", "agrégation", "CAPES"]
+      - label: "Auteurs"
+        name: "auteurs"
+        widget: "list"
+      - label: "Œuvres"
+        name: "oeuvres"
+        widget: "list"
+      - label: "Réalisateurs"
+        name: "realisateurs"
+        widget: "list"
   - name: "zoomsur" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Zoom Sur" # Used in the UI, ie.: "New Post"
     folder: "_zoomsur/"
@@ -56,4 +69,9 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Contenu", name: "body", widget: "markdown"}
+      - {label: "Année", name: "annee", widget: "string"}
+      - {label: "Pages", name: "pages", widget: "number"}
+      - {label: "Rubrique", name: "rubrique", widget: "string"}
+      - {label: "Revue", name: "revue", widget: "string"}
+      #- {label: "PDF", name: "article_pdf", widget: "string"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
