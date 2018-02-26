@@ -5,6 +5,10 @@ permalink: :year/:title.html
 exclude:
   - vendor
   - gems
+  - admin
+  - Gemfile
+  - .gitignore
+  - assets
 
 collections:
   sommaires:
