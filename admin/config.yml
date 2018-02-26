@@ -39,6 +39,10 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Contenu", name: "body", widget: "markdown"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+      - label: "Revue"
+        name: "revue"
+        widget: "list"
+        default: ["L’école des lettres des collèges", "L’école des lettres des lycées", "L’école des lettres des écoles"]
       - label: "Niveaux"
         name: "niveau_etudes"
         widget: "list"
