@@ -7,7 +7,7 @@ permalink: sommaires/index.html
 
 <div class="index">
 {%- assign sommaires-group = site.sommaires | group_by: "annee" -%}
-{%- for sommaire in sommaires-group -%}
+{%- for sommaire in sommaires-group reversed -%}
 <div class="index--item">
 <strong>Année {{ sommaire.name }}</strong>
 {%- for item in sommaire.items -%}
@@ -22,6 +22,3 @@ permalink: sommaires/index.html
  <h1 class="summary-title">{{sommaire.title}}</h1>
  {{sommaire.content}}
 {%- endfor -%}
-
-
-
