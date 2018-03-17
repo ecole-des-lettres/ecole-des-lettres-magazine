@@ -1,6 +1,6 @@
 ---
 id: 17
-title: "André Gide : « Journal »"
+title: André Gide : « Journal »
 rubrique: Autobiographie [1re]
 annee: 1985
 magazine: n°11 15 mars 1986
