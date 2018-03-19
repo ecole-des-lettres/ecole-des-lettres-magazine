@@ -1,0 +1,3 @@
+---
+title: Fumer tue
+---

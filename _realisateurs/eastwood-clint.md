@@ -1,0 +1,3 @@
+---
+title: Eastwood Clint
+---

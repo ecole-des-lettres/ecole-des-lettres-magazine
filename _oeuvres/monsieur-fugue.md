@@ -1,0 +1,3 @@
+---
+title: monsieur Fugue
+---

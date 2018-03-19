@@ -1,0 +1,3 @@
+---
+title: Dinky rouge sang
+---

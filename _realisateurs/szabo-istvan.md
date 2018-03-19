@@ -1,0 +1,3 @@
+---
+title: Szabo Istvan
+---

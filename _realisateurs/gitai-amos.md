@@ -1,0 +1,3 @@
+---
+title: Gitaï Amos
+---

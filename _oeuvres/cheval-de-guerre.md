@@ -1,0 +1,3 @@
+---
+title: Cheval de guerre
+---

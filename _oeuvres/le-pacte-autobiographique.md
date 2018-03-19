@@ -1,0 +1,3 @@
+---
+title: Le Pacte autobiographique
+---

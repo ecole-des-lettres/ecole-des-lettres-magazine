@@ -1,0 +1,3 @@
+---
+title: Magnan Jean-Marie
+---

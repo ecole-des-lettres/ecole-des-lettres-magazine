@@ -1,0 +1,3 @@
+---
+title: De brevitate vitæ
+---

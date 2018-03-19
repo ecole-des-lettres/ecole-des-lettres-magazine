@@ -1,0 +1,3 @@
+---
+title: Traité théologico-politique
+---

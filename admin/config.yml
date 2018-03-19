@@ -9,35 +9,18 @@ backend:
 media_folder: "images/" # Folder where user uploaded files should go
 
 collections: # A list of collections the CMS should be able to edit
-  - name: "sommaires" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Sommaires" # Used in the UI, ie.: "New Post"
-    folder: "_sommaires/"
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    create: true # Allow users to create new documents in this collection
-    fields: # The fields each document in this collection have
-      - {label: "Titre", name: "title", widget: "string"}
-      - {label: "Numéro", name: "numero", widget: "number"}
-      - {label: "Année", name: "annee", widget: "string"}
-      - {label: Image, name: image, widget: image, required: false}
-      - {label: "Contenu", name: "body", widget: "markdown"}
-      - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
-      - name: article
-        label: Articles
-        widget: list
-        required: false
-        fields:
-          - {label: Titre, name: title, widget: string}
-          - {label: Image, name: image, widget: image, required: false}
-          - {label: Auteur, name: auteur, widget: string}
-          - {label: "Contenu", name: "body", widget: "markdown"}
   - name: "articles" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Articles" # Used in the UI, ie.: "New Post"
+    label: "Billets - Articles" # Used in the UI, ie.: "New Post"
     folder: "_articles/"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Contenu", name: "body", widget: "markdown"}
+      - {label: "Rubrique", name: "rubrique", widget: "string", required: false}
+      - {label: "Année", name: "annee", widget: "string"}
+      - {label: "Pages", name: "pages", widget: "number"}
+      - {label: "Magazine", name: "magazine", widget: "string", required: false}
+      - {label: "Contenu", name: "body", widget: "markdown", required: false}
       - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
       - label: "Revue"
         name: "revue"
@@ -50,14 +33,54 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Auteurs"
         name: "auteurs"
         widget: "list"
+      - label: "Siècles"
+        name: "siecle"
+        widget: "list"
+      - label: "Programme"
+        name: "programme"
+        widget: "list"
       - label: "Œuvres"
         name: "oeuvres"
         widget: "list"
       - label: "Réalisateurs"
         name: "realisateurs"
         widget: "list"
+  - name: "sommaires" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Billets - Sommaires" # Used in the UI, ie.: "New Post"
+    folder: "_sommaires/"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Numéro", name: "numero", widget: "number"}
+      - {label: "Année", name: "annee", widget: "string"}
+      - {label: Image, name: image, widget: image, required: false}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+      # - name: article
+      #   label: Articles
+      #   widget: list
+      #   required: false
+      #   fields:
+      #     - {label: Titre, name: title, widget: string}
+      #     - {label: Image, name: image, widget: image, required: false}
+      #     - {label: Auteur, name: auteur, widget: string}
+      #     - {label: "Contenu", name: "body", widget: "markdown"}
+      - label: "Articles"
+        name: "articles"
+        widget: "list"
+        fields:
+          - label: "Article"
+            name: "article"
+            widget: "relation"
+            collection: "articles"
+            searchFields: ["title", "rubrique"]
+            valueField: "title"
+          - {label: Image, name: image, widget: image, required: false}
+          - {label: "Contenu", name: "content", widget: "markdown"}
+      - {label: "Contenu", name: "body", widget: "markdown"}
+
   - name: "zoomsur" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Zoom Sur" # Used in the UI, ie.: "New Post"
+    label: "Billets - Zoom Sur" # Used in the UI, ie.: "New Post"
     folder: "_zoomsur/"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     create: true # Allow users to create new documents in this collection
@@ -65,8 +88,21 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Contenu", name: "body", widget: "markdown"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+      - label: "Articles"
+        name: "articles"
+        widget: "list"
+        fields:
+          - label: "Article"
+            name: "article"
+            widget: "relation"
+            collection: "articles"
+            searchFields: ["title", "rubrique"]
+            valueField: "title"
+          - {label: Image, name: image, widget: image, required: false}
+          - {label: "Contenu", name: "content", widget: "markdown"}
+
   - name: "documentalistes" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Documentalistes" # Used in the UI, ie.: "New Post"
+    label: "Billets - Documentalistes" # Used in the UI, ie.: "New Post"
     folder: "_documentalistes/"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     create: true # Allow users to create new documents in this collection
@@ -79,3 +115,72 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Revue", name: "revue", widget: "string"}
       #- {label: "PDF", name: "article_pdf", widget: "string"}
       - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+      - label: "Articles"
+        name: "articles"
+        widget: "list"
+        fields:
+          - label: "Article"
+            name: "article"
+            widget: "relation"
+            collection: "articles"
+            searchFields: ["title", "rubrique"]
+            valueField: "title"
+          - {label: Image, name: image, widget: image, required: false}
+          - {label: "Contenu", name: "content", widget: "markdown"}
+
+  # - name: "auteurs"
+  #   label: "Meta - Auteurs"
+  #   folder: "_auteur_articles/"
+  #   slug: "{{slug}}"
+  #   create: true
+  #   fields:
+  #     - {label: "Title", name: "title", widget: "string"}
+  # - name: "auteurs_jeunesses"
+  #   label: "Meta - Auteurs jeunesse"
+  #   folder: "_auteurs_jeunesse/"
+  #   slug: "{{slug}}"
+  #   create: true
+  #   fields:
+  #     - {label: "Title", name: "title", widget: "string"}
+  # - name: "disciplines"
+  #   label: "Meta - Disciplines"
+  #   folder: "_disciplines/"
+  #   slug: "{{slug}}"
+  #   create: true
+  #   fields:
+  #     - {label: "Title", name: "title", widget: "string"}
+  # - name: "niveau_etudes"
+  #   label: "Meta - Niveaux d’étude"
+  #   folder: "_niveau_etudes/"
+  #   slug: "{{slug}}"
+  #   create: true
+  #   fields:
+  #     - {label: "Title", name: "title", widget: "string"}
+  # - name: "oeuvres"
+  #   label: "Meta - Œuvres"
+  #   folder: "_oeuvres/"
+  #   slug: "{{slug}}"
+  #   create: true
+  #   fields:
+  #     - {label: "Title", name: "title", widget: "string"}
+  # - name: "realisateurs"
+  #   label: "Meta - Réalisateurs"
+  #   folder: "_realisateurs/"
+  #   slug: "{{slug}}"
+  #   create: true
+  #   fields:
+  #     - {label: "Title", name: "title", widget: "string"}
+  # - name: "programmes"
+  #   label: "Meta - Programmes"
+  #   folder: "_programmes/"
+  #   slug: "{{slug}}"
+  #   create: true
+  #   fields:
+  #     - {label: "Title", name: "title", widget: "string"}
+  # - name: "siecles"
+  #   label: "Meta - Siècles"
+  #   folder: "_siecles/"
+  #   slug: "{{slug}}"
+  #   create: true
+  #   fields:
+  #     - {label: "Title", name: "title", widget: "string"}

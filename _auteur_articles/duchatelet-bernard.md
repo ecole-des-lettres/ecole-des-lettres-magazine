@@ -1,0 +1,3 @@
+---
+title: Duchatelet Bernard
+---

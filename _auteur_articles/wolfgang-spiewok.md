@@ -1,0 +1,3 @@
+---
+title: Wolfgang Spiewok
+---

@@ -1,0 +1,3 @@
+---
+title: Manuscrits de guerre
+---

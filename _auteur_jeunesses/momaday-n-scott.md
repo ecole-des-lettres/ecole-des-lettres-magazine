@@ -1,0 +1,3 @@
+---
+title: Momaday N. Scott
+---

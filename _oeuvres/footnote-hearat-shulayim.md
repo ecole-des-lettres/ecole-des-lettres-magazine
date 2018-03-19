@@ -1,0 +1,3 @@
+---
+title: Footnote (Hearat Shulayim)
+---

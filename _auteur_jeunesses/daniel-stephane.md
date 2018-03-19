@@ -1,0 +1,3 @@
+---
+title: Daniel Stéphane
+---

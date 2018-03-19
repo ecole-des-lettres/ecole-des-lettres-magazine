@@ -1,0 +1,3 @@
+---
+title: Jeannin-Corbin Magali
+---

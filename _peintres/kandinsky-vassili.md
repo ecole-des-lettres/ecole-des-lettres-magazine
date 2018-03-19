@@ -1,0 +1,3 @@
+---
+title: Kandinsky Vassili
+---

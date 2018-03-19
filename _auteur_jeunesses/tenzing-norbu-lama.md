@@ -1,0 +1,3 @@
+---
+title: Tenzing Norbu Lama
+---

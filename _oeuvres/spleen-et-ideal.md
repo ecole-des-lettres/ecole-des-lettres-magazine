@@ -1,0 +1,3 @@
+---
+title: Spleen et Idéal
+---

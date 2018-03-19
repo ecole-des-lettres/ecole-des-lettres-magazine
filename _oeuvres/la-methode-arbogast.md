@@ -1,0 +1,3 @@
+---
+title: La Méthode Arbogast
+---

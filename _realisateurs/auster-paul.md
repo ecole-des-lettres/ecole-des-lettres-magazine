@@ -1,0 +1,3 @@
+---
+title: Auster Paul
+---

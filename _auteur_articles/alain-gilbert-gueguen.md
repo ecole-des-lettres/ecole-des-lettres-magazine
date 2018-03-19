@@ -1,0 +1,3 @@
+---
+title: Alain-Gilbert Guéguen
+---

@@ -1,0 +1,3 @@
+---
+title: Mademoiselle de Maupin
+---

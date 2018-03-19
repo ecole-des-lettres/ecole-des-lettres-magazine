@@ -1,0 +1,3 @@
+---
+title: Maurice De Gandillac
+---

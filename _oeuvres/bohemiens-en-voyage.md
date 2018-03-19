@@ -1,0 +1,3 @@
+---
+title: Bohémiens en voyage
+---

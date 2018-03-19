@@ -1,0 +1,3 @@
+---
+title: Brigitte Hibert
+---

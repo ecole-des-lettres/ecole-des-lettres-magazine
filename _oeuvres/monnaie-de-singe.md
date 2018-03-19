@@ -1,0 +1,3 @@
+---
+title: Monnaie de singe
+---

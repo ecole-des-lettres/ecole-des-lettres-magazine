@@ -1,0 +1,3 @@
+---
+title: Hubschmid Arthur
+---

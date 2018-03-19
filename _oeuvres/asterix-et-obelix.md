@@ -1,0 +1,3 @@
+---
+title: Astérix et Obélix
+---

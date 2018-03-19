@@ -1,0 +1,3 @@
+---
+title: White E. B.
+---

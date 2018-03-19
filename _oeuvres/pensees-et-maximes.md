@@ -1,0 +1,3 @@
+---
+title: Pensées et maximes
+---

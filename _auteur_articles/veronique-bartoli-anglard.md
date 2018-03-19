@@ -1,0 +1,3 @@
+---
+title: Véronique Bartoli-Anglard
+---

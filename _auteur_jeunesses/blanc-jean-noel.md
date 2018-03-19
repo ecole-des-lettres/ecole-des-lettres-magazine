@@ -1,0 +1,3 @@
+---
+title: Blanc Jean-Noël
+---
