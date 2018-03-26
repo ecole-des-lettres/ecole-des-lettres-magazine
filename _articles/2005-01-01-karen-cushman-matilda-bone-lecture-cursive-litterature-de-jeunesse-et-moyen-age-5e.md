@@ -1,6 +1,6 @@
 ---
 id: 11689
-title: Karen Cushman : « Matilda Bone ». Lecture cursive
+title: Karen Cushman – « Matilda Bone ». Lecture cursive
 rubrique: Littérature de jeunesse et Moyen Âge [5e]
 annee: 2005
 magazine: 2007

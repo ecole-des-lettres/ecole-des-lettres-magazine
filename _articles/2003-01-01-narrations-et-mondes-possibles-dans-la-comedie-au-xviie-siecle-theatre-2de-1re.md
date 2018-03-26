@@ -14,7 +14,7 @@ description: Sommé d’épurer la scène, le théâtre à l’époque classique
   dans l’imagination du spectateur. Le vecteur textuel de ces évocations invisibles,
   c’est le « récit » ou la « narration dramatique ». La fonction traditionnellement
   dévolue aux narrations est une fonction informative. Pourtant, la portée anecdotique
-  de certains récits amène à s’interroger : et si, justement, l’intérêt du récit résidait
+  de certains récits amène à s’interroger – et si, justement, l’intérêt du récit résidait
   dans le décentrement ? Et si la narration consistait à « montrer » autre chose,
   ailleurs ? L’intrusion de certains récits, qui peuvent sembler dramaturgiquement
   inutiles, permet de formuler des hypothèses, de proposer à l’imagination du spectateur

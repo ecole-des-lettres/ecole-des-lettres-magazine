@@ -1,6 +1,6 @@
 ---
 id: 12247
-title: Dominique Le Brun : « Les Baleiniers. Témoignages 1820-1880 »
+title: Dominique Le Brun – « Les Baleiniers. Témoignages 1820-1880 »
 rubrique: Histoire / Littérature
 annee: 2013
 magazine: septembre 2013

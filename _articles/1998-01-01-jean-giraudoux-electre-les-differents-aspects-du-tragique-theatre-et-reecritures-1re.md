@@ -1,6 +1,6 @@
 ---
 id: 3003
-title: Jean Giraudoux : « Électre ». Les différents aspects du tragique 
+title: Jean Giraudoux – « Électre ». Les différents aspects du tragique 
 rubrique: Théâtre et réécritures [1re]
 annee: 1998
 magazine: n°1 15 juillet 1998

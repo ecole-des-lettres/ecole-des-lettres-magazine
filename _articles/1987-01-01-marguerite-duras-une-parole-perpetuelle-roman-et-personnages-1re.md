@@ -13,7 +13,7 @@ description:
   4. Sources et figures de la parole
   5. De la parole à la musique
 article_pdf: 75.pdf
-magazine_special: Duras : de Vinh Long à Calcutta
+magazine_special: Duras – de Vinh Long à Calcutta
 revue: L’école des lettres des lycées
 auteurs:
 - Claude-André Tabart

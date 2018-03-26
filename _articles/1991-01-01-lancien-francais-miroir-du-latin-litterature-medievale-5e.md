@@ -8,10 +8,10 @@ pages: 10
 description: 
   1. À quelle époque a-t-on cessé de parler le latin ?
   2. L’ancien français
-  3. Les amants surpris dans la forêt : reproduction de l’extrait en ancien français (version de Béroul) et traduction
+  3. Les amants surpris dans la forêt – reproduction de l’extrait en ancien français (version de Béroul) et traduction
   4. Étude morphologique de l’ancien français
-  – le système verbal : la conjugaison du verbe « être »
-  – le système nominal : les déclinaisons
+  – le système verbal – la conjugaison du verbe « être »
+  – le système nominal – les déclinaisons
   5. Les graphies étymologisantes
 article_pdf: 722.pdf
 magazine_special: Tristan et Iseut

@@ -1,6 +1,6 @@
 ---
 id: 5283
-title: « Bongiorno notte », de Marco Bellochio : le terrorisme à visage humain
+title: « Bongiorno notte », de Marco Bellochio – le terrorisme à visage humain
 rubrique: Cinéma
 annee: 2003
 magazine: n°8 15 février 2004

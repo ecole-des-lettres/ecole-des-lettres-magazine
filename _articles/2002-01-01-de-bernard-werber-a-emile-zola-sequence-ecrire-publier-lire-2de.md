@@ -7,9 +7,9 @@ magazine: 2003
 pages: 72
 description: 
   Une séquence permettant d’aborder un genre (le roman) ; un mouvement de l’histoire littéraire (le naturalisme) et trois objets d’étude ( « démontrer, convaincre, persuader », « écrire, publier, lire » et « l’éloge et le blâme »).
-  1. Autopsie d’un best-seller : « Les Fourmis », de Bernard Werber
-  2. Séquence d’enseignement : Bernard Werber, « Les Fourmis » (quinze séances)
-  3. Séquence d’enseignement : Zola, « Germinal » (seize séances)
+  1. Autopsie d’un best-seller – « Les Fourmis », de Bernard Werber
+  2. Séquence d’enseignement – Bernard Werber, « Les Fourmis » (quinze séances)
+  3. Séquence d’enseignement – Zola, « Germinal » (seize séances)
 article_pdf: 4935.pdf
 revue: L’école des lettres des lycées
 auteurs:

@@ -6,7 +6,7 @@ annee: 1994
 magazine: n°7 1er février 1995
 pages: 5
 description: 
-  Objectif : faire rendre compte par un élève sur le mode oral d’un livre qu’il a aimé…
+  Objectif – faire rendre compte par un élève sur le mode oral d’un livre qu’il a aimé…
   1. La situation initiale
   2. L’histoire en marche
   – « Billie », de Brigitte Smadja

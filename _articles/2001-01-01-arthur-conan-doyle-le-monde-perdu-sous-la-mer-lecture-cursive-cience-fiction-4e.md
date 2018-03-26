@@ -1,6 +1,6 @@
 ---
 id: 4314
-title: Arthur Conan Doyle : « Le Monde perdu sous la mer ». Lecture cursive
+title: Arthur Conan Doyle – « Le Monde perdu sous la mer ». Lecture cursive
 rubrique: cience-fiction [4e]
 annee: 2001
 magazine: n°14 15 mai 2002

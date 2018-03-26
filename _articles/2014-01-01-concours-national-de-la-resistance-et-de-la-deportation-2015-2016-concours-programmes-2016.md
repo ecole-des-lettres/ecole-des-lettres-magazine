@@ -12,7 +12,7 @@ description: Le Concours national de la Résistance et de la Déportation (CNRD)
   objectif de perpétuer chez les jeunes Français la mémoire de la Résistance et de
   la Déportation afin de leur permettre de s’en inspirer en s’appuyant sur les leçons
   historiques et civiques que leur apporte l’école. Pour l’année 2015-2016, le jury
-  national a arrêté le thème suivant : Résister par l’art et la littérature...
+  national a arrêté le thème suivant – Résister par l’art et la littérature...
 article_pdf: 12776.pdf
 revue: L’école des lettres des collèges
 niveau_etudes:

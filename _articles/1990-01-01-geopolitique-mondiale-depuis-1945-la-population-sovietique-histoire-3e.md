@@ -6,7 +6,7 @@ annee: 1990
 magazine: n°8 1er février 1991
 pages: 3
 description: Exemple de travail en groupes sur le thème de la population soviétique.
-  Les objectifs : faire mesurer aux élèves le poids démographique de l’ancienne URSS,
+  Les objectifs – faire mesurer aux élèves le poids démographique de l’ancienne URSS,
   faire apprécier l’inégalité du peuplement, montrer le statut fédéral de l’union
   qui ne satisfait pas la « mosaïque des peuples »…
 article_pdf: 418.pdf

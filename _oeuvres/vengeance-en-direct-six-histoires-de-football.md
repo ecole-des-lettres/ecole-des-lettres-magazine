@@ -1,3 +1,3 @@
 ---
-title: 'Vengeance en direct : six histoires de football'
+title: 'Vengeance en direct – six histoires de football'
 ---

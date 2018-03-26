@@ -1,6 +1,6 @@
 ---
 id: 11207
-title: « Whisky », de Pablo Stoll : pudeur et retenue
+title: « Whisky », de Pablo Stoll – pudeur et retenue
 rubrique: Cinéma
 annee: 2004
 magazine: n°5 janvier 2005

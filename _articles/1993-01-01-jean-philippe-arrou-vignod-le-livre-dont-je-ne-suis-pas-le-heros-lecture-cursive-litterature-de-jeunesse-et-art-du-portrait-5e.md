@@ -1,6 +1,6 @@
 ---
 id: 1181
-title: Jean-Philippe Arrou-Vignod : « Le livre dont je ne suis pas le héros ». Lecture
+title: Jean-Philippe Arrou-Vignod – « Le livre dont je ne suis pas le héros ». Lecture
   cursive 
 rubrique: Littérature de jeunesse et art du portrait [5e]
 annee: 1993

@@ -1,7 +1,7 @@
 ---
 id: 1530
 title: Épistolarité et stratégie
-rubrique: Guilleragues : « Lettres portugaises »
+rubrique: Guilleragues – « Lettres portugaises »
 annee: 1994
 magazine: n°11 1er mai 1995
 pages: 12

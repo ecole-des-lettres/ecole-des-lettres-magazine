@@ -8,7 +8,7 @@ pages: 176
 description: Résultats de l’enquête menée par « L’École des lettres » sur la réforme
   de l’Épreuve Anticipée de Français.
 article_pdf: 4046.pdf
-magazine_special: Français : cinq cents avis sur le bac de français
+magazine_special: Français – cinq cents avis sur le bac de français
 revue: L’école des lettres des lycées
 disciplines:
 - lettres

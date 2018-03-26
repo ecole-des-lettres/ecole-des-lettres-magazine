@@ -1,6 +1,6 @@
 ---
 id: 12195
-title: Dis-moi dix mots semés au loin : dix mots voyagent dans le temps
+title: Dis-moi dix mots semés au loin – dix mots voyagent dans le temps
 rubrique: Concours des dix mots
 annee: 2013
 magazine: 2013

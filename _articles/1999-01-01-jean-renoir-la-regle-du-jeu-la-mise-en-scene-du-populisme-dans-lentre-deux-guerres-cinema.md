@@ -1,6 +1,6 @@
 ---
 id: 3476
-title: Jean Renoir : « La Règle du jeu ». La mise en scène du populisme dans l’entre-deux-guerres
+title: Jean Renoir – « La Règle du jeu ». La mise en scène du populisme dans l’entre-deux-guerres
 rubrique: Cinéma
 annee: 1999
 magazine: n°11 15 mars 2000

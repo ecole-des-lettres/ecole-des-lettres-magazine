@@ -1,6 +1,6 @@
 ---
 id: 12166
-title: Jean-David Morvan et Nicolas Nemiri : « Hyper l’hippo » (cours élémentaire)
+title: Jean-David Morvan et Nicolas Nemiri – « Hyper l’hippo » (cours élémentaire)
 rubrique: Bande dessinée [CE]
 annee: 2012
 magazine: n°3 2012-2013

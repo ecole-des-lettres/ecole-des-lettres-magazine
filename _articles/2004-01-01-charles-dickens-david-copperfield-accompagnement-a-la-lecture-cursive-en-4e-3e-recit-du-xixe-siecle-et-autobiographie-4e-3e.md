@@ -1,6 +1,6 @@
 ---
 id: 11402
-title: Charles Dickens : « David Copperfield » Accompagnement à la lecture cursive
+title: Charles Dickens – « David Copperfield » Accompagnement à la lecture cursive
   en 4e-3e
 rubrique: Récit du XIXe siècle et autobiographie [4e-3e]
 annee: 2004

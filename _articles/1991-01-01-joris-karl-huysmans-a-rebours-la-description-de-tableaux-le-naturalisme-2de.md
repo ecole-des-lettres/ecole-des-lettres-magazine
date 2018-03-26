@@ -1,6 +1,6 @@
 ---
 id: 750
-title: Joris-Karl Huysmans : « À rebours ». La description de tableaux 
+title: Joris-Karl Huysmans – « À rebours ». La description de tableaux 
 rubrique: Le naturalisme [2de]
 annee: 1991
 magazine: n°8 1er mars 1992

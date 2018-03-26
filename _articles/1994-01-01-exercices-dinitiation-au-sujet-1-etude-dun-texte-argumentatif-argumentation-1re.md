@@ -1,6 +1,6 @@
 ---
 id: 1766
-title: Exercices d’initiation au sujet 1 : étude d’un texte argumentatif
+title: Exercices d’initiation au sujet 1 – étude d’un texte argumentatif
 rubrique: Argumentation [1re]
 annee: 1994
 magazine: n°7 15 février 1995

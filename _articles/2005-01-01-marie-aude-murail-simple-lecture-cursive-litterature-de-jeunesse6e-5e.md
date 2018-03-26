@@ -1,6 +1,6 @@
 ---
 id: 11426
-title: Marie-Aude Murail : « Simple ». Lecture cursive
+title: Marie-Aude Murail – « Simple ». Lecture cursive
 rubrique: Littérature de jeunesse [6e-5e]
 annee: 2005
 magazine: n°5 15 décembre 2005

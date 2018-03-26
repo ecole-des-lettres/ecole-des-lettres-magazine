@@ -1,6 +1,6 @@
 ---
 id: 12375
-title: Claude-Edmonde Magny : « Lettre sur le pouvoir d’écrire »
+title: Claude-Edmonde Magny – « Lettre sur le pouvoir d’écrire »
 rubrique: Essai
 annee: 2012
 magazine: 2012

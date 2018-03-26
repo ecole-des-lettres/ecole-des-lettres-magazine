@@ -1,6 +1,6 @@
 ---
 id: 797
-title: Gaston Leroux : « Le Mystère de la chambre jaune » 
+title: Gaston Leroux – « Le Mystère de la chambre jaune » 
 rubrique: Roman et personnages [1re]
 annee: 1992
 magazine: n°1 15 septembre 1992

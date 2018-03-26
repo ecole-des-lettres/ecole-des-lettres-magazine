@@ -1,6 +1,6 @@
 ---
 id: 11290
-title: Franz Kafka : « Le Procès ». Le symbolisme des portes
+title: Franz Kafka – « Le Procès ». Le symbolisme des portes
 rubrique: Langage verbal et images [Tle]
 annee: 2005
 magazine: n°2 15 septembre 2005

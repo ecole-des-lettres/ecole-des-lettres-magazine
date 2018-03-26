@@ -1,6 +1,6 @@
 ---
 id: 5369
-title: Berlioz et « Les Troyens » : le romantisme au service de la tragédie
+title: Berlioz et « Les Troyens » – le romantisme au service de la tragédie
 rubrique: Opéra
 annee: 2003
 magazine: n°12-14 août 2004

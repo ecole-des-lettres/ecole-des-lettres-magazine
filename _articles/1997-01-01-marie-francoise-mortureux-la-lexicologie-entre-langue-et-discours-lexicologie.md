@@ -1,6 +1,6 @@
 ---
 id: 2651
-title: Marie-Françoise Mortureux : « La Lexicologie entre langue et discours »
+title: Marie-Françoise Mortureux – « La Lexicologie entre langue et discours »
 rubrique: Lexicologie
 annee: 1997
 magazine: n°10 15 février 1998

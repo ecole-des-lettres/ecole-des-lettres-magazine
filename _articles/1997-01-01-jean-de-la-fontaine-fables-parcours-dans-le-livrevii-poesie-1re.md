@@ -1,6 +1,6 @@
 ---
 id: 2803
-title: Jean de La Fontaine : « Fables ». Parcours dans le livre VII 
+title: Jean de La Fontaine – « Fables ». Parcours dans le livre VII 
 rubrique: Poésie [1re]
 annee: 1997
 magazine: n°2 15 septembre 1997

@@ -1,6 +1,6 @@
 ---
 id: 5318
-title: « Wild Side », de Sébastien Lifshitz : marginalité de la tendresse
+title: « Wild Side », de Sébastien Lifshitz – marginalité de la tendresse
 rubrique: Cinéma
 annee: 2003
 magazine: n°11 1er mai 2004

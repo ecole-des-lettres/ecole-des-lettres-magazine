@@ -1,6 +1,6 @@
 ---
 id: 4222
-title: Annales « zéro » en 1re : proposition de corrigé. Le théâtre : texte et représentation
+title: Annales « zéro » en 1re – proposition de corrigé. Le théâtre – texte et représentation
   ; convaincre, persuader et délibérer
 rubrique: Programmes [1re]
 annee: 2001

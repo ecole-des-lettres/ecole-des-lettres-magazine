@@ -17,7 +17,7 @@ description:
   – consignes de préparation
   – questions et élaboration d’une problématique collective
 article_pdf: 1174.pdf
-magazine_special: Langues anciennes : didactique
+magazine_special: Langues anciennes – didactique
 revue: L’école des lettres des lycées
 auteurs:
 - Dominique Cauquil

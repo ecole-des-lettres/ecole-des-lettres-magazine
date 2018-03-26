@@ -1,6 +1,6 @@
 ---
 id: 12000
-title: Robert Guédiguian : « L’Armée du crime »
+title: Robert Guédiguian – « L’Armée du crime »
 rubrique: Cinéma
 annee: 2009
 magazine: n°2 2009-2010

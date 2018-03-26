@@ -6,9 +6,9 @@ annee: 2012
 magazine: n°4 2012-2013
 pages: 33
 description: 
-  Sont présentés ici les titres de l’école des loisirs présents dans la liste de référence 2013 actualisée par le ministère de l’Éducation nationale : albums, bandes dessinées, contes et fables, romans et récits, théâtre.
+  Sont présentés ici les titres de l’école des loisirs présents dans la liste de référence 2013 actualisée par le ministère de l’Éducation nationale – albums, bandes dessinées, contes et fables, romans et récits, théâtre.
   « La lecture d’œuvres patrimoniales et contemporaines appropriées à l’âge des élèves leur permet de se constituer une première culture littéraire partagée. Elle contribue à l’acquisition de la maîtrise de la langue. Pour aider les enseignants à choisir des œuvres, le ministère propose des sélections de livres.
-  Ces sélections, organisées en six catégories, sont établies à partir de plusieurs critères : – la qualité littéraire des œuvres ; – l’accessibilité des textes ; – l’équilibre entre des ouvrages patrimoniaux, des classiques et des publications récentes ; – la disponibilité des titres ; – la diversité des auteurs, des illustrateurs, des éditeurs... – l’ouverture des pratiques pédagogiques et éducatives qu’elles permettent. [...]
+  Ces sélections, organisées en six catégories, sont établies à partir de plusieurs critères – – la qualité littéraire des œuvres ; – l’accessibilité des textes ; – l’équilibre entre des ouvrages patrimoniaux, des classiques et des publications récentes ; – la disponibilité des titres ; – la diversité des auteurs, des illustrateurs, des éditeurs... – l’ouverture des pratiques pédagogiques et éducatives qu’elles permettent. [...]
   Dans la continuité des repères construits depuis 2002, cette sélection tient compte des ouvrages et des auteurs déjà rencontrés au cycle des apprentissages fondamentaux et reprend certaines propositions des listes de référence antérieures. » (Ministère de l’Éducation nationale, Éduscol).
 article_pdf: 12171.pdf
 magazine_special: La littérature de jeunesse du cycle 3 à la troisième

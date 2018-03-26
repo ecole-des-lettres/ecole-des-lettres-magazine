@@ -1,6 +1,6 @@
 ---
 id: 2622
-title: Vladimir Nabokov : « La Vénitienne et autres nouvelles ». Étude intégrale 
+title: Vladimir Nabokov – « La Vénitienne et autres nouvelles ». Étude intégrale 
 rubrique: Nouvelles  [2de]
 annee: 1997
 magazine: n°10 15 février 1998

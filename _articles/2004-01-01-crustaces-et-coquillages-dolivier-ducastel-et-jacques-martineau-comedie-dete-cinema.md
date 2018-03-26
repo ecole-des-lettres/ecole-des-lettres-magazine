@@ -1,6 +1,6 @@
 ---
 id: 11230
-title: « Crustacés et coquillages », d’Olivier Ducastel et Jacques Martineau : comédie
+title: « Crustacés et coquillages », d’Olivier Ducastel et Jacques Martineau – comédie
   d’été
 rubrique: Cinéma
 annee: 2004

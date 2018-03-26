@@ -1,6 +1,6 @@
 ---
 id: 2015
-title: Valérie Dayre : « C’est la vie, Lili ». Étude intégrale 
+title: Valérie Dayre – « C’est la vie, Lili ». Étude intégrale 
 rubrique: Littérature de jeunesse et journal intime [4e]
 annee: 1995
 magazine: n°3 15 octobre 1995

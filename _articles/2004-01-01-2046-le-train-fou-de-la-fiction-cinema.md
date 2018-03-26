@@ -1,6 +1,6 @@
 ---
 id: 11178
-title: « 2046 » : le train fou de la fiction
+title: « 2046 » – le train fou de la fiction
 rubrique: Cinéma
 annee: 2004
 magazine: n°3 1er novembre 2004

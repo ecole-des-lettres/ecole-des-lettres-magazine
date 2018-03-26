@@ -1,3 +1,3 @@
 ---
-title: 'En miroir : journal sans date'
+title: 'En miroir – journal sans date'
 ---

@@ -1,6 +1,6 @@
 ---
 id: 4775
-title: Jean de La Fontaine : « Les Animaux malades de la peste »
+title: Jean de La Fontaine – « Les Animaux malades de la peste »
 rubrique: Préparation au brevet [3e] 
 annee: 2002
 magazine: n°8 1er janvier 2003
@@ -13,7 +13,7 @@ description: Cet article propose un devoir de type brevet qui pourra clore une s
   derrière leur ton humoristique et la personnification des animaux, une dénonciation
   de la société et du pouvoir. De plus, les « Fables » de La Fontaine ont l’avantage
   de préparer les élèves au travail de l’argumentation. Ainsi, le devoir et ses prolongements
-  exploiteront-ils plusieurs directions : celle de la construction du texte, celle
+  exploiteront-ils plusieurs directions – celle de la construction du texte, celle
   du dialogue et, enfin, celle de la dénonciation des puissants.
 article_pdf: 4775.pdf
 revue: L’école des lettres des collèges

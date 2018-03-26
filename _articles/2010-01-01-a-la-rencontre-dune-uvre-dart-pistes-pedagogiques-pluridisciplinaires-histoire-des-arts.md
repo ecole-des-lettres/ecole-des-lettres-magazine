@@ -1,6 +1,6 @@
 ---
 id: 12065
-title: À la rencontre d’une œuvre dart : pistes pédagogiques pluridisciplinaires
+title: À la rencontre d’une œuvre dart – pistes pédagogiques pluridisciplinaires
 rubrique: Histoire des arts
 annee: 2010
 magazine: n°4-5 2010-2011

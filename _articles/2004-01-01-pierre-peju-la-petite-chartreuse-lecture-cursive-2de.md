@@ -1,6 +1,6 @@
 ---
 id: 11887
-title: Pierre Péju : « La Petite Chartreuse » 
+title: Pierre Péju – « La Petite Chartreuse » 
 rubrique: Lecture cursive (2de)
 annee: 2004
 magazine: n°10 juin 2005

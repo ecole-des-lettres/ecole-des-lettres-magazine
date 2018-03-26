@@ -1,6 +1,6 @@
 ---
 id: 751
-title: Émile Zola : « L’Assommoir ». Étude d’extrait : la description inaugurale 
+title: Émile Zola – « L’Assommoir ». Étude d’extrait – la description inaugurale 
 rubrique: Le naturalisme [2de]
 annee: 1991
 magazine: n°8 1er mars 1992

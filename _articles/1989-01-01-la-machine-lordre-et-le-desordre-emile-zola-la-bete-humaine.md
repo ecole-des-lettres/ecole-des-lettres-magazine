@@ -1,7 +1,7 @@
 ---
 id: 125
 title: La machine, l’ordre et le désordre
-rubrique: Émile Zola : « La Bête humaine »
+rubrique: Émile Zola – « La Bête humaine »
 annee: 1989
 magazine: n°6 15 décembre 1989
 pages: 14

@@ -1,6 +1,6 @@
 ---
 id: 2159
-title: Fabrice Luchini : entretien
+title: Fabrice Luchini – entretien
 rubrique: Cinéma
 annee: 1995
 magazine: n°8 15 mars 1996

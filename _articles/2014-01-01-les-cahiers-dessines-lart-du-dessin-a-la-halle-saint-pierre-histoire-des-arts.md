@@ -1,6 +1,6 @@
 ---
 id: 12765
-title: « Les Cahiers dessinés » : l’art du dessin à la Halle Saint-Pierre
+title: « Les Cahiers dessinés » – l’art du dessin à la Halle Saint-Pierre
 rubrique: Histoire des arts
 annee: 2014
 magazine: juillet 2015

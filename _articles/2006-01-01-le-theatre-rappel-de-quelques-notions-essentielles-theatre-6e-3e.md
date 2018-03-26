@@ -1,6 +1,6 @@
 ---
 id: 11769
-title: Le théâtre : rappel de quelques notions essentielles
+title: Le théâtre – rappel de quelques notions essentielles
 rubrique: Théâtre [6e-3e]
 annee: 2006
 magazine: 

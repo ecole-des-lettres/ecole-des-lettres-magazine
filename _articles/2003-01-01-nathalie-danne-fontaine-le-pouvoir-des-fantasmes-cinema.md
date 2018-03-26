@@ -1,6 +1,6 @@
 ---
 id: 5269
-title: « Nathalie », d’Anne Fontaine : le pouvoir des fantasmes
+title: « Nathalie », d’Anne Fontaine – le pouvoir des fantasmes
 rubrique: Cinéma
 annee: 2003
 magazine: n°7 1er janvier 2004

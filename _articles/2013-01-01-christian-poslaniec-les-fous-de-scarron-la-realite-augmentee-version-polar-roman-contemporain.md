@@ -1,6 +1,6 @@
 ---
 id: 12310
-title: Christian Poslaniec : « Les Fous de Scarron », la réalité augmentée version
+title: Christian Poslaniec – « Les Fous de Scarron », la réalité augmentée version
   polar
 rubrique: Roman contemporain
 annee: 2013

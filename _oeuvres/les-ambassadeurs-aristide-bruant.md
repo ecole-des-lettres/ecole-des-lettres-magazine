@@ -1,3 +1,3 @@
 ---
-title: 'Les Ambassadeurs : Aristide Bruant'
+title: 'Les Ambassadeurs – Aristide Bruant'
 ---

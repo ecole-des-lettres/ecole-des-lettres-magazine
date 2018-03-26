@@ -1,6 +1,6 @@
 ---
 id: 12801
-title: Ces objets qui nous envahissent : objets cultes, culte des objets. Catalogue
+title: Ces objets qui nous envahissent – objets cultes, culte des objets. Catalogue
   des notions, textes et créations
 rubrique: Programme de [BTS]
 annee: 2014

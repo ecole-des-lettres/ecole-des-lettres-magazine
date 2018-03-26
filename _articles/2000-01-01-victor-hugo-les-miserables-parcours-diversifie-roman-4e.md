@@ -1,6 +1,6 @@
 ---
 id: 4011
-title: Victor Hugo : « Les Misérables ». Parcours diversifié
+title: Victor Hugo – « Les Misérables ». Parcours diversifié
 rubrique: Roman [4e]
 annee: 2000
 magazine: n°4 1er octobre 2000
@@ -10,7 +10,7 @@ description: Ce travail, proposé sous forme de parcours diversifié à des él�
   du programme d’histoire, fait appel à des compétences requises en français et s’appuie
   sur des recherches effectuées notamment sur Internet. Il s’agit, à partir des « Misérables »
   de Victor Hugo, d’amener les élèves à croiser différents types de lecture en vue
-  d’une production écrite : lecture guidée d’extraits du roman, lecture sélective
+  d’une production écrite – lecture guidée d’extraits du roman, lecture sélective
   au cours d’une recherche d’informations, rédaction d’un récit historique simplifié.
   Ce projet est conçu pour un groupe de seize élèves environ, travaillant au CDI,
   individuellement, puis par groupes de deux.

@@ -7,7 +7,7 @@ annee: 1998
 magazine: n°4 1er octobre 1998
 pages: 12
 description: Le tertiaire est le « secteur des activités de service ». Les services
-  se distinguent par l’immatérialité de leur production : pour les élèves, cette situation
+  se distinguent par l’immatérialité de leur production – pour les élèves, cette situation
   économique est parfois difficile à appréhender ; pour le professeur, traiter du
   secteur tertiaire en tant que tel conduit inévitablement à réduire le cours de géographie
   à un exposé d’économie. Or, les services représentent le secteur d’activité qui

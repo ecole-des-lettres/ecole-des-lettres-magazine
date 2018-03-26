@@ -1,6 +1,6 @@
 ---
 id: 12334
-title: Boris Cyrulnik : « Sauve-toi, la vie t’appelle »
+title: Boris Cyrulnik – « Sauve-toi, la vie t’appelle »
 rubrique: Essai
 annee: 2013
 magazine: janvier 2013

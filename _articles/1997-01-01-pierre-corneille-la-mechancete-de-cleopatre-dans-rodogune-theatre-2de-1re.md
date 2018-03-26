@@ -1,6 +1,6 @@
 ---
 id: 2692
-title: Pierre Corneille : la méchanceté de Cléopâtre dans « Rodogune »
+title: Pierre Corneille – la méchanceté de Cléopâtre dans « Rodogune »
 rubrique: Théâtre [2de-1re]
 annee: 1997
 magazine: n°11 15 mars 1998
@@ -12,7 +12,7 @@ description:
   3. « Rodogune », tragédie du mal
   L’article est suivi d’une bibliographie.
 article_pdf: 2692.pdf
-magazine_special: Théâtre : Corneille, Molière, Shakespeare, Strindberg
+magazine_special: Théâtre – Corneille, Molière, Shakespeare, Strindberg
 revue: L’école des lettres des lycées
 auteurs:
 - Laurent Thirouin

@@ -1,6 +1,6 @@
 ---
 id: 4817
-title: Colette : « Le Blé en herbe »
+title: Colette – « Le Blé en herbe »
 rubrique: Préparation à la seconde [3e]
 annee: 2002
 magazine: n°10 1er mars 2003

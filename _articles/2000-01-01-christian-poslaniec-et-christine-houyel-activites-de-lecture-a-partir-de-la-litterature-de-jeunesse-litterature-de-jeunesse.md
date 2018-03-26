@@ -1,6 +1,6 @@
 ---
 id: 3854
-title: Christian Poslaniec et Christine Houyel : « Activités de lecture à partir
+title: Christian Poslaniec et Christine Houyel – « Activités de lecture à partir
   de la littérature de jeunesse »
 rubrique: Littérature de jeunesse
 annee: 2000

@@ -9,7 +9,7 @@ description:
   En Allemagne, civilisation et littérature antiques ne sont pas étudiées systématiquement en dehors des textes traduits…
   En annexe, l’organisation du système scolaire dans le Land « Rhénanie-Palatinat ».
 article_pdf: 1169.pdf
-magazine_special: Langues anciennes : didactique
+magazine_special: Langues anciennes – didactique
 revue: L’école des lettres des lycées
 auteurs:
 - Edzard Visser

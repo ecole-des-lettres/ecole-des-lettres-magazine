@@ -1,6 +1,6 @@
 ---
 id: 11265
-title: Impressions du Nord : la peinture scandinave, 1800-1915
+title: Impressions du Nord – la peinture scandinave, 1800-1915
 rubrique: Histoire des arts
 annee: 2004
 magazine: n°10 juin 2005

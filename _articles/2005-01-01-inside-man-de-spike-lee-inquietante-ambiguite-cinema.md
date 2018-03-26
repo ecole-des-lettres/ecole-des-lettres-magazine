@@ -1,6 +1,6 @@
 ---
 id: 11375
-title: « Inside Man », de Spike Lee : inquiétante ambiguïté
+title: « Inside Man », de Spike Lee – inquiétante ambiguïté
 rubrique: Cinéma
 annee: 2005
 magazine: n°10 avril 2006

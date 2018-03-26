@@ -1,6 +1,6 @@
 ---
 id: 4155
-title: Honoré de Balzac : la problématique de l’origine dans « La Vendetta »
+title: Honoré de Balzac – la problématique de l’origine dans « La Vendetta »
 rubrique: Nouvelles [2de]
 annee: 2000
 magazine: n°9 15 janvier 2001

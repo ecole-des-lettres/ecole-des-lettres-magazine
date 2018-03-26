@@ -1,6 +1,6 @@
 ---
 id: 1457
-title: Émile Zola : « L’Assommoir ». De la critique d’art au roman
+title: Émile Zola – « L’Assommoir ». De la critique d’art au roman
 rubrique: Roman [agrégation]
 annee: 1993
 magazine: n°9 15 mars 1994

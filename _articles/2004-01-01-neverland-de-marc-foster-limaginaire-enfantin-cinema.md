@@ -1,6 +1,6 @@
 ---
 id: 11234
-title: « Neverland », de Marc Foster : l’imaginaire enfantin
+title: « Neverland », de Marc Foster – l’imaginaire enfantin
 rubrique: Cinéma
 annee: 2004
 magazine: n°7 mars 2005

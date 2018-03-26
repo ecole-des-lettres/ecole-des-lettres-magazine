@@ -1,7 +1,7 @@
 ---
 id: 1359
-title: Voltaire : « Zadig ou la Destinée ». Étude d’extrait 
-rubrique: Étude de la langue : grammaire [4e-3e]
+title: Voltaire – « Zadig ou la Destinée ». Étude d’extrait 
+rubrique: Étude de la langue – grammaire [4e-3e]
 annee: 1993
 magazine: n°6 15 décembre 1993
 pages: 4

@@ -1,6 +1,6 @@
 ---
 id: 2949
-title: Walter Scott : « Quentin Durward ». Étude intégrale 
+title: Walter Scott – « Quentin Durward ». Étude intégrale 
 rubrique: Roman historique sur le Moyen Âge [5e]
 annee: 1997
 magazine: 1997

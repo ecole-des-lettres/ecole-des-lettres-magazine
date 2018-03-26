@@ -1,6 +1,6 @@
 ---
 id: 2487
-title: André Malraux : « L’Espoir ». Commentaire composé 
+title: André Malraux – « L’Espoir ». Commentaire composé 
 rubrique: Roman [1re]
 annee: 1996
 magazine: n°6 15 décembre 1996
@@ -13,7 +13,7 @@ description:
   – un regard distancié
   2. Le regard et les commentaires des journalistes
   – l’interprétation des gestes
-  – le désir d’interprétation des journalistes : énonciation fragmentaire d’une signification
+  – le désir d’interprétation des journalistes – énonciation fragmentaire d’une signification
   – un commentaire laconique
 article_pdf: 2487.pdf
 revue: L’école des lettres des lycées

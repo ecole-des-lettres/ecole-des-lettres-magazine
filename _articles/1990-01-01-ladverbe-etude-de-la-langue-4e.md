@@ -7,7 +7,7 @@ magazine: n°8 1er février 1991
 pages: 4
 description: 
   – Théorie
-  – Considérations pédagogiques : opposition adverbe / préposition, le problème orthographique des adverbes en « -ment », l’équivalence adverbe en « -ment » / nom annoncé par la préposition, transformation verbe + adverbe en nom + adjectif, adverbe de phrase / adverbe de mot
+  – Considérations pédagogiques – opposition adverbe / préposition, le problème orthographique des adverbes en « -ment », l’équivalence adverbe en « -ment » / nom annoncé par la préposition, transformation verbe + adverbe en nom + adjectif, adverbe de phrase / adverbe de mot
 article_pdf: 415.pdf
 revue: L’école des lettres des collèges
 auteurs:

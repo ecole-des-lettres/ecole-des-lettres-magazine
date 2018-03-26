@@ -1,6 +1,6 @@
 ---
 id: 11350
-title: « Une vie inachevée », de Lasse Hallström. : l’homme et la nature
+title: « Une vie inachevée », de Lasse Hallström. – l’homme et la nature
 rubrique: Cinéma
 annee: 2005
 magazine: n°8 février 2006

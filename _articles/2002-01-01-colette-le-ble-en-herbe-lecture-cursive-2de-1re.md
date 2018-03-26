@@ -1,6 +1,6 @@
 ---
 id: 11875
-title:  Colette : « Le Blé en herbe » 
+title:  Colette – « Le Blé en herbe » 
 rubrique: Lecture cursive [2de-1re]
 annee: 2002
 magazine: n°10 1er mars 2003

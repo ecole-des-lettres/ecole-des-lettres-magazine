@@ -1,6 +1,6 @@
 ---
 id: 11901
-title: Prosper Mérimée : « Carmen »  
+title: Prosper Mérimée – « Carmen »  
 rubrique: Lecture cursive [2de]
 annee: 2006
 magazine: 2007

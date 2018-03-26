@@ -1,6 +1,6 @@
 ---
 id: 847
-title: Chrétien de Troyes : « Yvain, le Chevalier au Lion » : édition Foerster ou
+title: Chrétien de Troyes – « Yvain, le Chevalier au Lion » – édition Foerster ou
   édition Roques ?
 rubrique: Littérature médiévale  [5e]
 annee: 1992
@@ -10,7 +10,7 @@ description: Un article sur la démarche qui préside à l’édition d’un tex
   et sur les deux éditions existantes d’« Yvain », celle de Mario Roques et celle
   de W. Foerster…
 article_pdf: 847.pdf
-magazine_special: Chrétien de Troyes : Yvain, le Chevalier au Lion
+magazine_special: Chrétien de Troyes – Yvain, le Chevalier au Lion
 revue: L’école des lettres des collèges
 auteurs:
 - Jean-Pierre Tusseau

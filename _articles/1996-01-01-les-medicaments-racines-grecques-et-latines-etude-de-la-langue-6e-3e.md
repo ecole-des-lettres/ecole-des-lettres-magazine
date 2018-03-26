@@ -10,7 +10,7 @@ description: Dès la sixième, une initiation aux langues anciennes peut être p
   prendre en option l’année suivante, et au grec proposé en troisième. Mais cette
   recherche peut également être proposée en cinquième ou quatrième. Il s’agit de montrer
   combien ces langues « mortes » sont présentes dans notre monde. Ainsi, dans le domaine
-  de la médecine : les parties du corps, les médicaments portent des noms bien souvent
+  de la médecine – les parties du corps, les médicaments portent des noms bien souvent
   formés sur des racines grecques ou latines. La connaissance de ces radicaux permet
   de mieux comprendre certains mots « savants » de notre langue, et de les écrire
   sans faute…

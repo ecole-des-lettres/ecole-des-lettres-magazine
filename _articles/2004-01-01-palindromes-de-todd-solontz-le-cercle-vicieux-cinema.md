@@ -1,6 +1,6 @@
 ---
 id: 11237
-title: « Palindromes », de Todd Solontz : le cercle vicieux
+title: « Palindromes », de Todd Solontz – le cercle vicieux
 rubrique: Cinéma
 annee: 2004
 magazine: n°7 mars 2005

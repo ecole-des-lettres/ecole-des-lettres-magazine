@@ -1,6 +1,6 @@
 ---
 id: 11515
-title:  La poésie et l’école : il y a une vie avant l’explication de texte
+title:  La poésie et l’école – il y a une vie avant l’explication de texte
 rubrique: Poésie [6e-3e]
 annee: 2006
 magazine: n°8 juin 2007

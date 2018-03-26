@@ -1,6 +1,6 @@
 ---
 id: 11611
-title: Héros, d’Achille à Zidane : une exposition de la BNF en ligne
+title: Héros, d’Achille à Zidane – une exposition de la BNF en ligne
 rubrique: Histoire des arts
 annee: 2007
 magazine: n°3-4 2007-2008

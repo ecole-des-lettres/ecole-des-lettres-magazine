@@ -16,7 +16,7 @@ description:
   – une leçon de sciences naturelles au CDI
   L’article est suivi d’une bibliographie. En annexe, des fiches d’évaluation d’un compte rendu de lecture d’articles de biologie dans une revue scientifique et des présentations écrites et orales des travaux de groupes…
 article_pdf: 1926.pdf
-magazine_special: CDI : quel CDI voulez-vous ?
+magazine_special: CDI – quel CDI voulez-vous ?
 revue: L’école des lettres des collèges
 auteurs:
 - Marguerite-Marie Blanchart

@@ -1,13 +1,13 @@
 ---
 id: 2573
-title: Nicolas Gilbert : diatribe au sujet des prix académiques. Étude d’un texte
+title: Nicolas Gilbert – diatribe au sujet des prix académiques. Étude d’un texte
   argumentatif 
 rubrique:  Argumentation [1re]
 annee: 1996
 magazine: n°9 15 février 1997
 pages: 7
 description: Le texte que l’on va lire expose l’une des raisons pour lesquelles la
-  poésie du XVIIIe siècle a succombé à l’épreuve du temps : son académisme, ajouté
+  poésie du XVIIIe siècle a succombé à l’épreuve du temps – son académisme, ajouté
   à son idéologie au rebours des idées philosophiques, la tournait vers le passé,
   un passé tout auréolé encore de la splendeur du siècle de Louis XIV. Nicolas Gilbert
   (1750-1780) fut de ceux qui déplorèrent à la fois ce manque de renouvellement et

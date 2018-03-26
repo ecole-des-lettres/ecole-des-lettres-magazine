@@ -1,6 +1,6 @@
 ---
 id: 2115
-title: Éric Rohmer : « Perceval le Gallois » 
+title: Éric Rohmer – « Perceval le Gallois » 
 rubrique: Grands modèles littéraires et images [Tle]
 annee: 1995
 magazine: n°6 15 janvier 1996
@@ -15,7 +15,7 @@ description:
   3. Une vision personnelle
   4. La quête de Dieu
 article_pdf: 2115.pdf
-magazine_special: Chrétien de Troyes : Le Conte du Graal
+magazine_special: Chrétien de Troyes – Le Conte du Graal
 revue: L’école des lettres des lycées
 auteurs:
 - Béatrice Graillat

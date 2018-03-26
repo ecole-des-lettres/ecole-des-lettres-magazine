@@ -1,7 +1,7 @@
 ---
 id: 3272
-title: Fritz Lang : « Metropolis » 
-rubrique: Étude de l’image : cinéma [5e]
+title: Fritz Lang – « Metropolis » 
+rubrique: Étude de l’image – cinéma [5e]
 annee: 1998
 magazine: n°5 15 octobre 1998
 pages: 7

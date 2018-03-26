@@ -13,7 +13,7 @@ description:
   – agrogastronomie et tourisme
   2. La dynamique des métropoles
   – une croissance spectaculaire
-  – technopôles et universités : les éléments d’une modernisation ?
+  – technopôles et universités – les éléments d’une modernisation ?
   3. Quelles ouvertures pour le Sud-Ouest ?
   – les relations avec l’Espagne
   – les espoirs de l’intégration européenne

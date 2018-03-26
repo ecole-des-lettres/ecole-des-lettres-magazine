@@ -1,6 +1,6 @@
 ---
 id: 11798
-title: Vie du langage : leçon de mots… techniques 
+title: Vie du langage – leçon de mots… techniques 
 rubrique: Étude de la langue [3e]
 annee: 2006
 magazine: n°1 2007-2008

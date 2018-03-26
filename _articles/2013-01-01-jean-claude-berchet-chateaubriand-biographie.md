@@ -1,6 +1,6 @@
 ---
 id: 12340
-title: Jean-Claude Berchet : « Chateaubriand »
+title: Jean-Claude Berchet – « Chateaubriand »
 rubrique: Biographie
 annee: 2013
 magazine: janvier 2013

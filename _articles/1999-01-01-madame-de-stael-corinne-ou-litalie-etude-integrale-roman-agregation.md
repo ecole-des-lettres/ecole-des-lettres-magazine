@@ -1,6 +1,6 @@
 ---
 id: 3775
-title: Madame de Staël : « Corinne ou l’Italie ». Étude intégrale
+title: Madame de Staël – « Corinne ou l’Italie ». Étude intégrale
 rubrique: Roman [agrégation]
 annee: 1999
 magazine: 2000

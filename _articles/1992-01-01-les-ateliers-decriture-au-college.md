@@ -21,7 +21,7 @@ description:
   13. Le « Printemps de l’écriture » (concours)
   14.  D’« Une œuvre, un visage » à « l’Ami littéraire »
   15. Les concours littéraires pour les jeunes
-  Ont participé à ce numéro :
+  Ont participé à ce numéro – 
   Robert Boudet, Nadine Brun-Cosme, Norbert Czarny, Emmanuelle Dagnaud, Danielle Dubois Marcoin, Sylvie Ducas-Spaës, Jacqueline Ernst, Catherine Fauchet, Dominique Galaup-Pertusa, Philippe Labaune, Nicole Lemener, Yves Lucas, Marie-Aude Murail, Claire Roux et Marie-Odette Schmitt-Ardizio
 article_pdf: 5035.pdf
 magazine_special: Ateliers d’écriture

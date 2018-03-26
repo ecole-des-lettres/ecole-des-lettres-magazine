@@ -1,6 +1,6 @@
 ---
 id: 12422
-title: Gilles Kepel : « Quatre-vingt-treize »
+title: Gilles Kepel – « Quatre-vingt-treize »
 rubrique: Société
 annee: 2012
 magazine: mars 2012

@@ -6,7 +6,7 @@ annee: 2000
 magazine: n°5 15 octobre 2000
 pages: 6
 description: 
-  Présentation de trois ouvrages de littérature jeunesse permettant de travailler l’expression orale :
+  Présentation de trois ouvrages de littérature jeunesse permettant de travailler l’expression orale – 
   – « Pour l’amour d’un cheval », d’Alim Hekmat
   – « La Longue Marche des dindes »,  de Kathleen Karr
   – « Fils de guerre », de Xavier-Laurent Petit

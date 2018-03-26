@@ -1,7 +1,7 @@
 ---
 id: 362
 title: « Que dites-vous, monsieur le Baragouin ? » [4e-3e] 
-rubrique: Étude de la langue : lexique
+rubrique: Étude de la langue – lexique
 annee: 1990
 magazine: n°6 15 décembre 1990
 pages: 2

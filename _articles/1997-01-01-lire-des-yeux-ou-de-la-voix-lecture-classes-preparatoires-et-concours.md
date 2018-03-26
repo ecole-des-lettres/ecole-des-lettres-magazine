@@ -8,7 +8,7 @@ pages: 6
 description: Peut-on ne lire que des yeux, sans passer par la voix et ce que Flaubert
   appelait l’épreuve du « gueuloir » ?
 article_pdf: 2785.pdf
-magazine_special: Lecture : le génie du lecteur, colloque de Cerisy
+magazine_special: Lecture – le génie du lecteur, colloque de Cerisy
 revue: L’école des lettres des lycées
 auteurs:
 - Maurice De Gandillac

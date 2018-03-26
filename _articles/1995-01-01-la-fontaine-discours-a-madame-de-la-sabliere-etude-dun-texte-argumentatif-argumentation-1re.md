@@ -1,6 +1,6 @@
 ---
 id: 2157
-title: « La Fontaine : « Discours à Madame de La Sablière ». Étude d’un texte argumentatif 
+title: « La Fontaine – « Discours à Madame de La Sablière ». Étude d’un texte argumentatif 
 rubrique: Argumentation [1re]
 annee: 1995
 magazine: n°8 15 mars 1996

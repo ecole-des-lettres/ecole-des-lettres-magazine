@@ -1,6 +1,6 @@
 ---
 id: 11242
-title: « Disparitions » : le fascisme ordinaire
+title: « Disparitions » – le fascisme ordinaire
 rubrique: Cinéma
 annee: 2004
 magazine: n°8 avril 2005

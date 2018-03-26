@@ -1,6 +1,6 @@
 ---
 id: 5296
-title: « The Mother », de Roger Michell : la jeunesse du cœur
+title: « The Mother », de Roger Michell – la jeunesse du cœur
 rubrique: Cinéma
 annee: 2003
 magazine: n°9 15 mars 2004

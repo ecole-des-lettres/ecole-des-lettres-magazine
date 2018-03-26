@@ -1,6 +1,6 @@
 ---
 id: 1992
-title: Michel Honaker : « Croisière en meurtre majeur ». Lecture cursive 
+title: Michel Honaker – « Croisière en meurtre majeur ». Lecture cursive 
 rubrique: Littérature de jeunesse et roman policier [4e]
 annee: 1995
 magazine: n°2 1er octobre 1995

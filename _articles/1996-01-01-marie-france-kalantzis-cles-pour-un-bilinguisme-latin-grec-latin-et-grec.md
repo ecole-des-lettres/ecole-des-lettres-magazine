@@ -1,6 +1,6 @@
 ---
 id: 2515
-title: Marie-France Kalantzis : « Clés pour un bilinguisme latin-grec »
+title: Marie-France Kalantzis – « Clés pour un bilinguisme latin-grec »
 rubrique: Latin et grec
 annee: 1996
 magazine: n°7 15 janvier 1997

@@ -10,8 +10,8 @@ description: Après la lecture accompagnée de « La Farce de Pathelin » et d
   avaient préférée en donnant des arguments théâtraux. Le choix de « La Farce de Pathelin »
   ayant été arrêté, la classe a listé au tableau les éléments qui assurent le succès
   d’une pièce de théâtre. Les élèves de cinquième ont été plus inspirés par la question
-  suivante : « Pourquoi rions-nous toujours à la lecture de la pièce ? » Deux critères
-  ont émergé : la nature des personnages et les thèmes abordés dans la pièce, la ruse
+  suivante – « Pourquoi rions-nous toujours à la lecture de la pièce ? » Deux critères
+  ont émergé – la nature des personnages et les thèmes abordés dans la pièce, la ruse
   et l’argent.
 article_pdf: 11506.pdf
 revue: L’école des lettres des collèges

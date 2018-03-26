@@ -1,6 +1,6 @@
 ---
 id: 12178
-title: Toni et Slade Morrison, et Pascal Lemaître : série « À ton avis... », « La
+title: Toni et Slade Morrison, et Pascal Lemaître – série « À ton avis... », « La
   cigale ou la fourmi ? » 
 rubrique: Bande dessinée [6e]
 annee: 2012

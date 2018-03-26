@@ -1,6 +1,6 @@
 ---
 id: 5288
-title: Jean Racine : « Britannicus ». Étude intégrale
+title: Jean Racine – « Britannicus ». Étude intégrale
 rubrique: Théâtre [2de-1re]
 annee: 2003
 magazine: n°9 15 mars 2004

@@ -13,7 +13,7 @@ description:
   – le choix d’une certaine relation avec le spectateur
   – une attirance évidente pour les tragiques grecs
   – établir un lien avec « Antigone »
-  2. Le personnage de Jocaste : un rôle accru par rapport à l’Antiquité
+  2. Le personnage de Jocaste – un rôle accru par rapport à l’Antiquité
   – Jocaste et la religion
   – Jocaste et l’amour
   – Jocaste et la conception de la vie

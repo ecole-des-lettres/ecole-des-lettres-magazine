@@ -1,6 +1,6 @@
 ---
 id: 11784
-title: Molière : « Tartuffe » à la Comédie-Française
+title: Molière – « Tartuffe » à la Comédie-Française
 rubrique: Théâtre
 annee: 2006
 magazine: 2007

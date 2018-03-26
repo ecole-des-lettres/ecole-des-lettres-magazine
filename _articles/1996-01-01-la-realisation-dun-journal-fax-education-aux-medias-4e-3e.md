@@ -1,6 +1,6 @@
 ---
 id: 2544
-title: La réalisation d’un journal : « Fax ! »
+title: La réalisation d’un journal – « Fax ! »
 rubrique: Éducation aux médias [4e-3e]
 annee: 1996
 magazine: n°8 15 février 1997

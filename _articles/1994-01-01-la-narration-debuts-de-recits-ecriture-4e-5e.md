@@ -1,6 +1,6 @@
 ---
 id: 1834
-title: La narration : débuts de récits
+title: La narration – débuts de récits
 rubrique: Écriture [4e-5e]
 annee: 1994
 magazine: n°9 15 mars 1995
@@ -13,13 +13,13 @@ description:
   – réinvestissement (à partir d’extraits de textes donnés en fin d’article)
   2. L’alternance imparfait / plus-que-parfait
   – les données temporelles
-  – grammaire : la valeur du plus-que-parfait
+  – grammaire – la valeur du plus-que-parfait
   – réinvestissement (à partir d’extraits de textes donnés en fin d’article)
   3. La tonalité émotionnelle du portrait
   – une série d’instantanés
   – le parti pris du narrateur
   – réinvestissement (à partir d’extraits de textes donnés en fin d’article)
-  – grammaire : les adverbes de temps
+  – grammaire – les adverbes de temps
   – bilan final
   L’article est suivi d’extraits de texte (notamment tirés de « Teddy, histoire d’un ours », de Iouri Kazakov) assortis d’exercices et de questions
 article_pdf: 1834.pdf

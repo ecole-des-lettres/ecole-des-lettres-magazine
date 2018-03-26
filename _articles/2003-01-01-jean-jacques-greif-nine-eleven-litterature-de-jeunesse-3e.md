@@ -1,6 +1,6 @@
 ---
 id: 5194
-title: Jean-Jacques Greif : « Nine Eleven »
+title: Jean-Jacques Greif – « Nine Eleven »
 rubrique: Littérature de jeunesse [3e]
 annee: 2003
 magazine: n°1 juillet-septembre 2003

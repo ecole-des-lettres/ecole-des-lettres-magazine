@@ -1,6 +1,6 @@
 ---
 id: 2202
-title: Christian Poslaniec : « D’étranges visiteurs ». Étude intégrale 
+title: Christian Poslaniec – « D’étranges visiteurs ». Étude intégrale 
 rubrique: Nouvelles de science-fiction [4e]
 annee: 1996
 magazine: 1996

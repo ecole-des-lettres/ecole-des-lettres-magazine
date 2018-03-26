@@ -1,6 +1,6 @@
 ---
 id: 2191
-title: Claude Crébillon : Quelle « ressource » pour Crébillon ? 
+title: Claude Crébillon – Quelle « ressource » pour Crébillon ? 
 rubrique: Roman [1re]
 annee: 1995
 magazine: n°9 1er avril 1996

@@ -1,6 +1,6 @@
 ---
 id: 3305
-title: Jean-Jacques Rousseau : « Confessions ». Dissertation
+title: Jean-Jacques Rousseau – « Confessions ». Dissertation
 rubrique: Autobiographie [1re]
 annee: 1998
 magazine: n°6 1er novembre 1998

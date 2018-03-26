@@ -1,6 +1,6 @@
 ---
 id: 3077
-title: Jean Burgos, Claude Debon et Michel Décaudin : « Apollinaire, en somme »
+title: Jean Burgos, Claude Debon et Michel Décaudin – « Apollinaire, en somme »
 rubrique: Poésie
 annee: 1998
 magazine: n°11 1er mars 1999

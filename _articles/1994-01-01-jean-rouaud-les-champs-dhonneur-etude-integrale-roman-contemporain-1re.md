@@ -1,6 +1,6 @@
 ---
 id: 1617
-title: Jean Rouaud : « Les Champs d’honneur ». Étude intégrale
+title: Jean Rouaud – « Les Champs d’honneur ». Étude intégrale
 rubrique: Roman contemporain [1re]
 annee: 1994
 magazine: n°14 1er juillet 1995

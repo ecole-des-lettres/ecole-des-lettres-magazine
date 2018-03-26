@@ -1,6 +1,6 @@
 ---
 id: 4939
-title: Cinéma et histoire : Frederick Wiseman : « La Dernière Lettre »
+title: Cinéma et histoire – Frederick Wiseman – « La Dernière Lettre »
 rubrique: Guerres, démocraties et totalitarismes (1914-1945)
 annee: 2002
 magazine: n°8 1er janvier 2003

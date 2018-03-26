@@ -1,6 +1,6 @@
 ---
 id: 11371
-title: Imre Kertész : « Être sans destin »
+title: Imre Kertész – « Être sans destin »
 rubrique: Cinéma
 annee: 2005
 magazine: n°10 avril 2006

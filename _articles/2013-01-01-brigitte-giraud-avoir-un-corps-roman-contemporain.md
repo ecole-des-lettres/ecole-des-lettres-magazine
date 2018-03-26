@@ -1,6 +1,6 @@
 ---
 id: 12215
-title: Brigitte Giraud : « Avoir un corps »
+title: Brigitte Giraud – « Avoir un corps »
 rubrique: Roman contemporain
 annee: 2013
 magazine: novembre 2013

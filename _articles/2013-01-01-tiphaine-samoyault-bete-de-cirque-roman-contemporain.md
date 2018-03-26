@@ -1,6 +1,6 @@
 ---
 id: 12314
-title: Tiphaine Samoyault : « Bête de cirque »
+title: Tiphaine Samoyault – « Bête de cirque »
 rubrique: Roman contemporain
 annee: 2013
 magazine: mars 2013

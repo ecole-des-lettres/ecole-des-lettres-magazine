@@ -1,6 +1,6 @@
 ---
 id: 11256
-title: « Schizo »de Guka Omarova : pas si simple d’esprit !
+title: « Schizo »de Guka Omarova – pas si simple d’esprit !
 rubrique: Cinéma
 annee: 2004
 magazine: n°9 mai 2005

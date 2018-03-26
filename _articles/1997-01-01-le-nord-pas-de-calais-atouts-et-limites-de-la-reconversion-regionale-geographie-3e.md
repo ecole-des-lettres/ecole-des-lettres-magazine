@@ -1,6 +1,6 @@
 ---
 id: 2627
-title: Le Nord-Pas-de-Calais : atouts et limites de la reconversion régionale 
+title: Le Nord-Pas-de-Calais – atouts et limites de la reconversion régionale 
 rubrique: Géographie [3e]
 annee: 1997
 magazine: n°10 15 février 1998

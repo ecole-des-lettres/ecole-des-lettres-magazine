@@ -1,6 +1,6 @@
 ---
 id: 12419
-title: Anne-Marie Baron : « Balzac à vingt ans »
+title: Anne-Marie Baron – « Balzac à vingt ans »
 rubrique: Biographie
 annee: 2012
 magazine: mars 2012

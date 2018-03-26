@@ -11,7 +11,7 @@ description: Le théâtre est d’abord un spectacle et un genre oral, la presta
   le théâtre est aussi une représentation, autrement dit un moyen esthétique d’offrir
   au spectateur l’illusion que les corps, les décors, les voix et les gestes sont
   autre chose que ce qu’il voit directement et que cet ensemble est le simulacre d’une
-  autre « réalité » : il ne s’agit pas, selon Aristote, de mimer la réalité pour l’imiter
+  autre « réalité » – il ne s’agit pas, selon Aristote, de mimer la réalité pour l’imiter
   exactement, mais de fournir une mimésis, d’installer un rapport, réfléchi et médiatisé
   par l’œuvre d’art, avec le monde. Enfin, le théâtre est souvent un texte produit
   par un ou plusieurs auteurs, destiné à être représenté, mais également à être lu…

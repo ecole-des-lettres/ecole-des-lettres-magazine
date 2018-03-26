@@ -7,7 +7,7 @@ magazine: n°12 15 mai 1995
 pages: 19
 description: 
   Groupement de textes autour du personnage de Marc Antoine…
-  4. Virgile : la bataille d’Actium
+  4. Virgile – la bataille d’Actium
   – texte extrait du chant 8 de l’« Énéide »
   – extraits des « Épodes » d’Horace et du récit de Florus sur la bataille (éléments de commentaire)
   5. La mort d’Antoine et de Cléopâtre
@@ -32,7 +32,7 @@ ecrivains:
 - Horace
 - Florus
 programmes:
-- latin - le monde romain : mare nostrum
+- latin - le monde romain – mare nostrum
 siecles:
 - Antiquité
 - 16e siècle

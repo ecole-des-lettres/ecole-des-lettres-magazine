@@ -1,6 +1,6 @@
 ---
 id: 2349
-title: Paul Claudel : « L’Échange »
+title: Paul Claudel – « L’Échange »
 rubrique: Théâtre
 annee: 1996
 magazine: n°14 15 mai 1997

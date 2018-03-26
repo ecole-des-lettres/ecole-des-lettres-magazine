@@ -1,6 +1,6 @@
 ---
 id: 11165
-title: 2004 : l’année Depardon. « La Corse », « Paroles prisonnières » et « Jeux
+title: 2004 – l’année Depardon. « La Corse », « Paroles prisonnières » et « Jeux
   Olympiques ».
 rubrique: Cinéma
 annee: 2004

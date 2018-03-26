@@ -1,6 +1,6 @@
 ---
 id: 3773
-title: Saint-John Perse : « Neiges ». Commentaire composé
+title: Saint-John Perse – « Neiges ». Commentaire composé
 rubrique: Poésie [1re]
 annee: 1999
 magazine: n°9 15 janvier 2000

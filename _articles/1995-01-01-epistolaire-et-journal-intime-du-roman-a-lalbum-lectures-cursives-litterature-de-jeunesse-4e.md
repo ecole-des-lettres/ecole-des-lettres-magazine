@@ -1,6 +1,6 @@
 ---
 id: 2009
-title: Épistolaire et journal intime : du roman à l’album. Lectures cursives 
+title: Épistolaire et journal intime – du roman à l’album. Lectures cursives 
 rubrique: Littérature de jeunesse [4e]
 annee: 1995
 magazine: n°3 15 octobre 1995

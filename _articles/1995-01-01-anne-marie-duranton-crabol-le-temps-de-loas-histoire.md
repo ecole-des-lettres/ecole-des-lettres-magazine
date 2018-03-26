@@ -1,6 +1,6 @@
 ---
 id: 2195
-title: Anne-Marie Duranton-Crabol : « Le Temps de l’OAS »
+title: Anne-Marie Duranton-Crabol – « Le Temps de l’OAS »
 rubrique: Histoire
 annee: 1995
 magazine: n°9 1er avril 1996

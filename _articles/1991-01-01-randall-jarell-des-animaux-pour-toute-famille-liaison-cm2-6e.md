@@ -1,6 +1,6 @@
 ---
 id: 680
-title: Randall Jarell : « Des animaux pour toute famille »
+title: Randall Jarell – « Des animaux pour toute famille »
 rubrique: Liaison CM2-6e
 annee: 1991
 magazine: n°6 1er janvier 1992

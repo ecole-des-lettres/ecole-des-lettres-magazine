@@ -1,6 +1,6 @@
 ---
 id: 12659
-title: Prix Albert Londres 2014 : les héritiers du grand reporter se sont réunis
+title: Prix Albert Londres 2014 – les héritiers du grand reporter se sont réunis
   à Bordeaux le 12 mai
 rubrique: Médias
 annee: 2014

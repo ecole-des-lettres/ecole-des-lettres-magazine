@@ -15,7 +15,7 @@ description: Les programmes de français encouragent la lecture cursive, le plai
   lecture, comment vérifier que les élèves ont lu et, surtout, qu’ils ont compris
   ce qu’ils ont lu, et ce qu’ils ont compris ? Il faut imaginer d’autres formes de
   restitution de lecture que la fiche traditionnelle. Voici un premier exemple d’activité
-  qui joue un authentique rôle d’échange : faire réaliser par les élèves la bande
+  qui joue un authentique rôle d’échange – faire réaliser par les élèves la bande
   annonce d’un livre.
 article_pdf: 3209.pdf
 revue: L’école des lettres des collèges

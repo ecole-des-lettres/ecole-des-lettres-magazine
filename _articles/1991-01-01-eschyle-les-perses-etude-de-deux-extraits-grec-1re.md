@@ -1,6 +1,6 @@
 ---
 id: 616
-title: Eschyle : « Les Perses ». Étude de deux extraits 
+title: Eschyle – « Les Perses ». Étude de deux extraits 
 rubrique: Grec [1re]
 annee: 1991
 magazine: n°4 1er novembre 1991

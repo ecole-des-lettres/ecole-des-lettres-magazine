@@ -6,7 +6,7 @@ annee: 2014
 magazine: 
 pages: 4
 description: 
-  René Daumal a  creusé sa vie comme on creuse un sillon, cherchant avant tout à être. André Dhôtel établit ce qui, selon lui, unit la démarche de Daumal à celle de Rimbaud : « …comme lui [Rimbaud], il a acquis une conviction inébranlable : la véritable voie spirituelle est un secret à retrouver, c’est-à-dire un élan originel vers ce qui est autre, vers l’inconnu qui nous échappe et seul peut nous redonner
+  René Daumal a  creusé sa vie comme on creuse un sillon, cherchant avant tout à être. André Dhôtel établit ce qui, selon lui, unit la démarche de Daumal à celle de Rimbaud – « …comme lui [Rimbaud], il a acquis une conviction inébranlable – la véritable voie spirituelle est un secret à retrouver, c’est-à-dire un élan originel vers ce qui est autre, vers l’inconnu qui nous échappe et seul peut nous redonner
   la lumière et le salut »…
 article_pdf: 12654.pdf
 revue: L’école des lettres des lycées

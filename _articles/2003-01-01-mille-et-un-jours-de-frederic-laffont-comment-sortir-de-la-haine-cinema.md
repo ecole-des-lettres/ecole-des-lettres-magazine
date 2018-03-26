@@ -1,6 +1,6 @@
 ---
 id: 5267
-title: « Mille et Un Jours », de Frédéric Laffont : comment sortir de la haine
+title: « Mille et Un Jours », de Frédéric Laffont – comment sortir de la haine
 rubrique: Cinéma
 annee: 2003
 magazine: n°7 1er janvier 2004

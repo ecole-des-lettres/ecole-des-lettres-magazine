@@ -10,7 +10,7 @@ description:
   1. Les faits divers dans l’histoire romaine
   – qu’est-ce qu’un fait divers ?
   – où trouver les faits divers ?
-  – étude de « faits divers » romains : les prodiges ; les émeutes d’esclaves ; les forfaits des brigands
+  – étude de « faits divers » romains – les prodiges ; les émeutes d’esclaves ; les forfaits des brigands
   – exercices d’écriture journalistique
   – rédaction de titres à la une
   – réalisation d’un « journal romain »

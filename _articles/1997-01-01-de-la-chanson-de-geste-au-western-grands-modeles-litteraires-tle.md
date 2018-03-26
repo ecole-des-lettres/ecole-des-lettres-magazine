@@ -8,7 +8,7 @@ pages: 14
 description: Le rapprochement entre une chanson de geste et un western peut à première
   vue paraître iconoclaste ! Et pourtant, en rapprochant ces deux personnages, on
   s’aperçoit qu’à l’évidence ils incarnent une palette de valeurs extrêmement similaires
-  : le mythe des origines, d’abord, puisqu’il s’agit de fonder dans l’imaginaire et
+  – le mythe des origines, d’abord, puisqu’il s’agit de fonder dans l’imaginaire et
   dans l’Histoire un droit au territoire et à l’homogénéité ; une politique du héros
   ensuite, dans lequel la société peut s’admirer, se donner bonne conscience, reconnaître
   les valeurs qu’elle a elle-même posées comme base de son existence, et se rassurer

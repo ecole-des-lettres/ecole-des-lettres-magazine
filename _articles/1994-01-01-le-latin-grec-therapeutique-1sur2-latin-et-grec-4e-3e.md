@@ -15,8 +15,8 @@ description:
   3. Les préfixes
   – forme originelle
   – modifications
-  4. Étude de fables : « Le Corbeau et le Renard », version latine de Phèdre, version grecque d’Ésope, version française de La Fontaine
-  L’article est suivi de deux documents : les nombres dans les langues indo-européennes ; les préfixes latins et grecs.
+  4. Étude de fables – « Le Corbeau et le Renard », version latine de Phèdre, version grecque d’Ésope, version française de La Fontaine
+  L’article est suivi de deux documents – les nombres dans les langues indo-européennes ; les préfixes latins et grecs.
 article_pdf: 1657.pdf
 revue: L’école des lettres des collèges
 auteurs:

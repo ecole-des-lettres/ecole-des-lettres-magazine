@@ -1,6 +1,6 @@
 ---
 id: 583
-title: François Mauriac : « Le Sagouin ». Points de vue et modalités du discours
+title: François Mauriac – « Le Sagouin ». Points de vue et modalités du discours
 rubrique: Roman et personnages [4e]
 annee: 1991
 magazine: n°2 1er octobre 1991

@@ -1,6 +1,6 @@
 ---
 id: 11373
-title: « April Snow », de Hur Jin-Ho : le travail du deuil
+title: « April Snow », de Hur Jin-Ho – le travail du deuil
 rubrique: Cinéma
 annee: 2005
 magazine: n°10 avril 2006

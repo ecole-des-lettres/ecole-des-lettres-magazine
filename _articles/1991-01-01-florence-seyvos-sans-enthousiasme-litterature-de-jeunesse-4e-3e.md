@@ -1,6 +1,6 @@
 ---
 id: 513
-title: Florence Seyvos : « Sans enthousiasme » 
+title: Florence Seyvos – « Sans enthousiasme » 
 rubrique: Littérature de jeunesse [4e-3e]
 annee: 1991
 magazine: n°11 1er mai 1992

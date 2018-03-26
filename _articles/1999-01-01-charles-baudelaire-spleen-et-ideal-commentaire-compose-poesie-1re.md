@@ -1,6 +1,6 @@
 ---
 id: 3685
-title: Charles Baudelaire : « Spleen et Idéal ». Commentaire composé 
+title: Charles Baudelaire – « Spleen et Idéal ». Commentaire composé 
 rubrique: Poésie [1re]
 annee: 1999
 magazine: n°6 15 novembre 1999

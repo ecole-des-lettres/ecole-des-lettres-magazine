@@ -16,8 +16,8 @@ description:
   8. « Le Malade imaginaire » (1673). La dérision de la mort
   9. Entretien avec Claude Stratz
   10. Du comique à l’économique. Fictions et fonctions de l’argent dans le théâtre de Molière
-  11. Molière de la scène à l’écran : vidéographie
-  Ont participé à ce numéro :
+  11. Molière de la scène à l’écran – vidéographie
+  Ont participé à ce numéro – 
   Alain Beretta, Gabriel Conesa, Pascale Montupet et Martial Poirson
 article_pdf: 5089.pdf
 magazine_special: Molière mis en scène

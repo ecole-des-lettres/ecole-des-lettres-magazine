@@ -1,6 +1,6 @@
 ---
 id: 5091
-title: « Français : cent points de vue de lecteurs sur la réforme de 1999-2000 »
+title: « Français – cent points de vue de lecteurs sur la réforme de 1999-2000 »
 rubrique: Mise en œuvre des programmes de lycée
 annee: 1999
 magazine: n°11 (spécial) 15 mars 2000
@@ -11,7 +11,7 @@ description:
   2. Les points critiquables des anciens programmes
   2 bis. Les aspects satisfaisants des anciens programmes
   3. Le contenu de la future épreuve anticipée de français
-  4. Les dispositions de la réforme : les plus innovantes ; lucides ; obscures ; originales ; « rétrogrades »
+  4. Les dispositions de la réforme – les plus innovantes ; lucides ; obscures ; originales ; « rétrogrades »
   5. La nouvelle approche de l’histoire littéraire
   6. La prise en compte de la genèse de l’œuvre
   7. La disparition d’un programme d’œuvres obligatoires
@@ -25,7 +25,7 @@ description:
   15. « L’École des lettres » et les enseignants de français
   Yves Stalloni
 article_pdf: 5091.pdf
-magazine_special: Français : cent points de vue de lecteurs sur la réforme de 1999
+magazine_special: Français – cent points de vue de lecteurs sur la réforme de 1999
   / 2000
 revue: L’école des lettres des lycées
 disciplines:

@@ -1,13 +1,13 @@
 ---
 id: 4705
-title: Sylvie Bages : « Les Fils du diable ». Lecture cursive
+title: Sylvie Bages – « Les Fils du diable ». Lecture cursive
 rubrique: Littérature de jeunesse et argumentation [5e-4e]
 annee: 2002
 magazine: n°4 1er octobre 2002
 pages: 8
-description: Ce roman convient à deux niveaux : cinquième et quatrième. Il se prête
+description: Ce roman convient à deux niveaux – cinquième et quatrième. Il se prête
   en effet à plusieurs lectures selon les élèves. C’est pourquoi cet article propose
-  des pistes pour ces deux classes : les travaux de cinquième s’orientent plus vers
+  des pistes pour ces deux classes – les travaux de cinquième s’orientent plus vers
   le dialogue, tandis que ceux de quatrième amorcent déjà une réflexion débouchant
   sur l’argumentation. Ce texte ne se rattache pas véritablement à un objet d’étude
   ou à une séquence en particulier. Il sera proposé pour son sujet, pour la qualité

@@ -1,6 +1,6 @@
 ---
 id: 1452
-title: Théophile Gautier : « Le Capitaine Fracasse ». Étude intégrale, séquence
+title: Théophile Gautier – « Le Capitaine Fracasse ». Étude intégrale, séquence
 rubrique: Récits du XIXe siècle [4e]
 annee: 1993
 magazine: n°9 15 mars 1994

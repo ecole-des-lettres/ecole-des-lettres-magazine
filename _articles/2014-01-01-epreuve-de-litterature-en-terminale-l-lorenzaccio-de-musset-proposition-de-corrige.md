@@ -1,6 +1,6 @@
 ---
 id: 12683
-title: Épreuve de littérature en terminale L : « Lorenzaccio », de Musset. Proposition
+title: Épreuve de littérature en terminale L – « Lorenzaccio », de Musset. Proposition
   de corrigé
 rubrique: 
 annee: 2014

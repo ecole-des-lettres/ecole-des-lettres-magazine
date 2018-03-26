@@ -1,6 +1,6 @@
 ---
 id: 328
-title: Au carrefour du demi-siècle : l’esprit « NRF », 1909-1940
+title: Au carrefour du demi-siècle – l’esprit « NRF », 1909-1940
 rubrique: Écrire, publier, lire
 annee: 1990
 magazine: n°5 15 novembre 1990

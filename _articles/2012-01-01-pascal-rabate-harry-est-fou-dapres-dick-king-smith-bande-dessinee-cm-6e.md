@@ -1,6 +1,6 @@
 ---
 id: 12168
-title: Pascal Rabaté : «Harry est fou », d’après Dick King-Smith 
+title: Pascal Rabaté – «Harry est fou », d’après Dick King-Smith 
 rubrique: Bande dessinée [CM-6e]
 annee: 2012
 magazine: n°3 2012-2013

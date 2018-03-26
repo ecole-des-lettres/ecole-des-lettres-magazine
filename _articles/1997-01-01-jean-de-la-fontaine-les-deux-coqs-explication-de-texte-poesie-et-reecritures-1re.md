@@ -1,6 +1,6 @@
 ---
 id: 2917
-title: Jean de La Fontaine : « Les Deux Coqs ». Explication de texte 
+title: Jean de La Fontaine – « Les Deux Coqs ». Explication de texte 
 rubrique: Poésie et réécritures [1re]
 annee: 1997
 magazine: n°6 15 novembre 1997

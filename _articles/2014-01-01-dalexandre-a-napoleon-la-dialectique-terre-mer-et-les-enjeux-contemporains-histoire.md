@@ -1,6 +1,6 @@
 ---
 id: 12814
-title: D’Alexandre à Napoléon : la dialectique terre-mer et les enjeux contemporains
+title: D’Alexandre à Napoléon – la dialectique terre-mer et les enjeux contemporains
 rubrique:  Histoire
 annee: 2014
 magazine: juin 2015

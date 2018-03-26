@@ -1,6 +1,6 @@
 ---
 id: 11416
-title: Marie-Aude Murail : « Charles Dickens » (séquence)
+title: Marie-Aude Murail – « Charles Dickens » (séquence)
 rubrique: Étudier une biographie [4e]
 annee: 2005
 magazine: n°3 1er octobre 2005

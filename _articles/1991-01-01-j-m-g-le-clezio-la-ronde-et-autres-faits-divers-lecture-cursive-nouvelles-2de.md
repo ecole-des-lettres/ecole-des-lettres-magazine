@@ -1,6 +1,6 @@
 ---
 id: 659
-title: J. M. G. Le Clézio : « La Ronde et autres faits divers ». Lecture cursive 
+title: J. M. G. Le Clézio – « La Ronde et autres faits divers ». Lecture cursive 
 rubrique: Nouvelles [2de]
 annee: 1991
 magazine: n°6 1er janvier 1992

@@ -1,6 +1,6 @@
 ---
 id: 1815
-title: William Shakespeare : « Hamlet ». Dissertation 
+title: William Shakespeare – « Hamlet ». Dissertation 
 rubrique: Théâtre et grands modèles littéraires [Tle]
 annee: 1994
 magazine: n°8 1er mars 1995

@@ -1,6 +1,6 @@
 ---
 id: 3530
-title: Christian Poslaniec : « L’Évolution de la littérature de jeunesse, de 1850
+title: Christian Poslaniec – « L’Évolution de la littérature de jeunesse, de 1850
   à nos jours, au travers de l’instance narrative »
 rubrique: Histoire littéraire
 annee: 1999

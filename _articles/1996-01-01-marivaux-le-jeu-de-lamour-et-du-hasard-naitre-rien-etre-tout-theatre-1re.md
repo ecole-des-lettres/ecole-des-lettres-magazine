@@ -1,6 +1,6 @@
 ---
 id: 2565
-title: Marivaux : « Le Jeu de l’amour et du hasard ». Naître rien : être tout
+title: Marivaux – « Le Jeu de l’amour et du hasard ». Naître rien – être tout
 rubrique: Théâtre [1re]
 annee: 1996
 magazine: n°8 1er février 1997

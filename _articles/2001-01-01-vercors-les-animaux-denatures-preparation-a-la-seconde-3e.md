@@ -1,6 +1,6 @@
 ---
 id: 4417
-title: Vercors : « Les Animaux dénaturés » 
+title: Vercors – « Les Animaux dénaturés » 
 rubrique: Préparation à la seconde [3e]
 annee: 2001
 magazine: n°4 1er octobre 2001

@@ -1,6 +1,6 @@
 ---
 id: 3025
-title: Brian Jacques : « Cluny le Fléau ». Lecture cursive
+title: Brian Jacques – « Cluny le Fléau ». Lecture cursive
 rubrique: Littérature de jeunesse et Moyen Âge [5e]
 annee: 1998
 magazine: n°10 15 février 1999

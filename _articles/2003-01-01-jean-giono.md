@@ -15,7 +15,7 @@ description:
   – le temps des « Chroniques »
   2. L’œuvre de Jean Giono, avec un résumé de chacune de ses principales œuvres romanesques
 article_pdf: 5241.pdf
-magazine_special: Giono : Un roi sans divertissement
+magazine_special: Giono – Un roi sans divertissement
 revue: L’école des lettres des lycées
 auteurs:
 - Yves Stalloni

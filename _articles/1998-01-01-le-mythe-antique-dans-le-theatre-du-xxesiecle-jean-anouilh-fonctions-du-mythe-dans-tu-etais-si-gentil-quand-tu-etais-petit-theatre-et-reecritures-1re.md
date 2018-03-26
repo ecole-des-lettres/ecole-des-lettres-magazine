@@ -1,6 +1,6 @@
 ---
 id: 3088
-title: Le mythe antique dans le théâtre du XXe siècle. Jean Anouilh : fonctions du
+title: Le mythe antique dans le théâtre du XXe siècle. Jean Anouilh – fonctions du
   mythe dans « Tu étais si gentil quand tu étais petit »
 rubrique: Théâtre et réécritures [1re]
 annee: 1998

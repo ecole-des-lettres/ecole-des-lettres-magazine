@@ -1,6 +1,6 @@
 ---
 id: 3700
-title: Émile Zola : « La Mort d’Olivier Bécaille et autres nouvelles ». Étude intégrale,
+title: Émile Zola – « La Mort d’Olivier Bécaille et autres nouvelles ». Étude intégrale,
   séquence
 rubrique: Nouvelles du XIXe siècle [4e-3e]
 annee: 1999

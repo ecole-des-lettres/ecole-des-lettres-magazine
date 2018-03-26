@@ -1,7 +1,7 @@
 ---
 id: 3295
-title: Le portrait : analyse, production, diction.Étude d’extrait 
-rubrique: Henri Bosco : « L’Âne Culotte » [5e]
+title: Le portrait – analyse, production, diction.Étude d’extrait 
+rubrique: Henri Bosco – « L’Âne Culotte » [5e]
 annee: 1998
 magazine: n°6 15 novembre 1998
 pages: 9

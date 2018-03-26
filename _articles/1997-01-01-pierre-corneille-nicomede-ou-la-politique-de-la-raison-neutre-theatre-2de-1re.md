@@ -1,6 +1,6 @@
 ---
 id: 2693
-title: Pierre Corneille : Nicomède ou la politique de la raison neutre
+title: Pierre Corneille – Nicomède ou la politique de la raison neutre
 rubrique: Théâtre [2de-1re]
 annee: 1997
 magazine: n°11 15 mars 1998
@@ -12,7 +12,7 @@ description: «Nicomède» explique le possible d’une révolution contre le po
   après les développements du danger révolutionnaire, elle propose, par une fin heureuse,
   une gestion nouvelle de la politique…
 article_pdf: 2693.pdf
-magazine_special: Théâtre : Corneille, Molière, Shakespeare, Strindberg
+magazine_special: Théâtre – Corneille, Molière, Shakespeare, Strindberg
 revue: L’école des lettres des lycées
 auteurs:
 - Olivier Leplâtre

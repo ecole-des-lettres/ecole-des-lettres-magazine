@@ -27,7 +27,7 @@ description:
   18. Le journal « Le Monde » et la Seconde Guerre mondiale
   19. Notes de lecture
   20. Bibliographie
-  Ont participé à ce numéro :
+  Ont participé à ce numéro – 
   Arlette Bouloumié, Christelle Bécant, Pierre-Yves Bourdil, Georges Cesbron, Norbert Czarny, Anne-Marie Duranton-Crabol, Pierre Hairion, Jean-Jacques Heude, Jacques Le Marinel, Francine de Martinoir, Yves Ménager, Edgar Morin, Yves Pihan, Guy Rabaté, Yves Stalloni et Guy Talon
 article_pdf: 5037.pdf
 magazine_special: Seconde Guerre mondiale et littérature

@@ -1,6 +1,6 @@
 ---
 id: 3323
-title: Claude Simon : « La Route des Flandres », roman filmique
+title: Claude Simon – « La Route des Flandres », roman filmique
 rubrique: Roman contemporain [agrégation]
 annee: 1998
 magazine: n°7 1er décembre 1998

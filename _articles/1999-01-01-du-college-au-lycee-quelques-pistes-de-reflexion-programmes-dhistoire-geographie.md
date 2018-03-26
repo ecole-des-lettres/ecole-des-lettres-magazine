@@ -1,6 +1,6 @@
 ---
 id: 11863
-title: Du collège au lycée : quelques pistes de réflexion
+title: Du collège au lycée – quelques pistes de réflexion
 rubrique: Programmes dhistoire géographie
 annee: 1999
 magazine: n°12 15 avril 2000

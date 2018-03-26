@@ -13,7 +13,7 @@ description:
   2. Le déluge, l’arche de Noé, la tour de Babel
   3. Le sacrifice d’Abraham, Isaac et Rébecca, l’échelle de Jacob
   4 et 5. L’histoire de Joseph
-  6. Bilan de lecture : évaluation de lecture ; la vie quotidienne des Hébreux ; histoire et mythologie
+  6. Bilan de lecture – évaluation de lecture ; la vie quotidienne des Hébreux ; histoire et mythologie
   Les « Métamorphoses »
   1. « La métamorphose de Lycaon »
   2. « Deucalion et Pyrrha »

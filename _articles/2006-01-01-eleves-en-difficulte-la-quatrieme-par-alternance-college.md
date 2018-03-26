@@ -1,6 +1,6 @@
 ---
 id: 11677
-title: Élèves en difficulté : la quatrième par alternance
+title: Élèves en difficulté – la quatrième par alternance
 rubrique: Collège
 annee: 2006
 magazine: 2007

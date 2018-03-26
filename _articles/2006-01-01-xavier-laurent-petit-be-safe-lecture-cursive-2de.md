@@ -1,6 +1,6 @@
 ---
 id: 11902
-title: Xavier-Laurent Petit : « Be Safe ». 
+title: Xavier-Laurent Petit – « Be Safe ». 
 rubrique:  Lecture cursive [2de]
 annee: 2006
 magazine: 2007

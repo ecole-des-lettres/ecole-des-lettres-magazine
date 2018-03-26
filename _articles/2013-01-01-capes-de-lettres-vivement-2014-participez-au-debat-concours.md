@@ -1,6 +1,6 @@
 ---
 id: 12275
-title: Capes de lettres : vivement 2014 ? Participez au débat !
+title: Capes de lettres – vivement 2014 ? Participez au débat !
 rubrique: Concours
 annee: 2013
 magazine: mai 2013

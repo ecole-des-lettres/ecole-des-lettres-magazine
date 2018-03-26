@@ -1,6 +1,6 @@
 ---
 id: 11972
-title: Xavier-Laurent Petit : « Mon petit cœur imbécile ». Lecture cursive, CM-5e
+title: Xavier-Laurent Petit – « Mon petit cœur imbécile ». Lecture cursive, CM-5e
 rubrique: Littérature de jeunesse et histoire contemporaine
 annee: 2009
 magazine: n°1 2009-2010

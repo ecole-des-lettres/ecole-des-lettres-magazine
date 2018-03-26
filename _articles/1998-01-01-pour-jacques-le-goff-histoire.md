@@ -5,7 +5,7 @@ rubrique: Histoire
 annee: 1998
 magazine: n°14 1er juin 1999
 pages: 3
-description: Présentation de deux ouvrages parus chez Gallimard : Jacques Le Goff,
+description: Présentation de deux ouvrages parus chez Gallimard – Jacques Le Goff,
   « Un autre Moyen Âge » et « L’Ogre historien. Autour de Jacques Le Goff », textes
   rassemblés par Jacques Revel et Jean-Claude Schmitt…
 article_pdf: 3165.pdf

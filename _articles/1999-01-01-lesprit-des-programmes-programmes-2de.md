@@ -18,7 +18,7 @@ description:
   9. Capacités, langage et sens
   10. Perspectives
 article_pdf: 3730.pdf
-magazine_special: Français (seconde) : nouveaux programmes de 1999 / 2000
+magazine_special: Français (seconde) – nouveaux programmes de 1999 / 2000
 revue: L’école des lettres des lycées
 auteurs:
 - Alain Viala

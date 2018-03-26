@@ -1,6 +1,6 @@
 ---
 id: 3513
-title: Une pratique innovante au lycée : les « ateliers tutorés »
+title: Une pratique innovante au lycée – les « ateliers tutorés »
 rubrique: Liaison [3e-2de]
 annee: 1999
 magazine: n°12 15 avril 2000

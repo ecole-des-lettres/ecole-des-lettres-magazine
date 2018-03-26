@@ -1,6 +1,6 @@
 ---
 id: 3880
-title: Éloge et blâme à Rome : rhétorique et liberté
+title: Éloge et blâme à Rome – rhétorique et liberté
 rubrique: L’éloge et le blâme [2de]
 annee: 2000
 magazine: n°12 15 avril 2001

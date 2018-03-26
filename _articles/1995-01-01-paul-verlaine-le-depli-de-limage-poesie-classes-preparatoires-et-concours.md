@@ -1,6 +1,6 @@
 ---
 id: 1972
-title: Paul Verlaine : le dépli de l’image
+title: Paul Verlaine – le dépli de l’image
 rubrique: Poésie [classes préparatoires et concours]
 annee: 1995
 magazine: n°14 juillet 1996

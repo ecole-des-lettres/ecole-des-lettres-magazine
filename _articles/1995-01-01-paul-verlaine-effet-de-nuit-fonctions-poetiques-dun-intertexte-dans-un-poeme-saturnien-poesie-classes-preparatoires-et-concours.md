@@ -1,6 +1,6 @@
 ---
 id: 1971
-title: Paul Verlaine, « Effet de nuit » : fonctions poétiques d’un intertexte dans
+title: Paul Verlaine, « Effet de nuit » – fonctions poétiques d’un intertexte dans
   un « Poème saturnien »
 rubrique: Poésie [classes préparatoires et concours]
 annee: 1995

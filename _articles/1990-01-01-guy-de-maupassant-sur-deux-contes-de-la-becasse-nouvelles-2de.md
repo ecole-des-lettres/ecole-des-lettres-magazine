@@ -1,6 +1,6 @@
 ---
 id: 136
-title: Guy de Maupassant : sur deux « Contes de la bécasse » 
+title: Guy de Maupassant – sur deux « Contes de la bécasse » 
 rubrique: Nouvelles [2de]
 annee: 1990
 magazine: n°1 15 septembre 1990

@@ -1,6 +1,6 @@
 ---
 id: 11453
-title: Susie Morgenstern : « L’Orpheline dans un arbre ». Lecture cursive
+title: Susie Morgenstern – « L’Orpheline dans un arbre ». Lecture cursive
 rubrique: Littérature de jeunesse et humour [4e-3e]
 annee: 2006
 magazine: n°1 août-septembre 2006

@@ -1,6 +1,6 @@
 ---
 id: 12173
-title: De Brab, Falzar et Zidrou : série « Sac à Puces », « Super Maman » 
+title: De Brab, Falzar et Zidrou – série « Sac à Puces », « Super Maman » 
 rubrique: Bande dessinée [CE-CM]
 annee: 2012
 magazine: n°4 2012-2013

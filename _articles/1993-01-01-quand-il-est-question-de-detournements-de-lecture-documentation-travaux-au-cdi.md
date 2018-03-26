@@ -1,7 +1,7 @@
 ---
 id: 1214
 title: Quand il est question de détournements de lecture
-rubrique: Documentation : travaux au CDI
+rubrique: Documentation – travaux au CDI
 annee: 1993
 magazine: n°12-13 1er juin 1994
 pages: 3

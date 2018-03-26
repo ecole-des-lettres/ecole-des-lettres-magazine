@@ -1,6 +1,6 @@
 ---
 id: 144
-title: Georges Simenon : « Pietr-le-Letton » (1/2)
+title: Georges Simenon – « Pietr-le-Letton » (1/2)
 rubrique: Roman policier [4e-3e]
 annee: 1990
 magazine: n°1 15 septembre 1990

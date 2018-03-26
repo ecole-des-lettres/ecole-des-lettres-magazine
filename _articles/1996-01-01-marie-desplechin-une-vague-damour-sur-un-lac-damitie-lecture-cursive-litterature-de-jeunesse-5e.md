@@ -1,6 +1,6 @@
 ---
 id: 2211
-title: Marie Desplechin : « Une vague d’amour sur un lac d’amitié ». Lecture cursive
+title: Marie Desplechin – « Une vague d’amour sur un lac d’amitié ». Lecture cursive
 rubrique: Littérature de jeunesse [5e]
 annee: 1996
 magazine: n°1 1er septembre 1996

@@ -6,7 +6,7 @@ annee: 1992
 magazine: n°10 15 mars 1993
 pages: 8
 description: Fiche exercice à partir d’une nouvelle d’André Kédros parue en mars
-  1992 dans « Le Monde diplomatique » : « scène d’une vie de chien » : vocabulaire,
+  1992 dans « Le Monde diplomatique » – « scène d’une vie de chien » – vocabulaire,
   compréhension, grammaire, expression, suivie des corrigés…
 article_pdf: 811.pdf
 revue: L’école des lettres des collèges

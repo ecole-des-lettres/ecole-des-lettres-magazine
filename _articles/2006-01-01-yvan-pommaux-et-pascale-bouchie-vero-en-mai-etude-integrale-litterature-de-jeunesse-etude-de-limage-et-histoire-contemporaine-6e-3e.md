@@ -1,6 +1,6 @@
 ---
 id: 11817
-title: Yvan Pommaux et Pascale Bouchié : « Véro en mai ». Étude intégrale 
+title: Yvan Pommaux et Pascale Bouchié – « Véro en mai ». Étude intégrale 
 rubrique: Littérature de jeunesse, étude de l’image et histoire contemporaine [6e-3e]
 annee: 2006
 magazine: n°9 2007-2008
@@ -8,7 +8,7 @@ pages: 6
 description: Dense, riche, comprenant plusieurs niveaux de lecture, l’étude de « Véro
   en mai » peut être abordée de manières très diverses. Une démarche possible est
   de s’intéresser d’abord à son contenu narratif, ensuite à son fonctionnement, pour
-  élargir enfin la recherche aux multiples thèmes qui parcourent l’album. Mai 68 :
+  élargir enfin la recherche aux multiples thèmes qui parcourent l’album. Mai 68 – 
   « Tout a été dit sur ce mois-là de cette année-là », est-il expliqué en quatrième
   de couverture. Ce n’est effectivement pas tant la matière du livre, l’année 1968
   en France, que le point de vue adopté par les auteurs qui rend l’album original.

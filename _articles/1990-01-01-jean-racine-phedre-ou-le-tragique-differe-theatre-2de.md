@@ -1,11 +1,11 @@
 ---
 id: 196
-title: Jean Racine : « Phèdre » ou le tragique différé
+title: Jean Racine – « Phèdre » ou le tragique différé
 rubrique: Théâtre [2de]
 annee: 1990
 magazine: n°12 15 mai 1991
 pages: 6
-description: Deux motifs caractérisent « Phèdre », de Racine : le rôle primordial
+description: Deux motifs caractérisent « Phèdre », de Racine – le rôle primordial
   de l’épée que Phèdre enlève à Hippolyte, et les références au passé que font les
   personnages lorsque leur destin s’infléchit…
 article_pdf: 196.pdf

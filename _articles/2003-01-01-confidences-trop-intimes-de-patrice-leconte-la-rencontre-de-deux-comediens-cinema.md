@@ -1,6 +1,6 @@
 ---
 id: 5284
-title: « Confidences trop intimes », de Patrice Leconte : la rencontre de deux comédiens
+title: « Confidences trop intimes », de Patrice Leconte – la rencontre de deux comédiens
 rubrique: Cinéma
 annee: 2003
 magazine: n°8 15 février 2004

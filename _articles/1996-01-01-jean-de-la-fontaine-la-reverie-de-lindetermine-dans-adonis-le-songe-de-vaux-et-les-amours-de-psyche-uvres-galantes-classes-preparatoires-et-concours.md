@@ -1,6 +1,6 @@
 ---
 id: 2353
-title: Jean de La Fontaine : la rêverie de l’indéterminé dans « Adonis », « Le Songe
+title: Jean de La Fontaine – la rêverie de l’indéterminé dans « Adonis », « Le Songe
   de Vaux » et « Les Amours de Psyché »
 rubrique: Œuvres galantes [classes préparatoires et concours]
 annee: 1996
@@ -11,7 +11,7 @@ description: Chacun de ces trois textes invente et allégorise les mystères de 
   ses charmes superficiels. Cet article montre comment le personnage lafontainien
   n’existe qu’à l’état de rêve à peine incarné.
 article_pdf: 2353.pdf
-magazine_special: La Fontaine : Adonis, le Songe de Vaux, les Amours de Psyché
+magazine_special: La Fontaine – Adonis, le Songe de Vaux, les Amours de Psyché
 revue: L’école des lettres des lycées
 auteurs:
 - Olivier Leplâtre

@@ -1,7 +1,7 @@
 ---
 id: 81
 title: Étude intégrale
-rubrique: Marguerite Duras : « Dix heures et demie du soir en été », un roman exemplaire
+rubrique: Marguerite Duras – « Dix heures et demie du soir en été », un roman exemplaire
 annee: 1987
 magazine: n°6 1er décembre 1987
 pages: 14
@@ -11,7 +11,7 @@ description:
   3. La rencontre
   4. La communauté des amants
 article_pdf: 81.pdf
-magazine_special: Duras : de Vinh Long à Calcutta
+magazine_special: Duras – de Vinh Long à Calcutta
 revue: L’école des lettres des lycées
 auteurs:
 - Monique Pinthon

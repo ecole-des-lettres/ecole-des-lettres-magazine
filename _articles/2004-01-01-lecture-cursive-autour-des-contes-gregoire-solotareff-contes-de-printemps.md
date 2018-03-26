@@ -1,7 +1,7 @@
 ---
 id: 11144
 title: Lecture cursive autour des contes
-rubrique: Grégoire Solotareff : « Contes de printemps »
+rubrique: Grégoire Solotareff – « Contes de printemps »
 annee: 2004
 magazine: n°11-12 juillet 2005
 pages: 4

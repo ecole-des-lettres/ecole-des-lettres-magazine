@@ -1,6 +1,6 @@
 ---
 id: 11716
-title: Sid Fleischman : « Bo et Mad ». Lecture cursive 
+title: Sid Fleischman – « Bo et Mad ». Lecture cursive 
 rubrique: Littérature de jeunesse et récit d’aventures [5e]
 annee: 2006
 magazine: 

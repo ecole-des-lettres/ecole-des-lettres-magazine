@@ -1,6 +1,6 @@
 ---
 id: 5312
-title: « Mambo italiano », d’Émile Gaudreault : l’art de se dévoiler
+title: « Mambo italiano », d’Émile Gaudreault – l’art de se dévoiler
 rubrique: Cinéma
 annee: 2003
 magazine: n°11 1er mai 2004

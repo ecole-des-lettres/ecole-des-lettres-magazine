@@ -1,6 +1,6 @@
 ---
 id: 3985
-title: Jean-Yves Mollier : « Louis Hachette »
+title: Jean-Yves Mollier – « Louis Hachette »
 rubrique: Histoire
 annee: 2000
 magazine: n°3 15 septembre 2000

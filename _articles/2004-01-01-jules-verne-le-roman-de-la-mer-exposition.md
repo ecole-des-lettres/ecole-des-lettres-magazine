@@ -1,6 +1,6 @@
 ---
 id: 11395
-title: Jules Verne : le roman de la mer
+title: Jules Verne – le roman de la mer
 rubrique: Exposition
 annee: 2004
 magazine: n°8 avril 2005

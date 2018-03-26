@@ -1,6 +1,6 @@
 ---
 id: 11094
-title: Hervé Bazin : « Vipère au poing »
+title: Hervé Bazin – « Vipère au poing »
 rubrique: Préparation à la seconde et récits du XXe siècle [3e]
 annee: 2004
 magazine: n°4 décembre 2004

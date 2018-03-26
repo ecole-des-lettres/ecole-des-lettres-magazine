@@ -1,6 +1,6 @@
 ---
 id: 475
-title: Stéphane Mallarmé : « Ses purs ongles… »
+title: Stéphane Mallarmé – « Ses purs ongles… »
 rubrique: Poésie [1re]
 annee: 1991
 magazine: n°1 15 septembre 1991

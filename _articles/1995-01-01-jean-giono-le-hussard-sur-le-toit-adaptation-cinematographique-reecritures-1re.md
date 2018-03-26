@@ -1,6 +1,6 @@
 ---
 id: 2003
-title: Jean Giono : « Le Hussard sur le toit » Adaptation cinématographique
+title: Jean Giono – « Le Hussard sur le toit » Adaptation cinématographique
 rubrique: Réécritures [1re]
 annee: 1995
 magazine: n°2 1er octobre 1995
@@ -13,7 +13,7 @@ description:
   – les suppressions
   – les ajouts
   – les transpositions
-  3. Étude d’une séquence particulière : la rencontre du médecin français
+  3. Étude d’une séquence particulière – la rencontre du médecin français
   – le choix de l’ellipse
   – la recomposition de la matière romanesque
   – la transposition de la narration en dialogue

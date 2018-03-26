@@ -1,6 +1,6 @@
 ---
 id: 12165
-title: Lewis Trondheim et Sergio Garcia : « Les Trois Chemins sous les mers » 
+title: Lewis Trondheim et Sergio Garcia – « Les Trois Chemins sous les mers » 
 rubrique: Bande dessinée [CM-6e]
 annee: 2012
 magazine: n°3 2012-2013

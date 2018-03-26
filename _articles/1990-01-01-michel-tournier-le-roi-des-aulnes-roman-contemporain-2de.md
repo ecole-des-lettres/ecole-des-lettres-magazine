@@ -1,6 +1,6 @@
 ---
 id: 232
-title: Michel Tournier : « Le Roi des aulnes »
+title: Michel Tournier – « Le Roi des aulnes »
 rubrique: Roman contemporain [2de]
 annee: 1990
 magazine: n°14 15 juillet 1991

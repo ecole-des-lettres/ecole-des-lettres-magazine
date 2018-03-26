@@ -1,6 +1,6 @@
 ---
 id: 11215
-title: « Melinda et Melinda », de Woody Allen : le plaisir de la mise en scène
+title: « Melinda et Melinda », de Woody Allen – le plaisir de la mise en scène
 rubrique: Cinéma 
 annee: 2004
 magazine: n°6 février 2005

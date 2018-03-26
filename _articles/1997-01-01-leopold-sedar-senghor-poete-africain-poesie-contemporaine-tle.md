@@ -10,7 +10,7 @@ description: Cet article se propose de montrer comment Senghor passe de la lectu
   tant que poète, et parvient par ce jeu dialectique entre l’ici et l’ailleurs, le
   passé et le présent, à trouver l’apaisement dans l’acceptation de sa propre dualité.
 article_pdf: 2720.pdf
-magazine_special: Senghor : Éthiopiques
+magazine_special: Senghor – Éthiopiques
 revue: L’école des lettres des lycées
 auteurs:
 - Robert Jouanny

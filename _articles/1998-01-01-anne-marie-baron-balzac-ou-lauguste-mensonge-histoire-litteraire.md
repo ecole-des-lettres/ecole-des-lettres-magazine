@@ -1,6 +1,6 @@
 ---
 id: 3312
-title: Anne-Marie Baron : « Balzac ou l’Auguste Mensonge »
+title: Anne-Marie Baron – « Balzac ou l’Auguste Mensonge »
 rubrique: Histoire littéraire
 annee: 1998
 magazine: n°6 1er novembre 1998

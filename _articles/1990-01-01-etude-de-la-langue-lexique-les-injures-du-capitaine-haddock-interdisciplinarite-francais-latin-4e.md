@@ -1,6 +1,6 @@
 ---
 id: 400
-title: Étude de la langue : lexique. Les injures du capitaine Haddock 
+title: Étude de la langue – lexique. Les injures du capitaine Haddock 
 rubrique: Interdisciplinarité français, latin [4e]
 annee: 1990
 magazine: n°7 15 janvier 1991

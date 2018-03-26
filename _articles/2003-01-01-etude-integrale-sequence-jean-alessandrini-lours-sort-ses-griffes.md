@@ -1,7 +1,7 @@
 ---
 id: 5136
 title: Étude intégrale (séquence)
-rubrique: Jean Alessandrini : « L’ours sort ses griffes »
+rubrique: Jean Alessandrini – « L’ours sort ses griffes »
 annee: 2003
 magazine: n°5 1er novembre 2003
 pages: 24

@@ -1,6 +1,6 @@
 ---
 id: 3063
-title: Albert Camus : « La Chute ». Clamence ou le démon de la servitude
+title: Albert Camus – « La Chute ». Clamence ou le démon de la servitude
 rubrique: Romans du XXe siècle [1re-Tle]
 annee: 1998
 magazine: n°11 1er mars 1999

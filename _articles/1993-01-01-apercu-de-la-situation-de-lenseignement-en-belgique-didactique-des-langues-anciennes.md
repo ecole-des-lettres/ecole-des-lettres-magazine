@@ -9,7 +9,7 @@ description: Les enseignants belges en langues anciennes, tout en reconnaissant 
   nécessité de connaissances historiques essentielles, ne veulent pas se substituer
   aux professeurs d’histoire…
 article_pdf: 1168.pdf
-magazine_special: Langues anciennes : didactique
+magazine_special: Langues anciennes – didactique
 revue: L’école des lettres des lycées
 auteurs:
 - Albert Léonard

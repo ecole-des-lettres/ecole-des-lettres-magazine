@@ -1,6 +1,6 @@
 ---
 id: 12653
-title: « Mister », d’Elsa Boyer : la fabrique des hommes machines
+title: « Mister », d’Elsa Boyer – la fabrique des hommes machines
 rubrique: Roman contemporain
 annee: 2014
 magazine: 

@@ -1,12 +1,12 @@
 ---
 id: 793
-title: Aristophane : lecture de deux textes 
+title: Aristophane – lecture de deux textes 
 rubrique: Théâtre [3e]
 annee: 1992
 magazine: n°1 10 septembre 1992
 pages: 4
 description: 
-  Premier cours de l’année en grec : « Les Grenouilles » (vers 209 à 239) et « Les Oiseaux » (vers 227 à 262), d’Aristophane…
+  Premier cours de l’année en grec – « Les Grenouilles » (vers 209 à 239) et « Les Oiseaux » (vers 227 à 262), d’Aristophane…
   – Observations sur l’écriture grecque
   – Lecture des vers soulignés et hypothèses sur leur contenu
   – Présentation de l’auteur et des œuvres

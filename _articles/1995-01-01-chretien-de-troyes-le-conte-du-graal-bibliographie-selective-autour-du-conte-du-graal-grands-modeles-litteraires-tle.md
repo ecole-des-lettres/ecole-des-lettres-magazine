@@ -1,6 +1,6 @@
 ---
 id: 2116
-title: Chrétien de Troyes : « Le Conte du Graal ». Bibliographie sélective autour
+title: Chrétien de Troyes – « Le Conte du Graal ». Bibliographie sélective autour
   du « Conte du Graal » 
 rubrique: Grands modèles littéraires [Tle]
 annee: 1995
@@ -14,7 +14,7 @@ description:
   – Autres romans de Chrétien de Troyes et du Graal
   – Ouvrages généraux sur la littérature médiévale
 article_pdf: 2116.pdf
-magazine_special: Chrétien de Troyes : Le Conte du Graal
+magazine_special: Chrétien de Troyes – Le Conte du Graal
 revue: L’école des lettres des lycées
 auteurs:
 - Claude Lachet

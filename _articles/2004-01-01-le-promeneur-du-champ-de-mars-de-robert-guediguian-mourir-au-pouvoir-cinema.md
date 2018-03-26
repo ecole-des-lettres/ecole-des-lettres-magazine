@@ -1,6 +1,6 @@
 ---
 id: 11227
-title: « Le Promeneur du Champ-de-Mars », de Robert Guédiguian : mourir au pouvoir
+title: « Le Promeneur du Champ-de-Mars », de Robert Guédiguian – mourir au pouvoir
 rubrique: Cinéma
 annee: 2004
 magazine: n°7 mars 2005

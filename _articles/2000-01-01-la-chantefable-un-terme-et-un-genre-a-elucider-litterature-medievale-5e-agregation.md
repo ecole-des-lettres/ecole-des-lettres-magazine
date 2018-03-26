@@ -1,6 +1,6 @@
 ---
 id: 4136
-title: La chantefable : un terme et un genre à élucider
+title: La chantefable – un terme et un genre à élucider
 rubrique: Littérature médiévale [5e-agrégation]
 annee: 2000
 magazine: n°9 15 janvier 2001

@@ -1,6 +1,6 @@
 ---
 id: 4204
-title: Nicolas Gogol : « Tarass Boulba »
+title: Nicolas Gogol – « Tarass Boulba »
 rubrique: Préparation à la seconde [3e]
 annee: 2001
 magazine: n°10 15 février 2002

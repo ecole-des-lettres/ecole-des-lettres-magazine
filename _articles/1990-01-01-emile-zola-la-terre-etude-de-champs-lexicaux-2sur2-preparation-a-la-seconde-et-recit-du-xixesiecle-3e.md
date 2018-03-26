@@ -1,6 +1,6 @@
 ---
 id: 315
-title: Émile Zola : « La Terre ». Étude de champs lexicaux  (2/2)
+title: Émile Zola – « La Terre ». Étude de champs lexicaux  (2/2)
 rubrique: Préparation à la seconde et récit du XIXe siècle [3e]
 annee: 1990
 magazine: n°4 1er novembre 1990

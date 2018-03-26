@@ -1,6 +1,6 @@
 ---
 id: 11625
-title: Le prisme des Lumières : la réception des textes du XVIIIe siècle par les
+title: Le prisme des Lumières – la réception des textes du XVIIIe siècle par les
   lycéens d’aujourd’hui
 rubrique: Didactique des lettres [2de-Tle]
 annee: 2006

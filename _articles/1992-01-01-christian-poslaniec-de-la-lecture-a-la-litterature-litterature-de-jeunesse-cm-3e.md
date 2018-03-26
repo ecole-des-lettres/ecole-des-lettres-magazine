@@ -1,6 +1,6 @@
 ---
 id: 977
-title: Christian Poslaniec : « De la lecture à la littérature »
+title: Christian Poslaniec – « De la lecture à la littérature »
 rubrique: Littérature de jeunesse [CM-3e]
 annee: 1992
 magazine: n°3 1er octobre 1992

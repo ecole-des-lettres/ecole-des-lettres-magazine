@@ -1,6 +1,6 @@
 ---
 id: 11202
-title: « Nous étions libres », de John Duigan : le choix de Gilda
+title: « Nous étions libres », de John Duigan – le choix de Gilda
 rubrique: Cinéma
 annee: 2004
 magazine: n°5 janvier 2005

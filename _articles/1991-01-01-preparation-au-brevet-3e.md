@@ -5,8 +5,8 @@ rubrique:
 annee: 1991
 magazine: n°9 15 mars 1992
 pages: 8
-description: Fiche exercice à partir d’un texte d’André Ironde : « Le Vieux Monsieur
-  du troisième » : grammaire, vocabulaire, compréhension, rédaction, suivie de deux
+description: Fiche exercice à partir d’un texte d’André Ironde – « Le Vieux Monsieur
+  du troisième » – grammaire, vocabulaire, compréhension, rédaction, suivie de deux
   documents sur le bruit…
 article_pdf: 770.pdf
 revue: L’école des lettres des collèges

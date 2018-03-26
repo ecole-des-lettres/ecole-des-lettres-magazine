@@ -1,6 +1,6 @@
 ---
 id: 11264
-title: Luba Jurgenson : « L’expérience concentrationnaire est-elle indicible ? »
+title: Luba Jurgenson – « L’expérience concentrationnaire est-elle indicible ? »
 rubrique: Histoire
 annee: 2004
 magazine: n°10 juin 2005

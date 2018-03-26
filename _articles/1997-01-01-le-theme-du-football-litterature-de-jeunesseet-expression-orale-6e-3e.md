@@ -6,7 +6,7 @@ annee: 1997
 magazine: n°10 15 février 1998
 pages: 6
 description: 
-  Présentation orale d’un livre par un élève à ses camarades et guides de préparation sur les titres suivants :
+  Présentation orale d’un livre par un élève à ses camarades et guides de préparation sur les titres suivants – 
   1. « Le Ballon d’or », d’Yves Pinguilly (sixième à quatrième)
   2. « Penalty », de Michael Hardcastle (cinquième-quatrième)
   3. « Jeu sans ballon », de Jean-Noël Blanc (quatrième-troisième)

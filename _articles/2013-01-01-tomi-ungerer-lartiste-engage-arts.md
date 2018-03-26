@@ -7,7 +7,7 @@ magazine: septembre 2013
 pages: 1
 description: Le musée Tomi Ungerer de Strasbourg organise jusqu’au 10 novembre 2013
   une exposition consacrée à un aspect moins connu de l’œuvre de l’auteur illustrateur
-  : le dessin engagé. Dessins originaux et affiches témoignent de l’implication de
+  – le dessin engagé. Dessins originaux et affiches témoignent de l’implication de
   Tomi Ungerer contre toutes les formes d’intolérance et de violence…
 article_pdf: 12237.pdf
 revue: L’école des lettres des collèges

@@ -1,6 +1,6 @@
 ---
 id: 1371
-title: Claude Crébillon moraliste : « Les Égarements du cœur et de l’esprit ». Étude
+title: Claude Crébillon moraliste – « Les Égarements du cœur et de l’esprit ». Étude
   intégrale
 rubrique: Roman et personnages [1re]
 annee: 1993
@@ -19,9 +19,9 @@ description:
   4. La promenade / conversation
   – la rencontre d’Hortense de Théville aux Tuileries
   – la mondanité égarée
-  – la promenade à l’Étoile : révélation et initiation
+  – la promenade à l’Étoile – révélation et initiation
 article_pdf: 1371.pdf
-magazine_special: Crébillon fils : Les Égarements du cœur et de l’esprit
+magazine_special: Crébillon fils – Les Égarements du cœur et de l’esprit
 revue: L’école des lettres des lycées
 auteurs:
 - Alain Montandon

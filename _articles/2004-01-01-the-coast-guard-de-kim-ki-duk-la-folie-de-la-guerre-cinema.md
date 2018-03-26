@@ -1,6 +1,6 @@
 ---
 id: 11161
-title: « The Coast Guard », de Kim Ki Duk  : la folie de la guerre
+title: « The Coast Guard », de Kim Ki Duk  – la folie de la guerre
 rubrique: Cinéma
 annee: 2004
 magazine: n°2 1er octobre 2004

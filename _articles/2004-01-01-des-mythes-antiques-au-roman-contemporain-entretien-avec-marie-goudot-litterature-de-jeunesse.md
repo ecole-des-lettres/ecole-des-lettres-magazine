@@ -1,6 +1,6 @@
 ---
 id: 11069
-title: Des mythes antiques au roman contemporain : entretien avec Marie Goudot
+title: Des mythes antiques au roman contemporain – entretien avec Marie Goudot
 rubrique: Littérature de jeunesse
 annee: 2004
 magazine: n°1 août-septembre 2004

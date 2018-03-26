@@ -1,6 +1,6 @@
 ---
 id: 12514
-title: Charles Dantzig : « Pourquoi lire ? »
+title: Charles Dantzig – « Pourquoi lire ? »
 rubrique: Essai
 annee: 2011
 magazine: avril 2011

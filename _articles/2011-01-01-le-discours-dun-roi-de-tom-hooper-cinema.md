@@ -10,7 +10,7 @@ description: Le film de Tom Hooper, « Le Discours d’un roi », est indiscut
   jouissance particulière à la vision de ce film bien fait et agréable à regarder,
   c’est bien celle des enseignants, de la maternelle à l’université. Car celui qui
   est chargé de transmettre le savoir est tenu de disposer d’une qualité indispensable
-  à la bonne pratique du métier : l’aisance verbale…
+  à la bonne pratique du métier – l’aisance verbale…
 
 
 article_pdf: 12529.pdf

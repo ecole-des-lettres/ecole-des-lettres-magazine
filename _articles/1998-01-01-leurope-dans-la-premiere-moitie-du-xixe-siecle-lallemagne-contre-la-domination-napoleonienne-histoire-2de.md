@@ -7,9 +7,9 @@ annee: 1998
 magazine: n°12 1er avril 1999
 pages: 10
 description: 
-  Objectif : préparation à l’explication et à l’étude de documents…
+  Objectif – préparation à l’explication et à l’étude de documents…
   1. Le contexte
-  2. Documents à étudier : Kleist, « Catéchisme des Allemands » ; Blücher, lettre au ministre Scharnhorst ; Görres, « Le Mercure rhénan »
+  2. Documents à étudier – Kleist, « Catéchisme des Allemands » ; Blücher, lettre au ministre Scharnhorst ; Görres, « Le Mercure rhénan »
   3. Travail sur les textes
   L’article est suivi de repères chronologiques, ainsi que d’une bibliographie.
 article_pdf: 3083.pdf

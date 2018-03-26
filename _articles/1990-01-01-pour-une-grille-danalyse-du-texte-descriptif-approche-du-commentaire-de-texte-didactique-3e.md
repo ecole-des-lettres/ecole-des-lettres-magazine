@@ -1,13 +1,13 @@
 ---
 id: 442
-title: Pour une grille d’analyse du texte descriptif : approche du commentaire de
+title: Pour une grille d’analyse du texte descriptif – approche du commentaire de
   texte
 rubrique: Didactique [3e]
 annee: 1990
 magazine: n°9 1er mars 1991
 pages: 14
 description: 
-  Approche du commentaire de texte en troisième à travers la lecture comparative de trois extraits d’œuvres : « Farce normande » tiré des « Contes de la bécasse », de Maupassant ; « La noce », extrait de « La Maison de Claudine », de Colette ; et « La Noce d’Emma Bovary », extrait du chapitre 4 de « Madame Bovary », de Flaubert…
+  Approche du commentaire de texte en troisième à travers la lecture comparative de trois extraits d’œuvres – « Farce normande » tiré des « Contes de la bécasse », de Maupassant ; « La noce », extrait de « La Maison de Claudine », de Colette ; et « La Noce d’Emma Bovary », extrait du chapitre 4 de « Madame Bovary », de Flaubert…
   1. Lecture comparative des textes
   2. Micro-analyse de la description de la chambre par Colette
   3. Retour à la lecture comparative

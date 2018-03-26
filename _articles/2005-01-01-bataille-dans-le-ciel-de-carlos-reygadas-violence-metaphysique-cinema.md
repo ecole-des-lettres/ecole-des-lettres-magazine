@@ -1,6 +1,6 @@
 ---
 id: 11316
-title: « Bataille dans le ciel », de Carlos Reygadas : violence métaphysique
+title: « Bataille dans le ciel », de Carlos Reygadas – violence métaphysique
 rubrique: Cinéma
 annee: 2005
 magazine: n°4 1er novembre 2005

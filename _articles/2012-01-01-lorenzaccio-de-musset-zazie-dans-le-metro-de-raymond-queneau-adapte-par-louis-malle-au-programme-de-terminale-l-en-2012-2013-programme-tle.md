@@ -7,10 +7,10 @@ annee: 2012
 magazine: avril 2012
 pages: 2
 description: Restreint à deux heures hebdomadaires, le nouvel enseignement de Littérature
-  en terminale L se voit aussi réduit à deux objets d’étude : « Littérature et langage
+  en terminale L se voit aussi réduit à deux objets d’étude – « Littérature et langage
   de l’image » d’une part, « Lire, écrire, publier », d’autre part. Comme par le passé,
   le programme, renouvelable par moitié tous les ans, imposera deux œuvres à l’échelle
-  nationale : « Lorenzaccio », de Musset, et « Zazie dans le métro », de Raymond Queneau
+  nationale – « Lorenzaccio », de Musset, et « Zazie dans le métro », de Raymond Queneau
   adapté par Louis Malle…
 article_pdf: 12409.pdf
 revue: L’école des lettres des lycées

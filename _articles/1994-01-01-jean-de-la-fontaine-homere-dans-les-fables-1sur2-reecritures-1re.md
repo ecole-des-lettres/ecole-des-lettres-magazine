@@ -1,6 +1,6 @@
 ---
 id: 1764
-title: Jean de La Fontaine : Homère dans les « Fables » (1/2) 
+title: Jean de La Fontaine – Homère dans les « Fables » (1/2) 
 rubrique: Réécritures [1re]
 annee: 1994
 magazine: n°7 15 février 1995

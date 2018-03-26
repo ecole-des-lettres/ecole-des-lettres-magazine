@@ -1,7 +1,7 @@
 ---
 id: 1255
 title: Étudier « Les Visiteurs » 
-rubrique: nÉtude de l’image : cinéma [4e]
+rubrique: nÉtude de l’image – cinéma [4e]
 annee: 1993
 magazine: n°14 juin 1994
 pages: 8

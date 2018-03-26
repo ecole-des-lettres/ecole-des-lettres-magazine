@@ -1,6 +1,6 @@
 ---
 id: 11353
-title: « La Ballade de Jack et Rose », de Rebecca Miller : passion paternelle
+title: « La Ballade de Jack et Rose », de Rebecca Miller – passion paternelle
 rubrique: Cinéma
 annee: 2005
 magazine: n°8 février 2006

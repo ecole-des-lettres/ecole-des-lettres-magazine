@@ -1,12 +1,12 @@
 ---
 id: 2568
-title: Marivaux : quelques réflexions sur la parole dans les comédies de Marivaux
+title: Marivaux – quelques réflexions sur la parole dans les comédies de Marivaux
 rubrique: Théâtre [1re]
 annee: 1996
 magazine: n°8 1er février 1997
 pages: 7
 description: Le but auquel tend l’action dans une comédie de Marivaux est une prise
-  de conscience et un aveu : un sentiment n’est pas reconnu tant qu’il n’est pas nommé.
+  de conscience et un aveu – un sentiment n’est pas reconnu tant qu’il n’est pas nommé.
   Les personnages principaux doivent passer d’un langage faux, exprimant un sentiment
   qu’ils n’éprouvent pas, ou masquant le sentiment qu’ils éprouvent, à un langage
   vrai. 

@@ -8,7 +8,7 @@ magazine:
 pages: 5
 description: En février 2013, « l’École des lettres » tirait de sa banalité instrumentale
   une question posée parmi d’autres sur education.gouv.fr, le site du ministère de
-  l’Éducation nationale : « Une passion pour la littérature suffit-elle pour être
+  l’Éducation nationale – « Une passion pour la littérature suffit-elle pour être
   professeur de français ? » Plus de trente avis experts, souvent développés et argumentés,
   répondant par « oui » ou un « non » à part presque égale, se sont enchaînés, preuve
   de la pertinence qu’il y avait, semble-t-il, à réveiller ce qui aurait pu sinon

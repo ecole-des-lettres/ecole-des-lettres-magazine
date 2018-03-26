@@ -1,6 +1,6 @@
 ---
 id: 2804
-title: Pedro Calderon de la Barca : « voir » dans « La vie est un songe » 
+title: Pedro Calderon de la Barca – « voir » dans « La vie est un songe » 
 rubrique: Théâtre [1re]
 annee: 1997
 magazine: n°2 15 septembre 1997

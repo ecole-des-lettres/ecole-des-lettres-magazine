@@ -5,7 +5,7 @@ rubrique: Histoire [2de]
 annee: 1996
 magazine: n°1 1er septembre 1996
 pages: 4
-description: Les contenus : étude problématique de six « moments » successifs, de
+description: Les contenus – étude problématique de six « moments » successifs, de
   l’Antiquité jusqu’au milieu du XIXe siècle. Mise en œuvre de ce programme. Proposition
   de découpage par thèmes.
 article_pdf: 2201.pdf

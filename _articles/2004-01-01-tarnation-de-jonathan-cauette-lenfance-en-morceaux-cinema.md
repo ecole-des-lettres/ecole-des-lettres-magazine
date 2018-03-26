@@ -1,6 +1,6 @@
 ---
 id: 11189
-title: « Tarnation », de Jonathan Cauette : l’enfance en morceaux
+title: « Tarnation », de Jonathan Cauette – l’enfance en morceaux
 rubrique: Cinéma
 annee: 2004
 magazine: n°4 décembre 2004

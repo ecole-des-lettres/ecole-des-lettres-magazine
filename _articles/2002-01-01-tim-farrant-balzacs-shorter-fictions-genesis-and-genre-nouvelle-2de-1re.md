@@ -1,6 +1,6 @@
 ---
 id: 5020
-title: Tim Farrant : « Balzac’s Shorter Fictions. Genesis and Genre »
+title: Tim Farrant – « Balzac’s Shorter Fictions. Genesis and Genre »
 rubrique: Nouvelle [2de-1re]
 annee: 2002
 magazine: n°13 juillet 2003

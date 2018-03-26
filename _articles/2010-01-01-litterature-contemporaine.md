@@ -6,7 +6,7 @@ annee: 2010
 magazine: 2010
 pages: 11
 description: De façon générale, pour qu’on puisse parler de création littéraire authentique,
-  il faut deux conditions qui se trouvent rarement réunies : d’abord, que l’écriture
+  il faut deux conditions qui se trouvent rarement réunies – d’abord, que l’écriture
   corresponde pour l’auteur à un vrai besoin, soit de l’ordre du désir et de la nécessité
   intime ; ensuite, qu’il y ait invention d’une forme spécifique, production d’une
   voix et d’une écriture nouvelles et originales. C’est pourquoi, parmi tant d’auteurs

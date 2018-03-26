@@ -13,7 +13,7 @@ description:
   * Séance 2
   – repérer un parcours balisé
   – lire des informations organisées
-  – mettre en relation des éléments constitutifs complémentaires : relation dessin-texte ; relation photographie-légende ; relation dessin-légende, etc.
+  – mettre en relation des éléments constitutifs complémentaires – relation dessin-texte ; relation photographie-légende ; relation dessin-légende, etc.
   * Séance 3
   – comprendre le rôle des légendes
   * Séances 4 et 5

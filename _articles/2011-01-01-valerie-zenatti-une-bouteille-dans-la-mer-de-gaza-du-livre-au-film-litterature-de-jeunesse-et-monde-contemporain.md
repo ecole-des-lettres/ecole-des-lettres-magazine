@@ -1,6 +1,6 @@
 ---
 id: 12124
-title: Valérie Zenatti : « Une Bouteille dans la mer de Gaza ». Du livre au film
+title: Valérie Zenatti – « Une Bouteille dans la mer de Gaza ». Du livre au film
 rubrique: Littérature de jeunesse et monde contemporain
 annee: 2011
 magazine: n°4

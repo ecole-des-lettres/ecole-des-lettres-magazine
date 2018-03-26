@@ -1,6 +1,6 @@
 ---
 id: 2973
-title: Albert Camus : « La Chute ». La mort, le rire mortel, dans « La Chute » 
+title: Albert Camus – « La Chute ». La mort, le rire mortel, dans « La Chute » 
 rubrique: Roman contemporain [2de-1re]
 annee: 1997
 magazine: n°9 15 janvier 1998

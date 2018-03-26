@@ -1,6 +1,6 @@
 ---
 id: 12312
-title: Guido Morselli : « Rome sans pape »
+title: Guido Morselli – « Rome sans pape »
 rubrique: Roman contemporain
 annee: 2013
 magazine: mars 2013

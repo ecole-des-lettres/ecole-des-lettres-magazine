@@ -1,6 +1,6 @@
 ---
 id: 11261
-title: « Le Dernier Été », de Claude Goretta : la fin de Georges Mandel
+title: « Le Dernier Été », de Claude Goretta – la fin de Georges Mandel
 rubrique: Cinéma
 annee: 2004
 magazine: n°10 juin 2005

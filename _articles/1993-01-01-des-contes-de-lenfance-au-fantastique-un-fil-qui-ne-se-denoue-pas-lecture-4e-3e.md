@@ -9,7 +9,7 @@ description:
   – Qu’est-ce que le fantastique ?
   – Les thèmes du fantastique et les genres voisins
   – Du conte au fantastique
-  – Le malentendu : l’adulte dit « fantastique », l’adolescent entend « horreur »
+  – Le malentendu – l’adulte dit « fantastique », l’adolescent entend « horreur »
   – Des activités pédagogiques
 article_pdf: 1222.pdf
 magazine_special: Lire avec les adolescents

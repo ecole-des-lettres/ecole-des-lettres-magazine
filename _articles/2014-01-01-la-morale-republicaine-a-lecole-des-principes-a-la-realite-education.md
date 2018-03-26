@@ -1,6 +1,6 @@
 ---
 id: 12841
-title: La morale républicaine à l’école : des principes à la réalité
+title: La morale républicaine à l’école – des principes à la réalité
 rubrique: Éducation
 annee: 2014
 magazine: janvier 2015

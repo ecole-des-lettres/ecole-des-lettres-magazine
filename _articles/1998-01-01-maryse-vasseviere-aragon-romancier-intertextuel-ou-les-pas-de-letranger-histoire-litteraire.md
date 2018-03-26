@@ -1,6 +1,6 @@
 ---
 id: 3040
-title: Maryse Vassevière : « Aragon, romancier intertextuel, ou les Pas de l’étranger »
+title: Maryse Vassevière – « Aragon, romancier intertextuel, ou les Pas de l’étranger »
 rubrique: Histoire littéraire
 annee: 1998
 magazine: n°10 1er février 1999

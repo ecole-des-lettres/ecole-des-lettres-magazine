@@ -1,6 +1,6 @@
 ---
 id: 93
-title: Jean Joubert. Le roman pour la jeunesse : réflexions et perplexités d’un auteur
+title: Jean Joubert. Le roman pour la jeunesse – réflexions et perplexités d’un auteur
 rubrique: Littérature de jeunesse
 annee: 1988
 magazine: n°11 1er mai 1989
@@ -8,7 +8,7 @@ pages: 6
 description: L’auteur des « Enfants de Noé » expose sa conception de la littérature
   pour la jeunesse…
 article_pdf: 93.pdf
-magazine_special: Littérature pour la jeunesse : le roman
+magazine_special: Littérature pour la jeunesse – le roman
 revue: L’école des lettres des collèges
 auteurs:
 - Jean Joubert

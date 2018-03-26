@@ -1,6 +1,6 @@
 ---
 id: 1509
-title: Denis Diderot : « Paradoxe sur le comédien » : la fonction sociale du comédien 
+title: Denis Diderot – « Paradoxe sur le comédien » – la fonction sociale du comédien 
 rubrique: Théâtre/argumentation [1re]
 annee: 1994
 magazine: n°10 15 avril 1995
@@ -14,7 +14,7 @@ description: Quelle est la place occupée par le comédien au sein de la sociét
   métier d’acteur pour en faire une profession honorable, et à redéfinir la place
   du théâtre dans l’édifice social.  
 article_pdf: 1509.pdf
-magazine_special: Diderot : Paradoxe sur le comédien
+magazine_special: Diderot – Paradoxe sur le comédien
 revue: L’école des lettres des lycées
 auteurs:
 - Joël Dupas

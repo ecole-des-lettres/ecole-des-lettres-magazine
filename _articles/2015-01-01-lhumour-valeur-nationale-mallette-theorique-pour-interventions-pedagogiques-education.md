@@ -1,6 +1,6 @@
 ---
 id: 12871
-title: L’humour, valeur nationale : mallette théorique pour interventions pédagogiques
+title: L’humour, valeur nationale – mallette théorique pour interventions pédagogiques
 rubrique: Éducation
 annee: 2015
 magazine: janvier 2015

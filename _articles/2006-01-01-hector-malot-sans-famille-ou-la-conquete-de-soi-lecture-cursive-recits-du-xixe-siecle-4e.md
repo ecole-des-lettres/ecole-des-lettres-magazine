@@ -1,6 +1,6 @@
 ---
 id: 11808
-title: Hector Malot : « Sans famille » ou la conquête de soi. Lecture cursive
+title: Hector Malot – « Sans famille » ou la conquête de soi. Lecture cursive
 rubrique:  Récits du XIXe siècle [4e]
 annee: 2006
 magazine: n°8 2007-2008
@@ -10,7 +10,7 @@ description: « J’ai cherché à amuser ceux qu’on ennuyait, dit Hector Mal
   intérêt, émouvoir leur cœur, les attirer, les retenir, les amener à demander aux
   livres leurs joies ou leurs consolations. » « Sans famille », comme d’autres titres
   de Malot, a, en effet, été l’ouvrage d’entrée en littérature de nombreux lecteurs,
-  parmi lesquels plusieurs écrivains : Sabatier, Mauriac ou Sartre, par exemple… Archétype
+  parmi lesquels plusieurs écrivains – Sabatier, Mauriac ou Sartre, par exemple… Archétype
   du roman populaire, dans l’acception la plus noble du terme, il connut dès sa publication,
   en 1878, un succès considérable, dans la lignée des romans d’apprentissage mettant
   en scène des enfants voyageurs. Les intentions morales du romancier y restent discrètes,

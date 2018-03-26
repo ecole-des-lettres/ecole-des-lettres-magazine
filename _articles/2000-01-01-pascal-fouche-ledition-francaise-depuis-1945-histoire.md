@@ -1,6 +1,6 @@
 ---
 id: 3809
-title: Pascal Fouché : « L’Édition française depuis 1945 »
+title: Pascal Fouché – « L’Édition française depuis 1945 »
 rubrique: Histoire
 annee: 2000
 magazine: n°1 juillet 2000

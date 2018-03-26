@@ -6,7 +6,7 @@ annee: 2000
 magazine: n°10 15 février 2001
 pages: 6
 description: 
-  Présentation de trois ouvrages de littérature jeunesse permettant de travailler l’expression orale :
+  Présentation de trois ouvrages de littérature jeunesse permettant de travailler l’expression orale – 
   – « Le Passage », de Louis Sachar
   – « Meurtre à la romaine »,  de Martine Delerm
   – « La Rivière à l’envers », de Jean-Claude Mourlevat

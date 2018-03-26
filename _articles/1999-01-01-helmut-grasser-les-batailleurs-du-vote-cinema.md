@@ -1,6 +1,6 @@
 ---
 id: 3560
-title: Helmut Grasser : « Les Batailleurs du vote »
+title: Helmut Grasser – « Les Batailleurs du vote »
 rubrique: Cinéma
 annee: 1999
 magazine: n°14 juin 2000

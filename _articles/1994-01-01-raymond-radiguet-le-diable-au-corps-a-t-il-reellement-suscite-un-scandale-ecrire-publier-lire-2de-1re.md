@@ -1,6 +1,6 @@
 ---
 id: 1613
-title: Raymond Radiguet : « Le Diable au corps » a-t-il réellement suscité un scandale ? 
+title: Raymond Radiguet – « Le Diable au corps » a-t-il réellement suscité un scandale ? 
 rubrique: Écrire, publier, lire [2de-1re]
 annee: 1994
 magazine: n°14 1er juillet 1995

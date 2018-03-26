@@ -1,6 +1,6 @@
 ---
 id: 3091
-title: Le mythe antique dans le théâtre du XXe siècle. Jean Giraudoux : « Électre »
+title: Le mythe antique dans le théâtre du XXe siècle. Jean Giraudoux – « Électre »
 rubrique: Théâtre et réécritures[1re]
 annee: 1998
 magazine: n°12 1er avril 1999

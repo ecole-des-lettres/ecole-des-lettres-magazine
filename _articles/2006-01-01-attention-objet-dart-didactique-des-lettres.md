@@ -1,6 +1,6 @@
 ---
 id: 11643
-title: Attention : objet d’art !
+title: Attention – objet d’art !
 rubrique: Didactique des lettres
 annee: 2006
 magazine: 2007

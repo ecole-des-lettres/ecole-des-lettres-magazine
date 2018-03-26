@@ -1,6 +1,6 @@
 ---
 id: 5294
-title: « Feux rouges », de Cédric Kahn, adapté d’un roman de Simenon : les pièges
+title: « Feux rouges », de Cédric Kahn, adapté d’un roman de Simenon – les pièges
   de l’illusion
 rubrique: Cinéma
 annee: 2003

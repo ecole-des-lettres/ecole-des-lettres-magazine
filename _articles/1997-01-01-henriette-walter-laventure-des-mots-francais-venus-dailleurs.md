@@ -1,6 +1,6 @@
 ---
 id: 2611
-title: Henriette Walter : « L’Aventure des mots français venus d’ailleurs »
+title: Henriette Walter – « L’Aventure des mots français venus d’ailleurs »
 rubrique: 
 annee: 1997
 magazine: n°1 1er septembre 1997

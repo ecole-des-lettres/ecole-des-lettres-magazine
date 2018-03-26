@@ -1,6 +1,6 @@
 ---
 id: 11865
-title: Prosper Mérimée : « Carmen »
+title: Prosper Mérimée – « Carmen »
 rubrique: Lecture cursive [2de]
 annee: 2000
 magazine: n°4 1er octobre 2000

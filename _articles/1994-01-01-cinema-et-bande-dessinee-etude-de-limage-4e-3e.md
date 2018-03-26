@@ -11,10 +11,10 @@ description:
   – le « storyboard »
   – la bande dessinée
   2. Un art du cadrage
-  – du cinéma à la bande dessinée : les analogies
+  – du cinéma à la bande dessinée – les analogies
   – spécificité de la bande dessinée
   3. Durée et mouvement dans une séquence
-  4. Un écran à écrans multiples : la planche
+  4. Un écran à écrans multiples – la planche
   L’article comporte une bibliographie.
 article_pdf: 1541.pdf
 magazine_special: Cinéma au collège

@@ -1,6 +1,6 @@
 ---
 id: 887
-title: Guy de Maupassant : « La Peur » 
+title: Guy de Maupassant – « La Peur » 
 rubrique: Nouvelles [2de]
 annee: 1992
 magazine: n°13 1er juin 1993
@@ -11,7 +11,7 @@ description:
   2. Mise en scène de la peur
   3. Poétique de la peur
 article_pdf: 887.pdf
-magazine_special: Maupassant : romans et nouvelles
+magazine_special: Maupassant – romans et nouvelles
 revue: L’école des lettres des lycées
 auteurs:
 - Dominique Millet-Gérard

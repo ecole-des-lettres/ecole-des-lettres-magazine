@@ -1,6 +1,6 @@
 ---
 id: 4209
-title: Louis-Ferdinand Céline : « Mort à crédit ». Commentaire composé
+title: Louis-Ferdinand Céline – « Mort à crédit ». Commentaire composé
 rubrique: Roman [1re]
 annee: 2001
 magazine: n°10 15 février 2002

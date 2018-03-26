@@ -1,6 +1,6 @@
 ---
 id: 2612
-title: Christian Lehmann : « No pasaràn, le jeu ». L’éclairage de l’auteur
+title: Christian Lehmann – « No pasaràn, le jeu ». L’éclairage de l’auteur
 rubrique: Littérature de jeunesse et fantastique [4e-3e]
 annee: 1997
 magazine: n°1 1er septembre 1997

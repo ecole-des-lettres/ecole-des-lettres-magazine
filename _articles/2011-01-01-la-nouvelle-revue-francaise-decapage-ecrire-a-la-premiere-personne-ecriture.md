@@ -1,6 +1,6 @@
 ---
 id: 12444
-title: « La Nouvelle Revue française », « Décapage » : écrire à la première personne
+title: « La Nouvelle Revue française », « Décapage » – écrire à la première personne
 rubrique: Écriture
 annee: 2011
 magazine: décembre 2011

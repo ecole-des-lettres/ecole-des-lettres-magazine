@@ -1,6 +1,6 @@
 ---
 id: 5330
-title: Lécriture littéraire au collège : réalité ou perspective  ?
+title: Lécriture littéraire au collège – réalité ou perspective  ?
 rubrique: Lexpression écrite au collège[6e-3e]
 annee: 2003
 magazine: n°13 juin 2004
@@ -23,7 +23,7 @@ description:
   – le modèle de la production d’écrit et de l’évaluation « critériée »
   – le modèle du sujet écrivant et des écrits de travail
   4. Du côté des pratiques d’écriture au collège
-  – les démarches : pratiques « remédiatrices », pratiques technicistes, pratiques libératrices
+  – les démarches – pratiques « remédiatrices », pratiques technicistes, pratiques libératrices
   – un discours récurrent
   – le rôle du langage écrit
   5. De l’intérêt de l’écriture littéraire au collège

@@ -1,6 +1,6 @@
 ---
 id: 12011
-title: Rencontre avec quatre auteurs : Nadine Brun-Cosme, Pef, François Place et
+title: Rencontre avec quatre auteurs – Nadine Brun-Cosme, Pef, François Place et
   Claude Ponti
 rubrique: Littérature de jeunesse
 annee: 2008

@@ -1,6 +1,6 @@
 ---
 id: 11873
-title:  Sébastien Japrisot : « Un long dimanche de fiançailles » 
+title:  Sébastien Japrisot – « Un long dimanche de fiançailles » 
 rubrique: Lecture cursive [2de]
 annee: 2002
 magazine: n°4 1er octobre 2002

@@ -1,6 +1,6 @@
 ---
 id: 4163
-title: Honoré de Balzac : « Un drame au bord de la mer »
+title: Honoré de Balzac – « Un drame au bord de la mer »
 rubrique: Nouvelles [2de]
 annee: 2000
 magazine: n°9 15 janvier 2001

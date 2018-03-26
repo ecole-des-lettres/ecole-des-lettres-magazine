@@ -1,6 +1,6 @@
 ---
 id: 1602
-title: Anne Fine : « Bébés de farine ». Lecture cursive  
+title: Anne Fine – « Bébés de farine ». Lecture cursive  
 rubrique: Littérature de jeunesse et humour [4e-3e]
 annee: 1994
 magazine: n°13-14 30 juin 1995

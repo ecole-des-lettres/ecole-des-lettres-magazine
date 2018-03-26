@@ -6,8 +6,8 @@ rubrique: Album / Histoire
 annee: 2014
 magazine: n°1
 pages: 8
-description: Projet pharaonique : Yvan Pommaux s’attaque à l’histoire du monde. Il
-  est défini dès le premier mot du titre : « Nous, notre Histoire ». Il s’agit donc
+description: Projet pharaonique – Yvan Pommaux s’attaque à l’histoire du monde. Il
+  est défini dès le premier mot du titre – « Nous, notre Histoire ». Il s’agit donc
   de nous raconter nous, les hommes d’une même planète, embarqués dans une histoire
   commune depuis les origines...
 article_pdf: 12697.pdf

@@ -1,6 +1,6 @@
 ---
 id: 3051
-title: Comment mettre en place un atelier d’écriture : les difficultés d’écriture
+title: Comment mettre en place un atelier d’écriture – les difficultés d’écriture
   narrative des élèves
 rubrique: Atelier décriture [5e-3e]
 annee: 1998

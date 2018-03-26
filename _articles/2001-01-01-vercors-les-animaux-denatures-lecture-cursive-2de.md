@@ -1,6 +1,6 @@
 ---
 id: 11868
-title: Vercors : « Les Animaux dénaturés » 
+title: Vercors – « Les Animaux dénaturés » 
 rubrique: Lecture cursive [2de]
 annee: 2001
 magazine: n°4 1er octobre 2001

@@ -25,10 +25,10 @@ description:
   – didactique du texte littéraire et niveaux de lecture 
   – didactique du texte poétique 
   – la sémiotique et le texte
-  Ont participé à ce numéro :
+  Ont participé à ce numéro – 
   Denis Bertrand, Jacqueline Biard, Annick Bouillaguet, Colette Camelin, Françoise Cordier, Frédérique Denis, Hiltraud Dupuy, Jean-Claude Larrat, Michel Massacret, Michel Mathias, Alain Pagès, Sylvie Plane, Michel Tamine et Martine Valdinoci-Carret
 article_pdf: 5076.pdf
-magazine_special: Français : les enjeux de la didactique du français
+magazine_special: Français – les enjeux de la didactique du français
 revue: L’école des lettres des lycées
 disciplines:
 - lettres

@@ -1,7 +1,7 @@
 ---
 id: 2149
 title: Mots latins directement intégrés au vocabulaire français 
-rubrique: Étude de la langue : lexique [5e-4e]
+rubrique: Étude de la langue – lexique [5e-4e]
 annee: 1995
 magazine: n°7 1er février 1996
 pages: 12

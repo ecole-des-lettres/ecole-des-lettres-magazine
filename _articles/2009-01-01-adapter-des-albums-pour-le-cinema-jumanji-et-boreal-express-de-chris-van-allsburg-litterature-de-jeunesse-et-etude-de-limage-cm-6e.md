@@ -1,6 +1,6 @@
 ---
 id: 11993
-title: Adapter des albums pour le cinéma : « Jumanji » et « Boréal-Express », de
+title: Adapter des albums pour le cinéma – « Jumanji » et « Boréal-Express », de
   Chris Van Allsburg
 rubrique: Littérature de jeunesse et étude de l’image [CM-6e]
 annee: 2009

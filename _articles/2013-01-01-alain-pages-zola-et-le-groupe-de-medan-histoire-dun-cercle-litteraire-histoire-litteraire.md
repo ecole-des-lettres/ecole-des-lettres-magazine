@@ -1,6 +1,6 @@
 ---
 id: 12591
-title: Alain Pagès : « Zola et le groupe de Médan. Histoire d’un cercle littéraire
+title: Alain Pagès – « Zola et le groupe de Médan. Histoire d’un cercle littéraire
   »
 rubrique: Histoire littéraire
 annee: 2013

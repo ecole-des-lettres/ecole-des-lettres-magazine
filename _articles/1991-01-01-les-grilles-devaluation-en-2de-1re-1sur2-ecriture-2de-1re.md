@@ -6,7 +6,7 @@ annee: 1991
 magazine: n°3 15 octobre 1991
 pages: 6
 description: 
-  Présentation de grilles d’évaluation pour l’enseignement du français au lycée :
+  Présentation de grilles d’évaluation pour l’enseignement du français au lycée – 
   – une fiche d’évaluation
   – une grille d’évaluation du résumé
   – une grille d’évaluation de la discussion

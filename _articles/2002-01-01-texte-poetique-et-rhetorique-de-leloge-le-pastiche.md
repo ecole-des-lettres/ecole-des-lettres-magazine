@@ -9,7 +9,7 @@ description: Cet article propose des ateliers d’écriture d’invention pour u
   de seconde ou de première. Ces exercices peuvent s’inscrire dans un objet d’étude
   consacré aux textes poétiques (ces textes relèvent ici du registre de l’éloge à
   travers la description d’un fruit). Les consignes d’écriture sont élaborées à partir
-  des caractéristiques des textes proposés. L’objectif de ces exercices est double :
+  des caractéristiques des textes proposés. L’objectif de ces exercices est double – 
   lire pour écrire et écrire pour mieux lire. Il s’agit de produire un pastiche du
   texte étudié. Écrire un pastiche semble particulièrement formateur pour les élèves.
   En effet, ils doivent relever les « stylèmes » (les traits caractéristiques propres

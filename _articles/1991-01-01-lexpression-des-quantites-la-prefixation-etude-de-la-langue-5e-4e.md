@@ -1,6 +1,6 @@
 ---
 id: 535
-title: L’expression des quantités : la préfixation 
+title: L’expression des quantités – la préfixation 
 rubrique: Étude de la langue [5e-4e]
 annee: 1991
 magazine: n°12-13 1er juin 1992

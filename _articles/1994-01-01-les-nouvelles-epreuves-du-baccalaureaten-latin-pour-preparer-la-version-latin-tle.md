@@ -1,6 +1,6 @@
 ---
 id: 1678
-title: Les nouvelles épreuves du baccalauréat en latin : pour préparer la version  
+title: Les nouvelles épreuves du baccalauréat en latin – pour préparer la version  
 rubrique: Latin [Tle]
 annee: 1994
 magazine: n°3 1er novembre 1994

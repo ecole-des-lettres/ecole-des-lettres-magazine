@@ -1,7 +1,7 @@
 ---
 id: 4634
 title: Le « roman parlant » ou la littérature à l’âge démocratique
-rubrique: Roman et personnages : littérature et oralité [1re]
+rubrique: Roman et personnages – littérature et oralité [1re]
 annee: 2002
 magazine: 2002
 pages: 30

@@ -1,6 +1,6 @@
 ---
 id: 3386
-title: Éric Holder : « Mademoiselle Chambon »
+title: Éric Holder – « Mademoiselle Chambon »
 rubrique: Préparation au brevet [3e]
 annee: 1998
 magazine: n°9 15 janvier 1999

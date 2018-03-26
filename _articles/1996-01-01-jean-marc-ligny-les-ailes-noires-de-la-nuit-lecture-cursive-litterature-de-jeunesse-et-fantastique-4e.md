@@ -1,6 +1,6 @@
 ---
 id: 2226
-title: Jean-Marc Ligny : « Les Ailes noires de la nuit ». Lecture cursive 
+title: Jean-Marc Ligny – « Les Ailes noires de la nuit ». Lecture cursive 
 rubrique: Littérature de jeunesse et fantastique [4e]
 annee: 1996
 magazine: n°10 15 mars 1997

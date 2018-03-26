@@ -8,7 +8,7 @@ pages: 10
 description: 
   1. Les textes d’une morale laïque ne peuvent se passer d’auteur
   2. Transition entre l’enseignement de la morale et celui des connaissances
-  3. L’abolition du triangle scolaire : auteur / professeur / élève
+  3. L’abolition du triangle scolaire – auteur / professeur / élève
 article_pdf: 1398.pdf
 magazine_special: Histoire littéraire et enseignement
 revue: L’école des lettres des lycées

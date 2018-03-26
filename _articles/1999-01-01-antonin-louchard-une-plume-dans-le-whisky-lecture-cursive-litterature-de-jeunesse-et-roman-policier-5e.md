@@ -1,6 +1,6 @@
 ---
 id: 3441
-title: Antonin Louchard : « Une plume dans le whisky ». Lecture cursive
+title: Antonin Louchard – « Une plume dans le whisky ». Lecture cursive
 rubrique: Littérature de jeunesse et roman policier [5e]
 annee: 1999
 magazine: n°10 15 février 2000

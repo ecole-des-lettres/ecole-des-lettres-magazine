@@ -1,6 +1,6 @@
 ---
 id: 2572
-title: André Malraux : « La Voie royale ». Condition humaine et parcours initiatique.
+title: André Malraux – « La Voie royale ». Condition humaine et parcours initiatique.
   Étude d’extraits 
 rubrique: Roman et personnages [1re]
 annee: 1996

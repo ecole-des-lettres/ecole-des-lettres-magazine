@@ -1,6 +1,6 @@
 ---
 id: 11673
-title: H. G. Wells : « La Guerre des mondes »
+title: H. G. Wells – « La Guerre des mondes »
 rubrique: Science-fiction et préparation à la seconde [3e]
 annee: 2006
 magazine: 

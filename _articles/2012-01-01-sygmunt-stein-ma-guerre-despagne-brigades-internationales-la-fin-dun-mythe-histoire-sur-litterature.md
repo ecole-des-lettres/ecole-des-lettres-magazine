@@ -1,6 +1,6 @@
 ---
 id: 12369
-title: Sygmunt Stein : « Ma guerre d’Espagne. Brigades internationales : la fin d’un
+title: Sygmunt Stein – « Ma guerre d’Espagne. Brigades internationales – la fin d’un
   mythe »
 rubrique: Histoire / Littérature
 annee: 2012
@@ -35,7 +35,7 @@ niveau_etudes:
 - agrégation
 - CAPES
 oeuvres:
-- Ma guerre d’Espagne. Brigades internationales : la fin d’un mythe
+- Ma guerre d’Espagne. Brigades internationales – la fin d’un mythe
 ecrivains:
 - Sygmunt Stein
 ---

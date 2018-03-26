@@ -1,6 +1,6 @@
 ---
 id: 11511
-title: Entretien avec Marie Bernanoce : À la découverte de cent et une pièces
+title: Entretien avec Marie Bernanoce – À la découverte de cent et une pièces
 rubrique: Théâtre jeune public
 annee: 2006
 magazine: n°7 mars-avril 2007

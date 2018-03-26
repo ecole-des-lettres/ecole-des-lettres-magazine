@@ -1,6 +1,6 @@
 ---
 id: 12254
-title: Xavier-Laurent Petit : « Un très bon plan »
+title: Xavier-Laurent Petit – « Un très bon plan »
 rubrique: Littérature / Éducation
 annee: 2013
 magazine: septembre 20123

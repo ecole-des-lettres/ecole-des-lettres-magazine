@@ -1,6 +1,6 @@
 ---
 id: 11628
-title: Héros et médias : pistes de réflexion 
+title: Héros et médias – pistes de réflexion 
 rubrique: Éducation aux médias [6e-3e]
 annee: 2007
 magazine: n°3-4 2007-2008

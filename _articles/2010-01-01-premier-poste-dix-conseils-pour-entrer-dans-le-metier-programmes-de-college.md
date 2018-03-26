@@ -1,6 +1,6 @@
 ---
 id: 12057
-title: Premier poste : dix conseils pour entrer dans le métier
+title: Premier poste – dix conseils pour entrer dans le métier
 rubrique: Programmes de collège
 annee: 2010
 magazine: n°2-3 2010-2011

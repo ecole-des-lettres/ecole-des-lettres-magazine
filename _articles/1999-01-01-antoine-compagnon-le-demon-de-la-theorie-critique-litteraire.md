@@ -1,6 +1,6 @@
 ---
 id: 3639
-title: Antoine Compagnon : « Le Démon de la théorie »
+title: Antoine Compagnon – « Le Démon de la théorie »
 rubrique: Critique littéraire
 annee: 1999
 magazine: n°4 1er octobre 1999

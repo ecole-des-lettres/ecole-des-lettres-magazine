@@ -1,6 +1,6 @@
 ---
 id: 12037
-title: Brigitte Luciani et Ève Tharlet : « Remue-Ménage » (série « M. Blaireau et
+title: Brigitte Luciani et Ève Tharlet – « Remue-Ménage » (série « M. Blaireau et
   Mme Renarde »). Étude intégrale 
 rubrique: Bande dessinée [CM-6e]
 annee: 2010

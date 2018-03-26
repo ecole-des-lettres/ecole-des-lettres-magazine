@@ -1,6 +1,6 @@
 ---
 id: 12470
-title: Emmanuel Carrère : « Limonov »
+title: Emmanuel Carrère – « Limonov »
 rubrique: Roman contemporain
 annee: 2011
 magazine: septembre 2011

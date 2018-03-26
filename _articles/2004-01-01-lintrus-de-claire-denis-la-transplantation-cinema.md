@@ -1,6 +1,6 @@
 ---
 id: 11255
-title: « L’Intrus », de Claire Denis : la transplantation
+title: « L’Intrus », de Claire Denis – la transplantation
 rubrique: Cinéma
 annee: 2004
 magazine: n°9 mai 2005

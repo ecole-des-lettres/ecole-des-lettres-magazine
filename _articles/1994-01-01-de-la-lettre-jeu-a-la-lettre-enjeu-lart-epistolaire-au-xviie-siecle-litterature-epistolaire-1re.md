@@ -1,6 +1,6 @@
 ---
 id: 1529
-title: De la lettre jeu à la lettre enjeu : l’art épistolaire au XVIIe siècle
+title: De la lettre jeu à la lettre enjeu – l’art épistolaire au XVIIe siècle
 rubrique: Littérature épistolaire [1re]
 annee: 1994
 magazine: n°11 1er mai 1995

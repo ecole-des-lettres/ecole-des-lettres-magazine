@@ -1,6 +1,6 @@
 ---
 id: 11714
-title: Anne Fine : « Au secours, c’est Noël ! ». Lecture cursive 
+title: Anne Fine – « Au secours, c’est Noël ! ». Lecture cursive 
 rubrique: Littérature de jeunesse et humour [6e-5e]
 annee: 2006
 magazine: 

@@ -1,6 +1,6 @@
 ---
 id: 3328
-title: Guy de Maupassant : « Une vie » 
+title: Guy de Maupassant – « Une vie » 
 rubrique: Préparation à la seconde [3e]
 annee: 1998
 magazine: n°7 1er décembre 1998

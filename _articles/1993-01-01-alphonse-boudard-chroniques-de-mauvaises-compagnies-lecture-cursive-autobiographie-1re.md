@@ -1,6 +1,6 @@
 ---
 id: 1413
-title: Alphonse Boudard : « Chroniques de mauvaises compagnies ». Lecture cursive 
+title: Alphonse Boudard – « Chroniques de mauvaises compagnies ». Lecture cursive 
 rubrique: Autobiographie [1re]
 annee: 1993
 magazine: n°8 15 février 1994

@@ -19,7 +19,7 @@ description:
   – les textes proposés aux étudiants
   – l’exercice de la synthèse
 article_pdf: 564.pdf
-magazine_special: BTS : enseignement du français en BTS
+magazine_special: BTS – enseignement du français en BTS
 revue: L’école des lettres des lycées
 auteurs:
 - Myriam Jacquemier

@@ -1,6 +1,6 @@
 ---
 id: 11657
-title: Valérie Zenatti : « Une bouteille dans la mer de Gaza ». Lecture cursive
+title: Valérie Zenatti – « Une bouteille dans la mer de Gaza ». Lecture cursive
 rubrique: Littérature de jeunesse et histoire contemporaine [3e]
 annee: 2006
 magazine: 2007
@@ -9,7 +9,7 @@ description: L’histoire est celle d’un échange de courriels entre une jeune
   de Jérusalem et un jeune Palestinien.  Elle, Tal, supplie son correspondant de répondre
   à sa demande d’engager le dialogue pour espérer croiser deux univers que tout oppose.
   Lui, habitant de Gaza, se réfugie au départ dans les sarcasmes et les accès de colère.
-  Puis viennent les premiers aveux : « On porte tous notre peuple sur le dos, c’est
+  Puis viennent les premiers aveux – « On porte tous notre peuple sur le dos, c’est
   lourd, lourd, lourd, ça écrase, ça donne envie de fermer les yeux. » Petit à petit,
   ils apprennent à s’écouter. Pour autant, leur bonne volonté ne suffit pas à les
   rendre maîtres de leur destin. C’est l’intérêt du roman que de montrer comment le

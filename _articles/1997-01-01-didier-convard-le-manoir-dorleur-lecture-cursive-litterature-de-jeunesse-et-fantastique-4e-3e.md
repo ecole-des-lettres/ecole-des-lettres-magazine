@@ -1,6 +1,6 @@
 ---
 id: 2974
-title: Didier Convard : « Le Manoir d’Orleur ». Lecture cursive
+title: Didier Convard – « Le Manoir d’Orleur ». Lecture cursive
 rubrique: Littérature de jeunesse et fantastique [4e-3e]
 annee: 1997
 magazine: n°9 15 janvier 1998

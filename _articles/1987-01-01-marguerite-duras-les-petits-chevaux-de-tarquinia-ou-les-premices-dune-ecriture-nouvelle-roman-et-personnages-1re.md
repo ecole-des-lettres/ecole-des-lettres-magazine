@@ -1,6 +1,6 @@
 ---
 id: 78
-title: Marguerite Duras : « Les Petits Chevaux de Tarquinia », ou les prémices d’une
+title: Marguerite Duras – « Les Petits Chevaux de Tarquinia », ou les prémices d’une
   écriture nouvelle
 rubrique: Roman et personnages [1re]
 annee: 1987
@@ -13,7 +13,7 @@ description:
   4. Les différentes figures de l’amour dans le roman
   5. Un roman contestataire
 article_pdf: 78.pdf
-magazine_special: Duras : de Vinh Long à Calcutta
+magazine_special: Duras – de Vinh Long à Calcutta
 revue: L’école des lettres des lycées
 auteurs:
 - Monique Pinthon

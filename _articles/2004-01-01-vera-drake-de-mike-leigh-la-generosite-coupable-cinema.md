@@ -1,6 +1,6 @@
 ---
 id: 11228
-title: « Vera Drake », de Mike Leigh : la générosité coupable
+title: « Vera Drake », de Mike Leigh – la générosité coupable
 rubrique: Cinéma
 annee: 2004
 magazine: n°7 mars 2005

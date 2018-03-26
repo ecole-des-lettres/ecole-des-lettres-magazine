@@ -1,6 +1,6 @@
 ---
 id: 11336
-title: « Mary », d’Abel Ferrara : le pouvoir de la grâce
+title: « Mary », d’Abel Ferrara – le pouvoir de la grâce
 rubrique: Cinéma
 annee: 2005
 magazine: n°6-7 janvier 2006

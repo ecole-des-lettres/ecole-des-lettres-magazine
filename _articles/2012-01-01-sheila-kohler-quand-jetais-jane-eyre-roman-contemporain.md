@@ -1,6 +1,6 @@
 ---
 id: 12425
-title: Sheila Kohler : « Quand j’étais Jane Eyre »
+title: Sheila Kohler – « Quand j’étais Jane Eyre »
 rubrique: Roman contemporain
 annee: 2012
 magazine: février 2012

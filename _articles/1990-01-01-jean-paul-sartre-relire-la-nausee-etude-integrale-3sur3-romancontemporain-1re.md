@@ -1,13 +1,13 @@
 ---
 id: 162
-title: Jean-Paul Sartre : relire « La Nausée ». Étude intégrale (3/3) 
+title: Jean-Paul Sartre – relire « La Nausée ». Étude intégrale (3/3) 
 rubrique: Romancontemporain [1re]
 annee: 1990
 magazine: n°10 15 mars 1991
 pages: 4
 description: 
   1. Des propositions d’études de textes
-  2. Des questions d’ensemble :
+  2. Des questions d’ensemble – 
   – un roman « moderne »
   – un « genre faux »
   – un nouveau « mal du siècle »

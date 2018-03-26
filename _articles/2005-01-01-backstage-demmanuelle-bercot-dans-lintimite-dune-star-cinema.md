@@ -1,6 +1,6 @@
 ---
 id: 11313
-title: « Backstage », d’Emmanuelle Bercot : dans l’intimité d’une star
+title: « Backstage », d’Emmanuelle Bercot – dans l’intimité d’une star
 rubrique: Cinéma
 annee: 2005
 magazine: n°4 1er novembre 2005

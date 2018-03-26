@@ -1,6 +1,6 @@
 ---
 id: 11087
-title: Vercors : « Le Silence de la mer »
+title: Vercors – « Le Silence de la mer »
 rubrique: Préparation à la seconde [3e]
 annee: 2004
 magazine: n°3 1er novembre 2004

@@ -1,6 +1,6 @@
 ---
 id: 3232
-title: Jean Giraudoux : « Électre ». Dissertation 
+title: Jean Giraudoux – « Électre ». Dissertation 
 rubrique: Théâtre [1re]
 annee: 1998
 magazine: n°4 1er octobre 1998

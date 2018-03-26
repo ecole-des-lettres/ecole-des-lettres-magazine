@@ -1,6 +1,6 @@
 ---
 id: 5316
-title: « Les Mains vides », Marc Recha : la culpabilité coupable
+title: « Les Mains vides », Marc Recha – la culpabilité coupable
 rubrique: Cinéma
 annee: 2003
 magazine: n°11 1er mai 2004

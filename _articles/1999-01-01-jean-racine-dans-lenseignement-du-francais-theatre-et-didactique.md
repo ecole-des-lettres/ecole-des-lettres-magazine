@@ -9,9 +9,9 @@ description:
   – Comment Racine est-il étudié au lycée ? Réflexion sur les approches du théâtre de Racine dans le secondaire…
   – Comment Racine est-il étudié au Québec ?
   – Approche des textes dramatiques de Racine par le jeu théâtral…
-  1. Pour Racine : entrées de jeu
+  1. Pour Racine – entrées de jeu
   2. Comment commencer une séquence sur une pièce de Racine ?
-  – exemple : « Iphigénie »
+  – exemple – « Iphigénie »
 article_pdf: 3568.pdf
 revue: L’école des lettres des lycées
 auteurs:

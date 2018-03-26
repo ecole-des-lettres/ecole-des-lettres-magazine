@@ -1,13 +1,13 @@
 ---
 id: 1805
-title: François-René de Chateaubriand : « Mémoires d’outre-tombe ». Étude d’extrait
-  : un texte descriptif : « Le Château de Combourg »
+title: François-René de Chateaubriand – « Mémoires d’outre-tombe ». Étude d’extrait
+  – un texte descriptif – « Le Château de Combourg »
 rubrique: Mémoires [3e-2de]
 annee: 1994
 magazine: n°8 1er mars 1995
 pages: 4
 description: 
-  Objectif : analyser le fonctionnement d’une description…
+  Objectif – analyser le fonctionnement d’une description…
   1. Un tableau observé par un spectateur attentif
   2. Un tableau structuré
   – disposition typographique

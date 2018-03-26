@@ -1,11 +1,11 @@
 ---
 id: 4484
-title: André Malraux : pensée sur l’art et engagement politique
+title: André Malraux – pensée sur l’art et engagement politique
 rubrique: Roman et personnages [1re]
 annee: 2001
 magazine: n°6 15 novembre 2001
 pages: 16
-description: On voudrait partir d’une coïncidence qui a l’allure d’un paradoxe :
+description: On voudrait partir d’une coïncidence qui a l’allure d’un paradoxe – 
   les années 1930, période majeure de l’engagement politique d’André Malraux, sont
   aussi celles où sa pensée et ses projets d’écrits sur l’art ancrent leur genèse
   et commencent de trouver leur principe. On pourrait penser que l’urgence et les

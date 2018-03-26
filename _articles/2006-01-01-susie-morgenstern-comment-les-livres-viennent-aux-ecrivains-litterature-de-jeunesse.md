@@ -1,6 +1,6 @@
 ---
 id: 11644
-title: Susie Morgenstern : comment les livres viennent aux écrivains
+title: Susie Morgenstern – comment les livres viennent aux écrivains
 rubrique: Littérature de jeunesse
 annee: 2006
 magazine: n°3 2006-2007

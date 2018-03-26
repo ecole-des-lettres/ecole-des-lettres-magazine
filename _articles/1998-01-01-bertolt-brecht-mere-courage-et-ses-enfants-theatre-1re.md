@@ -1,6 +1,6 @@
 ---
 id: 3362
-title: Bertolt Brecht : « Mère Courage et ses enfants »
+title: Bertolt Brecht – « Mère Courage et ses enfants »
 rubrique: Théâtre [1re]
 annee: 1998
 magazine: n°8 15 décembre 1998

@@ -8,7 +8,7 @@ magazine: n°14 15 mai 1997
 pages: 13
 description: Modalités et  fonction de la pastorale dans ces trois œuvres.
 article_pdf: 2350.pdf
-magazine_special: La Fontaine : Adonis, le Songe de Vaux, les Amours de Psyché
+magazine_special: La Fontaine – Adonis, le Songe de Vaux, les Amours de Psyché
 revue: L’école des lettres des lycées
 auteurs:
 - Françoise Lavocat

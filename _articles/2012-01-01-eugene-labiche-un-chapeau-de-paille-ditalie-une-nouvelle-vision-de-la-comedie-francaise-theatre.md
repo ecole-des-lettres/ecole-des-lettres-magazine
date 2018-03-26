@@ -1,6 +1,6 @@
 ---
 id: 12367
-title: Eugène Labiche : « Un chapeau de paille d’Italie ». Une nouvelle vision de
+title: Eugène Labiche – « Un chapeau de paille d’Italie ». Une nouvelle vision de
   la Comédie-Française
 rubrique: Théâtre
 annee: 2012

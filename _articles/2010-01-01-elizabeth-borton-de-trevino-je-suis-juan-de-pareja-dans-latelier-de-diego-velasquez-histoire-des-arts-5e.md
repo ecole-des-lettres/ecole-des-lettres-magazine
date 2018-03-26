@@ -1,6 +1,6 @@
 ---
 id: 12070
-title: Elizabeth Borton de Treviño : « Je suis Juan de Pareja ». Dans l’atelier de
+title: Elizabeth Borton de Treviño – « Je suis Juan de Pareja ». Dans l’atelier de
   Diego Vélasquez 
 rubrique: Histoire des arts [5e]
 annee: 2010

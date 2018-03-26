@@ -1,6 +1,6 @@
 ---
 id: 358
-title: Patrice de La Tour du Pin : « Somme de poésie »
+title: Patrice de La Tour du Pin – « Somme de poésie »
 rubrique: Poésie  [1re]
 annee: 1990
 magazine: n°6 15 décembre 1990

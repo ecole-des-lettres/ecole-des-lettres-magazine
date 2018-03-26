@@ -1,6 +1,6 @@
 ---
 id: 18
-title: Charles Du Bos : « Journal ». Lecture cursive
+title: Charles Du Bos – « Journal ». Lecture cursive
 rubrique: Autobiographie [1re]
 annee: 1985
 magazine: n°11 15 mars 1986

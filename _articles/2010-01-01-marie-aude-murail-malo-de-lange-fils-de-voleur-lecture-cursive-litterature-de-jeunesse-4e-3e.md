@@ -1,6 +1,6 @@
 ---
 id: 12042
-title: Marie-Aude Murail : « Malo de Lange, fils de voleur ». Lecture cursive 
+title: Marie-Aude Murail – « Malo de Lange, fils de voleur ». Lecture cursive 
 rubrique: Littérature de jeunesse [4e-3e]
 annee: 2010
 magazine: n°1 2010-2011

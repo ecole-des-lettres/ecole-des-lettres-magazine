@@ -1,6 +1,6 @@
 ---
 id: 11725
-title: Christian Poslaniec : « La Onzième Souris verte ». Lecture cursive
+title: Christian Poslaniec – « La Onzième Souris verte ». Lecture cursive
 rubrique: Littérature de jeunesse et roman policier [5e-3e]
 annee: 2006
 magazine: 

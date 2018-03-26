@@ -1,6 +1,6 @@
 ---
 id: 12347
-title: Charles Dantzig : « À propos des chefs-d’œuvre »
+title: Charles Dantzig – « À propos des chefs-d’œuvre »
 rubrique: Essai
 annee: 2013
 magazine: janvier 2013

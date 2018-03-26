@@ -7,7 +7,7 @@ magazine: n°11 15 mars 1987
 pages: 3
 description: Tablettes, papyrus et librairies dans l’Antiquité…
 article_pdf: 51.pdf
-magazine_special: Livre : le livre entre l’imaginaire et le réel
+magazine_special: Livre – le livre entre l’imaginaire et le réel
 revue: L’école des lettres des lycées
 auteurs:
 - Francine De Martinoir

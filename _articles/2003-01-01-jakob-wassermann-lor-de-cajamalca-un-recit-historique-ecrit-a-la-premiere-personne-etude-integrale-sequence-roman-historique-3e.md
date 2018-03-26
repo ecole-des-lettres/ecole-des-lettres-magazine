@@ -1,6 +1,6 @@
 ---
 id: 5139
-title: Jakob Wassermann : « L’Or de Cajamalca », un récit historique écrit à la première
+title: Jakob Wassermann – « L’Or de Cajamalca », un récit historique écrit à la première
   personne. Étude intégrale (séquence)
 rubrique: Roman historique [3e]
 annee: 2003
@@ -16,7 +16,7 @@ description: Édité pour la première fois en France en 1989 par l’école des
   à la compréhension de ce récit. La séquence intègre donc des activités de recherche
   et des lectures de textes explicatifs. La confrontation entre l’histoire et la fiction
   permet d’aborder les questions essentielles posées par cette œuvre, qui est une
-  reconstruction des événements empruntant différents procédés : choix de l’instance
+  reconstruction des événements empruntant différents procédés – choix de l’instance
   narrative, traitement du temps et de l’espace, représentation des personnages, expression
   du point de vue.
 article_pdf: 5139.pdf

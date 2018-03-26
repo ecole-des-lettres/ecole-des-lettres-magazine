@@ -1,6 +1,6 @@
 ---
 id: 11351
-title: « Sangre », de Amat Escalante : le nouveau cinéma mexicain
+title: « Sangre », de Amat Escalante – le nouveau cinéma mexicain
 rubrique: Cinéma
 annee: 2005
 magazine: n°8 février 2006

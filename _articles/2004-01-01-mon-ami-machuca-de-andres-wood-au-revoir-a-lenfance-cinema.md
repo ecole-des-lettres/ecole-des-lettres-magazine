@@ -1,6 +1,6 @@
 ---
 id: 11229
-title: « Mon ami Machuca », de Andres Wood : au revoir à l’enfance
+title: « Mon ami Machuca », de Andres Wood – au revoir à l’enfance
 rubrique: Cinéma
 annee: 2004
 magazine: n°7 mars 2005

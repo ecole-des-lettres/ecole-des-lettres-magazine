@@ -1,6 +1,6 @@
 ---
 id: 2690
-title: Pierre Corneille : pouvoir et parenté dans « Cinna », « Rodogune » et « Nicomède
+title: Pierre Corneille – pouvoir et parenté dans « Cinna », « Rodogune » et « Nicomède
   »
 rubrique: Théâtre [2de-1re]
 annee: 1997
@@ -12,7 +12,7 @@ description:
   2. « Nicomède »
   3. « Rodogune »
 article_pdf: 2690.pdf
-magazine_special: Théâtre : Corneille, Molière, Shakespeare, Strindberg
+magazine_special: Théâtre – Corneille, Molière, Shakespeare, Strindberg
 revue: L’école des lettres des lycées
 auteurs:
 - Thérèse Lassalle-Maraval

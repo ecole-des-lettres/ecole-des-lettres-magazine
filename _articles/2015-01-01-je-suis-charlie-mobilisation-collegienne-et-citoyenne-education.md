@@ -1,6 +1,6 @@
 ---
 id: 12910
-title: « Je suis Charlie » : mobilisation collégienne et citoyenne
+title: « Je suis Charlie » – mobilisation collégienne et citoyenne
 rubrique: Éducation
 annee: 2015
 magazine: janvier 2015

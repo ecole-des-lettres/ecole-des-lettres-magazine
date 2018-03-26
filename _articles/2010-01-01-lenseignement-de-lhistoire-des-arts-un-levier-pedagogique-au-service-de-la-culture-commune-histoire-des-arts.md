@@ -1,6 +1,6 @@
 ---
 id: 12062
-title: L’enseignement de l’histoire des arts : un levier pédagogique au service de
+title: L’enseignement de l’histoire des arts – un levier pédagogique au service de
   la culture commune
 rubrique: Histoire des arts
 annee: 2010

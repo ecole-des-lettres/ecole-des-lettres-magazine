@@ -1,6 +1,6 @@
 ---
 id: 4988
-title: Honoré de Balzac : « La Comédie humaine », œuvre autobioromanesque ou autofiction ?
+title: Honoré de Balzac – « La Comédie humaine », œuvre autobioromanesque ou autofiction ?
 rubrique: Autobiographie [1re]
 annee: 2002
 magazine: n°12 mai 2003

@@ -10,7 +10,7 @@ description:
   1. Précis d’analyse
   2. Sémiotique et didactique du français langue étrangère
 article_pdf: 1098.pdf
-magazine_special: Français : les enjeux de la didactique du français
+magazine_special: Français – les enjeux de la didactique du français
 revue: L’école des lettres des lycées
 auteurs:
 - Denis Bertrand

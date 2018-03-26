@@ -1,6 +1,6 @@
 ---
 id: 12964
-title: Scènes de la mémoire (III). 1951 : « Le Prince de Hombourg », par Jean-Pierre
+title: Scènes de la mémoire (III). 1951 – « Le Prince de Hombourg », par Jean-Pierre
   Jourdain
 rubrique: Théâtre
 annee: 2014

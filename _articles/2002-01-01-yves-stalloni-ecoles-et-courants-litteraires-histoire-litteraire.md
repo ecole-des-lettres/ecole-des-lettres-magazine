@@ -1,6 +1,6 @@
 ---
 id: 4911
-title: Yves Stalloni : « Écoles et courants littéraires »
+title: Yves Stalloni – « Écoles et courants littéraires »
 rubrique: Histoire littéraire
 annee: 2002
 magazine: n°5 1er novembre 2002

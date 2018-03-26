@@ -1,12 +1,12 @@
 ---
 id: 5178
-title: Victor Hugo : la préface de « Cromwell ». Étude intégrale
+title: Victor Hugo – la préface de « Cromwell ». Étude intégrale
 rubrique: Théâtre [2de]
 annee: 2002
 magazine: n°14 juin 2003
 pages: 15
 description: 
-  L’idée majeure qui traverse et sous-tend les textes que Hugo écrit sur le théâtre – mais c’est l’idée qui fonde toute son œuvre –, c’est que la vérité des choses, la vérité du monde, la vérité des hommes est dans le bas. Ne déclare-t-il pas : « Le sublime est en bas » ?…
+  L’idée majeure qui traverse et sous-tend les textes que Hugo écrit sur le théâtre – mais c’est l’idée qui fonde toute son œuvre –, c’est que la vérité des choses, la vérité du monde, la vérité des hommes est dans le bas. Ne déclare-t-il pas – « Le sublime est en bas » ?…
   1. « Le sublime est en bas »
   2. Le « monde réel », unique objet de l’art
   3. La thèse de l’« homme double »

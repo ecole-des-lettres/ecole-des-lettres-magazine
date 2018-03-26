@@ -1,6 +1,6 @@
 ---
 id: 11205
-title: « Mon trésor », de Keren Yedaya : la rigueur d’une mise en scène
+title: « Mon trésor », de Keren Yedaya – la rigueur d’une mise en scène
 rubrique: Cinéma
 annee: 2004
 magazine: n°5 janvier 2005

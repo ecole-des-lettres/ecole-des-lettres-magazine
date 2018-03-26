@@ -1,6 +1,6 @@
 ---
 id: 1497
-title: Nathalie Sarraute : « Enfance ». Étude d’extraits 
+title: Nathalie Sarraute – « Enfance ». Étude d’extraits 
 rubrique: Romans du XXe siècle [3e]
 annee: 1994
 magazine: n°10 15 avril 1995

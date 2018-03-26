@@ -1,6 +1,6 @@
 ---
 id: 2410
-title: James Joyce : « Gens de Dublin ». Les incertitudes de la subjectivité 
+title: James Joyce – « Gens de Dublin ». Les incertitudes de la subjectivité 
 rubrique: Roman [classes préparatoires et concours]
 annee: 1996
 magazine: 1996

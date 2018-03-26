@@ -1,6 +1,6 @@
 ---
 id: 63
-title: Gérard de Nerval : « Le Voyage en Orient ». Étude d’extrait
+title: Gérard de Nerval – « Le Voyage en Orient ». Étude d’extrait
 rubrique: Autobiographie [1re]
 annee: 1987
 magazine: n°12 15 avril 1988

@@ -1,6 +1,6 @@
 ---
 id: 2251
-title: Chrétien de Troyes : les présences féminines dans le « Lancelot »
+title: Chrétien de Troyes – les présences féminines dans le « Lancelot »
 rubrique: Littérature médiévale [Tle]
 annee: 1996
 magazine: n°10 1er mars 1997
@@ -9,7 +9,7 @@ description: Afin de mieux cerner la place qu’occupent les femmes dans le « 
   cet article les présente physiquement, moralement et socialement avant d’étudier
   leur fonction narrative.
 article_pdf: 2251.pdf
-magazine_special: Chrétien de Troyes : Lancelot ou le Chevalier de la charrette
+magazine_special: Chrétien de Troyes – Lancelot ou le Chevalier de la charrette
 revue: L’école des lettres des lycées
 auteurs:
 - Lydie Louison

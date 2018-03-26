@@ -1,6 +1,6 @@
 ---
 id: 2060
-title: Émile Zola : « De la critique ». Étude d’un texte argumentatif 
+title: Émile Zola – « De la critique ». Étude d’un texte argumentatif 
 rubrique: Argumentation [1re]
 annee: 1995
 magazine: n°5 15 décembre 1995

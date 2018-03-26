@@ -1,6 +1,6 @@
 ---
 id: 11226
-title: « Terre et cendres »,  d’Atiq Rahimi : le poids du pathos
+title: « Terre et cendres »,  d’Atiq Rahimi – le poids du pathos
 rubrique: Cinéma
 annee: 2004
 magazine: n°7 mars 2005

@@ -1,6 +1,6 @@
 ---
 id: 11314
-title: « Match Point », de Woody Allen : la vie est une partie de tennis
+title: « Match Point », de Woody Allen – la vie est une partie de tennis
 rubrique: Cinéma
 annee: 2005
 magazine: n°4 1er novembre 2005

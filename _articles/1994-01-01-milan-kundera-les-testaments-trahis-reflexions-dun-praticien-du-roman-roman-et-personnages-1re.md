@@ -1,6 +1,6 @@
 ---
 id: 1742
-title: Milan Kundera : « Les Testaments trahis ». Réflexions d’un praticien du roman 
+title: Milan Kundera – « Les Testaments trahis ». Réflexions d’un praticien du roman 
 rubrique: Roman et personnages [1re]
 annee: 1994
 magazine: n°6 15 janvier 1995

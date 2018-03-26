@@ -1,6 +1,6 @@
 ---
 id: 1341
-title: Valery Larbaud : « Les Poésies de A. O. Barnabooth » 
+title: Valery Larbaud – « Les Poésies de A. O. Barnabooth » 
 rubrique: Poésie [1re]
 annee: 1993
 magazine: n°5 1er décembre 1993
@@ -12,7 +12,7 @@ description:
   4. « Les Poésies de A. O. Barnabooth » en leur temps
   5. Construction et thématique
   – construction
-  – thématique : les espaces ; la mémoire
+  – thématique – les espaces ; la mémoire
   – la quête de quelle identité ?
   6. Barnabooth, Tournier de Zamble et Larbaud
   7. Un art poétique

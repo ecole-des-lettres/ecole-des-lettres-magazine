@@ -9,7 +9,7 @@ description: Longtemps méprisée, voire exclue, par bien des familles et des en
   la BD a conquis progressivement sa place auprès des élèves – et des éducateurs.
   Or, depuis plusieurs années, en incluant un certain nombre de bandes dessinées dans
   ses recommandations de lecture, le ministère de  l’Éducation nationale a donné au
-  genre un autre statut : il reconnaît la qualité de nombreux titres et leur intérêt
+  genre un autre statut – il reconnaît la qualité de nombreux titres et leur intérêt
   pour les élèves...
 article_pdf: 11964.pdf
 magazine_special: La bande dessinée « jeunesse »

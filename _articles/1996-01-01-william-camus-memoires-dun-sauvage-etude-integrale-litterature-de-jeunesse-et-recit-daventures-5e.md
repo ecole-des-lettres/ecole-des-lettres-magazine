@@ -1,6 +1,6 @@
 ---
 id: 2412
-title: William Camus : « Mémoires d’un sauvage ». Étude intégrale 
+title: William Camus – « Mémoires d’un sauvage ». Étude intégrale 
 rubrique: Littérature de jeunesse et récit d’aventures [5e]
 annee: 1996
 magazine: 1996
@@ -8,7 +8,7 @@ pages: 23
 description: Les « Mémoires d’un sauvage » racontent l’enfance d’un jeune Indien
   dans le Grand Nord canadien. Ce beau livre de William Camus, auteur francophone,
   peut être découvert dès la cinquième, mais il fera l’objet d’une étude plus approfondie
-  en quatrième : en lecture suivie, en étude comparée (analyse d’un genre ou d’un
+  en quatrième – en lecture suivie, en étude comparée (analyse d’un genre ou d’un
   thème) ou en lecture complémentaire. Il peut, en effet, se prêter à de multiples
   exploitations…
 article_pdf: 2412.pdf

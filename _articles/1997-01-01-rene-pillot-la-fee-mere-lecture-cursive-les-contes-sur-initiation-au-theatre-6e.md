@@ -1,6 +1,6 @@
 ---
 id: 2972
-title: René Pillot : « La Fée mère ». Lecture cursive 
+title: René Pillot – « La Fée mère ». Lecture cursive 
 rubrique: Les contes / initiation au théâtre [6e]
 annee: 1997
 magazine: n°9 15 janvier 1998

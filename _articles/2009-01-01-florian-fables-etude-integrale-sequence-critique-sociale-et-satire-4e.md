@@ -1,6 +1,6 @@
 ---
 id: 11986
-title: Florian : « Fables ». Étude intégrale (séquence)
+title: Florian – « Fables ». Étude intégrale (séquence)
 rubrique: Critique sociale et satire [4e]
 annee: 2009
 magazine: n°2 2009-2010
@@ -15,7 +15,7 @@ description: Les Instructions officielles actuellement en vigueur préconisant l
   de Florian constitue donc un parfait exemple de ces textes que les IO invitent à
   mettre en relation avec le programme d’histoire. Elle  permet, par ailleurs, de
   revenir sur le genre de la fable. Cette séquence s’attache donc à redéfinir la fable
-  et la dimension morale qui lui est associée.\nDéroulement de la séquence : douze
+  et la dimension morale qui lui est associée.\nDéroulement de la séquence – douze
   séances. 
 article_pdf: 11986.pdf
 revue: L’école des lettres des collèges

@@ -8,7 +8,7 @@ pages: 10
 description: Les « Fables »  d’Hygin constituent de courts résumés des histoires
   à succès de la mythologie antique. Elles sont faciles à lire, même si les puristes
   n’y trouvent pas forcément leur compte du point de vue de la qualité de la langue.
-  Malgré cela, elles fournissent une base intéressante de travail avec des débutants :
+  Malgré cela, elles fournissent une base intéressante de travail avec des débutants – 
   les répétitions de mots ou de tournures entraînent la mémoire, le vocabulaire est
   simple la plupart du temps, et ce latin-là, dans sa construction même, se rapproche
   du français, ce qui favorise la compréhension.

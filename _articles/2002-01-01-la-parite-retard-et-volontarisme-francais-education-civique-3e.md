@@ -1,6 +1,6 @@
 ---
 id: 4633
-title: La parité : retard et volontarisme français
+title: La parité – retard et volontarisme français
 rubrique: Éducation civique [3e]
 annee: 2002
 magazine: 2002

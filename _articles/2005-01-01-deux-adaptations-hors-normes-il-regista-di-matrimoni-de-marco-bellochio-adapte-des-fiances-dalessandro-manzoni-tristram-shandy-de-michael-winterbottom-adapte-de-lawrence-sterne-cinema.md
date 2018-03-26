@@ -1,6 +1,6 @@
 ---
 id: 11376
-title: Deux adaptations hors normes : « Il Regista di matrimoni », de Marco Bellochio,
+title: Deux adaptations hors normes – « Il Regista di matrimoni », de Marco Bellochio,
   adapté des « Fiancés », d’Alessandro Manzoni. « Tristram Shandy », de Michael Winterbottom,
   adapté de Lawrence Sterne.
 rubrique: Cinéma

@@ -1,6 +1,6 @@
 ---
 id: 11076
-title: Jean-Jacques Greif : « La Cigale et la Télé » : pastiches et réécritures.
+title: Jean-Jacques Greif – « La Cigale et la Télé » – pastiches et réécritures.
   Lecture cursive
 rubrique: Littérature de jeunesse et poésie [5e]
 annee: 2004

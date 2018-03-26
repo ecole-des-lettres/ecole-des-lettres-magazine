@@ -1,6 +1,6 @@
 ---
 id: 3221
-title: Julien Gracq : « Le Rivage des Syrtes » 
+title: Julien Gracq – « Le Rivage des Syrtes » 
 rubrique: Commentaire composé [1re]
 annee: 1998
 magazine: n°3 15 septembre 1998

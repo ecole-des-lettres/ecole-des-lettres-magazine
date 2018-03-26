@@ -9,9 +9,9 @@ description:
   Voilà un siècle et demi que l’histoire de l’image photographique croise les chemins de l’écriture. Alors que se multiplient les ouvrages associant textes et photographies, cet article s’interrogersur les interactions (éventuelles) entre écriture et «écriture» photographique.
   1. La photographie dans le texte
   2. L’image photographique et le texte
-  3. Image photographique et textes : le cas Tournier
+  3. Image photographique et textes – le cas Tournier
 article_pdf: 2789.pdf
-magazine_special: Lecture : le génie du lecteur, colloque de Cerisy
+magazine_special: Lecture – le génie du lecteur, colloque de Cerisy
 revue: L’école des lettres des lycées
 auteurs:
 - Jean-Paul Guichard

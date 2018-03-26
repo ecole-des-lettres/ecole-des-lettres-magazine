@@ -1,6 +1,6 @@
 ---
 id: 11682
-title: Xavier-Laurent Petit : « Maestro ». Lecture cursive
+title: Xavier-Laurent Petit – « Maestro ». Lecture cursive
 rubrique: Littérature de jeunesse [4e-3e]
 annee: 2006
 magazine: 2007

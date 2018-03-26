@@ -1,6 +1,6 @@
 ---
 id: 1787
-title: Maurice Denuzière : « Un chien de saison »  
+title: Maurice Denuzière – « Un chien de saison »  
 rubrique: Préparation au brevet [3e]
 annee: 1994
 magazine: n°7 1er février 1995

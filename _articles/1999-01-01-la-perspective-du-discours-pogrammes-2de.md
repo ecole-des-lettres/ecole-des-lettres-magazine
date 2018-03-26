@@ -7,7 +7,7 @@ magazine: n°7 1er décembre 1999
 pages: 6
 description: La réforme des programmes de français présentée par l’un de ses concepteurs…
 article_pdf: 3733.pdf
-magazine_special: Français (seconde) : nouveaux programmes de 1999 / 2000
+magazine_special: Français (seconde) – nouveaux programmes de 1999 / 2000
 revue: L’école des lettres des lycées
 auteurs:
 - Denis Bertrand

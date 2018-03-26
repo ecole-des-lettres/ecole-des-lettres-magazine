@@ -1,6 +1,6 @@
 ---
 id: 3038
-title: Claude Simon : « La Route des Flandres », un roman poétique ?
+title: Claude Simon – « La Route des Flandres », un roman poétique ?
 rubrique: Roman contemporain [agrégation]
 annee: 1998
 magazine: n°10 1er février 1999

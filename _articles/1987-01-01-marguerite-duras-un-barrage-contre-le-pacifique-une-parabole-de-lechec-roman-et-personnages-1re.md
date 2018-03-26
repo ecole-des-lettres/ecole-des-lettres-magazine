@@ -1,6 +1,6 @@
 ---
 id: 77
-title: Marguerite Duras : « Un barrage contre le Pacifique », une parabole de l’échec
+title: Marguerite Duras – « Un barrage contre le Pacifique », une parabole de l’échec
 rubrique: Roman et personnages [1re]
 annee: 1987
 magazine: n°6 1er décembre 1987
@@ -21,7 +21,7 @@ description:
   – l’amour
   4. Le style
 article_pdf: 77.pdf
-magazine_special: Duras : de Vinh Long à Calcutta
+magazine_special: Duras – de Vinh Long à Calcutta
 revue: L’école des lettres des lycées
 auteurs:
 - Yves Stalloni

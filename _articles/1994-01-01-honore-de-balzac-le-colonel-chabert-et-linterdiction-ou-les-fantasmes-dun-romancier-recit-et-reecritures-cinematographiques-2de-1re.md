@@ -1,6 +1,6 @@
 ---
 id: 1672
-title: Honoré de Balzac : « Le Colonel Chabert » et « L’Interdiction » ou les fantasmes
+title: Honoré de Balzac – « Le Colonel Chabert » et « L’Interdiction » ou les fantasmes
   d’un romancier
 rubrique: Récit et réécritures cinématographiques [2de-1re]
 annee: 1994

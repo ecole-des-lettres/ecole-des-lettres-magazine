@@ -1,6 +1,6 @@
 ---
 id: 4825
-title: Séquences et lecture cursive : activités pour apprendre à choisir un livre
+title: Séquences et lecture cursive – activités pour apprendre à choisir un livre
 rubrique: Interdisciplinarité français, documentation [4e]
 annee: 2002
 magazine: n°11 15 mars 2003

@@ -1,12 +1,12 @@
 ---
 id: 3999
-title: Raymond Queneau : images de la langue médiévale dans « Les Fleurs bleues »
+title: Raymond Queneau – images de la langue médiévale dans « Les Fleurs bleues »
 rubrique: Roman contemporain [Tle]
 annee: 2000
 magazine: n°4 15 octobre 2000
 pages: 21
 description: « Les Fleurs bleues » composent un tableau inattendu et souvent plaisant
-  de quelques épisodes de l’Histoire de France, centrés autour de cinq dates : 1264,
+  de quelques épisodes de l’Histoire de France, centrés autour de cinq dates – 1264,
   1439, 1614, 1789 et 1964. Une grande partie du roman a donc pour cadre le Moyen
   Âge des XIIIe, XIVe et XVe siècles, et son personnage central, le duc d’Auge, a
   beau traverser les époques, il demeure profondément attaché à la civilisation médiévale,

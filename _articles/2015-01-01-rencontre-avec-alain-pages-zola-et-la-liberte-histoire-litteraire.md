@@ -1,6 +1,6 @@
 ---
 id: 12960
-title: Rencontre avec Alain Pagès : Zola et la liberté
+title: Rencontre avec Alain Pagès – Zola et la liberté
 rubrique: Histoire littéraire
 annee: 2015
 magazine: janvier 2015

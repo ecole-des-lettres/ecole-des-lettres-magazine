@@ -1,6 +1,6 @@
 ---
 id: 11701
-title: Susie Morgenstern : « Les Fées du camping ». Lecture cursive autour des contes
+title: Susie Morgenstern – « Les Fées du camping ». Lecture cursive autour des contes
 rubrique: Littérature de jeunesse [cycle3-6e]
 annee: 2006
 magazine: 2007

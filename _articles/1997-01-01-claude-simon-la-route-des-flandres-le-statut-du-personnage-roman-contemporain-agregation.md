@@ -1,6 +1,6 @@
 ---
 id: 2631
-title: Claude Simon : « La Route des Flandres ». Le statut du personnage
+title: Claude Simon – « La Route des Flandres ». Le statut du personnage
 rubrique: Roman contemporain [agrégation]
 annee: 1997
 magazine: n°10 15 février 1998

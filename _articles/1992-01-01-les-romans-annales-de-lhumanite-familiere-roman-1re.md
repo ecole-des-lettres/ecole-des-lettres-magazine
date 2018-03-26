@@ -14,8 +14,8 @@ description:
   2. Proposition de résumé
   3. Explications
   4. Discussion
-  – le roman : un genre large
-  – le roman : un genre « roturier »
+  – le roman – un genre large
+  – le roman – un genre « roturier »
   – ambiguïté de la notion de héros romanesque
 article_pdf: 801.pdf
 revue: L’école des lettres des lycées

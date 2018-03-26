@@ -1,6 +1,6 @@
 ---
 id: 4208
-title: Louis Aragon : les femmes dans « Les Voyageurs de l’impériale »
+title: Louis Aragon – les femmes dans « Les Voyageurs de l’impériale »
 rubrique: Roman [agrégation]
 annee: 2001
 magazine: n°10 15 février 2002

@@ -1,6 +1,6 @@
 ---
 id: 11879
-title: Littérature de jeunesseLao She : « Le Pousse-Pousse »
+title: Littérature de jeunesseLao She – « Le Pousse-Pousse »
 rubrique:  Lecture cursive [2de]
 annee: 2003
 magazine: n°6 1er décembre 2003

@@ -8,7 +8,7 @@ pages: 6
 description: La bande dessinée fut longtemps considérée par de nombreux enseignants
   et parents comme un pis-aller, un substitut à la lecture sérieuse. Depuis plusieurs
   années, elle a fait son entrée au collège en même temps qu’un nouvel et indispensable
-  « objet d’étude » : l’image. Dans les programmes de sixième mis en application à
+  « objet d’étude » – l’image. Dans les programmes de sixième mis en application à
   la rentrée 2009, elle est citée, sous ce rapport, au même titre que fresques et
   polyptyques. Si l’on considère bien la bande dessinée comme le neuvième art, nul
   doute qu’il faille lui donner une place dans une approche didactique de l’histoire

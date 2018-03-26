@@ -1,7 +1,7 @@
 ---
 id: 11670
 title: Entretien avec Gil Tchernia à propos de la publication de l’album « Je ne
-  suis pas contagieux » : un enfant juif prisonnier dans le camp de Drancy
+  suis pas contagieux » – un enfant juif prisonnier dans le camp de Drancy
 rubrique: Histoire / littérature de jeunesse
 annee: 2006
 magazine: 

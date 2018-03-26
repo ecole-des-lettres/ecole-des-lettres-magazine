@@ -1,6 +1,6 @@
 ---
 id: 12464
-title: Olivier Rolin : « Bric et broc »
+title: Olivier Rolin – « Bric et broc »
 rubrique: Roman contemporain
 annee: 2011
 magazine: septembre 2011
@@ -9,7 +9,7 @@ description: « Bric et broc » rassemble des essais et des lectures du romanc
   Rolin. Ces textes ont paru en revues ou ont été prononcés en public. L’auteur les
   a revus avant cette publication et il ajoute des notes de bas de page souvent éclairantes,
   qui précisent le propos quand c’est nécessaire. On les lira comme on aime soi-même
-  bricoler : chercher dans la pensée d’autrui, dans le dialogue des livres de quoi
+  bricoler – chercher dans la pensée d’autrui, dans le dialogue des livres de quoi
   fabriquer sa propre théorie…
 article_pdf: 12464.pdf
 revue: L’école des lettres des lycées

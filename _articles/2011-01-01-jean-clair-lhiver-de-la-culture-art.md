@@ -1,6 +1,6 @@
 ---
 id: 12510
-title: Jean Clair : « L’Hiver de la culture »
+title: Jean Clair – « L’Hiver de la culture »
 rubrique: Art
 annee: 2011
 magazine: avril 2011

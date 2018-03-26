@@ -1,6 +1,6 @@
 ---
 id: 4610
-title: L’homme romain. Tibulle : « Élégies »
+title: L’homme romain. Tibulle – « Élégies »
 rubrique: Latin [2de]
 annee: 2002
 magazine: 2002

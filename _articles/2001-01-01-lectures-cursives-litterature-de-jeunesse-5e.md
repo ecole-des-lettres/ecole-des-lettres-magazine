@@ -1,11 +1,11 @@
 ---
 id: 4435
 title: Lectures cursives
-rubrique: Littérature de jeunesse [5e]  
+rubrique: Littérature de jeunesse [5e]
 annee: 2001
 magazine: n°5 15 octobre 2001
 pages: 2
-description: 
+description:
   Un article qui propose de lire contes ou extraits de romans aux élèves de cinquième.
   – « Charly en guerre », de Florent Couao-Zotti
   – « Miranda s’en va », de Valérie Dayre

@@ -8,7 +8,7 @@ pages: 21
 description: Les œuvres littéraires célèbres, voire celles qui le sont un peu moins,
   sont une source d’inspiration pour les scénaristes de bandes dessinées. Mais les
   bandes dessinées s’inscrivent aussi dans le  champ de l’intertextualité, et ce de
-  deux façons : par l’allusion et par la citation…
+  deux façons – par l’allusion et par la citation…
 article_pdf: 12163.pdf
 magazine_special: La bande dessinée jeunesse à l’école et au collège
 revue: L’école des lettres des collèges

@@ -1,6 +1,6 @@
 ---
 id: 5011
-title: Honoré de Balzac. Opacité et transparence : « La Fille aux yeux d’or »
+title: Honoré de Balzac. Opacité et transparence – « La Fille aux yeux d’or »
 rubrique: Nouvelle [2de-1re]
 annee: 2002
 magazine: n°13 juillet 2003

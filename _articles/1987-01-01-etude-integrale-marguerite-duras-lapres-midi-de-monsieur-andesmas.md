@@ -1,13 +1,13 @@
 ---
 id: 82
 title: Étude intégrale
-rubrique: Marguerite Duras : « L’Après-Midi de monsieur Andesmas »
+rubrique: Marguerite Duras – « L’Après-Midi de monsieur Andesmas »
 annee: 1987
 magazine: n°6 1er décembre 1987
 pages: 18
 description: Une étude de ce roman de l’attente…
 article_pdf: 82.pdf
-magazine_special: Duras : de Vinh Long à Calcutta
+magazine_special: Duras – de Vinh Long à Calcutta
 revue: L’école des lettres des lycées
 auteurs:
 - Pierre-Yves Bourdil

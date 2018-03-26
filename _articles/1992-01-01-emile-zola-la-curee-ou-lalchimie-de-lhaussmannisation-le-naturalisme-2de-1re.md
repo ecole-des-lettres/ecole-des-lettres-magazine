@@ -1,6 +1,6 @@
 ---
 id: 1044
-title: Émile Zola : « La Curée » ou l’alchimie de l’haussmannisation
+title: Émile Zola – « La Curée » ou l’alchimie de l’haussmannisation
 rubrique: Le naturalisme [2de-1re]
 annee: 1992
 magazine: n°7 15 janvier 1993
@@ -10,9 +10,9 @@ description:
   1. L’espace de « La Curée »
   2. Les « comptes fantastiques » de l’haussmannisation
 
-  3. Saccard, le faiseur d’or : Zola et le mythe alchimique
+  3. Saccard, le faiseur d’or – Zola et le mythe alchimique
 article_pdf: 1044.pdf
-magazine_special: Zola : La Curée
+magazine_special: Zola – La Curée
 revue: L’école des lettres des lycées
 auteurs:
 - Patricia Carles

@@ -1,6 +1,6 @@
 ---
 id: 5297
-title: « Company », de Robert Altman : la danse-passion
+title: « Company », de Robert Altman – la danse-passion
 rubrique: Cinéma
 annee: 2003
 magazine: n°9 15 mars 2004

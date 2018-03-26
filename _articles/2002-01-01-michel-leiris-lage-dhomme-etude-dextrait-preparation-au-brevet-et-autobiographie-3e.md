@@ -1,6 +1,6 @@
 ---
 id: 4749
-title: Michel Leiris : « L’Âge d’homme ». Étude d’extrait
+title: Michel Leiris – « L’Âge d’homme ». Étude d’extrait
 rubrique: Préparation au brevet et autobiographie [3e]
 annee: 2002
 magazine: n°6 15 novembre 2002
@@ -10,9 +10,9 @@ description: Dans l’extrait de « L’Âge d’homme » proposé ici, l’au
   il faut insister sur cette notion qui fait partie des objets d’étude de la classe
   de première au lycée. Les élèves seront donc amenés à réinvestir les notions vues
   cette année. Ce genre permet de travailler des points importants de la grammaire
-  du discours : la modalisation et l’implicite, mais aussi des aspects de la grammaire
+  du discours – la modalisation et l’implicite, mais aussi des aspects de la grammaire
   de texte, comme l’étude des pronoms et l’utilisation des temps. Il oblige l’élève
-  à être vigilant quant à la situation d’énonciation : est-ce le narrateur qui parle
+  à être vigilant quant à la situation d’énonciation – est-ce le narrateur qui parle
   de lui-même ou parle-t-il de l’enfant qu’il a été ? Le vocabulaire doit lui aussi
   être pesé, les termes affectifs ou évaluatifs n’étant pas toujours ressentis comme
   tels. Tous ces points seront synthétisés dans ce devoir, dont l’approfondissement

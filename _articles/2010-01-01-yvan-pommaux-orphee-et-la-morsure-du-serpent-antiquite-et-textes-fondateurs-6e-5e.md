@@ -1,6 +1,6 @@
 ---
 id: 12060
-title: Yvan Pommaux : « Orphée et la Morsure du serpent » 
+title: Yvan Pommaux – « Orphée et la Morsure du serpent » 
 rubrique: Antiquité et textes fondateurs [6e-5e]
 annee: 2010
 magazine: n°2-3 2010-2011

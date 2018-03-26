@@ -1,6 +1,6 @@
 ---
 id: 4079
-title: Joseph Losey : « The Servant ». Une version cinématographique moderne des
+title: Joseph Losey – « The Servant ». Une version cinématographique moderne des
   rapports maîtres / valets
 rubrique: Réécritures
 annee: 2000

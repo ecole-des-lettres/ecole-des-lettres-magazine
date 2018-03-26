@@ -1,6 +1,6 @@
 ---
 id: 254
-title: Sigrid et Fred Kupferman : « La Nuit des dragons ». Étude intégrale (3/3) 
+title: Sigrid et Fred Kupferman – « La Nuit des dragons ». Étude intégrale (3/3) 
 rubrique: Littérature de jeunesse et roman historique [5e]
 annee: 1990
 magazine: n°14 15 juin 1991

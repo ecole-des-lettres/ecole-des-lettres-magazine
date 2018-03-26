@@ -1,6 +1,6 @@
 ---
 id: 3562
-title: Ernst Klee : « La Médecine nazie et ses victimes »
+title: Ernst Klee – « La Médecine nazie et ses victimes »
 rubrique: Histoire
 annee: 1999
 magazine: n°14 juin 2000

@@ -1,6 +1,6 @@
 ---
 id: 5213
-title: « American Splendor », de Robert Pulcini et Shari Springer Berman : la jubilation
+title: « American Splendor », de Robert Pulcini et Shari Springer Berman – la jubilation
   triste
 rubrique: Cinéma
 annee: 2003

@@ -8,9 +8,9 @@ magazine: n°12 15 juin 1995
 pages: 26
 description: 
   Un extrait cinématographique analysé non pour lui-même, mais dans la perspective d’un transfert dans le texte littéraire…
-  1. Première proposition : « Les Enchaînés », d’Hitchcock
-  – objectif : amener les élèves à percevoir comment la notion de regard peut infléchir le récit
-  2. Seconde proposition : « La Comtesse aux pieds nus », de Mankiewicz
+  1. Première proposition – « Les Enchaînés », d’Hitchcock
+  – objectif – amener les élèves à percevoir comment la notion de regard peut infléchir le récit
+  2. Seconde proposition – « La Comtesse aux pieds nus », de Mankiewicz
   – une observation plus précise des moyens permettant la focalisation narrative à l’image
   L’article est suivi d’un schéma des mouvements de caméra, ainsi que de plusieurs extraits de textes et story-board en annexes.
 article_pdf: 1547.pdf

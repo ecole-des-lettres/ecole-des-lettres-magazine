@@ -1,6 +1,6 @@
 ---
 id: 779
-title: Charles Juliet : la remontée des enfers 
+title: Charles Juliet – la remontée des enfers 
 rubrique: Poésie [1re]
 annee: 1991
 magazine: n°9 1er avril 1992

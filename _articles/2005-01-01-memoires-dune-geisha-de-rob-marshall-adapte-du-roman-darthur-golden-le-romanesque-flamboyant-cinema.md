@@ -1,7 +1,7 @@
 ---
 id: 11360
 title: « Mémoires d’une geisha », de Rob Marshall, adapté du roman d’Arthur Golden
-  : le romanesque flamboyant
+  – le romanesque flamboyant
 rubrique: Cinéma
 annee: 2005
 magazine: n°9 mars 2006

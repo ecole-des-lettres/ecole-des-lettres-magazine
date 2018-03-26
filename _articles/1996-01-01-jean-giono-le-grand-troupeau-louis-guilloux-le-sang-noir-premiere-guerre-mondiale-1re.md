@@ -1,6 +1,6 @@
 ---
 id: 2335
-title: Jean Giono : « Le Grand Troupeau » ; Louis Guilloux : « Le Sang noir »
+title: Jean Giono – « Le Grand Troupeau » ; Louis Guilloux – « Le Sang noir »
 rubrique: Première guerre mondiale [1re]
 annee: 1996
 magazine: n°13 1er mai 1997

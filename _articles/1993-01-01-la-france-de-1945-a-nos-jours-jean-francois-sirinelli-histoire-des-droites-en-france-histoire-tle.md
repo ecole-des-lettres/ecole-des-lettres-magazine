@@ -1,6 +1,6 @@
 ---
 id: 1375
-title: La France, de 1945 à nos jours. Jean-François Sirinelli : « Histoire des droites
+title: La France, de 1945 à nos jours. Jean-François Sirinelli – « Histoire des droites
   en France » 
 rubrique: Histoire [Tle]
 annee: 1993

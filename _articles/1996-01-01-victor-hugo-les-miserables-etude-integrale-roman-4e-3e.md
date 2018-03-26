@@ -1,6 +1,6 @@
 ---
 id: 2580
-title: Victor Hugo : « Les Misérables ». Étude intégrale
+title: Victor Hugo – « Les Misérables ». Étude intégrale
 rubrique: Roman [4e-3e] 
 annee: 1996
 magazine: 1997

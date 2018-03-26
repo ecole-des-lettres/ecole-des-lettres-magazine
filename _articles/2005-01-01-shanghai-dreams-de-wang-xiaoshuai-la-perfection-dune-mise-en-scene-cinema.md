@@ -1,6 +1,6 @@
 ---
 id: 11362
-title: Shanghai Dreams », de Wang Xiaoshuai : la perfection d’une mise en scène
+title: Shanghai Dreams », de Wang Xiaoshuai – la perfection d’une mise en scène
 rubrique: «Cinéma
 annee: 2005
 magazine: n°9 mars 2006

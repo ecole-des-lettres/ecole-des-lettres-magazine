@@ -1,6 +1,6 @@
 ---
 id: 2561
-title: Marivaux : quelques points d’intérêt psychanalytique dans « La Double Inconstance
+title: Marivaux – quelques points d’intérêt psychanalytique dans « La Double Inconstance
   » et « Le Jeu de l’amour et du hasard »
 rubrique: Théâtre [1re]
 annee: 1996

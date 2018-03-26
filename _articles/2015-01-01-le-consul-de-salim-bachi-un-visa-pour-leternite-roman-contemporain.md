@@ -1,6 +1,6 @@
 ---
 id: 12917
-title: « Le Consul », de Salim Bachi : un visa pour l’éternité
+title: « Le Consul », de Salim Bachi – un visa pour l’éternité
 rubrique: Roman contemporain
 annee: 2015
 magazine: janvier 2015

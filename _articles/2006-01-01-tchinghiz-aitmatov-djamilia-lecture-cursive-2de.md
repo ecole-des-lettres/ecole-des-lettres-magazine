@@ -1,6 +1,6 @@
 ---
 id: 11898
-title: Tchinghiz Aïtmatov : « Djamilia » 
+title: Tchinghiz Aïtmatov – « Djamilia » 
 rubrique: Lecture cursive [2de]
 annee: 2006
 magazine: 

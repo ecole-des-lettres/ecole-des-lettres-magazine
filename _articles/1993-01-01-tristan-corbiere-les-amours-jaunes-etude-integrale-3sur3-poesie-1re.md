@@ -1,13 +1,13 @@
 ---
 id: 1412
-title: Tristan Corbière : « Les Amours jaunes » Étude intégrale (3/3)
+title: Tristan Corbière – « Les Amours jaunes » Étude intégrale (3/3)
 rubrique: Poésie [1re]
 annee: 1993
 magazine: n°8 15 février 1994
 pages: 18
 description: 
-  Fin de l’étude sur l’Italie :
-  – La caricature de l’Italie : lecture méthodique de « Vésuves et Cie »
+  Fin de l’étude sur l’Italie – 
+  – La caricature de l’Italie – lecture méthodique de « Vésuves et Cie »
   7. La Bretagne de Tristan
   – Roscoff
   – une géographie funèbre

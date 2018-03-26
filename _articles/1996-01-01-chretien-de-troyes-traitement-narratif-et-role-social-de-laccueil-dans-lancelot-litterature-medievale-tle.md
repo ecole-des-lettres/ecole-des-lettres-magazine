@@ -1,6 +1,6 @@
 ---
 id: 2256
-title: Chrétien de Troyes : traitement narratif et rôle social de l’accueil dans
+title: Chrétien de Troyes – traitement narratif et rôle social de l’accueil dans
   « Lancelot »
 rubrique: Littérature médiévale [Tle]
 annee: 1996
@@ -12,7 +12,7 @@ description: Le fil conducteur dans cette œuvre  subtilement agencée est le mo
   XIIe siècle, à mettre en valeur Lancelot en tant que héros libérateur, et ce dans
   un subtil jeu de contrepoint.
 article_pdf: 2256.pdf
-magazine_special: Chrétien de Troyes : Lancelot ou le Chevalier de la charrette
+magazine_special: Chrétien de Troyes – Lancelot ou le Chevalier de la charrette
 revue: L’école des lettres des lycées
 auteurs:
 - Carine Bouillot

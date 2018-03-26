@@ -8,7 +8,7 @@ pages: 20
 description: Le texte de Béroul frappe par ses contradictions, ses répétitions incohérentes
   et surtout par un changement d’esprit qui intervient peu après la dissipation des
   effets du philtre. La question de l’intégrité du roman vient alors tout naturellement
-  à l’esprit :est-il l’œuvre d’un auteur ou de deux ? C’est là l’un des grands débats
+  à l’esprit – est-il l’œuvre d’un auteur ou de deux ? C’est là l’un des grands débats
   de la critique médiévale que cet article se propose de présenter, en analysant les
   ruptures et incohérences de l’œuvre, puis en recherchant les éléments plaidant en
   faveur de l’unité du récit.

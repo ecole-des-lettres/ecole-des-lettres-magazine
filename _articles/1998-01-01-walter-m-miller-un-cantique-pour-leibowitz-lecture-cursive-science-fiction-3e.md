@@ -1,6 +1,6 @@
 ---
 id: 3145
-title: Walter M. Miller : « Un cantique pour Leibowitz ». Lecture cursive 
+title: Walter M. Miller – « Un cantique pour Leibowitz ». Lecture cursive 
 rubrique: Science-fiction [3e]
 annee: 1998
 magazine: n°14 15 mai 1999

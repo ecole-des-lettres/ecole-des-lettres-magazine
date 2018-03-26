@@ -1,6 +1,6 @@
 ---
 id: 12219
-title: Charif Majdalani : « Le Dernier Seigneur de Marsad »
+title: Charif Majdalani – « Le Dernier Seigneur de Marsad »
 rubrique: Roman contemporain
 annee: 2013
 magazine: novembre 2013

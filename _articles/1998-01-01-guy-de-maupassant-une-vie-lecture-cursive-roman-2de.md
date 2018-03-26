@@ -1,6 +1,6 @@
 ---
 id: 11844
-title: Guy de Maupassant : « Une vie ». Lecture cursive
+title: Guy de Maupassant – « Une vie ». Lecture cursive
 rubrique: Roman [2de]
 annee: 1998
 magazine: n°7 1er décembre 1998

@@ -6,7 +6,7 @@ rubrique: Les formes du documentaire dans le roman, la bande dessinée et le cin
 annee: 2014
 magazine: n°3
 pages: 6
-description: Emmanuel Hamon : « Les personnages sont, pour moi, la pierre angulaire
+description: Emmanuel Hamon – « Les personnages sont, pour moi, la pierre angulaire
   de tous les films. Quand je me lance dans un projet de documentaire, il y a évidemment
   une histoire, un sujet, le plus souvent un sujet politique, social, un « grand »
   sujet qui dépasse les individus, mais que j’essaie toujours de ramener à une incarnation

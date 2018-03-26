@@ -1,6 +1,6 @@
 ---
 id: 12169
-title: Gwen de Bonneval et Matthieu Bonhomme : série « Messire Guillaume », « Les
+title: Gwen de Bonneval et Matthieu Bonhomme – série « Messire Guillaume », « Les
   Contrées lointaines » 
 rubrique: Bande dessinée [5e]
 annee: 2012

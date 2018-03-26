@@ -1,6 +1,6 @@
 ---
 id: 1018
-title: Arthur Conan Doyle : « Le Chien des Baskerville ». Étude intégrale 
+title: Arthur Conan Doyle – « Le Chien des Baskerville ». Étude intégrale 
 rubrique: Roman policier [6e-5e]
 annee: 1992
 magazine: n°6 15 décembre 1992

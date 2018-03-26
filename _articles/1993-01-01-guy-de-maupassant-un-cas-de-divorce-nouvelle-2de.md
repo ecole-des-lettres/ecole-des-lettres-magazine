@@ -1,6 +1,6 @@
 ---
 id: 1197
-title: Guy de Maupassant : « Un cas de divorce »
+title: Guy de Maupassant – « Un cas de divorce »
 rubrique: Nouvelle [2de]
 annee: 1993
 magazine: n°12 15 juin 1994
@@ -14,7 +14,7 @@ description:
   – jugée
   – vécue
 article_pdf: 1197.pdf
-magazine_special: Maupassant : autour du Horla 
+magazine_special: Maupassant – autour du Horla 
 revue: L’école des lettres des lycées
 auteurs:
 - Virginie Fauvin

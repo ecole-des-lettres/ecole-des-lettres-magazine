@@ -6,9 +6,9 @@ annee: 2001
 magazine: n°11 15 mars 2002
 pages: 12
 description: 
-  Dans le cadre de la réforme de l’ÉAF, le sujet d’écriture d’invention est celui qui semble inquiéter le plus ou poser le plus de questions : parce qu’il était inconnu jusqu’à ce jour, parce qu’il peut susciter chez les élèves une large adhésion au détriment des autres sujets, parce que sa correction et son évaluation apparaissent comme plus incertaines et subjectives… Cet article présente l’exposé d’une expérience pédagogique qui fournit une base de réflexion.
-  Textes de référence :
-  – « Candide » de Voltaire : le nègre de Surinam
+  Dans le cadre de la réforme de l’ÉAF, le sujet d’écriture d’invention est celui qui semble inquiéter le plus ou poser le plus de questions – parce qu’il était inconnu jusqu’à ce jour, parce qu’il peut susciter chez les élèves une large adhésion au détriment des autres sujets, parce que sa correction et son évaluation apparaissent comme plus incertaines et subjectives… Cet article présente l’exposé d’une expérience pédagogique qui fournit une base de réflexion.
+  Textes de référence – 
+  – « Candide » de Voltaire – le nègre de Surinam
   – « Le Dernier Jour d’un condamné », de Victor Hugo
   – « Confessions », de Jean-Jacques Rousseau
   – « Dom Juan », de Molière

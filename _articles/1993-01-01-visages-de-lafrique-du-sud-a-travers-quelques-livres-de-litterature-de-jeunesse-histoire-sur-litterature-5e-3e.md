@@ -6,7 +6,7 @@ annee: 1993
 magazine: n°7 15 janvier 1994
 pages: 16
 description: 
-  Objectifs : favoriser le travail de groupe et l’expression orale en troisième ; faire connaître un État et une société évoqués par les médias – à travers huit romans (de littérature jeunesse essentiellement)
+  Objectifs – favoriser le travail de groupe et l’expression orale en troisième ; faire connaître un État et une société évoqués par les médias – à travers huit romans (de littérature jeunesse essentiellement)
   1. Présentation de l’Afrique du Sud
   – géographie physique
   – géographie politique
@@ -29,7 +29,7 @@ description:
   – à la campagne
   – l’attitude des Blancs (selon leur lieu de résidence, selon leurs origines, selon leur âge)
   – l’attitude des Noirs
-  – conclusion : quel avenir ? (la thèse pessimiste et la thèse optimiste)
+  – conclusion – quel avenir ? (la thèse pessimiste et la thèse optimiste)
   L’article est suivi d’une bibliographie et d’une carte de l’Afrique du Sud.
 article_pdf: 1379.pdf
 revue: L’école des lettres des collèges

@@ -1,6 +1,6 @@
 ---
 id: 957
-title: Louise Labé : deux sonnets 
+title: Louise Labé – deux sonnets 
 rubrique: Poésie [2de-1re]
 annee: 1992
 magazine: n°3 15 octobre 1992

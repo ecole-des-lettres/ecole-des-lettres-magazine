@@ -1,6 +1,6 @@
 ---
 id: 11561
-title: Charles Baudelaire : poétiques de la dépression : « Spleen », I, II, et IV
+title: Charles Baudelaire – poétiques de la dépression – « Spleen », I, II, et IV
 rubrique: Poésie [classes préparatoires, concours]
 annee: 2002
 magazine: n°11 mars 2003
@@ -15,7 +15,7 @@ description: La question se pose des relations entre le spleen et une autre cat�
   qui le sont tout autant. Cet article se propose d’étudier sous cet angle trois des
   poèmes intitulés « Spleen ».
 article_pdf: 11561.pdf
-magazine_special: Baudelaire : Les Fleurs du Mal
+magazine_special: Baudelaire – Les Fleurs du Mal
 revue: L’école des lettres des lycées
 auteurs:
 - Steve Murphy

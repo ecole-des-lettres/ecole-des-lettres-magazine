@@ -1,6 +1,6 @@
 ---
 id: 11665
-title: Tchinghiz Aïtmatov : « Djamilia » 
+title: Tchinghiz Aïtmatov – « Djamilia » 
 rubrique: Préparation à la seconde [3e]
 annee: 2006
 magazine: 

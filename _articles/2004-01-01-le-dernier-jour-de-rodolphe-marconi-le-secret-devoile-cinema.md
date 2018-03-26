@@ -1,6 +1,6 @@
 ---
 id: 11177
-title: « Le Dernier Jour », de Rodolphe Marconi : le secret dévoilé
+title: « Le Dernier Jour », de Rodolphe Marconi – le secret dévoilé
 rubrique: Cinéma
 annee: 2004
 magazine: n°3 1er novembre 2004

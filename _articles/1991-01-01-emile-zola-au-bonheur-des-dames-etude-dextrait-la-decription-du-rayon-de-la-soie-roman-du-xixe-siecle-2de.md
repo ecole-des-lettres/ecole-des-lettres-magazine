@@ -1,6 +1,6 @@
 ---
 id: 745
-title: Émile Zola : « Au Bonheur des dames ». Étude d’extrait : la decription du
+title: Émile Zola – « Au Bonheur des dames ». Étude d’extrait – la decription du
   rayon de la soie 
 rubrique: Roman du XIXe siècle [2de]
 annee: 1991

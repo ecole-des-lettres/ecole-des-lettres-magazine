@@ -1,6 +1,6 @@
 ---
 id: 861
-title: Chrétien de Troyes : « Yvain, le Chevalier au Lion » : à la rencontre du texte
+title: Chrétien de Troyes – « Yvain, le Chevalier au Lion » – à la rencontre du texte
   d’ancien français 
 rubrique: Littérature médiévale [5e]
 annee: 1992
@@ -10,7 +10,7 @@ description: Un commentaire au fil du texte du combat entre Yvain et Esclados, l
   défenseur de la fontaine. Le texte médiéval et sa traduction sont donnés en fin
   d’article.
 article_pdf: 861.pdf
-magazine_special: Chrétien de Troyes : Yvain, le Chevalier au Lion
+magazine_special: Chrétien de Troyes – Yvain, le Chevalier au Lion
 revue: L’école des lettres des collèges
 auteurs:
 - Marc Le Person

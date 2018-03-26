@@ -1,6 +1,6 @@
 ---
 id: 1856
-title: Henriette Bichonnier : « Émilie et le crayon magique ». Étude intégrale 
+title: Henriette Bichonnier – « Émilie et le crayon magique ». Étude intégrale 
 rubrique: Littérature de jeunesse et  contes [6e]
 annee: 1995
 magazine: 1995

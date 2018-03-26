@@ -1,6 +1,6 @@
 ---
 id: 2390
-title: Jean Rohou : « L’Histoire littéraire. Objets et méthodes »
+title: Jean Rohou – « L’Histoire littéraire. Objets et méthodes »
 rubrique: Histoire littéraire
 annee: 1996
 magazine: n°2 15 septembre 1996

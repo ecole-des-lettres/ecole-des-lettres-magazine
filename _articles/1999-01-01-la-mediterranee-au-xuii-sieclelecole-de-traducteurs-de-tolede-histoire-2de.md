@@ -6,10 +6,10 @@ annee: 1999
 magazine: n°6 15 novembre 1999
 pages: 9
 description: En introduisant la Méditerranée au XIIe siècle dans le programme de
-  seconde, les concepteurs précisaient leur projet : non pas l’étude exhaustive des
+  seconde, les concepteurs précisaient leur projet – non pas l’étude exhaustive des
   trois grandes civilisations, mais plutôt le souci de montrer comment celles-ci « s’influencent
   réciproquement à travers leurs divers contacts ». Tout comme la Sicile, l’Espagne
-  offre un espace privilégié pour une telle approche, et particulièrement Tolède :
+  offre un espace privilégié pour une telle approche, et particulièrement Tolède – 
   reconquise en 1085 par Alphonse VI, la cité assumera pendant un siècle sa vocation
   de « frontière » entre islam et chrétienté, de lieu de communication entre le monde
   occidental et le monde arabe, favorisant les échanges entre les cultures gréco-byzantine,

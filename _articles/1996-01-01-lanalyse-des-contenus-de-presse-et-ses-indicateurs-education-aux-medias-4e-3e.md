@@ -8,7 +8,7 @@ pages: 8
 description: 
   1. L’analyse de contenu comme méthodologie
   – les clés de lecture de l’actualité
-  – les principes de l’analyse de contenu : l’observable ; l’indicateur ; le systématique
+  – les principes de l’analyse de contenu – l’observable ; l’indicateur ; le systématique
   2. La valorisation des faits et des matières
   – mesures et marqueurs
   – le journal, un espace hiérarchisé

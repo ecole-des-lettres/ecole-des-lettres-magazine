@@ -1,6 +1,6 @@
 ---
 id: 1420
-title: Christian Poslaniec : « Le Treizième Chat noir ». Étude intégrale (2/2)
+title: Christian Poslaniec – « Le Treizième Chat noir ». Étude intégrale (2/2)
 rubrique: Littérature de jeunesse et roman policier [6e-5e]
 annee: 1993
 magazine: n°8 15 février 1994
@@ -11,7 +11,7 @@ description:
   5. La langue
   6. Expression écrite
   – transposition d’un texte
-  – une légende : le diable
+  – une légende – le diable
   7. Épilogue distractif
   – jeu orthographique
   – jeu avec les temps, etc.

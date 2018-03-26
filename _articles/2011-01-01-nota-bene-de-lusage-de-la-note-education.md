@@ -9,7 +9,7 @@ description: Nota bene. Au prix d’un détournement lexical, l’expression peu
   une coloration latine à l’injonction banale « Note bien », et introduire une réflexion
   sur la notation. Le sujet est d’actualité puisque, parmi les causes avancées du
   mauvais fonctionnement de l’école française, il en est une qui revient régulièrement
-  : l’usage précoce, immodéré et intempestif de la note, chiffrée de préférence…
+  – l’usage précoce, immodéré et intempestif de la note, chiffrée de préférence…
 article_pdf: 12453.pdf
 revue: L’école des lettres des lycées
 niveau_etudes:

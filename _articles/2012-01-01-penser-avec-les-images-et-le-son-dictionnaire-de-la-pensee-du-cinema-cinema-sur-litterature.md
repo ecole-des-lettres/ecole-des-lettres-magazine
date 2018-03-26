@@ -1,6 +1,6 @@
 ---
 id: 12383
-title: Penser avec les images (et le son) : « Dictionnaire de la pensée du cinéma
+title: Penser avec les images (et le son) – « Dictionnaire de la pensée du cinéma
   »
 rubrique: Cinéma / Littérature
 annee: 2012

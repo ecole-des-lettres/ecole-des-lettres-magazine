@@ -6,7 +6,7 @@ annee: 1995
 magazine: n°5 15 décembre 1995
 pages: 8
 description: Le sport nautique de rivière au XIXe siècle. Étude de ses connotations
-  sociologiques (sa mauvaise réputation…) et de son exploitation littéraire chez Maupassant :
+  sociologiques (sa mauvaise réputation…) et de son exploitation littéraire chez Maupassant – 
   les descriptions naturalistes et les évocations d’une jeunesse insouciante…
 article_pdf: 2058.pdf
 revue: L’école des lettres des lycées

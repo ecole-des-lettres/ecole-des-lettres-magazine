@@ -1,6 +1,6 @@
 ---
 id: 1957
-title: Mark Twain : « Les Aventures de Tom Sawyer ». Étude intégrale 
+title: Mark Twain – « Les Aventures de Tom Sawyer ». Étude intégrale 
 rubrique: Récits d’aventures [5e]
 annee: 1995
 magazine: n°13-14 15 juin 1996

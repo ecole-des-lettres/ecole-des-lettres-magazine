@@ -1,6 +1,6 @@
 ---
 id: 4119
-title: Initiation à la notion d’intertextualité : de « La Chanson de Roland » à « Gargantua »,
+title: Initiation à la notion d’intertextualité – de « La Chanson de Roland » à « Gargantua »,
   de Rabelais
 rubrique: Écriture [2de]
 annee: 2000

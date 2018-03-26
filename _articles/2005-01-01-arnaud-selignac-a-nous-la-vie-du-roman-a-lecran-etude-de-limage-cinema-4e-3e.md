@@ -1,7 +1,7 @@
 ---
 id: 11536
-title: Arnaud Sélignac : « À nous la vie ». Du roman à l’écran
-rubrique: Étude de l’image : cinéma [4e-3e]
+title: Arnaud Sélignac – « À nous la vie ». Du roman à l’écran
+rubrique: Étude de l’image – cinéma [4e-3e]
 annee: 2005
 magazine: n°10 2005-2006
 pages: 27

@@ -1,6 +1,6 @@
 ---
 id: 4951
-title: Annie Ernaux : pratiques autobiographiques
+title: Annie Ernaux – pratiques autobiographiques
 rubrique: Autobiographie [1re]
 annee: 2002
 magazine: n°9 1er février 2003

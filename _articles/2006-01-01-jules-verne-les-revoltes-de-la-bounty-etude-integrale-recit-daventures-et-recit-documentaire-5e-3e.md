@@ -1,11 +1,11 @@
 ---
 id: 11795
-title: Jules Verne : « Les Révoltés de la “Bounty” ». Étude intégrale
+title: Jules Verne – « Les Révoltés de la “Bounty” ». Étude intégrale
 rubrique: Récit daventures et récit documentaire [5e-3e]
 annee: 2006
 magazine: n°9 2007-2008
 pages: 26
-description: Deux textes figurent dans cet ouvrage publié par l’école des loisirs :
+description: Deux textes figurent dans cet ouvrage publié par l’école des loisirs – 
   celui de Jules Verne, « Les Révoltés de la “Bounty” », un récit d’aventures pas
   tout à fait comme les autres puisque, à la différence du capitaine Nemo ou de Michel
   Strogoff, les personnages de cette histoire ont bel et bien existé ; et celui, complémentaire,

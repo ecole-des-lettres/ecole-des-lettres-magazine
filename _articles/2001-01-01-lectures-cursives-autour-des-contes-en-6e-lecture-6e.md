@@ -12,7 +12,7 @@ description: Cet article a pour but d’étudier la spécificité de contes moin
   du recueil des « Contes russes » afin d’y étudier les constantes ou les particularités
   de textes ancrés dans une autre tradition. En parallèle et dans l’optique d’un travail
   sur la lecture, seront proposés, par groupes, une série d’exposés sur des recueils
-  de contes de l’école des loisirs, venus, eux aussi, de pays étrangers : « Contes
+  de contes de l’école des loisirs, venus, eux aussi, de pays étrangers – « Contes
   du Caire », « Contes irlandais », etc.
 article_pdf: 4166.pdf
 revue: L’école des lettres des collèges

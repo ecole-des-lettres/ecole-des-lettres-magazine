@@ -1,6 +1,6 @@
 ---
 id: 411
-title: Stéphane Mallarmé : « Pauvre enfant pâle »
+title: Stéphane Mallarmé – « Pauvre enfant pâle »
 rubrique: Poésie [3e]
 annee: 1990
 magazine: n°8 1er février 1991

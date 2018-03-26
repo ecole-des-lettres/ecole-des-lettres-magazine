@@ -8,7 +8,7 @@ pages: 3
 description: Un acteur à succès, Gauthier Valence (Lambert Wilson), se rend chez
   un vieil ami, Serge Tanneur (Fabrice Luchini), qui a renoncé au théâtre pour le
   convaincre de remonter sur les planches et de jouer avec lui dans « Le Misanthrope »
-  de Molière. Deux questions vont soutenir la narration : l’ancien comédien qui vit
+  de Molière. Deux questions vont soutenir la narration – l’ancien comédien qui vit
   retiré dans sa tanière acceptera-t-il de participer au projet ? Auquel des deux
   acteurs reviendra le rôle d’Alceste, l’autre devant se contenter d’interpréter Philinte,
   comparse présent seulement dans cinq scènes ? 

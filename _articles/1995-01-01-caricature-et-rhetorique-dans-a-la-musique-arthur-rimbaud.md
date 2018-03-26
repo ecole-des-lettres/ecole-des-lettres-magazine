@@ -9,13 +9,13 @@ description:
   1. « Choses vues » et « choses lues »
   2. Le titre
   3. La physiologie du propriétaire
-  4. Du centre vers la marge : une topographie sociale
+  4. Du centre vers la marge – une topographie sociale
   5. Érotisme, fantasmes, clichés
   6. Retour sur la focalisation et sur la temporalité
   7. La musique et la guerre dans la version Izambard
-  8. Les variantes de la version Demeny : des améliorations stratégiques ?
+  8. Les variantes de la version Demeny – des améliorations stratégiques ?
   9. Des variantes à motivation idéologique ?
-  10. Vers une autre rhétorique : de l’image et de la langue
+  10. Vers une autre rhétorique – de l’image et de la langue
 article_pdf: 1936.pdf
 revue: L’école des lettres des lycées
 auteurs:

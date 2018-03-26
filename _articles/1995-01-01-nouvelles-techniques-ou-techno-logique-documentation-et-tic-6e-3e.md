@@ -9,7 +9,7 @@ description: Cet article vise à une démystification des nouvelles technologies
   et de communication, définit ce qu’est un CD-ROM et le rôle central qu’il commence
   à jouer en pédagogie et propose de faire créer leurs propres outils aux élèves.
 article_pdf: 1928.pdf
-magazine_special: CDI : quel CDI voulez-vous ?
+magazine_special: CDI – quel CDI voulez-vous ?
 revue: L’école des lettres des collèges
 auteurs:
 - Jérôme Bertonèche

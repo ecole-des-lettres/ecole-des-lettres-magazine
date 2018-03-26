@@ -1,6 +1,6 @@
 ---
 id: 2845
-title: Susie Morgenstern : « Le Vampire du CDI »
+title: Susie Morgenstern – « Le Vampire du CDI »
 rubrique: Littérature de jeunesse
 annee: 1997
 magazine: n°3 1er octobre 1997

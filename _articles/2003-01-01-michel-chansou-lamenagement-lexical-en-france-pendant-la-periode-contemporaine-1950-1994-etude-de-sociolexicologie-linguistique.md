@@ -1,6 +1,6 @@
 ---
 id: 5302
-title: Michel Chansou : « L’Aménagement lexical en France pendant la période contemporaine
+title: Michel Chansou – « L’Aménagement lexical en France pendant la période contemporaine
   (1950-1994). Étude de sociolexicologie »
 rubrique: Linguistique
 annee: 2003

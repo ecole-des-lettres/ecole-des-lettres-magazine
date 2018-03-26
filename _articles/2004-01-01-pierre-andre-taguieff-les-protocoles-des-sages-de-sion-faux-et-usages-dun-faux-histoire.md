@@ -1,6 +1,6 @@
 ---
 id: 11263
-title: Pierre-André Taguieff : « Les Protocoles des sages de Sion : faux et usages
+title: Pierre-André Taguieff – « Les Protocoles des sages de Sion – faux et usages
   d’un faux »
 rubrique: Histoire
 annee: 2004

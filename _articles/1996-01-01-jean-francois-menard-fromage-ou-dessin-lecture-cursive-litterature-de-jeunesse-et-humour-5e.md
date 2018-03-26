@@ -1,6 +1,6 @@
 ---
 id: 2228
-title: Jean-François Ménard : « Fromage ou dessin ». Lecture cursive  
+title: Jean-François Ménard – « Fromage ou dessin ». Lecture cursive  
 rubrique: Littérature de jeunesse et humour [5e]
 annee: 1996
 magazine: n°10 15 mars 1997

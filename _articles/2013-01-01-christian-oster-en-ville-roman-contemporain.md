@@ -1,6 +1,6 @@
 ---
 id: 12339
-title: Christian Oster : « En ville »
+title: Christian Oster – « En ville »
 rubrique: Roman contemporain
 annee: 2013
 magazine: janvier 2013

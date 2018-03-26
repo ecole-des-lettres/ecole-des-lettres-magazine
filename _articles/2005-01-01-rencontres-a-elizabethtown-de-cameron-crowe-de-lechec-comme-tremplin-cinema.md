@@ -1,6 +1,6 @@
 ---
 id: 11325
-title: « Rencontres à Elizabethtown », de Cameron Crowe : de l’échec comme tremplin
+title: « Rencontres à Elizabethtown », de Cameron Crowe – de l’échec comme tremplin
 rubrique: Cinéma
 annee: 2005
 magazine: n°5 décembre 2005

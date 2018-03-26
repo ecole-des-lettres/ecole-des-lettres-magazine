@@ -11,7 +11,7 @@ description: Le curieux destin de la Comédie-Française consiste à être, à l
   dans le paysage théâtral. Ce paradoxe est réellement structurant pour l’institution,
   car c’est de lui qu’émane son surprenant pouvoir symbolique, son étrange rayonnement.
   « Légende vivante » au sens propre, la Comédie-Française se renforce par ses contradictions
-  et paradoxes, dans lesquels elle puise les principaux éléments de son identité :
+  et paradoxes, dans lesquels elle puise les principaux éléments de son identité – 
   tradition et modernité, continuité et changement, immobilisme et dynamisme…
 article_pdf: 4640.pdf
 revue: L’école des lettres des lycées

@@ -1,6 +1,6 @@
 ---
 id: 12473
-title: La France mauvais élève : le regard de l’OCDE sur l’éducation
+title: La France mauvais élève – le regard de l’OCDE sur l’éducation
 rubrique: Éducation
 annee: 2011
 magazine: septembre 2011

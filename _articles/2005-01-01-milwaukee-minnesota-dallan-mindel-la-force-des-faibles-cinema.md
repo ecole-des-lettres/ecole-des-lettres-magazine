@@ -1,6 +1,6 @@
 ---
 id: 11339
-title: « Milwaukee, Minnesota », d’Allan Mindel : la force des faibles
+title: « Milwaukee, Minnesota », d’Allan Mindel – la force des faibles
 rubrique: Cinéma
 annee: 2005
 magazine: n°6-7 janvier 2006

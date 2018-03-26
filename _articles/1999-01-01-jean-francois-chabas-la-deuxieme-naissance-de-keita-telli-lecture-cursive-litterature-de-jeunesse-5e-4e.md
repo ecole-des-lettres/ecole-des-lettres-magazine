@@ -1,6 +1,6 @@
 ---
 id: 3544
-title: Jean-François Chabas : « La Deuxième Naissance de Keita Telli ». Lecture cursive 
+title: Jean-François Chabas – « La Deuxième Naissance de Keita Telli ». Lecture cursive 
 rubrique: Littérature de jeunesse [5e-4e]
 annee: 1999
 magazine: n°14 15 mai 2000

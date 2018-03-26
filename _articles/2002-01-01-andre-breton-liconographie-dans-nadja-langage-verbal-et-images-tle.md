@@ -1,6 +1,6 @@
 ---
 id: 4929
-title: André Breton : l’iconographie dans « Nadja »
+title: André Breton – l’iconographie dans « Nadja »
 rubrique: Langage verbal et images [Tle]
 annee: 2002
 magazine: n°7 1er décembre 2002

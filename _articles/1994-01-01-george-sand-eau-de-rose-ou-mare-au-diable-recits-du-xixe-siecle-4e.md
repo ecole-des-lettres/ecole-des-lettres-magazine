@@ -1,6 +1,6 @@
 ---
 id: 1685
-title: George Sand : eau de rose ou mare au diable ? 
+title: George Sand – eau de rose ou mare au diable ? 
 rubrique: Récits du XIXe siècle [4e]
 annee: 1994
 magazine: n°4 15 novembre 1994

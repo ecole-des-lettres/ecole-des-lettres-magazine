@@ -1,6 +1,6 @@
 ---
 id: 2238
-title: Marcel Aymé : « Le Chemin des écoliers »
+title: Marcel Aymé – « Le Chemin des écoliers »
 rubrique: Préparation au brevet [3e]
 annee: 1996
 magazine: n°10 15 mars 1997

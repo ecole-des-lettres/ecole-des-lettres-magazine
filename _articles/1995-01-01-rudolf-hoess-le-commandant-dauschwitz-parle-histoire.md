@@ -1,6 +1,6 @@
 ---
 id: 1896
-title: Rudolf Hoess : « Le commandant d’Auschwitz parle »
+title: Rudolf Hoess – « Le commandant d’Auschwitz parle »
 rubrique: Histoire
 annee: 1995
 magazine: n°10-11 15 mai 1996

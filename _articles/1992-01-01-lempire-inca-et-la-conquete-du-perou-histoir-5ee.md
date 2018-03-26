@@ -11,8 +11,8 @@ description:
   – origines et territoires
   – organisation socio-économique
   2. La conquête du Pérou
-  L’article est suivi d’une bibliographie ainsi que de trois textes en annexes :
-  – pluridisciplinarité : quelques pistes pédagogiques à envisager avec les collègues d’arts plastiques et d’éducation musicale
+  L’article est suivi d’une bibliographie ainsi que de trois textes en annexes – 
+  – pluridisciplinarité – quelques pistes pédagogiques à envisager avec les collègues d’arts plastiques et d’éducation musicale
   – l’Empire inca avant l’arrivée des conquistadors
   – les différentes classes sociales dans l’empire inca
 article_pdf: 1011.pdf

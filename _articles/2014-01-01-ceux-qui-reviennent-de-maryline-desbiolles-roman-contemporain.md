@@ -7,7 +7,7 @@ magazine:
 pages: 2
 description: Dans « Ceux qui reviennent », la narratrice cherche son « sujet », au
   propre comme au figuré. Au début, ce pourrait être un inconnu ou le premier venu.
-  Ce seront des personnes de la famille : son père récemment décédé, une tante Odette
+  Ce seront des personnes de la famille – son père récemment décédé, une tante Odette
   sans cesse assoiffée, prête à boire l’alcool à 90° de la pharmacie ou toute autre
   boisson l’enivrant, ou encore Virgile Barrel et Gaby Benevento, deux militants communistes,
   en un temps où Nice votait rouge. Autrement dit, il y a bien longtemps…

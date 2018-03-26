@@ -1,6 +1,6 @@
 ---
 id: 523
-title: Guillaume Apollinaire : « La Chanson du Mal-Aimé »
+title: Guillaume Apollinaire – « La Chanson du Mal-Aimé »
 rubrique: Poésie [1re]
 annee: 1991
 magazine: n°12 1er juin 1992

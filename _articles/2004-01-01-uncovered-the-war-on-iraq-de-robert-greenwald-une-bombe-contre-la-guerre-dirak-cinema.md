@@ -1,6 +1,6 @@
 ---
 id: 11157
-title: « Uncovered : the War on Iraq », de Robert Greenwald : une bombe contre la
+title: « Uncovered – the War on Iraq », de Robert Greenwald – une bombe contre la
   guerre d’Irak
 rubrique: Cinéma
 annee: 2004
@@ -30,7 +30,7 @@ niveau_etudes:
 - agrégation
 - CAPES
 oeuvres:
-- Uncovered : the War on Iraq
+- Uncovered – the War on Iraq
 realisateurs:
 - Greenwald Robert
 ---

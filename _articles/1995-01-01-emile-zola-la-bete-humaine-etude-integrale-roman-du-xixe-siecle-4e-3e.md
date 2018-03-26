@@ -1,6 +1,6 @@
 ---
 id: 1879
-title: Émile Zola : « La Bête humaine ». Étude intégrale 
+title: Émile Zola – « La Bête humaine ». Étude intégrale 
 rubrique: Roman du XIXe siècle [4e-3e]
 annee: 1995
 magazine: 1996

@@ -1,6 +1,6 @@
 ---
 id: 12108
-title: Bailly, Mathy et Lapière : « Ludo. Enquêtes et squelettes » 
+title: Bailly, Mathy et Lapière – « Ludo. Enquêtes et squelettes » 
 rubrique: Bande dessinée [CM-6e]
 annee: 2011
 magazine: n°1

@@ -1,6 +1,6 @@
 ---
 id: 11293
-title: « De l’ombre à la lumière », de Ron Howard : dépression et progression
+title: « De l’ombre à la lumière », de Ron Howard – dépression et progression
 rubrique: Cinéma
 annee: 2005
 magazine: n°2 15 septembre 2005

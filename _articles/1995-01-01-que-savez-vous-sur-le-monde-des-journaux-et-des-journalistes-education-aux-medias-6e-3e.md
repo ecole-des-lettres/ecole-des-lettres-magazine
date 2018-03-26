@@ -6,7 +6,7 @@ annee: 1995
 magazine: n°6 1er janvier 1996
 pages: 11
 description: 
-  À l’occasion de la semaine de la Presse à l’école, quelques exercices pour aider à mieux connaître l’univers du journalisme : écriture, aspects du métier, argot journalistique, etc.
+  À l’occasion de la semaine de la Presse à l’école, quelques exercices pour aider à mieux connaître l’univers du journalisme – écriture, aspects du métier, argot journalistique, etc.
   L’article est suivi d’une bibliographie, de conseils de journalistes adressés aux collégiens et de diverses activités autour du métier de journaliste.
 article_pdf: 2121.pdf
 revue: L’école des lettres des collèges

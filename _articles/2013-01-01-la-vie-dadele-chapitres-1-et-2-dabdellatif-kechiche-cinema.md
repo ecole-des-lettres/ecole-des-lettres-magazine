@@ -13,7 +13,7 @@ description: Les mini scandales qui accompagnent la sortie du film d’Abdellati
   il est adapté, tandis que le second « La Vie d’Adèle chapitres 1 et 2 », renvoie
   à « La Vie de Marianne », roman inachevé de Marivaux. Pour placer le film sous le
   signe de Marivaux, une élève de première lit dès le début un passage-clé de ce roman,
-  et répète sans trop comprendre : « Car je suis femme… » Tel est bien l’enjeu du
+  et répète sans trop comprendre – « Car je suis femme… » Tel est bien l’enjeu du
   film. Qu’est-ce qu’être une femme ? Privilège ou malheur ? Choix ou destin ?
 article_pdf: 12228.pdf
 revue: L’école des lettres des lycées

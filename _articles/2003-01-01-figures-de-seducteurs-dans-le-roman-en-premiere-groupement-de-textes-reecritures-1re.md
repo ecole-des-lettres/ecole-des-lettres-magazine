@@ -5,7 +5,7 @@ rubrique: Réécritures [1re]
 annee: 2003
 magazine: 2004
 pages: 32
-description: La notion de réécriture est au cœur de la création littéraire : en renversant
+description: La notion de réécriture est au cœur de la création littéraire – en renversant
   les structures, les valeurs, les formes déjà écrites, en trompant les attentes,
   en se démarquant des modèles passés, la réécriture vise l’originalité. Pour cela,
   elle s’appuie sur la culture du lecteur, a besoin d’une connivence avec lui. En

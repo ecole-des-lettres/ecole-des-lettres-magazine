@@ -1,6 +1,6 @@
 ---
 id: 231
-title: Marcel Aymé : « Uranus ». Étude intégrale 
+title: Marcel Aymé – « Uranus ». Étude intégrale 
 rubrique: Roman et argumentation [2de-1re]
 annee: 1990
 magazine: n°14 15 juillet 1991

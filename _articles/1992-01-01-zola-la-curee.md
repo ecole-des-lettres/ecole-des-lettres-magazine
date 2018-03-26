@@ -1,6 +1,6 @@
 ---
 id: 5101
-title: « Zola : La Curée »
+title: « Zola – La Curée »
 rubrique: 
 annee: 1992
 magazine: n°7 15 janvier 1993
@@ -19,10 +19,10 @@ description:
   – l’espace de « La Curée » 
   – les « comptes fantastiques » d’Haussmann 
   – Saccard le faiseur d’or, Zola et le mythe alchimique
-  Ont participé à ce numéro :
+  Ont participé à ce numéro – 
   Patricia Carles, Béatrice Desgranges, Claire Meyrat-Vol, François-Marie Mourad
 article_pdf: 5101.pdf
-magazine_special: Zola : La Curée
+magazine_special: Zola – La Curée
 revue: L’école des lettres des lycées
 disciplines:
 - lettres

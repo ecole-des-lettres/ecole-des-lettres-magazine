@@ -1,6 +1,6 @@
 ---
 id: 12457
-title: Pierre Cahuc, Stéphane Carcillo, Olivier Galland, André Zylberberg : « La
+title: Pierre Cahuc, Stéphane Carcillo, Olivier Galland, André Zylberberg – « La
   Machine à trier. Comment la France divise sa jeunesse »
 rubrique: Éducation
 annee: 2011

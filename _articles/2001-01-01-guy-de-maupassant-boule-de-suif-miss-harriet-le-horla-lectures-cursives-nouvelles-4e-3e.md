@@ -1,6 +1,6 @@
 ---
 id: 4376
-title: Guy de Maupassant : « Boule de suif », « Miss Harriet », « Le Horla ». Lectures
+title: Guy de Maupassant – « Boule de suif », « Miss Harriet », « Le Horla ». Lectures
   cursives
 rubrique: Nouvelles [4e-3e]
 annee: 2001

@@ -1,6 +1,6 @@
 ---
 id: 1816
-title: Jean de La Fontaine : Homère dans les « Fables »  (2/2)
+title: Jean de La Fontaine – Homère dans les « Fables »  (2/2)
 rubrique: Poésie / réécritures [1re]
 annee: 1994
 magazine: n°8 1er mars 1995
@@ -11,7 +11,7 @@ description:
   – un univers où un et un ne font pas toujours deux
   – une nouvelle « Iliade » de la solidarité
   4. La Fontaine, un nouvel Homère ?
-  – La Fontaine, créateur d’un genre nouveau et concurrent de l’épopée : la fable : la poésie héroïque ; la fable au carrefour des genres, des tons et des discours ; la fable et l’inauguration de la parole ; la fable comme aventure de la parole
+  – La Fontaine, créateur d’un genre nouveau et concurrent de l’épopée – la fable – la poésie héroïque ; la fable au carrefour des genres, des tons et des discours ; la fable et l’inauguration de la parole ; la fable comme aventure de la parole
   – un nouveau lecteur pour une nouvelle « Iliade »
 article_pdf: 1816.pdf
 revue: L’école des lettres des lycées

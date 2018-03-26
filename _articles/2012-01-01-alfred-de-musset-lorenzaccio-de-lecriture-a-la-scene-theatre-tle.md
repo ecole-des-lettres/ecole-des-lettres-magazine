@@ -1,6 +1,6 @@
 ---
 id: 12203
-title: Alfred de Musset : « Lorenzaccio », de l’écriture à la scène 
+title: Alfred de Musset – « Lorenzaccio », de l’écriture à la scène 
 rubrique: Théâtre [Tle]
 annee: 2012
 magazine: 2012

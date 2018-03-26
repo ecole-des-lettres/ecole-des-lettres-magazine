@@ -1,6 +1,6 @@
 ---
 id: 635
-title: Colette : « Le Blé en herbe ». Entraînement à l’expression écrite (2/2) 
+title: Colette – « Le Blé en herbe ». Entraînement à l’expression écrite (2/2) 
 rubrique: Romans du XXe siècle [3e]
 annee: 1991
 magazine: n°5 15 novembre 1991

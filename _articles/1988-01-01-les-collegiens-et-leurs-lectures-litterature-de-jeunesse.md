@@ -10,7 +10,7 @@ description:
   1. Profs, vous faites aimer les livres !
   2. Quels livres aiment-ils ? Genèse des intérêts de la sixième à la troisième
 article_pdf: 99.pdf
-magazine_special: Littérature pour la jeunesse : le roman
+magazine_special: Littérature pour la jeunesse – le roman
 revue: L’école des lettres des collèges
 auteurs:
 - Odile Lambert-Chesnot

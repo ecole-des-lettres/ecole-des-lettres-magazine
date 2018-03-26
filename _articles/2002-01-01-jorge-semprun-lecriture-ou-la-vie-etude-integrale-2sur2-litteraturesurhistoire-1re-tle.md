@@ -1,6 +1,6 @@
 ---
 id: 4928
-title: Jorge Semprun : « L’Écriture ou la Vie. Étude intégrale (2/2)
+title: Jorge Semprun – « L’Écriture ou la Vie. Étude intégrale (2/2)
 rubrique: Littérature/histoire [1re-Tle]
 annee: 2002
 magazine: 2002

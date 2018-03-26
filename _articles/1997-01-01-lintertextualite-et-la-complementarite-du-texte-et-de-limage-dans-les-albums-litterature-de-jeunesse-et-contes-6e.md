@@ -7,7 +7,7 @@ magazine: n°11 15 mars 1998
 pages: 8
 description: Ce travail, destiné aux élèves de sixième, propose d’étudier et de comparer
   deux albums qui font référence au conte de Charles Perrault, « Le Petit Chaperon
-  rouge » : « Le Tunnel », d’Anthony Browne et « John Chatterton détective », d’Yvan
+  rouge » – « Le Tunnel », d’Anthony Browne et « John Chatterton détective », d’Yvan
   Pommaux. Ils permettent d’introduire la notion d’intertextualité auprès des élèves
   et d’en montrer les différences de traitement d’un album à l’autre. Ces deux albums
   permettent par ailleurs de faire découvrir aux élèves la complémentarité du texte

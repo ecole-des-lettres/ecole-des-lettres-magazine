@@ -1,8 +1,8 @@
 ---
 id: 2065
-title: Jean-Claude Garcin : « États, sociétés et cultures du monde musulman médiéval »
-  ; Yves Thoraval : « Dictionnaire de civilisation musulmane » ; Maxime Rodinson :
-  « L’Islam : politique et croyance »
+title: Jean-Claude Garcin – « États, sociétés et cultures du monde musulman médiéval »
+  ; Yves Thoraval – « Dictionnaire de civilisation musulmane » ; Maxime Rodinson – 
+  « L’Islam – politique et croyance »
 rubrique: 
 annee: 1995
 magazine: n°5 15 décembre 1995

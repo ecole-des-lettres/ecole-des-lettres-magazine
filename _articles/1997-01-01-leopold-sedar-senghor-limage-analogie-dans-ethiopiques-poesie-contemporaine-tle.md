@@ -1,6 +1,6 @@
 ---
 id: 2723
-title: Léopold Sédar Senghor : l’image-analogie dans « Éthiopiques »
+title: Léopold Sédar Senghor – l’image-analogie dans « Éthiopiques »
 rubrique: Poésie contemporaine [Tle]
 annee: 1997
 magazine: n°12 1er avril 1998
@@ -13,11 +13,11 @@ description: Le mouvement poétique de la négritude, né à Paris au milieu des
   ladite table en produits de sa propre culture), ils substituent la double image
   de la profondeur des abîmes et de la profusion du passé. Ce passé de l’individu,
   de l’homme, chacun le porte en soi. « Retourner » au « pays natal » ou « descendre »
-  dans les tréfonds du ça : deux images d’une même fonction. Malgré l’image fréquente
+  dans les tréfonds du ça – deux images d’une même fonction. Malgré l’image fréquente
   de la descente ou de la plongée, la négritude, singulièrement la poésie de Senghor,
   apparaît comme une remontée dans son passé, dans le passé…
 article_pdf: 2723.pdf
-magazine_special: Senghor : Éthiopiques
+magazine_special: Senghor – Éthiopiques
 revue: L’école des lettres des lycées
 auteurs:
 - Michel Hausser

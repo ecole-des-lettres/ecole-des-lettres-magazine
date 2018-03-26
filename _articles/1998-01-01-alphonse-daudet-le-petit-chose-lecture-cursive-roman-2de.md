@@ -1,6 +1,6 @@
 ---
 id: 11845
-title: Alphonse Daudet : « Le Petit Chose ». Lecture cursive 
+title: Alphonse Daudet – « Le Petit Chose ». Lecture cursive 
 rubrique: Roman [2de]
 annee: 1998
 magazine: n°4 1er octobre 1998

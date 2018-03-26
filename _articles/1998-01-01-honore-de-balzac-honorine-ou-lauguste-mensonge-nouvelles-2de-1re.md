@@ -1,6 +1,6 @@
 ---
 id: 3133
-title: Honoré de Balzac : « Honorine » ou l’« auguste mensonge »
+title: Honoré de Balzac – « Honorine » ou l’« auguste mensonge »
 rubrique: Nouvelles [2de-1re]
 annee: 1998
 magazine: n°13 1er mai 1999

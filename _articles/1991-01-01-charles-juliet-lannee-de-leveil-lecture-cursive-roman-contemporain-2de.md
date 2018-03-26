@@ -1,6 +1,6 @@
 ---
 id: 773
-title: Charles Juliet : « L’Année de l’éveil ». Lecture cursive 
+title: Charles Juliet – « L’Année de l’éveil ». Lecture cursive 
 rubrique: Roman contemporain [2de]
 annee: 1991
 magazine: n°9 1er avril 1992

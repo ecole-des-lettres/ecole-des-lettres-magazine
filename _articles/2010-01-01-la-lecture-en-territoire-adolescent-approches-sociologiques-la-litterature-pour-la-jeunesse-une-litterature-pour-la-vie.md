@@ -1,6 +1,6 @@
 ---
 id: 12086
-title: La lecture en territoire adolescent : approches sociologiques
+title: La lecture en territoire adolescent – approches sociologiques
 rubrique: La littérature pour la jeunesse, une littérature pour la vie,
 annee: 2010
 magazine: n°6 2010-2011

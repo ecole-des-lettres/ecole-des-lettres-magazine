@@ -1,6 +1,6 @@
 ---
 id: 1881
-title: Franck Pavloff : « Pinguino » . Étude intégrale 
+title: Franck Pavloff – « Pinguino » . Étude intégrale 
 rubrique: Littérature de jeunesse et roman policier [4e]
 annee: 1995
 magazine: 1996

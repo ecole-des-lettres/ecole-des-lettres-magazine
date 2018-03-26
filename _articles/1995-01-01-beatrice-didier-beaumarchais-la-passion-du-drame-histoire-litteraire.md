@@ -1,6 +1,6 @@
 ---
 id: 2161
-title: Béatrice Didier : « Beaumarchais, la Passion du drame »
+title: Béatrice Didier – « Beaumarchais, la Passion du drame »
 rubrique: Histoire littéraire
 annee: 1995
 magazine: n°8 15 mars 1996

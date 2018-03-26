@@ -6,11 +6,11 @@ annee: 1991
 magazine: n°4 1er novembre 1991
 pages: 10
 description: 
-  Différents aspects de l’expression écrite pour exprimer sa pensée. L’article comprend quatre parties :
+  Différents aspects de l’expression écrite pour exprimer sa pensée. L’article comprend quatre parties – 
   1. L’expression de la cause
   – adjectif qualificatif
   – proposition subordonnée relative
-  2. Cause, but, conséquence, concession : les risques de confusion
+  2. Cause, but, conséquence, concession – les risques de confusion
   – la cause et le but
   – la conséquence et la concession
   – la concession et l’hypothèse

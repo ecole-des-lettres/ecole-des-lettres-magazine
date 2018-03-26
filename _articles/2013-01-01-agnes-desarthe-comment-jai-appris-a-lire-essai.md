@@ -1,6 +1,6 @@
 ---
 id: 12589
-title: Agnès Desarthe : «  Comment j’ai appris à lire »
+title: Agnès Desarthe – «  Comment j’ai appris à lire »
 rubrique: Essai
 annee: 2013
 magazine: n°5

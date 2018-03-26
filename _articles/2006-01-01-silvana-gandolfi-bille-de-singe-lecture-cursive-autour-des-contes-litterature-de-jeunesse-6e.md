@@ -1,6 +1,6 @@
 ---
 id: 11729
-title: Silvana Gandolfi : « Bille de singe ». Lecture cursive autour des contes
+title: Silvana Gandolfi – « Bille de singe ». Lecture cursive autour des contes
 rubrique: Littérature de jeunesse [6e] 
 annee: 2006
 magazine: 

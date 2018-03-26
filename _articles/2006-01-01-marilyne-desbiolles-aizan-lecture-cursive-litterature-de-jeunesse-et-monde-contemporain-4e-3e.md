@@ -1,6 +1,6 @@
 ---
 id: 11490
-title: Marilyne Desbiolles : « Aïzan ». Lecture cursive 
+title: Marilyne Desbiolles – « Aïzan ». Lecture cursive 
 rubrique: Littérature de jeunesse et monde contemporain [4e-3e]
 annee: 2006
 magazine: n°5-6 janvier-frévrier 2007

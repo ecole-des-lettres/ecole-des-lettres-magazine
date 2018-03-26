@@ -11,8 +11,8 @@ description:
   – L’âge d’or de la comédie viennoise
   – Le mythe des Habsbourg
   – Les évasions subtiles
-  – L’Empire englouti : Bruno Schulz, Mor Jokai, Sandor Marai, Gyula Krudy…
-  – Repli dans la « rue jaune », fuite à Londres : Veza Canetti (1897-1963)
+  – L’Empire englouti – Bruno Schulz, Mor Jokai, Sandor Marai, Gyula Krudy…
+  – Repli dans la « rue jaune », fuite à Londres – Veza Canetti (1897-1963)
   – Une littérature non faustienne
   2. De Monsieur Karl à Monsieur Kuka
   –  « L’Auberge du Cheval blanc »

@@ -1,6 +1,6 @@
 ---
 id: 11162
-title: « La Nina santa », de Lucrezia Martel  : l’hiver meurtrier
+title: « La Nina santa », de Lucrezia Martel  – l’hiver meurtrier
 rubrique: Cinéma
 annee: 2004
 magazine: n°2 1er octobre 2004

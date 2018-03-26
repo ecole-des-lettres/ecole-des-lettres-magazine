@@ -6,7 +6,7 @@ annee: 2000
 magazine: n°9 15 janvier 2001
 pages: 10
 description: Parmi les genres narratifs médiévaux, le roman s’inscrit doublement
-  dans un courant profane : d’une part, il désigne la langue vernaculaire parlée dans
+  dans un courant profane – d’une part, il désigne la langue vernaculaire parlée dans
   la France du Nord et s’oppose au latin, langue privilégiée par les clercs et généralisée
   à l’écrit ; d’autre part, il évoque tous les longs récits fictifs non chantés, véritables
   fruits de l’imagination, qui ne témoignent plus d’une inspiration exclusivement

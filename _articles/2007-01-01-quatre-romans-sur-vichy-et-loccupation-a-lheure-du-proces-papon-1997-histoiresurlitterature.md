@@ -6,7 +6,7 @@ annee: 2007
 magazine: 
 pages: 19
 description: 
-  On n’en a jamais fini avec Vichy. À la fin du XXe siècle, les quatre années de l’Occupation, longtemps occultées, réapparaissent avec un sombre éclat. Outre une éclosion de titres directement liés à la carrière de celui qui fut successivement fonctionnaire de l’État français et ministre de la Ve République, Maurice Papon, quatre romans prouvent que la mémoire des « années noires » obsède toujours les écrivains :
+  On n’en a jamais fini avec Vichy. À la fin du XXe siècle, les quatre années de l’Occupation, longtemps occultées, réapparaissent avec un sombre éclat. Outre une éclosion de titres directement liés à la carrière de celui qui fut successivement fonctionnaire de l’État français et ministre de la Ve République, Maurice Papon, quatre romans prouvent que la mémoire des « années noires » obsède toujours les écrivains – 
   – « 1941 », de Marc Lambron (Grasset, 1997) ;
   – « La Compagnie des spectres », de Lydie Salvayre  (Seuil, 1997) ;
   – « La Cliente », de Pierre Assouline (Gallimard, 1998) ;

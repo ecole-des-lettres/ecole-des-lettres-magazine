@@ -1,7 +1,7 @@
 ---
 id: 12250
 title: d’émotions, de l’Antiquité à nos jours »
-rubrique: Alain Corbin : « La Douceur de l’ombre. L’arbre source
+rubrique: Alain Corbin – « La Douceur de l’ombre. L’arbre source
 annee: 2013
 magazine: septembre 2013
 pages: 2

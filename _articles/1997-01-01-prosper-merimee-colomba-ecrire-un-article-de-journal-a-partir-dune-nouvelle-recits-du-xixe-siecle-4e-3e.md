@@ -1,6 +1,6 @@
 ---
 id: 2620
-title: Prosper Mérimée : « Colomba ». Écrire un article de journal à partir d’une
+title: Prosper Mérimée – « Colomba ». Écrire un article de journal à partir d’une
   nouvelle 
 rubrique: Récits du XIXe siècle [4e-3e]
 annee: 1997

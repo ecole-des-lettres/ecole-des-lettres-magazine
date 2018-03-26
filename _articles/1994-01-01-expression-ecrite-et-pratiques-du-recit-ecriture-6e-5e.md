@@ -9,7 +9,7 @@ description:
   L’objectif est d’inciter les élèves à produire un récit complet en distinguant l’histoire proprement dite de la manière dont elle est racontée…
   – De quelques idées reçues
   – De l’énonciation à l’énoncé
-  – À la découverte du modèle quinaire : montrer à quoi répond la construction d’une histoire
+  – À la découverte du modèle quinaire – montrer à quoi répond la construction d’une histoire
 article_pdf: 1631.pdf
 revue: L’école des lettres des collèges
 auteurs:

@@ -1,6 +1,6 @@
 ---
 id: 3041
-title: Françoise Gevrey : « L’Esthétique de Madame de Lafayette » ; Jacques Bony :
+title: Françoise Gevrey – « L’Esthétique de Madame de Lafayette » ; Jacques Bony – 
   « L’Esthétique de Nerval »
 rubrique: Histoire littéraire
 annee: 1998

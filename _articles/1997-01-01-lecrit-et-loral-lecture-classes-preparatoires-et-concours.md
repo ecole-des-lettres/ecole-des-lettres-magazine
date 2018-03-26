@@ -8,7 +8,7 @@ pages: 9
 description: Apprentissage scolaire de l’écrit et de l’oral, lecture à haute voix
   et lecture mentale, théâtre, poésie, conte, etc. vus par l’écrivain Michel Tournier.
 article_pdf: 2784.pdf
-magazine_special: Lecture : le génie du lecteur, colloque de Cerisy
+magazine_special: Lecture – le génie du lecteur, colloque de Cerisy
 revue: L’école des lettres des lycées
 auteurs:
 - Michel Tournier

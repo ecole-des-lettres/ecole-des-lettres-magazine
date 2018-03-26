@@ -1,6 +1,6 @@
 ---
 id: 4638
-title: Primo Levi : la figure mythique d’Ulysse dans l’œuvre de Primo Levi
+title: Primo Levi – la figure mythique d’Ulysse dans l’œuvre de Primo Levi
 rubrique: Témoignage [Tle]
 annee: 2002
 magazine: n°2 août 2002

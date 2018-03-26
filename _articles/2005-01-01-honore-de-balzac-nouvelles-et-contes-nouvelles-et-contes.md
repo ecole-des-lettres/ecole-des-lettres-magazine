@@ -1,6 +1,6 @@
 ---
 id: 11367
-title: Honoré de Balzac : « Nouvelles et contes »
+title: Honoré de Balzac – « Nouvelles et contes »
 rubrique: Nouvelles et contes
 annee: 2005
 magazine: n°10 avril 2006

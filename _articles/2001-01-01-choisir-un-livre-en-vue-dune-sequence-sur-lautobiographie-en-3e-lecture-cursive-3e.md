@@ -10,9 +10,9 @@ description: Inciter les élèves à lire à la maison n’est pas facile et, lo
   par le professeur est parfois laborieuse. La démarche proposée ici vise à guider
   les élèves de manière ludique dans leur choix. Il s’agit d’un travail de mise en
   relation du titre d’un livre et de son extrait, nécessitant une manipulation des
-  ouvrages : observation du titre, des illustrations, du résumé, lecture de quelques
+  ouvrages – observation du titre, des illustrations, du résumé, lecture de quelques
   lignes… Bref, la démarche courante d’un lecteur chevronné. Le thème sélectionné
-  n’est pas anodin : cette séance de deux heures inaugure une séquence sur l’autobiographie
+  n’est pas anodin – cette séance de deux heures inaugure une séquence sur l’autobiographie
   recommandée par les programmes de troisième, et nombreuses sont les autobiographies
   ayant pour cadre la Seconde Guerre mondiale. Testée en ZEP, cette séance peut facilement
   être aménagée pour tenir compte du niveau des élèves.

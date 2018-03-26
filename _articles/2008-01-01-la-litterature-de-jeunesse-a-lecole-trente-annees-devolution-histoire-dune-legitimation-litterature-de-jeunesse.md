@@ -12,7 +12,7 @@ description: Dans le cadre de la journée d’étude « La littérature des enfa
   la place de la littérature de jeunesse à l’école ces trente dernières années.\nDepuis
   2002, la littérature de jeunesse est entrée dans les programmes officiels de l’école
   primaire. Pour comprendre les raisons de cette légitimation, il convient de prendre
-  en compte certains facteurs explicatifs :\n– l’histoire de la lecture à l’école
+  en compte certains facteurs explicatifs – \n– l’histoire de la lecture à l’école
   ;\n– les transformations sociales qui ont affecté le système éducatif ;\n– des pressions
   externes et internes ;\n– des modifications dans les programmes scolaires officiels. 
 article_pdf: 12009.pdf

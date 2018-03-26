@@ -1,6 +1,6 @@
 ---
 id: 4149
-title: Aucassin et Nicolette » : approche grammaticale, linguistique et sémantique
+title: Aucassin et Nicolette » – approche grammaticale, linguistique et sémantique
 rubrique:  Littérature médiévale [5e]
 annee: 2000
 magazine: n°9 15 janvier 2001

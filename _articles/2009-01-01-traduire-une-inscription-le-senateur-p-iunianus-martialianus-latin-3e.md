@@ -9,7 +9,7 @@ description: Cette séquence a pour objectifs grammaticaux les révisions des de
   et troisième déclinaisons et du superlatif. Le texte support – la titulature d’un
   sénateur romain – sert également à l’approfondissement des connaissances du système
   politique impérial avec l’observation du cursus honorum. Enfin, cette étude permet
-  une initiation à une technique archéologique : l’épigraphie latine. 
+  une initiation à une technique archéologique – l’épigraphie latine. 
 article_pdf: 11995.pdf
 revue: L’école des lettres des collèges
 auteurs:

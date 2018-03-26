@@ -6,7 +6,7 @@ annee: 2001
 magazine: n°3 15 septembre 2001
 pages: 8
 description: 
-  Exemples de sujets sur les objets d’étude suivants :
+  Exemples de sujets sur les objets d’étude suivants – 
   – le biographique
   – la poésie ; convaincre, persuader et délibérer
   – l’épistolaire ; la poésie

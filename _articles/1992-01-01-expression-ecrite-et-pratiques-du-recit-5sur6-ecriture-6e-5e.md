@@ -9,7 +9,7 @@ description:
   1. La technique du dialogue
   – la distinction récit / discours rapporté
   – dire… mais comment ?
-  2. Le dialogue dans le récit : à partir de sept documents-exercices corrigés et commentés
+  2. Le dialogue dans le récit – à partir de sept documents-exercices corrigés et commentés
 article_pdf: 809.pdf
 revue: L’école des lettres des collèges
 auteurs:

@@ -7,7 +7,7 @@ magazine: n°7 15 novembre 2001
 pages: 4
 description: 
   Cet article propose la lecture de trois romans qui évoquent certaines difficultés liées à l’adolescence, une période qui se traduit souvent par des réactions d’opposition, de contestation, un sentiment d’échec, d’incompréhension, un mal de vivre…
-  C’est ce que montre chaque roman proposé : une volonté d’indépendance, un désir d’amour, un besoin de prouver qu’on existe de la part des personnages.
+  C’est ce que montre chaque roman proposé – une volonté d’indépendance, un désir d’amour, un besoin de prouver qu’on existe de la part des personnages.
   – « La Vie en noir », de Loredana Frescura
   – « Tendance filles », de Marie-Sophie Vermot
   – « Je ne veux plus jamais avoir treize ans », de Patricia Bullit

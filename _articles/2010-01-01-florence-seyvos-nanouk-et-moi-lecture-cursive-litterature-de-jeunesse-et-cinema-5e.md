@@ -1,6 +1,6 @@
 ---
 id: 12047
-title: Florence Seyvos : « Nanouk et moi ». Lecture cursive 
+title: Florence Seyvos – « Nanouk et moi ». Lecture cursive 
 rubrique: Littérature de jeunesse et cinéma [5e]
 annee: 2010
 magazine: n°1 2010-2011

@@ -1,6 +1,6 @@
 ---
 id: 3714
-title:  Honoré de Balzac : « Eugénie Grandet ». Le portrait charge et ses procédés.
+title:  Honoré de Balzac – « Eugénie Grandet ». Le portrait charge et ses procédés.
   Étude de texte et lecture d’images
 rubrique: Roman [4e]
 annee: 1999

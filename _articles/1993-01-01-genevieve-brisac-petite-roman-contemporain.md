@@ -1,6 +1,6 @@
 ---
 id: 1135
-title: Geneviève Brisac : « Petite »
+title: Geneviève Brisac – « Petite »
 rubrique: Roman contemporain
 annee: 1993
 magazine: n°10 15 avril 1994

@@ -1,6 +1,6 @@
 ---
 id: 2155
-title: Beaumarchais : « Lettres à une amoureuse ». Étude intégrale
+title: Beaumarchais – « Lettres à une amoureuse ». Étude intégrale
 rubrique: Littérature épistolaire [classes préparatoires et concours]
 annee: 1995
 magazine: n°8 15 mars 1996

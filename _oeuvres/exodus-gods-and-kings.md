@@ -1,3 +1,3 @@
 ---
-title: 'Exodus : Gods and Kings'
+title: 'Exodus – Gods and Kings'
 ---

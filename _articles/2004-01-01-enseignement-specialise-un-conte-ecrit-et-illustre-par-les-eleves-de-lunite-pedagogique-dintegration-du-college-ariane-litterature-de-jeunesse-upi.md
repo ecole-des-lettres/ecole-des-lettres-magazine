@@ -1,6 +1,6 @@
 ---
 id: 11124
-title: Enseignement spécialisé : un conte écrit et illustré par les élèves de l’unité
+title: Enseignement spécialisé – un conte écrit et illustré par les élèves de l’unité
   pédagogique d’intégration du collège Ariane
 rubrique: Littérature de jeunesse [UPI]
 annee: 2004

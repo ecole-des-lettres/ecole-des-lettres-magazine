@@ -1,6 +1,6 @@
 ---
 id: 522
-title: Guillaume Apollinaire, Pierre Reverdy : deux versants de la poésie nouvelle
+title: Guillaume Apollinaire, Pierre Reverdy – deux versants de la poésie nouvelle
 rubrique: Poésie [1re]
 annee: 1991
 magazine: n°12 1er juin 1992

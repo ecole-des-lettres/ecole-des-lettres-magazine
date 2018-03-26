@@ -1,6 +1,6 @@
 ---
 id: 5238
-title: « Qui a tué Bambi ? », de Gilles Marchand : la perversité en blouse blanche
+title: « Qui a tué Bambi ? », de Gilles Marchand – la perversité en blouse blanche
 rubrique: Cinéma
 annee: 2003
 magazine: n°5 1er novembre 2003

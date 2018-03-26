@@ -1,6 +1,6 @@
 ---
 id: 12942
-title: « Timbuktu », d’Abderrahmane Sissako : l’art contre la barbarie
+title: « Timbuktu », d’Abderrahmane Sissako – l’art contre la barbarie
 rubrique: Cinéma
 annee: 2015
 magazine: février 2015

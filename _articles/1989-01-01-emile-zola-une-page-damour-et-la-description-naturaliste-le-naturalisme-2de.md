@@ -1,6 +1,6 @@
 ---
 id: 118
-title: Émile Zola : « Une page d’amour » et la description naturaliste
+title: Émile Zola – « Une page d’amour » et la description naturaliste
 rubrique: Le naturalisme [2de]
 annee: 1989
 magazine: n°6 15 décembre 1989

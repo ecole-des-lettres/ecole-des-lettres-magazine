@@ -1,6 +1,6 @@
 ---
 id: 12316
-title: Pierre Bayard : « Aurais-je été résistant ou bourreau ? »
+title: Pierre Bayard – « Aurais-je été résistant ou bourreau ? »
 rubrique: Histoire / Littérature
 annee: 2013
 magazine: mars 2013

@@ -1,6 +1,6 @@
 ---
 id: 1199
-title: Guy de Maupassant : l’expressionnisme de Maupassant, entre Schopenhauer et
+title: Guy de Maupassant – l’expressionnisme de Maupassant, entre Schopenhauer et
   Gogol
 rubrique: Nouvelle [2de]
 annee: 1993
@@ -16,7 +16,7 @@ description:
   – les employés
   – le chemin de la folie
 article_pdf: 1199.pdf
-magazine_special: Maupassant : autour du Horla 
+magazine_special: Maupassant – autour du Horla 
 revue: L’école des lettres des lycées
 auteurs:
 - Anne-Marie Baron

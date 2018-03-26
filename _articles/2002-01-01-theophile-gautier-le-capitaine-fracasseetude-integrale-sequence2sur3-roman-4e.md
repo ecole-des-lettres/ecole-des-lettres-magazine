@@ -1,6 +1,6 @@
 ---
 id: 4630
-title: Théophile Gautier : « Le Capitaine Fracasse ».Étude intégrale (séquence) (2/3)
+title: Théophile Gautier – « Le Capitaine Fracasse ».Étude intégrale (séquence) (2/3)
 rubrique: Roman [4e]
 annee: 2002
 magazine: n°2 août 2002

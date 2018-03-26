@@ -1,6 +1,6 @@
 ---
 id: 2111
-title: Chrétien de Troyes : « Le Conte du Graal ». Le Graal chez Chrétien de Troyes
+title: Chrétien de Troyes – « Le Conte du Graal ». Le Graal chez Chrétien de Troyes
   et ses épigones  
 rubrique: Grands modèles littéraires [Tle]
 annee: 1995
@@ -10,7 +10,7 @@ description: Que signifie le mot « graal » qui, avant de devenir un nom propr
   à l’origine un nom commun ? Quel objet désigne-t-il ? Que symbolise ce récipient
   pour Chrétien de Troyes et ses épigones ?
 article_pdf: 2111.pdf
-magazine_special: Chrétien de Troyes : Le Conte du Graal
+magazine_special: Chrétien de Troyes – Le Conte du Graal
 revue: L’école des lettres des lycées
 auteurs:
 - Claude Lachet

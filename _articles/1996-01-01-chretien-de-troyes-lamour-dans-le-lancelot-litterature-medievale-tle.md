@@ -1,6 +1,6 @@
 ---
 id: 2243
-title: Chrétien de Troyes : l’amour dans le « Lancelot »
+title: Chrétien de Troyes – l’amour dans le « Lancelot »
 rubrique: Littérature médiévale [Tle]
 annee: 1996
 magazine: n°10 1er mars 1997
@@ -11,7 +11,7 @@ description: Version revue et corrigée du « Tristan », le « Chevalier de 
   toutes les autres valeurs de la société médiévale. Mais cette forme suprême de l’amour
   n’appartient-elle pas à un Autre Monde ?
 article_pdf: 2243.pdf
-magazine_special: Chrétien de Troyes : Lancelot ou le Chevalier de la charrette
+magazine_special: Chrétien de Troyes – Lancelot ou le Chevalier de la charrette
 revue: L’école des lettres des lycées
 auteurs:
 - Claude Lachet

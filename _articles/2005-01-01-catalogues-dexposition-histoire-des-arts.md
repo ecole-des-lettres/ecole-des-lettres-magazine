@@ -6,10 +6,10 @@ annee: 2005
 magazine: n°4 1er novembre 2005
 pages: 5
 description: 
-  Présentation de quelques catalogues d’exposition particulièrement remarquables :
-  – « L’Homme et ses masques » : chefs-d’œuvre des musées Barbier-Mueller
+  Présentation de quelques catalogues d’exposition particulièrement remarquables – 
+  – « L’Homme et ses masques » – chefs-d’œuvre des musées Barbier-Mueller
   – « Les Portraits de Memling »
-  – « Poussin, Watteau, Chardin, David… » : peintures françaises dans les collections allemandes (XVIIe-XVIIIe siècles)
+  – « Poussin, Watteau, Chardin, David… » – peintures françaises dans les collections allemandes (XVIIe-XVIIIe siècles)
 article_pdf: 11317.pdf
 revue: L’école des lettres des lycées
 auteurs:

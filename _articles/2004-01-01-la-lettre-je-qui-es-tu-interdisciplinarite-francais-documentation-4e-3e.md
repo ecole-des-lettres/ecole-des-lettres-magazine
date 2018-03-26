@@ -11,7 +11,7 @@ description: Née de la collaboration entre un professeur de français et une do
   plusieurs fois dans l’année à ses élèves de quatrième. Les adolescents étant très
   friands des romans à la première personne, surtout quand le narrateur est un personnage
   de leur âge auquel ils s’identifient facilement, il a paru intéressant d’allier
-  plaisir de la lecture et travail sur deux aspects du programme : le point de vue,
+  plaisir de la lecture et travail sur deux aspects du programme – le point de vue,
   d’une part, le thème de la lettre à travers le roman épistolaire, d’autre part.
 article_pdf: 11128.pdf
 revue: L’école des lettres des collèges

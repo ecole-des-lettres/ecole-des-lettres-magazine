@@ -8,11 +8,11 @@ pages: 14
 description: 
   3. Explication de texte d’un poème de Musset extrait de « Namouna » (chant 2)
   – situation et problématique du passage
-  – explication : don Juan le volage ; don Juan l’errant ; la fin de don Juan
-  – plan pour un commentaire composé : les éléments traditionnels du mythe ; la grandeur mythique de don Juan ; le tragique absurde de la condition humaine
-  4. Prosper Mérimée : une vision prémonitoire : explication de texte d’un extrait des « Âmes du purgatoire »
+  – explication – don Juan le volage ; don Juan l’errant ; la fin de don Juan
+  – plan pour un commentaire composé – les éléments traditionnels du mythe ; la grandeur mythique de don Juan ; le tragique absurde de la condition humaine
+  4. Prosper Mérimée – une vision prémonitoire – explication de texte d’un extrait des « Âmes du purgatoire »
   – situation et problématique du passage
-  – explication : le spectacle de la procession ; don Juan face à sa mort
+  – explication – le spectacle de la procession ; don Juan face à sa mort
 article_pdf: 1674.pdf
 revue: L’école des lettres des lycées
 auteurs:

@@ -1,6 +1,6 @@
 ---
 id: 1431
-title: Jean Rohou : « L’Évolution du théâtre racinien »
+title: Jean Rohou – « L’Évolution du théâtre racinien »
 rubrique: Théâtre
 annee: 1993
 magazine: n°8 15 février 1994

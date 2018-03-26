@@ -1,6 +1,6 @@
 ---
 id: 4161
-title: Honoré de Balzac : « Z. Marcas » : l’occasion manquée
+title: Honoré de Balzac – « Z. Marcas » – l’occasion manquée
 rubrique: Nouvelles [2de]
 annee: 2000
 magazine: n°9 15 janvier 2001

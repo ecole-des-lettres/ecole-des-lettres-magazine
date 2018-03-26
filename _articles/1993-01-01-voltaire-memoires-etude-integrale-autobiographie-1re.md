@@ -1,6 +1,6 @@
 ---
 id: 1294
-title: Voltaire : « Mémoires ». Étude intégrale 
+title: Voltaire – « Mémoires ». Étude intégrale 
 rubrique: Autobiographie [1re]
 annee: 1993
 magazine: n°3 15 octobre 1993

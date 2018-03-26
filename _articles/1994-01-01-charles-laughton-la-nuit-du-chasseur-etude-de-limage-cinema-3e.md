@@ -1,7 +1,7 @@
 ---
 id: 1803
-title: Charles Laughton : « La Nuit du chasseur » 
-rubrique: Étude de l’image : cinéma [3e]
+title: Charles Laughton – « La Nuit du chasseur » 
+rubrique: Étude de l’image – cinéma [3e]
 annee: 1994
 magazine: n°8 1er mars 1995
 pages: 7

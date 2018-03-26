@@ -1,6 +1,6 @@
 ---
 id: 12794
-title: « Sils Maria », d’Olivier Assayas : « Twilight » vs « Mauvais sang »
+title: « Sils Maria », d’Olivier Assayas – « Twilight » vs « Mauvais sang »
 rubrique: Cinéma
 annee: 2014
 magazine: septembre 2014

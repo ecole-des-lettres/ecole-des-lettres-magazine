@@ -12,7 +12,7 @@ description: Cet article introduit  un dossier consacré à la lecture et s’in
   lecteurs découvrent ce qui existait auparavant à l’état latent ou s’ils créent de
   toutes pièces de nouvelles significations…
 article_pdf: 2782.pdf
-magazine_special: Lecture : le génie du lecteur, colloque de Cerisy
+magazine_special: Lecture – le génie du lecteur, colloque de Cerisy
 revue: L’école des lettres des lycées
 auteurs:
 - Arlette Bouloumié

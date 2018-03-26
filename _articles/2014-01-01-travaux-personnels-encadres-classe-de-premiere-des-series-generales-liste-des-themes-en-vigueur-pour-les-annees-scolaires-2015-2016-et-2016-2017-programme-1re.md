@@ -1,6 +1,6 @@
 ---
 id: 12770
-title: Travaux personnels encadrés. Classe de première des séries générales : liste
+title: Travaux personnels encadrés. Classe de première des séries générales – liste
   des thèmes en vigueur pour les années scolaires 2015-2016 et 2016-2017
 rubrique: Programme [1re]
 annee: 2014

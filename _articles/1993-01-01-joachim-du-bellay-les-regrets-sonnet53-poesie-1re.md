@@ -1,6 +1,6 @@
 ---
 id: 1369
-title: Joachim Du Bellay : « Les Regrets », sonnet 53
+title: Joachim Du Bellay – « Les Regrets », sonnet 53
 rubrique: Poésie  [1re]
 annee: 1993
 magazine: n°6 1er janvier 1994

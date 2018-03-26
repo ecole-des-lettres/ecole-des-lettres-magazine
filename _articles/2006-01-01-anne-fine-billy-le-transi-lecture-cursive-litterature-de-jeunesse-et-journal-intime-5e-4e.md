@@ -1,6 +1,6 @@
 ---
 id: 11713
-title: Anne Fine : « Billy le Transi ». Lecture cursive
+title: Anne Fine – « Billy le Transi ». Lecture cursive
 rubrique: Littérature de jeunesse et journal intime [5e-4e]
 annee: 2006
 magazine: 

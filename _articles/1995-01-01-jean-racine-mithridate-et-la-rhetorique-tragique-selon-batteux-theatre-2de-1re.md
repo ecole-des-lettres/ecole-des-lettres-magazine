@@ -1,6 +1,6 @@
 ---
 id: 2135
-title: Jean Racine : « Mithridate » et la rhétorique tragique selon Batteux
+title: Jean Racine – « Mithridate » et la rhétorique tragique selon Batteux
 rubrique: Théâtre [2de-1re]
 annee: 1995
 magazine: n°7 15 février 1996
@@ -14,10 +14,10 @@ description: L’abbé Batteux, pédagogue novateur, fut, dans les années 1750,
   jugements étayés par la connaissance des règles. Dans sa «Rhétorique», il présente
   un inventaire à peu près exhaustif des procédés mis en œuvre par les dramaturges
   pour produire sur le spectateur ou le lecteur les effets traditionnellement attribués
-  à la tragédie : terreur, pitié, admiration. En d’autres termes, il constitue une
+  à la tragédie – terreur, pitié, admiration. En d’autres termes, il constitue une
   excellente approche de quelques aspects essentiels du langage tragique. 
 article_pdf: 2135.pdf
-magazine_special: Racine : Britannicus, Bérénice et Mithridate
+magazine_special: Racine – Britannicus, Bérénice et Mithridate
 revue: L’école des lettres des lycées
 auteurs:
 - Jean-Noël Pascal

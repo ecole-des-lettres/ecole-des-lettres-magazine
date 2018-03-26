@@ -1,7 +1,7 @@
 ---
 id: 4600
 title: Étude intégrale (séquence)
-rubrique: Théophile Gautier : « Le Capitaine Fracasse » (1/3)
+rubrique: Théophile Gautier – « Le Capitaine Fracasse » (1/3)
 annee: 2002
 magazine: n°1 juillet-septembre 2002
 pages: 6
@@ -13,7 +13,7 @@ description:
   – Goût de l’époque
   – Originalité du roman
   – Caractéristiques et axes d’étude
-  Plan de la séquence : onze séances
+  Plan de la séquence – onze séances
 article_pdf: 4600.pdf
 revue: L’école des lettres des collèges
 auteurs:

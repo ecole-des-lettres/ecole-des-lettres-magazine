@@ -1,6 +1,6 @@
 ---
 id: 11115
-title: « Guiron le Courtois » : un regard sur le Moyen Âge. Étude d’extraits
+title: « Guiron le Courtois » – un regard sur le Moyen Âge. Étude d’extraits
 rubrique: Littérature médiévale [5e]
 annee: 2004
 magazine: n°8 avril 2005

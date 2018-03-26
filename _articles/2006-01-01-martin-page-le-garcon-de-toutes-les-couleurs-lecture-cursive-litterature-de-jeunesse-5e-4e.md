@@ -1,6 +1,6 @@
 ---
 id: 11702
-title: Martin Page : « Le Garçon de toutes les couleurs ». Lecture cursive 
+title: Martin Page – « Le Garçon de toutes les couleurs ». Lecture cursive 
 rubrique: Littérature de jeunesse  [5e-4e]
 annee: 2006
 magazine: 2007

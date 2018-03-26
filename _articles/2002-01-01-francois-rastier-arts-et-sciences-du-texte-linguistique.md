@@ -1,6 +1,6 @@
 ---
 id: 4667
-title: François Rastier : « Arts et sciences du texte »
+title: François Rastier – « Arts et sciences du texte »
 rubrique: Linguistique
 annee: 2002
 magazine: n°3 septembre 2002

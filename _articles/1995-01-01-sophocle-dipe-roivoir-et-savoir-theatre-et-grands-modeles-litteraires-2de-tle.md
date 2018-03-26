@@ -1,6 +1,6 @@
 ---
 id: 2186
-title: Sophocle : « Œdipe Roi ».Voir et savoir 
+title: Sophocle – « Œdipe Roi ».Voir et savoir 
 rubrique: Théâtre et grands modèles littéraires [2de-Tle]
 annee: 1995
 magazine: n°9 1er avril 1996

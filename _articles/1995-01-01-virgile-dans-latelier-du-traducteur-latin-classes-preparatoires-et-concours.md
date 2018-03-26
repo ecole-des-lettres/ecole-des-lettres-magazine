@@ -7,7 +7,7 @@ magazine: n°4 15 novembre 1995
 pages: 14
 description: Récit de la translation du chant 6 de l’« Énéide »…
 article_pdf: 2052.pdf
-magazine_special: Virgile : L’Énéide
+magazine_special: Virgile – L’Énéide
 revue: L’école des lettres des lycées
 auteurs:
 - Jean-Pierre Chausserie-Laprée

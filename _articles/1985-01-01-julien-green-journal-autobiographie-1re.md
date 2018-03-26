@@ -1,6 +1,6 @@
 ---
 id: 28
-title: Julien Green : « Journal »
+title: Julien Green – « Journal »
 rubrique: Autobiographie [1re]
 annee: 1985
 magazine: n°11 15 mars 1986

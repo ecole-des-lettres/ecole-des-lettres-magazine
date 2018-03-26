@@ -1,7 +1,7 @@
 ---
 id: 4310
 title: La dérision de la mort
-rubrique: Molière : « Le Malade imaginaire »
+rubrique: Molière – « Le Malade imaginaire »
 annee: 2001
 magazine: n°13 mai 2002
 pages: 12

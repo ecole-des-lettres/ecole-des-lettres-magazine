@@ -16,7 +16,7 @@ description:
   8. Les figures littéraires du colonisé
   9. Les combattants coloniaux pendant la Première Guerre mondiale
   10. Le théâtre expressionniste et la guerre
-  Ont participé à ce numéro :
+  Ont participé à ce numéro – 
   Catherine Brun, Sylvie Ducas-Spaës, Anne-Marie Duranton-Crabol, Jacques Le Marinel, Michel Marbeau, Pierre Moinot, Jean-Louis Rambour et Lionel Richard
 article_pdf: 5062.pdf
 magazine_special: Première Guerre mondiale et littérature  (1) »

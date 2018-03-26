@@ -1,6 +1,6 @@
 ---
 id: 23
-title: Jean Guéhenno : « Journal des années noires »
+title: Jean Guéhenno – « Journal des années noires »
 rubrique: Autobiographie [1re]
 annee: 1985
 magazine: n°11 15 mars 1986

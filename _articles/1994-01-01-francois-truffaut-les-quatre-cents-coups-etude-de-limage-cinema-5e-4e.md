@@ -1,7 +1,7 @@
 ---
 id: 1752
-title: François Truffaut : « Les Quatre Cents Coups » 
-rubrique: Étude de l’image : cinéma [5e-4e]
+title: François Truffaut – « Les Quatre Cents Coups » 
+rubrique: Étude de l’image – cinéma [5e-4e]
 annee: 1994
 magazine: n°6 1er janvier 1995
 pages: 11
@@ -11,7 +11,7 @@ description:
   2. L’époque, les lieux
   3. L’univers des adolescents, l’univers des adultes
   4. Un premier film
-  5. Sujets de devoir : donner une suite au film en respectant certaines contraintes
+  5. Sujets de devoir – donner une suite au film en respectant certaines contraintes
   L’article est suivi d’une bibliographie, de six sujets de devoir possibles, d’un questionnaire sur le film.
 article_pdf: 1752.pdf
 revue: L’école des lettres des collèges

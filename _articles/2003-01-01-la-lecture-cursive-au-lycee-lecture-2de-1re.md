@@ -6,7 +6,7 @@ annee: 2003
 magazine: n°5 1er novembre 2003
 pages: 36
 description: Cet article vise à contribuer au vaste chantier relancé par la réforme
-  des programmes, en procédant en quatre temps : après un retour nécessaire sur les
+  des programmes, en procédant en quatre temps – après un retour nécessaire sur les
   objectifs et les instructions qui encadrent le souci de la lecture cursive, on peut
   envisager des dispositifs très variés qui cherchent à susciter l’appétit avant la
   lecture, à escorter le processus de la lecture proprement dite, et à trouver, ensuite,

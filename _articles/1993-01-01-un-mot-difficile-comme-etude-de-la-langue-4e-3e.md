@@ -1,6 +1,6 @@
 ---
 id: 1271
-title: Un mot difficile : « comme »
+title: Un mot difficile – « comme »
 rubrique: Étude de la langue [4e-3e]
 annee: 1993
 magazine: n°2 1er octobre 1993

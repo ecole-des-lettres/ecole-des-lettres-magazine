@@ -5,7 +5,7 @@ rubrique: Littérature de jeunesse [6e-3e]
 annee: 2001
 magazine: n°13 1er mai 2002
 pages: 4
-description: 
+description:
   Un article qui propose de lire contes ou extraits de romans aux élèves de collège.
   – « Un voleur dans le désert », d’Odile Weulersse
   – « L’Héritier du désert », d’Évelyne Brisou-Pellen

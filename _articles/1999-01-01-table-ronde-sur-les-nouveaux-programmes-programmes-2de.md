@@ -9,7 +9,7 @@ description: Un débat réunissant des IPR, un membre du Conseil national des pr
   un professeur expérimentateur, un membre de l’AFEF, un directeur de collection,
   des membres du groupe d’experts « lettres »…
 article_pdf: 3731.pdf
-magazine_special: Français (seconde) : nouveaux programmes de 1999 / 2000
+magazine_special: Français (seconde) – nouveaux programmes de 1999 / 2000
 revue: L’école des lettres des lycées
 auteurs:
 - Yves Stalloni

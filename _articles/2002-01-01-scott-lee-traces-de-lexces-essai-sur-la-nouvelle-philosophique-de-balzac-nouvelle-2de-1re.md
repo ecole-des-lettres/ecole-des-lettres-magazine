@@ -1,6 +1,6 @@
 ---
 id: 5019
-title: Scott Lee : « Traces de l’excès. Essai sur la nouvelle philosophique de Balzac »
+title: Scott Lee – « Traces de l’excès. Essai sur la nouvelle philosophique de Balzac »
 rubrique: Nouvelle [2de-1re]
 annee: 2002
 magazine: n°13 juillet 2003

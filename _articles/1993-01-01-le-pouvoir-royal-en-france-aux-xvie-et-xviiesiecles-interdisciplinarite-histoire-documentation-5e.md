@@ -6,7 +6,7 @@ annee: 1993
 magazine: n°1 7 septembre 1993
 pages: 6
 description: 
-  Objectifs :
+  Objectifs – 
   – permettre une étude globale de l’évolution du pouvoir, de François Ier à Louis XIV, grâce à un graphique chronologique (donné en fin d’article)
   – à partir d’un questionnaire, faire effectuer des recherches en classe et au CDI
   * Séance 1. Approche du graphique et des faits

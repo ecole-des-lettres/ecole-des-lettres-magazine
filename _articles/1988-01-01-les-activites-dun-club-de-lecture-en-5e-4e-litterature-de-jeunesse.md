@@ -14,7 +14,7 @@ description:
   – Des livres pour les aveugles
   – Lire à des petits
 article_pdf: 102.pdf
-magazine_special: Littérature pour la jeunesse : le roman
+magazine_special: Littérature pour la jeunesse – le roman
 revue: L’école des lettres des collèges
 auteurs:
 - Christian Poslaniec

@@ -1,6 +1,6 @@
 ---
 id: 11679
-title: Corneille : « Le Cid ». Mise en scène de Brigitte Jaques-Wajeman à la Comédie-Française
+title: Corneille – « Le Cid ». Mise en scène de Brigitte Jaques-Wajeman à la Comédie-Française
 rubrique: Théâtre
 annee: 2006
 magazine: 2007

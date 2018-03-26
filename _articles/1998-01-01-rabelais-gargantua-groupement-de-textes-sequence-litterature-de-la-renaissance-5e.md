@@ -1,6 +1,6 @@
 ---
 id: 3380
-title: Rabelais : « Gargantua ». Groupement de textes. Séquence
+title: Rabelais – « Gargantua ». Groupement de textes. Séquence
 rubrique: Littérature de la Renaissance [5e]
 annee: 1998
 magazine: n°9 15 janvier 1999

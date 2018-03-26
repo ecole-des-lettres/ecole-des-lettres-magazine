@@ -7,7 +7,7 @@ magazine: n°12 15 juin 1995
 pages: 10
 description: 
   « Spartacus », de Stanley Kubrick et « Ben Hur », de William Wyler…
-  1. Le contexte social : l’esclavage à Rome
+  1. Le contexte social – l’esclavage à Rome
   2. Le contexte historique
   – « Spartacus »
   – « Ben Hur »

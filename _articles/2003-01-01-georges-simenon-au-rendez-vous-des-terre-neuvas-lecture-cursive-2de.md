@@ -1,6 +1,6 @@
 ---
 id: 11878
-title: Georges Simenon : « Au Rendez-Vous des Terre-Neuvas » 
+title: Georges Simenon – « Au Rendez-Vous des Terre-Neuvas » 
 rubrique: Lecture cursive [2de]
 annee: 2003
 magazine: n°4 15 octobre 2003

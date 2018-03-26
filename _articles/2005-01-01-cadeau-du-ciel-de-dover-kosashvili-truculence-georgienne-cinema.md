@@ -1,6 +1,6 @@
 ---
 id: 11284
-title: « Cadeau du ciel », de Dover Kosashvili : truculence géorgienne
+title: « Cadeau du ciel », de Dover Kosashvili – truculence géorgienne
 rubrique: Cinéma
 annee: 2005
 magazine: n°1 août-septembre 2005

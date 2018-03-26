@@ -7,7 +7,7 @@ magazine: n°11 15 mars 1987
 pages: 10
 description: Une évocation originale de l’œuvre de Michel Butor…
 article_pdf: 50.pdf
-magazine_special: Livre : le livre entre l’imaginaire et le réel
+magazine_special: Livre – le livre entre l’imaginaire et le réel
 revue: L’école des lettres des lycées
 auteurs:
 - Claude-André Tabart

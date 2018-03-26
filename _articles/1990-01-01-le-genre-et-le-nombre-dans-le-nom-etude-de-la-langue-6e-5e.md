@@ -7,7 +7,7 @@ magazine: n°3 15 octobre 1990
 pages: 3
 description: 
   1. Théorie
-  2. Considérations pédagogiques : les noms féminins en [te], les noms en [war], les noms singuliers terminés par un « s », les effets de sens produits par l’opposition masculin / féminin, l’opposition singulier / pluriel…
+  2. Considérations pédagogiques – les noms féminins en [te], les noms en [war], les noms singuliers terminés par un « s », les effets de sens produits par l’opposition masculin / féminin, l’opposition singulier / pluriel…
 article_pdf: 286.pdf
 revue: L’école des lettres des collèges
 auteurs:

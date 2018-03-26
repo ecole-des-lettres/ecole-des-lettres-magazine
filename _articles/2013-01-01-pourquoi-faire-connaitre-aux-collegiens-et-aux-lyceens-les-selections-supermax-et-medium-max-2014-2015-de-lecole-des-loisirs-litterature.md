@@ -7,7 +7,7 @@ annee: 2013
 magazine: n°5
 pages: 5
 description: 
-  Les programmes de l’enseignement de français au collège précisent : « La lecture cursive est une lecture personnelle de l’élève [...]. Pour cette raison, elle gagne à être recommandée par le professeur qui cherche à développer le goût de lire, en proposant un choix commenté d’œuvres accessibles.
+  Les programmes de l’enseignement de français au collège précisent – « La lecture cursive est une lecture personnelle de l’élève [...]. Pour cette raison, elle gagne à être recommandée par le professeur qui cherche à développer le goût de lire, en proposant un choix commenté d’œuvres accessibles.
   La littérature de jeunesse occupe une place naturelle dans ce choix d’œuvres. Qu’elle revienne sur le passé ou qu’elle ouvre sur le monde d’aujourd’hui, elle contribue à l’acquisition d’une culture personnelle.
   Elle permet d’instaurer un dialogue avec les œuvres patrimoniales et elle facilite l’accès à la lecture des œuvres classiques. »
   C’est à cette attente que répondent les clubs de lecture de l’école des loisirs présentés ici.

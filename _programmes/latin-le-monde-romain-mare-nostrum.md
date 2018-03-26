@@ -1,3 +1,3 @@
 ---
-title: 'latin - le monde romain : mare nostrum'
+title: 'latin - le monde romain – mare nostrum'
 ---

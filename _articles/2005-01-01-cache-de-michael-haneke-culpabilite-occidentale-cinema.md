@@ -1,6 +1,6 @@
 ---
 id: 11306
-title: « Caché », de Michael Haneke : culpabilité occidentale
+title: « Caché », de Michael Haneke – culpabilité occidentale
 rubrique: Cinéma
 annee: 2005
 magazine: n°3 1er octobre 2005

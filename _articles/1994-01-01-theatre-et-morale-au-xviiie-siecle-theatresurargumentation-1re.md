@@ -11,7 +11,7 @@ description: En réponse à un article de l’« Encyclopédie » écrit par d�
   dramatique. La parution de ce texte, en octobre 1758, marque le point de rupture
   entre les deux philosophes. 
 article_pdf: 1511.pdf
-magazine_special: Diderot : Paradoxe sur le comédien
+magazine_special: Diderot – Paradoxe sur le comédien
 revue: L’école des lettres des lycées
 auteurs:
 - Joël Dupas

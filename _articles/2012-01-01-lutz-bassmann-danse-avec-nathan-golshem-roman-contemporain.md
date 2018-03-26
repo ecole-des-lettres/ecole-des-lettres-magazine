@@ -1,6 +1,6 @@
 ---
 id: 12433
-title: Lutz Bassmann : « Danse avec Nathan Golshem »
+title: Lutz Bassmann – « Danse avec Nathan Golshem »
 rubrique: Roman contemporain
 annee: 2012
 magazine: février 2012

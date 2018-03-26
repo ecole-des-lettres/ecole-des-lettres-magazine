@@ -1,6 +1,6 @@
 ---
 id: 3217
-title: Patrick Modiano : Paris lu par Modiano
+title: Patrick Modiano – Paris lu par Modiano
 rubrique: Roman contemporain [2de]
 annee: 1998
 magazine: n°3 15 septembre 1998
@@ -8,9 +8,9 @@ pages: 18
 description: 
   1. Patrick Modiano, indications biographiques
   2. Plan de l’étude
-  – arriver à Paris : les gares
+  – arriver à Paris – les gares
   – hôtels
-  – la Seine : rive gauche, rive droite
+  – la Seine – rive gauche, rive droite
   – trajets dans Paris
   – boulevards de ceinture
   – rues, places et cafés

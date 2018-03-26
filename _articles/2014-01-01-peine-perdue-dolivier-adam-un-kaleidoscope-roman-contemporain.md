@@ -1,6 +1,6 @@
 ---
 id: 12935
-title: « Peine perdue », d’Olivier Adam : un kaléidoscope
+title: « Peine perdue », d’Olivier Adam – un kaléidoscope
 rubrique: Roman contemporain
 annee: 2014
 magazine: septembre 2014

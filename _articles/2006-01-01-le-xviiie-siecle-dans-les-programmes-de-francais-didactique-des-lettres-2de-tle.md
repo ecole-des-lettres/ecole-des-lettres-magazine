@@ -6,7 +6,7 @@ annee: 2006
 magazine: 2007
 pages: 10
 description: Les deux cent quarante pages de documents officiels qui décrivent les
-  programmes de français de 2001 font une large place au XVIIIe siècle : c’est vrai
+  programmes de français de 2001 font une large place au XVIIIe siècle – c’est vrai
   des auteurs évoqués, mais on retrouve aussi – du moins apparemment – l’héritage
   du XVIIIe siècle dans les finalités assignées à l’enseignement du français. Mais
   ce constat doit être fortement nuancé, car les façons d’aborder, d’utiliser le XVIIIe siècle

@@ -15,7 +15,7 @@ description:
   2. Le choix des séquences dans le projet pédagogique
   3. Les interactions lecture / écriture / lecture
 article_pdf: 3734.pdf
-magazine_special: Français (seconde) : nouveaux programmes de 1999 / 2000
+magazine_special: Français (seconde) – nouveaux programmes de 1999 / 2000
 revue: L’école des lettres des lycées
 auteurs:
 - Anne Armand

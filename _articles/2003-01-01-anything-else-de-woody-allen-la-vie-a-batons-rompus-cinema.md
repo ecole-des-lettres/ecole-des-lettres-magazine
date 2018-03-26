@@ -1,6 +1,6 @@
 ---
 id: 5236
-title: « Anything else », de Woody Allen : la vie à bâtons rompus
+title: « Anything else », de Woody Allen – la vie à bâtons rompus
 rubrique: Cinéma
 annee: 2003
 magazine: n°5 1er novembre 2003

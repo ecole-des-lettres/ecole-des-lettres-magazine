@@ -1,6 +1,6 @@
 ---
 id: 486
-title: Louis Aragon : « Aurélien ». Commentaire composé 
+title: Louis Aragon – « Aurélien ». Commentaire composé 
 rubrique: nRoman et personnages [1re]
 annee: 1991
 magazine: n°10 15 avril 1992

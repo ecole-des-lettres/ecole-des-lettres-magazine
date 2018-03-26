@@ -1,6 +1,6 @@
 ---
 id: 1582
-title: Georges Darien : œuvres romanesques [2de] 
+title: Georges Darien – œuvres romanesques [2de] 
 rubrique: Roman [2de]
 annee: 1994
 magazine: n°13 15 juin 1995

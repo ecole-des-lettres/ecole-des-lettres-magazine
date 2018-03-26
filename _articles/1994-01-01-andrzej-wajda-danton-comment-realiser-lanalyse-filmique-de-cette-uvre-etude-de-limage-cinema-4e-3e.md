@@ -1,7 +1,7 @@
 ---
 id: 1554
-title: Andrzej Wajda : « Danton ». Comment réaliser l’analyse filmique de cette œuvre ? 
-rubrique: Étude de l’image : cinéma [4e-3e]
+title: Andrzej Wajda – « Danton ». Comment réaliser l’analyse filmique de cette œuvre ? 
+rubrique: Étude de l’image – cinéma [4e-3e]
 annee: 1994
 magazine: n°12 15 juin 1995
 pages: 8

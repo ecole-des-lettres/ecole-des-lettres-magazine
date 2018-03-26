@@ -1,6 +1,6 @@
 ---
 id: 12279
-title: Michel Serres : « Petite Poucette »
+title: Michel Serres – « Petite Poucette »
 rubrique: Essai
 annee: 2013
 magazine: mai 2013

@@ -1,6 +1,6 @@
 ---
 id: 3396
-title:  Jean-Jacques Rousseau et Gérard de Nerval : nostalgie, rêverie et chimère
+title:  Jean-Jacques Rousseau et Gérard de Nerval – nostalgie, rêverie et chimère
 rubrique: Le romantisme [agrégation]
 annee: 1998
 magazine: n°9 15 janvier 1999

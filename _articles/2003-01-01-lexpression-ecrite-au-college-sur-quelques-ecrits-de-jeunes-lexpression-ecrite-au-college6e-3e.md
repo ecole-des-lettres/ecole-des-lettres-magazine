@@ -6,7 +6,7 @@ annee: 2003
 magazine: n°13 juin 2004
 pages: 11
 description: 
-  Un article qui répond aux questions suivantes :
+  Un article qui répond aux questions suivantes – 
   – Depuis dix ans, qu’est-ce qui s’écrit au collège ?
   – À quelle occasion ?
   – Comment ?

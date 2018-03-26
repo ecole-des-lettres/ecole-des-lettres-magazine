@@ -1,12 +1,12 @@
 ---
 id: 5349
-title: Théâtre et représentation au XVIIe siècle : le cas du costume de scène
+title: Théâtre et représentation au XVIIe siècle – le cas du costume de scène
 rubrique: Théâtre [2de-1re]
 annee: 2003
 magazine: n°10 15 mars 2004
 pages: 7
 description: Au-delà de l’étude des textes dramatiques, la recherche s’ouvre aujourd’hui
-  sur les autres fondements de la représentation : l’espace et le corps. L’étude du
+  sur les autres fondements de la représentation – l’espace et le corps. L’étude du
   costume appréhendé dans son rapport au corps de l’acteur, et celle de son efficacité,
   du point de vue du comédien comme de celui du spectateur, doivent  s’affranchir
   de l’influence des historiens du XIXe siècle qui affirment que le théâtre français

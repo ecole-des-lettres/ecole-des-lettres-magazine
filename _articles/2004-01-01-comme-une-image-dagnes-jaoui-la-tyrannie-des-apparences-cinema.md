@@ -1,6 +1,6 @@
 ---
 id: 11160
-title: « Comme une image », d’Agnès Jaoui  : la tyrannie des apparences
+title: « Comme une image », d’Agnès Jaoui  – la tyrannie des apparences
 rubrique: Cinéma
 annee: 2004
 magazine: n°2 1er octobre 2004

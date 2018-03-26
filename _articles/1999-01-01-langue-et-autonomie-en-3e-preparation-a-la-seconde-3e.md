@@ -10,7 +10,7 @@ description: Dans le cadre de la liaison entre troisième et seconde, cet articl
   autonomes dans le maniement de la langue. Avec l’évolution de la population scolaire,
   les niveaux de compétence linguistique des élèves sont pour le moins variés. En
   troisième comme en seconde, on peut observer un certain nombre d’erreurs courantes,
-  très handicapantes, car elles apparaissent dans toutes les disciplines : elles altèrent
+  très handicapantes, car elles apparaissent dans toutes les disciplines – elles altèrent
   la fluidité de l’expression et la clarté du discours, irritent les professeurs et
   sont un obstacle à l’autonomie des élèves. L’article examine des extraits de devoirs
   d’élèves en début de seconde, afin de cerner les lacunes les plus fréquentes et

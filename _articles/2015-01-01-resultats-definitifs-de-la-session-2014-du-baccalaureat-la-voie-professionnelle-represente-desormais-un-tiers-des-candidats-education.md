@@ -1,6 +1,6 @@
 ---
 id: 12962
-title: Résultats définitifs de la session 2014 du baccalauréat : la voie professionnelle
+title: Résultats définitifs de la session 2014 du baccalauréat – la voie professionnelle
   représente désormais un tiers des candidats
 rubrique: Éducation
 annee: 2015

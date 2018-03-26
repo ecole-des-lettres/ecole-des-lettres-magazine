@@ -1,7 +1,7 @@
 ---
 id: 109
 title: Étude intégrale
-rubrique: Francis Ponge : « Pièces »
+rubrique: Francis Ponge – « Pièces »
 annee: 1988
 magazine: n°8 1er février 1989
 pages: 14
@@ -18,7 +18,7 @@ description:
   – la part du son
   – l’analogie
 article_pdf: 109.pdf
-magazine_special: Ponge : l’atelier de Francis Ponge
+magazine_special: Ponge – l’atelier de Francis Ponge
 revue: L’école des lettres des lycées
 auteurs:
 - Yves Stalloni

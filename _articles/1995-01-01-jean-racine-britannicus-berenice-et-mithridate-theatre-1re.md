@@ -1,6 +1,6 @@
 ---
 id: 2129
-title: Jean Racine : « Britannicus », « Bérénice » et « Mithridate »
+title: Jean Racine – « Britannicus », « Bérénice » et « Mithridate »
 rubrique: Théâtre [1re]
 annee: 1995
 magazine: n°7 15 février 1996
@@ -12,7 +12,7 @@ description:
   3. L’évolution dramaturgique
   4. L’évolution du style
 article_pdf: 2129.pdf
-magazine_special: Racine : Britannicus, Bérénice et Mithridate
+magazine_special: Racine – Britannicus, Bérénice et Mithridate
 revue: L’école des lettres des lycées
 auteurs:
 - Jean Rohou

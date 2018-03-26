@@ -1,6 +1,6 @@
 ---
 id: 11676
-title: Prosper Mérimée : « Carmen »
+title: Prosper Mérimée – « Carmen »
 rubrique: Préparation à la seconde [3e]
 annee: 2006
 magazine: 2007

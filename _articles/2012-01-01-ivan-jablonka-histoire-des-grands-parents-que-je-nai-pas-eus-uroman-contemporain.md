@@ -1,6 +1,6 @@
 ---
 id: 12436
-title: Ivan Jablonka : « Histoire des grands-parents que je n’ai pas eus »
+title: Ivan Jablonka – « Histoire des grands-parents que je n’ai pas eus »
 rubrique: URoman contemporain
 annee: 2012
 magazine: janvier 20112

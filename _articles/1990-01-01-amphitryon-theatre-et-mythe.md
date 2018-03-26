@@ -11,7 +11,7 @@ description:
   3. « Amphitryon », de Molière
   4. « Amphitryon », de Kleist
   5. « Amphitryon 38 », de Giraudoux
-  Ont participé à ce numéro :
+  Ont participé à ce numéro – 
   Jean-Pierre Aubrit, Jacques Le Marinel, Gérard-Guy Mouchel, Ruth Orthmann et Marie-Rose Rougier
 article_pdf: 5072.pdf
 magazine_special: Amphitryon

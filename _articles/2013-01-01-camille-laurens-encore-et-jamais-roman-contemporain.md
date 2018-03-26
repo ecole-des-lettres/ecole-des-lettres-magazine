@@ -1,6 +1,6 @@
 ---
 id: 12308
-title: Camille Laurens : « Encore et jamais »
+title: Camille Laurens – « Encore et jamais »
 rubrique: Roman contemporain
 annee: 2013
 magazine: mars 2013

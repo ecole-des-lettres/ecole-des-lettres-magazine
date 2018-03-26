@@ -1,6 +1,6 @@
 ---
 id: 11900
-title:  H. G. Wells : « La Guerre des mondes »
+title:  H. G. Wells – « La Guerre des mondes »
 rubrique:  Lecture cursive [2de]
 annee: 2006
 magazine: 

@@ -1,6 +1,6 @@
 ---
 id: 1974
-title: Paul Verlaine : petit essai d’analyse du 4-6
+title: Paul Verlaine – petit essai d’analyse du 4-6
 rubrique: Poésie [classes préparatoires et concours]
 annee: 1995
 magazine: n°14 juillet 1996

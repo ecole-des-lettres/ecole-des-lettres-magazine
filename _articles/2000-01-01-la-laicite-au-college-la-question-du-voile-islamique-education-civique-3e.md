@@ -1,6 +1,6 @@
 ---
 id: 3980
-title: La laïcité au collège : la question du « voile » islamique
+title: La laïcité au collège – la question du « voile » islamique
 rubrique: Éducation civique [3e]
 annee: 2000
 magazine: n°3 15 septembre 2000

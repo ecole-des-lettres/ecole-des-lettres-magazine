@@ -1,6 +1,6 @@
 ---
 id: 12804
-title: Collèges, lycées : concours de slogans « À bas la peine de mort »
+title: Collèges, lycées – concours de slogans « À bas la peine de mort »
 rubrique: Concours
 annee: 2014
 magazine: novembre 2014

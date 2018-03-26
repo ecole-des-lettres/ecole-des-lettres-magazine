@@ -1,6 +1,6 @@
 ---
 id: 5264
-title: Guerres, démocraties et totalitarismes (1914-1945). Léon Blum : « Lettres
+title: Guerres, démocraties et totalitarismes (1914-1945). Léon Blum – « Lettres
   de Buchenwald »
 rubrique: Histoire
 annee: 2003

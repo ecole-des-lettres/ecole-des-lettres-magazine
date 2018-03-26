@@ -1,12 +1,12 @@
 ---
 id: 3747
-title: Molière : « Le Misanthrope ». Célimène : psychologie du personnage et rôle
+title: Molière – « Le Misanthrope ». Célimène – psychologie du personnage et rôle
   de l’« actrice »
 rubrique: Théâtre [classes préparatoires et concours]
 annee: 1999
 magazine: n°8 31 décembre 1999
 pages: 7
-description: Célimène assume plusieurs fonctions ; son nom recouvre plusieurs actants :
+description: Célimène assume plusieurs fonctions ; son nom recouvre plusieurs actants – 
   la dénonciatrice d’Arsinoé ; la partenaire antinomique d’Alceste, obligée de jouer
   un rôle dans ses querelles ; la coquette qui séduit Oronte et les marquis tout en
   les tenant à distance. C’est seulement après avoir fait la part de tous ces rôles

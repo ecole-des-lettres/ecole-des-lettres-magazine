@@ -1,7 +1,7 @@
 ---
 id: 12119
-title: Fabian Grégoire : « Le Phare de l’oubli »
-rubrique: Littérature de jeunesse : un album documentaire [6e]
+title: Fabian Grégoire – « Le Phare de l’oubli »
+rubrique: Littérature de jeunesse – un album documentaire [6e]
 annee: 2011
 magazine: n°2
 pages: 2

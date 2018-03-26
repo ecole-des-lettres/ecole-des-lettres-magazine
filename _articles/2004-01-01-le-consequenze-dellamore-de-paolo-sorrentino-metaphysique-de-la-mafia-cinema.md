@@ -1,6 +1,6 @@
 ---
 id: 11225
-title: « Le Consequenze dell’amore », de Paolo Sorrentino : métaphysique de la mafia
+title: « Le Consequenze dell’amore », de Paolo Sorrentino – métaphysique de la mafia
 rubrique: Cinéma
 annee: 2004
 magazine: n°7 mars 2005

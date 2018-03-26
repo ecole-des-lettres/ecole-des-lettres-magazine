@@ -1,6 +1,6 @@
 ---
 id: 12440
-title: « Detachment », de Tony Kaye : un professeur remplaçant dans la banlieue new-yorkaise
+title: « Detachment », de Tony Kaye – un professeur remplaçant dans la banlieue new-yorkaise
 rubrique: Cinéma / Éducation
 annee: 2012
 magazine: janvier 2012

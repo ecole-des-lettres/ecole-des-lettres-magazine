@@ -1,6 +1,6 @@
 ---
 id: 814
-title: Jacques Cazotte : « Le Diable amoureux »
+title: Jacques Cazotte – « Le Diable amoureux »
 rubrique: Littérature fantastique [classes préparatoires]
 annee: 1992
 magazine: n°10 15 mars 1993
@@ -19,7 +19,7 @@ description:
   – la théorie pascalienne des trois concupiscences
   – le divertissement pascalien ou la vérité refusée
 article_pdf: 814.pdf
-magazine_special: Cazotte : Le Diable amoureux
+magazine_special: Cazotte – Le Diable amoureux
 revue: L’école des lettres des lycées
 auteurs:
 - Sylvie Ducas-Spaës

@@ -1,6 +1,6 @@
 ---
 id: 4642
-title: Jean Prouvost : « Les Dictionnaires de langue française »
+title: Jean Prouvost – « Les Dictionnaires de langue française »
 rubrique: Dictionnaires
 annee: 2002
 magazine: n°2 août 2002

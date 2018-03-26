@@ -1,6 +1,6 @@
 ---
 id: 12049
-title: Le CDI et la lecture : deux expériences dans l’académie de La Réunion
+title: Le CDI et la lecture – deux expériences dans l’académie de La Réunion
 rubrique: Littérature de jeunesse [6e-3e]
 annee: 2010
 magazine: n°1 2010-2011

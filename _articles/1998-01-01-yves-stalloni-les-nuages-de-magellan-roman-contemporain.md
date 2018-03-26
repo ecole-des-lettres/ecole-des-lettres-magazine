@@ -1,6 +1,6 @@
 ---
 id: 3011
-title: Yves Stalloni : « Les Nuages de Magellan »
+title: Yves Stalloni – « Les Nuages de Magellan »
 rubrique: Roman contemporain
 annee: 1998
 magazine: n°1 15 juillet 1998

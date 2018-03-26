@@ -1,6 +1,6 @@
 ---
 id: 12431
-title: Didier Porte et Guillaume Doizy : « Présidents, poil aux dents ! 150 ans de
+title: Didier Porte et Guillaume Doizy – « Présidents, poil aux dents ! 150 ans de
   caricatures présidentielles »
 rubrique: Éducation aux médias
 annee: 2012

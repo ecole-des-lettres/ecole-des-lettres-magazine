@@ -7,7 +7,7 @@ magazine: n°7 15 janvier 1991
 pages: 3
 description: 
   1. Théorie
-  2. Considérations pédagogiques : le complément d’objet direct, la conjonctive par « que », un problème orthographique : l’alternance « -é » / »-er »
+  2. Considérations pédagogiques – le complément d’objet direct, la conjonctive par « que », un problème orthographique – l’alternance « -é » / »-er »
 article_pdf: 405.pdf
 revue: L’école des lettres des collèges
 auteurs:

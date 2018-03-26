@@ -8,9 +8,9 @@ pages: 6
 description: 
   En complément de l’étude du roman d’Odile Weulersse, « Le Serment des catacombes »…
   2. Particularité du 2e siècle dans le christianisme primitif
-  – l’affirmation de l’Église au 2e siècle : le cadre géographique et social ; premières difficultés internes ; l’affrontement avec le monde romain
+  – l’affirmation de l’Église au 2e siècle – le cadre géographique et social ; premières difficultés internes ; l’affrontement avec le monde romain
   – l’affirmation face au pouvoir
-  3. Être chrétien : l’exemple de Lyon
+  3. Être chrétien – l’exemple de Lyon
   – caractères de la communauté lyonnaise
   – singularité de la foi chrétienne
   – martyre et persécution à Lyon

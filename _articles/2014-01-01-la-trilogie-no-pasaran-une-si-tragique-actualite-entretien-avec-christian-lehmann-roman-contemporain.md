@@ -1,6 +1,6 @@
 ---
 id: 12732
-title: La trilogie « No pasarán » : une si tragique actualité. Entretien avec Christian
+title: La trilogie « No pasarán » – une si tragique actualité. Entretien avec Christian
   Lehmann
 rubrique: Roman contemporain
 annee: 2014

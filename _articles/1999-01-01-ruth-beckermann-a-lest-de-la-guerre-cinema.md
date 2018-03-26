@@ -1,6 +1,6 @@
 ---
 id: 3559
-title: Ruth Beckermann : « À l’est de la guerre »
+title: Ruth Beckermann – « À l’est de la guerre »
 rubrique: Cinéma
 annee: 1999
 magazine: n°14 juin 2000

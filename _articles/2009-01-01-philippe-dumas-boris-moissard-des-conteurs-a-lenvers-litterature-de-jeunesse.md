@@ -1,6 +1,6 @@
 ---
 id: 11983
-title: Philippe Dumas & Boris Moissard : des conteurs à l’envers
+title: Philippe Dumas & Boris Moissard – des conteurs à l’envers
 rubrique: Littérature de jeunesse
 annee: 2009
 magazine: n°6 2009-2010

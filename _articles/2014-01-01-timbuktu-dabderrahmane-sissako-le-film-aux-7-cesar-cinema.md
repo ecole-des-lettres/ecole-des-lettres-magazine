@@ -11,7 +11,7 @@ description: « Timbuktu » est beaucoup moins un film documentaire qu’un fi
   la réalité malienne – les rapports entre les ethnies, les débats politiques et économiques,
   les conditions de vie, la place accordée à la femme – ne peut ni identifier ni reconnaître
   avec certitude ces éléments de réalité, d’autant que le réalisateur aime les litotes,
-  les ellipses, la brièveté et le tranchant de la notation visuelle : Sissako met
+  les ellipses, la brièveté et le tranchant de la notation visuelle – Sissako met
   en situation plutôt qu’il n’explique. La volonté réaliste ne permet donc pas de
   prendre en compte l’intégralité du film ; elle sert même, paradoxalement, à mieux
   appuyer l’intensité poétique ou la construction symbolique. En revanche, le spectateur

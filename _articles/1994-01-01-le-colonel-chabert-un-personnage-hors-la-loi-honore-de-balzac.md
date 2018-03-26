@@ -1,6 +1,6 @@
 ---
 id: 1679
-title: Le colonel Chabert : un personnage hors la loi 
+title: Le colonel Chabert – un personnage hors la loi 
 rubrique: Honoré de Balzac 
 annee: 1994
 magazine: n°3 1er novembre 1994

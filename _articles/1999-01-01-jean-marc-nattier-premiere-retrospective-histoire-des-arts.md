@@ -1,6 +1,6 @@
 ---
 id: 3779
-title: Jean-Marc Nattier : première rétrospective
+title: Jean-Marc Nattier – première rétrospective
 rubrique: Histoire des arts
 annee: 1999
 magazine: n°9 15 janvier 2000

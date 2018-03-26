@@ -1,6 +1,6 @@
 ---
 id: 12980
-title: Nouveaux programmes : un corpus pour chaque classe
+title: Nouveaux programmes – un corpus pour chaque classe
 rubrique: 
 annee: 2015
 magazine: n°5
@@ -11,7 +11,7 @@ description:
   Quelques textes complémentaires correspondant aux thématiques abordées du CM1 à la troisième viennent compléter ce corpus.
   Nous indiquons pour chaque titre sur quel site trouver les pistes pédagogiques utiles à son étude.
 article_pdf: 12980.pdf
-magazine_special: Nouveaux programmes : un corpus pour chaque classe
+magazine_special: Nouveaux programmes – un corpus pour chaque classe
 revue: L’école des lettres des collèges
 niveau_etudes:
 - cours moyen

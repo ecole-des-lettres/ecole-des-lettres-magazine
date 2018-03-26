@@ -1,6 +1,6 @@
 ---
 id: 11663
-title: Jack London : « Croc-Blanc »
+title: Jack London – « Croc-Blanc »
 rubrique: Récit d’aventures [6e-4e]
 annee: 2006
 magazine: 2007

@@ -1,7 +1,7 @@
 ---
 id: 1589
-title: Otto Pächt : « Questions de méthode en histoire de l’art » ; Rudolph Wittkower :
-  « Qu’est-ce que la sculpture ? » ; Lawrence Gowing : « Turner : peindre le rien »
+title: Otto Pächt – « Questions de méthode en histoire de l’art » ; Rudolph Wittkower – 
+  « Qu’est-ce que la sculpture ? » ; Lawrence Gowing – « Turner – peindre le rien »
 rubrique: Histoire des arts
 annee: 1994
 magazine: n°13 15 juin 1995

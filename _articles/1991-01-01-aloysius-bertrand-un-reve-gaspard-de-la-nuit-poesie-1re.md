@@ -1,6 +1,6 @@
 ---
 id: 663
-title: Aloysius Bertrand : « Un rêve » (« Gaspard de la Nuit ») 
+title: Aloysius Bertrand – « Un rêve » (« Gaspard de la Nuit ») 
 rubrique: Poésie [1re]
 annee: 1991
 magazine: n°6 1er janvier 1992

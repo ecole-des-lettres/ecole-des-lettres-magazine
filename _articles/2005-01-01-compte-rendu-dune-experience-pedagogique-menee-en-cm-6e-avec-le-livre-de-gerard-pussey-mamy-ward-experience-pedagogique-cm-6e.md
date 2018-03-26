@@ -1,7 +1,7 @@
 ---
 id: 11406
 title: Compte rendu d’une expérience pédagogique menée en CM-6e avec le livre de
-  Gérard Pussey : « Mamy Ward »
+  Gérard Pussey – « Mamy Ward »
 rubrique: Expérience pédagogique [ CM-6e]
 annee: 2005
 magazine: n°2 15 septembre 2005

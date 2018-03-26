@@ -1,6 +1,6 @@
 ---
 id: 11296
-title: « Kilomètre zéro », de Hiner Saleem : le chemin de la liberté
+title: « Kilomètre zéro », de Hiner Saleem – le chemin de la liberté
 rubrique: Cinéma
 annee: 2005
 magazine: n°2 15 septembre 2005

@@ -1,6 +1,6 @@
 ---
 id: 2204
-title: Gudule : « La Bibliothécaire ». Étude intégrale 
+title: Gudule – « La Bibliothécaire ». Étude intégrale 
 rubrique: Littérature de jeunesse et contes [6e]
 annee: 1996
 magazine: 1996

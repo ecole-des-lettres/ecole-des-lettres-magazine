@@ -6,7 +6,7 @@ annee: 2000
 magazine: n°7 1er décembre 2000
 pages: 6
 description: 
-  Cet article propose des récits sur la mémoire à mettre en relation avec le programme d’histoire de la classe de troisième. Dans ces textes, des enfants d’aujourd’hui se penchent sur le passé, sur l’époque de la Seconde Guerre mondiale :
+  Cet article propose des récits sur la mémoire à mettre en relation avec le programme d’histoire de la classe de troisième. Dans ces textes, des enfants d’aujourd’hui se penchent sur le passé, sur l’époque de la Seconde Guerre mondiale – 
   – « Une si petite flamme », de Robert Bigot
   – « Un si terrible secret », d’Évelyne Brisou-Pellen
   – « Quand je pense à la Résistance », de Sophie Chérer

@@ -1,15 +1,15 @@
 ---
 id: 4670
-title: Jorge Semprun : « L’Écriture ou la Vie ». Étude intégrale (1/2)
+title: Jorge Semprun – « L’Écriture ou la Vie ». Étude intégrale (1/2)
 rubrique: Autobiographie, argumentation et réécritures
 annee: 2002
 magazine: 2002
 pages: 57
 description: « L’Écriture ou la Vie », de Jorge Semprun, parue en 1994, peut offrir
-  des supports à plusieurs objets d’étude et thèmes de réflexion : œuvre contemporaine
+  des supports à plusieurs objets d’étude et thèmes de réflexion – œuvre contemporaine
   à lire en parallèle avec « Si c’est un homme », de Primo Levi (terminale) ; en tant
   qu’essai sur les camps et réflexion sur le Mal, étude de l’argumentation (première
-  et seconde) ; et comme œuvre autobiographique : étude des genres et des registres
+  et seconde) ; et comme œuvre autobiographique – étude des genres et des registres
   dans le récit (seconde), étude du biographique (première), réécriture (première).
   Cet article adopte la position du lecteur qui a entre les mains « L’Écriture ou
   la Vie » et qui prend un peu de recul pour comprendre la spécificité de ce témoignage

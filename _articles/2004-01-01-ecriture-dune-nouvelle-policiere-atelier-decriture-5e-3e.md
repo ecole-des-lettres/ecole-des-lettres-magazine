@@ -10,7 +10,7 @@ description: L’objectif fédérateur du projet est de mettre chaque élève da
   à énigme criminelle pour que les élèves découvrent et s’approprient le genre fondateur
   du policier qui a connu son essor au XIXe siècle. La lecture ultérieure du roman
   à suspense et celle du roman noir en seront facilitées. L’écriture du roman policier
-  peut conduire à une réflexion sur les modes énonciatifs : l’auteur, qui a planifié
+  peut conduire à une réflexion sur les modes énonciatifs – l’auteur, qui a planifié
   le scénario des faits mais confie à un narrateur la relation de l’enquête, abandonne
   sa position omnisciente.
 article_pdf: 11116.pdf

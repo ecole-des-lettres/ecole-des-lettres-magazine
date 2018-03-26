@@ -1,6 +1,6 @@
 ---
 id: 11451
-title: René Char : un parcours pour lire et écrire
+title: René Char – un parcours pour lire et écrire
 rubrique: Initiation à la poésie [6e-3e]
 annee: 2006
 magazine: n°1 août-septembre 2006

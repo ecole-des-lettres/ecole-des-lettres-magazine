@@ -1,6 +1,6 @@
 ---
 id: 419
-title: Voltaire : la religion dans les « Lettres philosophiques » 
+title: Voltaire – la religion dans les « Lettres philosophiques » 
 rubrique: L’argumentation [1re]
 annee: 1990
 magazine: n°8 1er février 1991

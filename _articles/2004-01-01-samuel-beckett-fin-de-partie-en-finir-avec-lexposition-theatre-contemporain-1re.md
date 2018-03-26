@@ -1,6 +1,6 @@
 ---
 id: 11175
-title: Samuel Beckett : « Fin de partie ». En finir avec l’exposition
+title: Samuel Beckett – « Fin de partie ». En finir avec l’exposition
 rubrique: Théâtre contemporain [1re]
 annee: 2004
 magazine: n°3 1er novembre 2004

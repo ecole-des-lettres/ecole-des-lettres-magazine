@@ -1,6 +1,6 @@
 ---
 id: 20
-title: Gabriel Marcel : « Journal métaphysique »
+title: Gabriel Marcel – « Journal métaphysique »
 rubrique: Autobiographie [1re]
 annee: 1985
 magazine: n°11 15 mars 1986

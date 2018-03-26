@@ -1,6 +1,6 @@
 ---
 id: 3440
-title: Brian Jacques : la série « Mariel ». Lecture cursive 
+title: Brian Jacques – la série « Mariel ». Lecture cursive 
 rubrique: Littérature de jeunesse et Moyen Âge [5e]
 annee: 1999
 magazine: n°10 15 février 2000

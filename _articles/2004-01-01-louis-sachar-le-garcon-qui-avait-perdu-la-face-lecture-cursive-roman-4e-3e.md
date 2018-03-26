@@ -1,6 +1,6 @@
 ---
 id: 11067
-title: Louis Sachar : « Le garçon qui avait perdu la face ». Lecture cursive
+title: Louis Sachar – « Le garçon qui avait perdu la face ». Lecture cursive
 rubrique: Roman [4e-3e]
 annee: 2004
 magazine: n°1 août-septembre 2004

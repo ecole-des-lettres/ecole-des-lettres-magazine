@@ -1,6 +1,6 @@
 ---
 id: 11308
-title: Lois Lowry : « Le Passeur ». Étude intégrale
+title: Lois Lowry – « Le Passeur ». Étude intégrale
 rubrique: Littérature de jeunesse et préparation à la seconde [3e]
 annee: 2004
 magazine: 2005

@@ -1,6 +1,6 @@
 ---
 id: 3543
-title: Pierre Magnan : « Le Secret des Andrônes ». Étude intégrale
+title: Pierre Magnan – « Le Secret des Andrônes ». Étude intégrale
 rubrique: Roman policier [3e]
 annee: 1999
 magazine: n°14 15 mai 2000

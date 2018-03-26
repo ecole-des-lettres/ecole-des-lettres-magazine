@@ -18,7 +18,7 @@ description:
   – le volontariat
   – la gratuité
   4. Une semaine, pour quoi faire ?
-  des actions symboliques : mise en place d’un kiosque, travail en atelier, débats, expositions…
+  des actions symboliques – mise en place d’un kiosque, travail en atelier, débats, expositions…
   5. Répondre aux demandes des élèves
 article_pdf: 2528.pdf
 magazine_special: Presse écrite au collège

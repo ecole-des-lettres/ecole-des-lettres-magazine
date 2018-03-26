@@ -1,6 +1,6 @@
 ---
 id: 11364
-title: « Transamerica », de Duncan Tucker : une odyssée de l’identité
+title: « Transamerica », de Duncan Tucker – une odyssée de l’identité
 rubrique: Cinéma
 annee: 2005
 magazine: n°9 mars 2006

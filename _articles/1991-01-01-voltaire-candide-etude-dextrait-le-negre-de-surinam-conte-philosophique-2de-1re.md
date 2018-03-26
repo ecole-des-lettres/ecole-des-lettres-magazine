@@ -1,6 +1,6 @@
 ---
 id: 503
-title: Voltaire : « Candide ». Étude d’extrait : le Nègre de Surinam 
+title: Voltaire – « Candide ». Étude d’extrait – le Nègre de Surinam 
 rubrique: Conte philosophique [2de-1re]
 annee: 1991
 magazine: n°11 15 mai 1992

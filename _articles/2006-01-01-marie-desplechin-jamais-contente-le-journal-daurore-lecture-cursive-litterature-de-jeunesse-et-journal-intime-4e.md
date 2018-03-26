@@ -1,6 +1,6 @@
 ---
 id: 11720
-title: Marie Desplechin : « Jamais contente. Le Journal d’Aurore ». Lecture cursive 
+title: Marie Desplechin – « Jamais contente. Le Journal d’Aurore ». Lecture cursive 
 rubrique: Littérature de jeunesse et journal intime [4e]
 annee: 2006
 magazine: 

@@ -1,7 +1,7 @@
 ---
 id: 12036
 title: Étude intégrale 
-rubrique: Mazan : « Le Vaillant Petit Tailleur »
+rubrique: Mazan – « Le Vaillant Petit Tailleur »
 annee: 2010
 magazine: n°1 2010-2011
 pages: 8

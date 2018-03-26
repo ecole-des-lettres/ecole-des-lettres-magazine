@@ -1,12 +1,12 @@
 ---
 id: 3899
-title: Richard Wagner : « Tristan et Isolde ». Du roman à l’opéra : l’adaptation
+title: Richard Wagner – « Tristan et Isolde ». Du roman à l’opéra – l’adaptation
   du mythe de Tristan et Iseut
 rubrique: Opéra
 annee: 2000
 magazine: n°13 15 mai 2001
 pages: 11
-description: Wagner face à Béroul : la comparaison peut paraître incongrue. Il semble
+description: Wagner face à Béroul – la comparaison peut paraître incongrue. Il semble
   effectivement artificiel de rapprocher un opéra allemand de la seconde moitié du
   XIXe siècle et l’un de nos premiers romans datant de la fin du XIIe siècle. Pourtant,
   l’un et l’autre sont liés par la même histoire, qui, parce qu’elle constitue un

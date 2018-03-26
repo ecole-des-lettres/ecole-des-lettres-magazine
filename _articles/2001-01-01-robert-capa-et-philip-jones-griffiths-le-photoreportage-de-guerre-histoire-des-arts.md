@@ -1,6 +1,6 @@
 ---
 id: 4215
-title: Robert Capa et Philip Jones Griffiths : le photoreportage de guerre
+title: Robert Capa et Philip Jones Griffiths – le photoreportage de guerre
 rubrique: Histoire des arts
 annee: 2001
 magazine: n°10 15 février 2002

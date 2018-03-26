@@ -1,6 +1,6 @@
 ---
 id: 12225
-title: Antoine Compagnon : « Un été avec Montaigne »
+title: Antoine Compagnon – « Un été avec Montaigne »
 rubrique: 
 annee: 2013
 magazine: octobre 2013

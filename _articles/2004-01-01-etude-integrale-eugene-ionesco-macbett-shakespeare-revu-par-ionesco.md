@@ -1,14 +1,14 @@
 ---
 id: 11187
 title: Étude intégrale
-rubrique: Eugène Ionesco : « Macbett ». Shakespeare revu par Ionesco
+rubrique: Eugène Ionesco – « Macbett ». Shakespeare revu par Ionesco
 annee: 2004
 magazine: n°4 décembre 2004
 pages: 14
 description: Datant de 1972, « Macbett » se situe assez tard dans l’œuvre de Ionesco.
   L’écrivain a pu voir, dans la pièce de Shakespeare, l’occasion de se renouveler.
   C’était la première fois qu’il partait d’une œuvre existante, pour l’adapter librement.
-  Cependant, le dessein de Ionesco était plus profond : il s’agissait pour lui de
+  Cependant, le dessein de Ionesco était plus profond – il s’agissait pour lui de
   « traiter un thème essentiel dans une perspective à la fois historique et contemporaine
   – donc a-temporelle – et le métamorphoser par l’“extraordinaire” et un humour propre
   à séduire le public d’aujourd’hui ». Cet article tente d’éclaircir les intentions

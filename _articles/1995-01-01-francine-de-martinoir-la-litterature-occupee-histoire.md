@@ -1,6 +1,6 @@
 ---
 id: 2165
-title: Francine de Martinoir : « La Littérature occupée »
+title: Francine de Martinoir – « La Littérature occupée »
 rubrique: Histoire
 annee: 1995
 magazine: n°8 15 mars 1996

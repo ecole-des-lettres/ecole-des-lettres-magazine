@@ -7,7 +7,7 @@ magazine: n°4-5 2010-2011
 pages: 7
 description: La collection d’albums documentaires « Archimède » explore depuis 1992
   tous les domaines de la culture générale, qu’ils soient artistiques, historiques
-  ou scientifiques. Son originalité : le recours à la fiction qui, à travers la narration
+  ou scientifiques. Son originalité – le recours à la fiction qui, à travers la narration
   illustrée, est le fil conducteur de la réflexion intellectuelle chez l’enfant. Les
   sujets abordés nourrissent ainsi à la fois l’imaginaire et la connaissance. La découverte
   d’un sujet par le biais de la narration est enrichie par un dossier rigoureusement

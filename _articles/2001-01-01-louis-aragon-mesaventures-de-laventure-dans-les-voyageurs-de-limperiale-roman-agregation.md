@@ -1,6 +1,6 @@
 ---
 id: 4227
-title: Louis Aragon : mésaventures de l’aventure dans « Les Voyageurs de l’impériale »
+title: Louis Aragon – mésaventures de l’aventure dans « Les Voyageurs de l’impériale »
 rubrique: Roman [agrégation]
 annee: 2001
 magazine: n°11 15 mars 2002

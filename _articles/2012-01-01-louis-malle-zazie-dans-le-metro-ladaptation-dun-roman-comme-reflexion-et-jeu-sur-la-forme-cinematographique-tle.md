@@ -1,6 +1,6 @@
 ---
 id: 12100
-title: Louis Malle : « Zazie dans le métro ». 
+title: Louis Malle – « Zazie dans le métro ». 
 rubrique: L’adaptation d’un roman comme réflexion et jeu sur la forme cinématographique
   (Tle)
 annee: 2012
@@ -13,7 +13,7 @@ description: En adaptant « Zazie dans le métro », Louis Malle et Jean-Paul 
   la transposition. Louis Malle ne se demande pas seulement comment rendre visible
   le récit et les personnages de Queneau, il prend en compte les questions que Queneau
   pose à la littérature et les pose au cinéma. Dans l’un des bonus du DVD, Rappeneau
-  explique en une formule éclairante le projet : « déconstruire» le langage cinématographique
+  explique en une formule éclairante le projet – « déconstruire» le langage cinématographique
   de la même façon que Queneau fait exploser le langage romanesque et la langue. Cet
   article éclaire les modalités de cette déconstruction.
 article_pdf: 12100.pdf

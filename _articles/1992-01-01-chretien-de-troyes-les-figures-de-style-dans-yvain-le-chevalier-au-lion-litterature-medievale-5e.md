@@ -1,12 +1,12 @@
 ---
 id: 857
-title: Chrétien de Troyes : les figures de style dans « Yvain, le Chevalier au Lion » 
+title: Chrétien de Troyes – les figures de style dans « Yvain, le Chevalier au Lion » 
 rubrique: Littérature médiévale [5e]
 annee: 1992
 magazine: n°12 15 mai 1993
 pages: 9
 description: 
-  L’article porte sur les comparaisons dans « Le Chevalier au Lion ». À quoi sont comparés les :
+  L’article porte sur les comparaisons dans « Le Chevalier au Lion ». À quoi sont comparés les – 
   1. sentiments, lieux objets (noms non animés)
   – li des d’amors
   – les lieux (la fontaine merveilleuse, la porte du château d’Esclados)
@@ -16,7 +16,7 @@ description:
   – les personnages (croquis de foule, personnages féminins, personnages hors normes)
   – les chevaliers (Calogrenant, Esclados, Gauvain, Yvain)
 article_pdf: 857.pdf
-magazine_special: Chrétien de Troyes : Yvain, le Chevalier au Lion
+magazine_special: Chrétien de Troyes – Yvain, le Chevalier au Lion
 revue: L’école des lettres des collèges
 auteurs:
 - Marie-Odette Schmitt-Ardizio

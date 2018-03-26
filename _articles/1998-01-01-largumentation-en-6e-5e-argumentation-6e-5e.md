@@ -6,7 +6,7 @@ annee: 1998
 magazine: n°3 15 septembre 1998
 pages: 4
 description: 
-  L’argumentation en sixième, puis en cinquième :
+  L’argumentation en sixième, puis en cinquième – 
   – À quoi se limite-t-elle ?
   – Quels termes donne-t-on aux élèves ? « argument » ? « exemple » ? « étayer » ? « réfuter » ?
   – Comment progresse-t-elle de la sixième à la cinquième ?

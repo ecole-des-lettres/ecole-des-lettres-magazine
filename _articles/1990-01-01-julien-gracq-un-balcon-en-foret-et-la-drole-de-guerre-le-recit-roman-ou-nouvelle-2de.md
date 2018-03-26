@@ -1,6 +1,6 @@
 ---
 id: 236
-title: Julien Gracq : « Un balcon en forêt » et la « Drôle de guerre » 
+title: Julien Gracq – « Un balcon en forêt » et la « Drôle de guerre » 
 rubrique: Le récit (roman ou nouvelle) [2de]
 annee: 1990
 magazine: n°14 15 juillet 1991

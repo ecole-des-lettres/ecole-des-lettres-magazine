@@ -1,6 +1,6 @@
 ---
 id: 5277
-title: Guy Goffette : « Solo d’ombres »
+title: Guy Goffette – « Solo d’ombres »
 rubrique: Poésie
 annee: 2003
 magazine: n°8 15 février 2004

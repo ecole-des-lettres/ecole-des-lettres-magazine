@@ -1,6 +1,6 @@
 ---
 id: 11527
-title: William Karel : « Opération Lune ».Les pouvoirs du montage
+title: William Karel – « Opération Lune ».Les pouvoirs du montage
 rubrique: Éducation aux médias [3e]
 annee: 2006
 magazine: n°8 juin 2007

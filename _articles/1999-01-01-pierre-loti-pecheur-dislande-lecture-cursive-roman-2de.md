@@ -1,6 +1,6 @@
 ---
 id: 11847
-title: Pierre Loti : « Pêcheur d’Islande ». Lecture cursive
+title: Pierre Loti – « Pêcheur d’Islande ». Lecture cursive
 rubrique: Roman [2de]
 annee: 1999
 magazine: n°10 15 février 2000

@@ -1,6 +1,6 @@
 ---
 id: 3426
-title: Bernard Veck : « L’Œuvre intégrale au lycée »
+title: Bernard Veck – « L’Œuvre intégrale au lycée »
 rubrique: Didactique
 annee: 1999
 magazine: n°1 juillet 1999

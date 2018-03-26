@@ -7,7 +7,7 @@ magazine: n°5 1er décembre 1996
 pages: 2
 description: Présentation du numéro spécial.
 article_pdf: 2456.pdf
-magazine_special: Nibelungen : chanson des Nibelungen
+magazine_special: Nibelungen – chanson des Nibelungen
 revue: L’école des lettres des collèges
 auteurs:
 - Jean-Pierre Tusseau

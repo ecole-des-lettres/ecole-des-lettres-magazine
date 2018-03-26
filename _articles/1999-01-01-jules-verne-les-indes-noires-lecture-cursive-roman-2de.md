@@ -1,6 +1,6 @@
 ---
 id: 11841
-title: Jules Verne : « Les Indes noires ». Lecture cursive 
+title: Jules Verne – « Les Indes noires ». Lecture cursive 
 rubrique: Roman [2de]
 annee: 1999
 magazine: n°4 1er octobre 1999

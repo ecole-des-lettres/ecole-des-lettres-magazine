@@ -1,6 +1,6 @@
 ---
 id: 1456
-title: Émile Zola : « L’Assommoir ». Le regard impressionniste de Zola dans « L’Assommoir »
+title: Émile Zola – « L’Assommoir ». Le regard impressionniste de Zola dans « L’Assommoir »
 rubrique: Roman [agrégation]
 annee: 1993
 magazine: n°9 15 mars 1994

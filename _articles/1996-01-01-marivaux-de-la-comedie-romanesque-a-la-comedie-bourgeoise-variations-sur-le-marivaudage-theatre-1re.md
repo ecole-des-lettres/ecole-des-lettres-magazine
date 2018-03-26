@@ -1,6 +1,6 @@
 ---
 id: 2556
-title: Marivaux. De la comédie romanesque à la comédie bourgeoise : variations sur
+title: Marivaux. De la comédie romanesque à la comédie bourgeoise – variations sur
   le marivaudage
 rubrique: Théâtre [1re]
 annee: 1996
@@ -12,7 +12,7 @@ description: Ce fut longtemps un lieu commun de la critique que d’affirmer que
   (Silvia, Arlequin, Lisette), distantes de presque sept ans (avril 1723, janvier
   1730) – «La Double Inconstance» et «Le Jeu de l’amour et du hasard» –, divergent
   pourtant assez sensiblement par leur intrigue, par leur atmosphère, par leur signification
-  sociologique même, pour qu’on soit amené à poser la question : à quoi tient, fondamentalement,
+  sociologique même, pour qu’on soit amené à poser la question – à quoi tient, fondamentalement,
   la différence d’inspiration qui les sépare ? 
 article_pdf: 2556.pdf
 magazine_special: Marivaux

@@ -6,7 +6,7 @@ annee: 2010
 magazine: n°4-5 2010-2011
 pages: 8
 description: Cet article propose dix questions concrètes permettant d’aborder l’histoire
-  des arts au collège : Quelle est la place de l’œuvre ? celle de la pratique artistique ?
+  des arts au collège – Quelle est la place de l’œuvre ? celle de la pratique artistique ?
   comment travailler en équipe ? etc.
 article_pdf: 12064.pdf
 magazine_special: Histoire des arts

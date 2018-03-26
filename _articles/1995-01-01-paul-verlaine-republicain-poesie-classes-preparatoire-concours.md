@@ -8,10 +8,10 @@ pages: 27
 description: 
   1. « Les Loups », 1867
   – Verlaine républicain
-  – « Les Loups » : un poème symbolique ?
+  – « Les Loups » – un poème symbolique ?
   – présentation des loups
   – la parole aux loups
-  – un intertexte verlainien : « grotesques »
+  – un intertexte verlainien – « grotesques »
   2. Dix-huit vers oubliés de 1870
 article_pdf: 1968.pdf
 magazine_special: Verlaine

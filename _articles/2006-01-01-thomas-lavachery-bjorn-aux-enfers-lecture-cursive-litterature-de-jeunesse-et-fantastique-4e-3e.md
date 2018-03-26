@@ -1,6 +1,6 @@
 ---
 id: 11651
-title: Thomas Lavachery : « Bjorn aux enfers ». Lecture cursive 
+title: Thomas Lavachery – « Bjorn aux enfers ». Lecture cursive 
 rubrique: Littérature de jeunesse et fantastique [4e-3e]
 annee: 2006
 magazine: 2007

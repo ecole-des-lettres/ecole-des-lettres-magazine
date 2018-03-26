@@ -1,6 +1,6 @@
 ---
 id: 4322
-title: Colette Becker : « Zola, le saut dans les étoiles »
+title: Colette Becker – « Zola, le saut dans les étoiles »
 rubrique: Histoire littéraire
 annee: 2001
 magazine: n°14 juin 2002

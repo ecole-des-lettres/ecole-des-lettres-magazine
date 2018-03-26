@@ -1,6 +1,6 @@
 ---
 id: 12426
-title: Claude Simon : « Quatre conférences »
+title: Claude Simon – « Quatre conférences »
 rubrique: Essai
 annee: 2012
 magazine: février 2012

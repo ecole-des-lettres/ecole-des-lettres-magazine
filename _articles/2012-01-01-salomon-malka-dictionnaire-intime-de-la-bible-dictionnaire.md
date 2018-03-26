@@ -1,6 +1,6 @@
 ---
 id: 12429
-title: Salomon Malka : « Dictionnaire intime de la Bible »
+title: Salomon Malka – « Dictionnaire intime de la Bible »
 rubrique: Dictionnaire
 annee: 2012
 magazine: février 2012

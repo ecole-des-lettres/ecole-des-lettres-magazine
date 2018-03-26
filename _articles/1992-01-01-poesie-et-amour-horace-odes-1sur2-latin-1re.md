@@ -1,6 +1,6 @@
 ---
 id: 833
-title: Poésie et amour. Horace : « Odes » (1/2) 
+title: Poésie et amour. Horace – « Odes » (1/2) 
 rubrique: Latin [1re]
 annee: 1992
 magazine: n°11 15 avril 1993

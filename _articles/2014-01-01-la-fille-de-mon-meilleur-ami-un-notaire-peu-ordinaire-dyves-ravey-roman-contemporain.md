@@ -6,7 +6,7 @@ annee: 2014
 magazine: 
 pages: 1
 description: Il faut entendre avec toute l’ironie nécessaire le titre du dernier
-  roman d’Yves Ravey : « La Fille de mon meilleur ami » n’est pas la personne la plus
+  roman d’Yves Ravey – « La Fille de mon meilleur ami » n’est pas la personne la plus
   facile à supporter. Assez folle, plutôt kleptomane et peu adaptée à la réalité,
   elle est interdite de rencontre avec son fils Roméo par le juge. Or William Bonnet,
   le narrateur, a promis à Louis, son meilleur ami, de retrouver Mathilde. Et Mathilde

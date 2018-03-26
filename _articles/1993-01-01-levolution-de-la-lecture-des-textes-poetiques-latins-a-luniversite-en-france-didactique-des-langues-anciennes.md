@@ -12,7 +12,7 @@ description:
   2. Histoire, action, narration à partir du même extrait
   En annexes, le schéma actanciel de l’histoire et son schéma narratif.
 article_pdf: 1176.pdf
-magazine_special: Langues anciennes : didactique
+magazine_special: Langues anciennes – didactique
 revue: L’école des lettres des lycées
 auteurs:
 - Anne Videau-Delibes

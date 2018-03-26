@@ -6,7 +6,7 @@ annee: 2000
 magazine: n°2 1er septembre 2000
 pages: 8
 description: 
-  Un dispositif de lecture sur « Le Colonel Chabert », de Balzac et « L’Écume des jours », de Boris Vian, constitué  :
+  Un dispositif de lecture sur « Le Colonel Chabert », de Balzac et « L’Écume des jours », de Boris Vian, constitué  – 
   – d’un programme de lecture d’œuvres intégrales
   – d’un guide de lecture
   – d’un contrôle en classe

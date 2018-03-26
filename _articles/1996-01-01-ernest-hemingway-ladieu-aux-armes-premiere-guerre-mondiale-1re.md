@@ -1,6 +1,6 @@
 ---
 id: 2333
-title:  Ernest Hemingway : « L’Adieu aux armes »
+title:  Ernest Hemingway – « L’Adieu aux armes »
 rubrique: Première guerre mondiale [1re]
 annee: 1996
 magazine: n°13 1er mai 1997

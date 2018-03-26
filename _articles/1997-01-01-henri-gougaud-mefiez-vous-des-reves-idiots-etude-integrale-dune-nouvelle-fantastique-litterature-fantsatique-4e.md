@@ -1,6 +1,6 @@
 ---
 id: 2709
-title: Henri Gougaud : « Méfiez-vous des rêves idiots ». Étude intégrale d’une nouvelle
+title: Henri Gougaud – « Méfiez-vous des rêves idiots ». Étude intégrale d’une nouvelle
   fantastique 
 rubrique: Littérature fantsatique [4e]
 annee: 1997
@@ -14,9 +14,9 @@ description: Cette nouvelle, extraite du recueil d’Henri Gougaud « Départem
   ce dénouement abrupt qui signifie au lecteur que le mauvais rêve a brisé les limites
   de la réalité. L’étude de ce récit peut s’inscrire dans un travail de lecture-écriture
   sur le genre fantastique ou être abordée sous d’autres angles que celui de la métamorphose
-  ou du rêve : le thème du voyage dans le temps ou dans une autre dimension, par exemple.
+  ou du rêve – le thème du voyage dans le temps ou dans une autre dimension, par exemple.
   Elle peut entraîner la lecture du recueil complet, soit à titre personnel, soit
-  sous la forme d’une étude en classe. Durée indicative : trois heures, sans les éventuels
+  sous la forme d’une étude en classe. Durée indicative – trois heures, sans les éventuels
   prolongements et le travail à la maison.
 article_pdf: 2709.pdf
 revue: L’école des lettres des collèges

@@ -19,7 +19,7 @@ description:
   – le « monde muet »
   – la poétique
 article_pdf: 112.pdf
-magazine_special: Ponge : l’atelier de Francis Ponge
+magazine_special: Ponge – l’atelier de Francis Ponge
 revue: L’école des lettres des lycées
 auteurs:
 - Dominique Viart

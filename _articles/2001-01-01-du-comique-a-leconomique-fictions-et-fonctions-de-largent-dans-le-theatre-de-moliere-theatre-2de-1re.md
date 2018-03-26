@@ -1,6 +1,6 @@
 ---
 id: 4311
-title: Du comique à l’économique : fictions et fonctions de l’argent dans le théâtre
+title: Du comique à l’économique – fictions et fonctions de l’argent dans le théâtre
   de Molière
 rubrique: Théâtre [2de-1re]
 annee: 2001

@@ -1,6 +1,6 @@
 ---
 id: 1767
-title: Anne-Marie Baron : « Le Fils prodige ou l’inconscient dans la Comédie humaine »
+title: Anne-Marie Baron – « Le Fils prodige ou l’inconscient dans la Comédie humaine »
 rubrique: 
 annee: 1994
 magazine: n°7 15 février 1995

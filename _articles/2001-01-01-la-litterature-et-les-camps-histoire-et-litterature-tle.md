@@ -6,7 +6,7 @@ annee: 2001
 magazine: n°10 15 février 2002
 pages: 18
 description: L’infamie de la Shoah aura au moins eu un mérite, dont l’ironie vengeresse
-  nargue à jamais la barbarie des bourreaux : élargir le champ de la littérature.
+  nargue à jamais la barbarie des bourreaux – élargir le champ de la littérature.
   Il est en effet devenu nécessaire, indépendamment de toute réflexion idéologique
   ou de toute réaction émotionnelle, de prendre en compte désormais dans une perspective
   strictement littéraire l’important corpus de récits et de témoignages inspirés,

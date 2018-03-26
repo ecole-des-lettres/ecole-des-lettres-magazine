@@ -1,6 +1,6 @@
 ---
 id: 4048
-title: La voix du conteur : textes à dire
+title: La voix du conteur – textes à dire
 rubrique: Lecture [6e]
 annee: 2000
 magazine: n°6 1er novembre 2000

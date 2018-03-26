@@ -1,6 +1,6 @@
 ---
 id: 3627
-title: Jules Verne : « Les Indes noires » 
+title: Jules Verne – « Les Indes noires » 
 rubrique: Préparation à la seconde [3e]
 annee: 1999
 magazine: n°4 1er octobre 1999

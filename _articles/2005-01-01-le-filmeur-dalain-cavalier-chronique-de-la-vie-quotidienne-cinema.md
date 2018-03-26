@@ -1,6 +1,6 @@
 ---
 id: 11294
-title: « Le Filmeur », d’Alain Cavalier : chronique de la vie quotidienne
+title: « Le Filmeur », d’Alain Cavalier – chronique de la vie quotidienne
 rubrique: Cinéma
 annee: 2005
 magazine: n°2 15 septembre 2005

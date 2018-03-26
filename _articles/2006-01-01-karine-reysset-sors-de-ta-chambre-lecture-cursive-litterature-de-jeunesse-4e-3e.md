@@ -1,6 +1,6 @@
 ---
 id: 11710
-title: Karine Reysset : « Sors de ta chambre ! ». Lecture cursive 
+title: Karine Reysset – « Sors de ta chambre ! ». Lecture cursive 
 rubrique: Littérature de jeunesse [4e-3e]
 annee: 2006
 magazine: 2007

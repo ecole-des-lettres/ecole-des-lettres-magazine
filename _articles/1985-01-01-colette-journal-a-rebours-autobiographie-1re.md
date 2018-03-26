@@ -1,6 +1,6 @@
 ---
 id: 22
-title: Colette : « Journal à rebours »
+title: Colette – « Journal à rebours »
 rubrique: Autobiographie [1re]
 annee: 1985
 magazine: n°11 15 mars 1986

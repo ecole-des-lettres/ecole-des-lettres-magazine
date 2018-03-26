@@ -1,6 +1,6 @@
 ---
 id: 4160
-title: Honoré de Balzac : « Pierre Grassou » ou le vacillement des valeurs esthétiques
+title: Honoré de Balzac – « Pierre Grassou » ou le vacillement des valeurs esthétiques
 rubrique: Nouvelles [2de]
 annee: 2000
 magazine: n°9 15 janvier 2001

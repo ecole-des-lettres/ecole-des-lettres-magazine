@@ -1,6 +1,6 @@
 ---
 id: 4016
-title: Prosper Mérimée : « Carmen »
+title: Prosper Mérimée – « Carmen »
 rubrique: Récits du XIXe siècle [4e-3e] 
 annee: 2000
 magazine: n°4 1er octobre 2000

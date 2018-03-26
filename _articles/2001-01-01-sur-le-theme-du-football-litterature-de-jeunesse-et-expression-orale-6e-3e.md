@@ -6,9 +6,9 @@ annee: 2001
 magazine: n°12 15 avril 2002
 pages: 10
 description: 
-  Présentation de trois ouvrages de littérature jeunesse permettant de travailler l’expression orale :
+  Présentation de trois ouvrages de littérature jeunesse permettant de travailler l’expression orale – 
   – « Monelle et les footballeurs », de Geneviève Brisac
-  – « Vengeance en direct : six histoires de football »
+  – « Vengeance en direct – six histoires de football »
   – « Carton noir », de Stéphane Daniel
 article_pdf: 4246.pdf
 revue: L’école des lettres des collèges
@@ -28,7 +28,7 @@ niveau_etudes:
 - troisième
 oeuvres:
 - Monelle et les footballeurs
-- Vengeance en direct : six histoires de football
+- Vengeance en direct – six histoires de football
 - Carton noir
 programmes:
 - expression orale - présentation d’un livre

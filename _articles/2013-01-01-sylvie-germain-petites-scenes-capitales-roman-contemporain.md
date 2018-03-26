@@ -1,6 +1,6 @@
 ---
 id: 12253
-title: Sylvie Germain : « Petites scènes capitales »
+title: Sylvie Germain – « Petites scènes capitales »
 rubrique: Roman contemporain
 annee: 2013
 magazine: septembre 20123

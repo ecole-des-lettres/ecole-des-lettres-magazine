@@ -1,6 +1,6 @@
 ---
 id: 2662
-title: Robert Doisneau : « Devant une laiterie »
+title: Robert Doisneau – « Devant une laiterie »
 rubrique: Étude de l’image photographique [4e-3e]
 annee: 1997
 magazine: n°11 15 mars 1998

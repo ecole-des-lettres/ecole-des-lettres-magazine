@@ -1,11 +1,11 @@
 ---
 id: 11659
-title: Jean-François Chabas : « La Charme ». Lecture cursive 
+title: Jean-François Chabas – « La Charme ». Lecture cursive 
 rubrique: Littérature de jeunesse [3e]
 annee: 2006
 magazine: 2007
 pages: 3
-description: Ils sont trois : Tsen l’émigré, dit la Charme pour sa capacité à s’accorder
+description: Ils sont trois – Tsen l’émigré, dit la Charme pour sa capacité à s’accorder
   avec tout le monde, les filles en particulier ; Daniel, dit Tape-l’incruste, naïf,
   mais foncièrement honnête, qui se fait chahuter par les autres car il a « de l’eau
   dans la tête » ; enfin, Jo, trop attaché à sa cité pour rester indifférent aux déviances

@@ -11,7 +11,7 @@ description: Cet article se propose d’évoquer les attitudes physiques de la l
   attitude, une manière de se tenir et de tenir le livre, une relation matérielle
   à celui-ci. 
 article_pdf: 2783.pdf
-magazine_special: Lecture : le génie du lecteur, colloque de Cerisy
+magazine_special: Lecture – le génie du lecteur, colloque de Cerisy
 revue: L’école des lettres des lycées
 auteurs:
 - Raymond Jean

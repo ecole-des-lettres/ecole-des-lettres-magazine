@@ -1,7 +1,7 @@
 ---
 id: 11102
-title: Danis Tanovic : « No man’s land »
-rubrique: Étude de l’image : cinéma [3e]
+title: Danis Tanovic – « No man’s land »
+rubrique: Étude de l’image – cinéma [3e]
 annee: 2004
 magazine: n°6 février 2005
 pages: 6

@@ -1,6 +1,6 @@
 ---
 id: 2831
-title: Jean-Patrick Manchette : « Fatale ». Étude d’extrait 
+title: Jean-Patrick Manchette – « Fatale ». Étude d’extrait 
 rubrique: Roman policier et littérature engagée [3e]
 annee: 1997
 magazine: n°3 1er octobre 1997

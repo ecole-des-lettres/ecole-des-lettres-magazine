@@ -1,6 +1,6 @@
 ---
 id: 1250
-title: Nanni Moretti : « Journal intime »
+title: Nanni Moretti – « Journal intime »
 rubrique: Cinéma
 annee: 1993
 magazine: n°13-14 juillet 1994

@@ -1,6 +1,6 @@
 ---
 id: 11192
-title: « Mur », de Simone Bitton : enquête ou réquisitoire
+title: « Mur », de Simone Bitton – enquête ou réquisitoire
 rubrique: Cinéma
 annee: 2004
 magazine: n°4 décembre 2004

@@ -1,6 +1,6 @@
 ---
 id: 11669
-title: Polly Horvath : « La Fille sur la balançoire rouge ». Lecture cursive 
+title: Polly Horvath – « La Fille sur la balançoire rouge ». Lecture cursive 
 rubrique: Littérature de jeunesse [5e]
 annee: 2006
 magazine: 

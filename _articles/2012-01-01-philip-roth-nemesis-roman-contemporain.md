@@ -1,6 +1,6 @@
 ---
 id: 12370
-title: Philip Roth : « Némésis »
+title: Philip Roth – « Némésis »
 rubrique: Roman contemporain
 annee: 2012
 magazine: novembre 2012

@@ -9,7 +9,7 @@ pages: 1
 description: Sur la demande du ministre de l’Éducation nationale, le Conseil supérieur
   de l’éducation vient de formuler des propositions de programmes pour l’école élémentaire
   et le collège. Il est notamment attendu des projets de programmes qu’ils soient
-  : « bien articulés avec le socle commun de connaissances, de compétences et de culture
+  – « bien articulés avec le socle commun de connaissances, de compétences et de culture
   », dont ils sont la déclinaison à chaque cycle ; « plus simples et plus lisibles
   pour que chacun sache bien ce que les élèves doivent apprendre » ; « plus progressifs
   et plus cohérents » ; « adaptés aux enjeux contemporains de la société »...

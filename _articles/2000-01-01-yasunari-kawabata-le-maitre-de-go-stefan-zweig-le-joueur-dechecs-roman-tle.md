@@ -1,6 +1,6 @@
 ---
 id: 3907
-title: Yasunari Kawabata : « Le Maître de go » ; Stefan Zweig : « Le Joueur d’échecs »
+title: Yasunari Kawabata – « Le Maître de go » ; Stefan Zweig – « Le Joueur d’échecs »
 rubrique: Roman [Tle]
 annee: 2000
 magazine: n°13 15 mai 2001

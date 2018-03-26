@@ -1,6 +1,6 @@
 ---
 id: 5013
-title: Honoré de Balzac : « Jésus-Christ en Flandre », ou l’Évangile selon Honoré
+title: Honoré de Balzac – « Jésus-Christ en Flandre », ou l’Évangile selon Honoré
 rubrique: Nouvelle [2de-1re]
 annee: 2002
 magazine: n°13 juillet 2003

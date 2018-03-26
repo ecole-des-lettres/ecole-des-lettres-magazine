@@ -1,6 +1,6 @@
 ---
 id: 4313
-title: Découvrir un auteur de science-fiction : Isaac Asimov
+title: Découvrir un auteur de science-fiction – Isaac Asimov
 rubrique: Science-fiction [3e]
 annee: 2001
 magazine: n°14 15 mai 2002

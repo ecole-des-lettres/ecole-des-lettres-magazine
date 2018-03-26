@@ -1,6 +1,6 @@
 ---
 id: 3131
-title: Honoré de Balzac : « Une conversation entre onze heures et minuit »
+title: Honoré de Balzac – « Une conversation entre onze heures et minuit »
 rubrique: Nouvelles [2de-1re]
 annee: 1998
 magazine: n°13 1er mai 1999

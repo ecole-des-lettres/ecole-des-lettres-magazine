@@ -7,7 +7,7 @@ annee: 2014
 magazine: décembre 2014
 pages: 2
 description: France Culture diffuse le dimanche 7 décembre 2014, à 21 h, deux pièces
-  rarement interprétées de Corneille, mises en scène par Brigitte Jaques-Wajeman :
+  rarement interprétées de Corneille, mises en scène par Brigitte Jaques-Wajeman – 
   « La Place Royale ou l’Amoureux extravagant », comédie en cinq actes (1634), et
   « Sophonisbe », tragédie représentée pour la première fois en 1663...
 article_pdf: 12913.pdf

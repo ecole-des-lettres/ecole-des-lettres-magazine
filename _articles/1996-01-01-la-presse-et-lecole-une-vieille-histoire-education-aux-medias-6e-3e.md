@@ -1,6 +1,6 @@
 ---
 id: 2527
-title: La presse et l’école : une vieille histoire
+title: La presse et l’école – une vieille histoire
 rubrique: Éducation aux médias [6e-3e]
 annee: 1996
 magazine: n°8 15 février 1997
@@ -14,7 +14,7 @@ description:
   2. Un mariage de raison ?
   – les initiatives de la presse
   – la circulaire Haby
-  – les mouvements pédagogiques : l’apport de Freinet
+  – les mouvements pédagogiques – l’apport de Freinet
   – le pari du Clemi
 article_pdf: 2527.pdf
 magazine_special: Presse écrite au collège

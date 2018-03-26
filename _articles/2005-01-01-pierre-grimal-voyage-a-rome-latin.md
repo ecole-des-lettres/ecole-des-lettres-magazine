@@ -1,6 +1,6 @@
 ---
 id: 11389
-title: Pierre Grimal : « Voyage  à Rome »
+title: Pierre Grimal – « Voyage  à Rome »
 rubrique: Latin
 annee: 2005
 magazine: n°1 août-septembre 2005

@@ -11,7 +11,7 @@ description: Les programmes de français pour la classe de première ambitionnen
   approfondissement du langage théâtral. Afin de percevoir les potentialités d’un
   atelier « Théâtre », cet article rappelle d’abord le cadre institutionnel dans lequel
   la structure s’inscrit, puis envisage plus concrètement la démarche à mettre en
-  œuvre, avant de présenter un exemple de travail abordant la problématique suivante :
+  œuvre, avant de présenter un exemple de travail abordant la problématique suivante – 
   « Le théâtre, langage pluriel », à travers le thème de la farce.
 article_pdf: 4663.pdf
 revue: L’école des lettres des lycées

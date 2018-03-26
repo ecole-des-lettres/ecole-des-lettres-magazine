@@ -1,6 +1,6 @@
 ---
 id: 11122
-title: Marjane Satrapi : « Persépolis » (séquence)
+title: Marjane Satrapi – « Persépolis » (séquence)
 rubrique: Autobiographie et bande dessinée [3e] 
 annee: 2004
 magazine: n°9 mai 2005

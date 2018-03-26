@@ -1,11 +1,11 @@
 ---
 id: 120
-title: Émile Zola : un tableau du « Ventre de Paris ». Étude d’extrait
+title: Émile Zola – un tableau du « Ventre de Paris ». Étude d’extrait
 rubrique: Le naturalisme [2de]
 annee: 1989
 magazine: n°6 15 décembre 1989
 pages: 6
-description: Étude de la fin du premier chapitre du « Ventre de Paris » : la description
+description: Étude de la fin du premier chapitre du « Ventre de Paris » – la description
   des Halles…
 article_pdf: 120.pdf
 magazine_special: Zola et le naturalisme

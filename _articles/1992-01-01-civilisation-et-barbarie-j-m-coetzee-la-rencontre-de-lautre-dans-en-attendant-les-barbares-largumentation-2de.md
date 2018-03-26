@@ -1,6 +1,6 @@
 ---
 id: 916
-title: Civilisation et barbarie. J. M. Coetzee : la rencontre de l’autre dans « En
+title: Civilisation et barbarie. J. M. Coetzee – la rencontre de l’autre dans « En
   attendant les barbares »
 rubrique: L’argumentation [2de]
 annee: 1992

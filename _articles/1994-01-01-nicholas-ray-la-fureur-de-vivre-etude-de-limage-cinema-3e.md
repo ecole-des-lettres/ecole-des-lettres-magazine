@@ -1,7 +1,7 @@
 ---
 id: 1656
-title: Nicholas Ray : « La Fureur de vivre » 
-rubrique: Étude de l’image : cinéma [3e]
+title: Nicholas Ray – « La Fureur de vivre » 
+rubrique: Étude de l’image – cinéma [3e]
 annee: 1994
 magazine: n°3 15 octobre 1994
 pages: 9

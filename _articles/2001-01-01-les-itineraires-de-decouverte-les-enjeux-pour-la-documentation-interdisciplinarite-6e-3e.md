@@ -1,6 +1,6 @@
 ---
 id: 4233
-title: Les itinéraires de découverte : les enjeux pour la documentation
+title: Les itinéraires de découverte – les enjeux pour la documentation
 rubrique: Interdisciplinarité [6e-3e]
 annee: 2001
 magazine: n°11 mars 2002

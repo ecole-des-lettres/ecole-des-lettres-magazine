@@ -1,14 +1,14 @@
 ---
 id: 11096
-title: Charlie Chaplin : « Les Temps modernes »
-rubrique: Étude de l’image : cinéma [3e]
+title: Charlie Chaplin – « Les Temps modernes »
+rubrique: Étude de l’image – cinéma [3e]
 annee: 2004
 magazine: n°4 décembre 2004
 pages: 6
 description: « Les Temps modernes » est l’une des œuvres les plus connues et les
   plus riches de Charlie Chaplin. C’est donc un point positif que de la voir inscrite
   cette année dans de nombreux programmes de l’opération « collège au cinéma ». Le
-  film montre Charlot aux prises avec la société de son temps : ouvrier d’usine soumis
+  film montre Charlot aux prises avec la société de son temps – ouvrier d’usine soumis
   aux cadences infernales, puis chômeur prêt à tout pour survivre, plus tard jeté
   en prison pour s’être retrouvé fortuitement le meneur d’une manifestation de chômeurs,
   sauvé enfin par sa rencontre avec la « gamine ». Le but ici est d’explorer les toutes

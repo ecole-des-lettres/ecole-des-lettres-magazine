@@ -9,7 +9,7 @@ description:
   La description du contenu sémantique des mots pris individuellement est utile à la compréhension des exercices de langue…
   L’article est suivi d’une bibliographie.
 article_pdf: 1093.pdf
-magazine_special: Français : les enjeux de la didactique du français
+magazine_special: Français – les enjeux de la didactique du français
 revue: L’école des lettres des lycées
 auteurs:
 - Hiltraud Dupuy-Engelhardt

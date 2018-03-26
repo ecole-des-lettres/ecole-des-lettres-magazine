@@ -6,7 +6,7 @@ annee: 2002
 magazine: n°1 juillet-septembre 2002
 pages: 8
 description: 
-  Présentation de trois ouvrages de littérature jeunesse permettant de travailler l’expression orale :
+  Présentation de trois ouvrages de littérature jeunesse permettant de travailler l’expression orale – 
   – « Aliocha, cheval des steppes », de Jackie Valabrègue
   – « La Croisade de la liberté », de Bertrand Solet
   – « Vol libre », de Daniel Meynard

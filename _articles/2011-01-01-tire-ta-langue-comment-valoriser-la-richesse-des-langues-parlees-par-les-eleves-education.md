@@ -1,6 +1,6 @@
 ---
 id: 12494
-title: « Tire ta langue » : comment valoriser la richesse des langues parlées par
+title: « Tire ta langue » – comment valoriser la richesse des langues parlées par
   les élèves
 rubrique: Éducation
 annee: 2011

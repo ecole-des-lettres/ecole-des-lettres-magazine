@@ -1,6 +1,6 @@
 ---
 id: 237
-title: Vercors : « Le Silence de la mer » 
+title: Vercors – « Le Silence de la mer » 
 rubrique: Le récit (roman ou nouvelle) [2de]
 annee: 1990
 magazine: n°14 15 juillet 1991

@@ -1,6 +1,6 @@
 ---
 id: 12726
-title: Les littéraires : plus créatifs que les autres ? Bilan d’une expérience d’atelier
+title: Les littéraires – plus créatifs que les autres ? Bilan d’une expérience d’atelier
   créatif en partenariat d’entreprise
 rubrique: Écriture
 annee: 2014

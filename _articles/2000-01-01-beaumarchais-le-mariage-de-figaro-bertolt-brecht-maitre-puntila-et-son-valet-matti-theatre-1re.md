@@ -1,13 +1,13 @@
 ---
 id: 4106
-title: Beaumarchais : « Le Mariage de Figaro » ; Bertolt Brecht : « Maître Puntila
+title: Beaumarchais – « Le Mariage de Figaro » ; Bertolt Brecht – « Maître Puntila
   et son valet Matti »
 rubrique: Théâtre [1re]
 annee: 2000
 magazine: n°7 1er décembre 2000
 pages: 9
 description: La confrontation entremaîtreet valet a inspiré de nombreuses pièces
-  au cours des siècles. Cet article s’intéresse à deux pièces comiques : une comédie
+  au cours des siècles. Cet article s’intéresse à deux pièces comiques – une comédie
   française du XVIIIe siècle, « Le Mariage de Figaro », de Beaumarchais, et une comédie
   allemande du XXe siècle, « Maître Puntila et son valet Matti », de Bertolt Brecht.
   Le rapprochement entre ces deux œuvres peut surprendre, mais, en réalité, elles

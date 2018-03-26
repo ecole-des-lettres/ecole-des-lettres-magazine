@@ -1,6 +1,6 @@
 ---
 id: 2465
-title: « La Chanson des Nibelungen » : les personnages principaux
+title: « La Chanson des Nibelungen » – les personnages principaux
 rubrique: Épopée médiévale [classes préparatoires et concours] 
 annee: 1996
 magazine: n°5 1er décembre 1996
@@ -28,7 +28,7 @@ description:
   – l’amour
   – un perdant
 article_pdf: 2465.pdf
-magazine_special: Nibelungen : chanson des Nibelungen
+magazine_special: Nibelungen – chanson des Nibelungen
 revue: L’école des lettres des collèges
 auteurs:
 - Wolfgang Spiewok

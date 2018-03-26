@@ -1,6 +1,6 @@
 ---
 id: 1302
-title: « Trois Couleurs : bleu », de Krzysztof Kieslowski, ou le deuil partagé
+title: « Trois Couleurs – bleu », de Krzysztof Kieslowski, ou le deuil partagé
 rubrique: Cinéma
 annee: 1993
 magazine: n°3 15 octobre 1993
@@ -29,7 +29,7 @@ niveau_etudes:
 - agrégation
 - CAPES
 oeuvres:
-- Trois couleurs : bleu
+- Trois couleurs – bleu
 realisateurs:
 - Kieslowski Krzysztof
 ---

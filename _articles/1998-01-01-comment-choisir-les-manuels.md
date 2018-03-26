@@ -7,7 +7,7 @@ magazine: n°14 15 mai 1999
 pages: 4
 description: 
   1. Exploration
-  – le manuel scolaire : un produit commercial
+  – le manuel scolaire – un produit commercial
   – les destinataires des manuels scolaires
   – les « nouveaux » manuels
   – le manuel et l’enseignement en séquences

@@ -6,7 +6,7 @@ annee: 1992
 magazine: n°9 1er mars 1993
 pages: 10
 description: 
-  Contribution à l’histoire de la composition française : « Le devoir de Gisèle » dans « À l’ombre des jeunes filles en fleurs »…
+  Contribution à l’histoire de la composition française – « Le devoir de Gisèle » dans « À l’ombre des jeunes filles en fleurs »…
   1. Proust et la composition française
   – repères chronologiques
   – aspect matériel du texte
@@ -16,7 +16,7 @@ description:
   – la dissertation
   – le discours et la lettre
 article_pdf: 1090.pdf
-magazine_special: Français : les enjeux de la didactique du français
+magazine_special: Français – les enjeux de la didactique du français
 revue: L’école des lettres des lycées
 auteurs:
 - Annick Bouillaguet

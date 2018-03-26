@@ -1,6 +1,6 @@
 ---
 id: 11179
-title: « The Assassination of Richard Nixon », de Niels Mueller : l’exaspération
+title: « The Assassination of Richard Nixon », de Niels Mueller – l’exaspération
   d’un minable
 rubrique: Cinéma
 annee: 2004

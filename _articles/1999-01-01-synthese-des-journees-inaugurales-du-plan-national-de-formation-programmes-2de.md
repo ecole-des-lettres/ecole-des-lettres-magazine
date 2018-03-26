@@ -8,7 +8,7 @@ pages: 4
 description: Synthèse des journées inaugurales du plan national de formation (27-28
   octobre 1999) par une IPR, membre du groupe d’experts « Lettres »…
 article_pdf: 3736.pdf
-magazine_special: Français (seconde) : nouveaux programmes de 1999 / 2000
+magazine_special: Français (seconde) – nouveaux programmes de 1999 / 2000
 revue: L’école des lettres des lycées
 auteurs:
 - Katherine Weinland

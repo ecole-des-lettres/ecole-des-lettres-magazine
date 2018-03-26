@@ -6,7 +6,7 @@ rubrique: Grec [2de-Tle]
 annee: 2012
 magazine: 2012
 pages: 5
-description: Comment unir une classe hétérogène autour d’un thème : « Le mythos et
+description: Comment unir une classe hétérogène autour d’un thème – « Le mythos et
   le logos » ?
 article_pdf: 12200.pdf
 revue: L’école des lettres des lycées

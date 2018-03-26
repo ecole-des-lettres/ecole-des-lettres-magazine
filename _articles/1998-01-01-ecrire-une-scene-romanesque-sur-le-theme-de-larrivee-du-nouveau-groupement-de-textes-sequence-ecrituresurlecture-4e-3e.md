@@ -12,7 +12,7 @@ description:
   – « L’Ami retrouvé », de Fred Uhlman
   – « Le Grand Meaulnes », d’Alain-Fournier
   – « Silbermann », de Jacques de Lacretelle
-  Déroulement de la séquence : dix séances.
+  Déroulement de la séquence – dix séances.
 article_pdf: 3276.pdf
 revue: L’école des lettres des collèges
 auteurs:

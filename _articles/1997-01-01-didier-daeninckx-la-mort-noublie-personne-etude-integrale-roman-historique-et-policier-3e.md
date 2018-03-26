@@ -1,6 +1,6 @@
 ---
 id: 2888
-title: Didier Daeninckx : « La mort n’oublie personne ». Étude intégrale 
+title: Didier Daeninckx – « La mort n’oublie personne ». Étude intégrale 
 rubrique: Roman historique et policier [3e]
 annee: 1997
 magazine: n°5-6 1er-15 novembre 1997

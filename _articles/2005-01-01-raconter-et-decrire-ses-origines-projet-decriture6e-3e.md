@@ -14,7 +14,7 @@ description: Cette séquence a été élaborée dans la perspective de maintenir
   au groupe classe. Elle se déroule sur cinq semaines et s’organise autour d’un atelier
   d’écriture qui dépasse la dimension purement scolaire. Ce projet d’écriture aborde
   un certain nombre de savoirs recommandés par les programmes. Il répond à des objectifs
-  liés à l’étude des discours narratif et descriptif : identifier, enrichir et insérer
+  liés à l’étude des discours narratif et descriptif – identifier, enrichir et insérer
   une description dans un récit, puis maîtriser la construction du récit et de ses
   enchaînements. Les points de grammaire étudiés (expansion du nom, impératif, connecteurs
   spatiaux…) sont des problèmes que les élèves rencontreront au fur et à mesure des

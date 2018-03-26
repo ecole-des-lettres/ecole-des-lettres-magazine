@@ -1,6 +1,6 @@
 ---
 id: 46
-title: Jean-Paul Sartre dans « Les Mots » : l’apprentissage de « l’homme de livres »
+title: Jean-Paul Sartre dans « Les Mots » – l’apprentissage de « l’homme de livres »
 rubrique: Écrire, publier, lire [2de]
 annee: 1986
 magazine: n°11 15 mars 1987
@@ -13,7 +13,7 @@ description:
   5. Le contenu du livre
   6. « La sentinelle de la culture »
 article_pdf: 46.pdf
-magazine_special: Livre : le livre entre l’imaginaire et le réel
+magazine_special: Livre – le livre entre l’imaginaire et le réel
 revue: L’école des lettres des lycées
 auteurs:
 - Yves Stalloni

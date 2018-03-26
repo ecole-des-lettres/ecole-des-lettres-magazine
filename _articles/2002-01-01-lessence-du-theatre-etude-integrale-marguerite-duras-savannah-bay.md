@@ -1,7 +1,7 @@
 ---
 id: 4989
 title: L’essence du théâtre. Étude intégrale
-rubrique: Marguerite Duras : « Savannah Bay »
+rubrique: Marguerite Duras – « Savannah Bay »
 annee: 2002
 magazine: n°12 mai 2003
 pages: 11

@@ -1,6 +1,6 @@
 ---
 id: 12385
-title: Julia Deck : « Viviane Elisabeth Fauville »
+title: Julia Deck – « Viviane Elisabeth Fauville »
 rubrique: Roman contemporain
 annee: 2012
 magazine: septembre 2012

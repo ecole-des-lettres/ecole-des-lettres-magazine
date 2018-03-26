@@ -1,6 +1,6 @@
 ---
 id: 704
-title: Théodore de Bèze : « Avis au lecteur » en tête de l’édition d’« Abraham sacrifiant »
+title: Théodore de Bèze – « Avis au lecteur » en tête de l’édition d’« Abraham sacrifiant »
   (1550)
 rubrique: Théâtre [2de]
 annee: 1991

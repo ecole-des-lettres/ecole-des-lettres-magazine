@@ -1,6 +1,6 @@
 ---
 id: 547
-title: Guillaume Apollinaire : deux entrées dans l’œuvre de fiction
+title: Guillaume Apollinaire – deux entrées dans l’œuvre de fiction
 rubrique: Poésie / fiction [classes préparatoires et concours]
 annee: 1991
 magazine: n°13 15 juin 1992

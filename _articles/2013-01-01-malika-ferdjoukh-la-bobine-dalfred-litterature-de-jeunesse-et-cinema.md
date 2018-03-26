@@ -1,6 +1,6 @@
 ---
 id: 12224
-title: Malika Ferdjoukh : « La Bobine d’Alfred »
+title: Malika Ferdjoukh – « La Bobine d’Alfred »
 rubrique: Littérature de jeunesse et cinéma
 annee: 2013
 magazine: octobre 2013

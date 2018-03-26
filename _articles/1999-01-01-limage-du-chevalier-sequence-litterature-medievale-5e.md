@@ -7,7 +7,7 @@ magazine: 1999
 pages: 48
 description: 
   Cette séquence se construit en parallèle avec une recherche documentaire que les élèves doivent effectuer principalement au CDI. L’objectif est de les familiariser avec l’univers médiéval, grâce à l’étude de textes centrés sur l’image du chevalier, mais également au moyen de la lecture et de la production de textes documentaires.
-  Déroulement de la séquence : huit séances
+  Déroulement de la séquence – huit séances
 article_pdf: 3699.pdf
 revue: L’école des lettres des collèges
 auteurs:

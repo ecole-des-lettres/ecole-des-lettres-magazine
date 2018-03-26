@@ -1,6 +1,6 @@
 ---
 id: 188
-title: Plaute : les merveilles de la grossesse d’Alcmène 
+title: Plaute – les merveilles de la grossesse d’Alcmène 
 rubrique: Mythologie [6e]
 annee: 1990
 magazine: n°11 1er mai 1991

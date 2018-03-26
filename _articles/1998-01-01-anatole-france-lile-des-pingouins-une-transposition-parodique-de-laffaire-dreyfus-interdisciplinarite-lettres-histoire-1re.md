@@ -1,6 +1,6 @@
 ---
 id: 3357
-title: Anatole France : « L’Île des pingouins ». Une transposition parodique de l’affaire
+title: Anatole France – « L’Île des pingouins ». Une transposition parodique de l’affaire
   Dreyfus
 rubrique: Interdisciplinarité lettres, histoire [1re]
 annee: 1998

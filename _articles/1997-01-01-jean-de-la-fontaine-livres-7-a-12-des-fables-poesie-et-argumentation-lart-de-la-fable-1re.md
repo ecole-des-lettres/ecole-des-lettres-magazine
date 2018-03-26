@@ -1,7 +1,7 @@
 ---
 id: 2873
-title: Jean de La Fontaine : livres 7 à 12 des « Fables » 
-rubrique: Poésie et argumentation : l’art de la fable [1re]
+title: Jean de La Fontaine – livres 7 à 12 des « Fables » 
+rubrique: Poésie et argumentation – l’art de la fable [1re]
 annee: 1997
 magazine: n°5 1er novembre 1997
 pages: 12

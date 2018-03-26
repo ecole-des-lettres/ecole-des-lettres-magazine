@@ -1,6 +1,6 @@
 ---
 id: 11213
-title: Jean de La Fontaine : « Fables ». Le fabuliste à la Comédie-Française
+title: Jean de La Fontaine – « Fables ». Le fabuliste à la Comédie-Française
 rubrique: Poésie et théâtre
 annee: 2004
 magazine: n°6 février 2005

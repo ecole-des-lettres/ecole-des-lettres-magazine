@@ -10,8 +10,8 @@ description: |
   Influences littéraires et picturales
   – À moi, conte, deux mots ! L’univers du conte chez Yvan Pommaux, par Réjane Niogret et Christian Poslaniec
   – Yvan Pommaux et la Littérature médiévale , par Christian Poslaniec
-  – Yvan Pommaux : influences et libertés, par Olivier Dufaut
-  – L’œuvre au berceau : un carnet de notes d’Yvan Pommaux, par Claire Doquet
+  – Yvan Pommaux – influences et libertés, par Olivier Dufaut
+  – L’œuvre au berceau – un carnet de notes d’Yvan Pommaux, par Claire Doquet
   Les univers intimes d’Yvan Pommaux
   – Récurrences, par Christian Poslaniec
   – L’artiste au travail, par Réjane Niogret et Christian Poslaniec

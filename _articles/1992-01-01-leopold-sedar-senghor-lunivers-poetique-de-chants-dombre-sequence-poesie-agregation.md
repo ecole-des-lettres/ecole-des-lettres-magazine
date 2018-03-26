@@ -1,13 +1,13 @@
 ---
 id: 798
-title: Léopold Sédar Senghor : l’univers poétique de « Chants d’ombre ». Séquence
+title: Léopold Sédar Senghor – l’univers poétique de « Chants d’ombre ». Séquence
 rubrique: Poésie [agrégation]
 annee: 1992
 magazine: n°1 15 septembre 1992
 pages: 18
 description: 
-  Aborder l’œuvre poétique de Senghor peut être l’occasion de combler quelques lacunes  et, en initiant les élèves à la littérature poétique, de promouvoir dautres habitudes de lecture. Pourquoi Senghor ? Pour deux raisons, au moins. D’abord, il s’agit d’une œuvre qui s’inscrit dans toute une tradition que lhistoire littéraire atteste : de Hugo à Saint-John Perse, en passant par Baudelaire, Rimbaud, Claudel, c’est le courant de la grande poésie lyrique française, l’attention au pouvoir incantatoire du verbe que Senghor perpétue. Ensuite parce que son œuvre illustre avec éclat l’« autre » littérature française, la littérature africaine de langue française (et plus généralement la littérature francophone) qui, puisant aux racines des traditions orales, rajeunit et revivifie la parole poétique ressourcée aux forces élémentaires et cosmiques.
-  Déroulement de la séquence : cinq séances
+  Aborder l’œuvre poétique de Senghor peut être l’occasion de combler quelques lacunes  et, en initiant les élèves à la littérature poétique, de promouvoir dautres habitudes de lecture. Pourquoi Senghor ? Pour deux raisons, au moins. D’abord, il s’agit d’une œuvre qui s’inscrit dans toute une tradition que lhistoire littéraire atteste – de Hugo à Saint-John Perse, en passant par Baudelaire, Rimbaud, Claudel, c’est le courant de la grande poésie lyrique française, l’attention au pouvoir incantatoire du verbe que Senghor perpétue. Ensuite parce que son œuvre illustre avec éclat l’« autre » littérature française, la littérature africaine de langue française (et plus généralement la littérature francophone) qui, puisant aux racines des traditions orales, rajeunit et revivifie la parole poétique ressourcée aux forces élémentaires et cosmiques.
+  Déroulement de la séquence – cinq séances
   * Séance 1. Lecture méthodique de « Joal »
   * Séance 2. Étude de texte de « Vacances »
   * Séance 3. Étude de texte de « Nuit de Sine »

@@ -1,6 +1,6 @@
 ---
 id: 2336
-title: Louis Guilloux : « Le Sang noir »
+title: Louis Guilloux – « Le Sang noir »
 rubrique: Première guerre mondiale [1re]
 annee: 1996
 magazine: n°13 1er mai 1997

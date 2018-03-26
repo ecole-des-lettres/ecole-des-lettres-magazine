@@ -1,6 +1,6 @@
 ---
 id: 11095
-title: L’édition du théâtre jeune public : un entretien avec Brigitte Smadja
+title: L’édition du théâtre jeune public – un entretien avec Brigitte Smadja
 rubrique: Théâtre
 annee: 2004
 magazine: n°4 décembre 2004

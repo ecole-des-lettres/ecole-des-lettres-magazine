@@ -1,6 +1,6 @@
 ---
 id: 1306
-title: Émile Zola : « Germinal » et la critique littéraire 
+title: Émile Zola – « Germinal » et la critique littéraire 
 rubrique: Écrire, publier, lire [2de]
 annee: 1993
 magazine: n°4 1er novembre 1993
@@ -10,7 +10,7 @@ description:
   2. L’accueil de la critique dans la seconde moitié du XXe siècle
   L’article est suivi d’indications bibliographiques et, en annexe, de la première page de « Germinal » confrontée à la première page du scénario de l’adaptation cinématographique qu’en a tirée Claude Berri.
 article_pdf: 1306.pdf
-magazine_special: Zola : Germinal
+magazine_special: Zola – Germinal
 revue: L’école des lettres des lycées
 auteurs:
 - Alain Pagès

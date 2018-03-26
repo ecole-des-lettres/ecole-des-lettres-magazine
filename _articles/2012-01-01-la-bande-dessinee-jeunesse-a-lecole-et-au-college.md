@@ -10,9 +10,9 @@ description: |
   – Une classe BD, pour quoi faire ? par Patrice Gentilhomme
   – « Les Trois Chemins sous les mers », de Lewis Trondheim et Sergio Garcia, par Olivier Dufaut
   – « Hyper l’hippo », de Jean-David Morvan et Nicolas Nemiri, par Joëlle Thébault
-  – « Mélusine » : « Sortilèges », de Gilson et Clarke par Stéphane Labbe
+  – « Mélusine » – « Sortilèges », de Gilson et Clarke par Stéphane Labbe
   – « Harry est fou », de Pascal Rabaté, d’après Dick King-Smith, par Marie-Hélène Giannoni
-  – « Messire Guillaume » : « Les Contrées lointaines », de Gwen de Bonneval et Matthieu Bonhomme, par Jean-Pierre Tusseau
+  – « Messire Guillaume » – « Les Contrées lointaines », de Gwen de Bonneval et Matthieu Bonhomme, par Jean-Pierre Tusseau
   – Onze bandes dessinées à redécouvrir, par Christian Poslaniec
 article_pdf: 12287.pdf
 magazine_special: La bande dessinée jeunesse à l’école et au collège

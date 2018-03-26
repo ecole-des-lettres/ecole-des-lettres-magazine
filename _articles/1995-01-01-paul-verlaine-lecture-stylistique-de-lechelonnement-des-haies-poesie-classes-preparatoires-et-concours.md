@@ -1,6 +1,6 @@
 ---
 id: 1979
-title: Paul Verlaine : lecture stylistique de « L’échelonnement des haies… »
+title: Paul Verlaine – lecture stylistique de « L’échelonnement des haies… »
 rubrique: Poésie [classes préparatoires et concours]
 annee: 1995
 magazine: n°14 juillet 1996

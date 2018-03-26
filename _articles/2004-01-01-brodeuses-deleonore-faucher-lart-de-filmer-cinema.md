@@ -1,6 +1,6 @@
 ---
 id: 11176
-title: « Brodeuses », d’Éléonore Faucher : l’art de filmer
+title: « Brodeuses », d’Éléonore Faucher – l’art de filmer
 rubrique: Cinéma
 annee: 2004
 magazine: n°3 1er novembre 2004

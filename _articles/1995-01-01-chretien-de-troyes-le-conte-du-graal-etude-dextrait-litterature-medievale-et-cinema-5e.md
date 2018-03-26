@@ -1,6 +1,6 @@
 ---
 id: 2172
-title: Chrétien de Troyes : « Le Conte du Graal ». Étude d’extrait 
+title: Chrétien de Troyes – « Le Conte du Graal ». Étude d’extrait 
 rubrique: Littérature médiévale et cinéma [5e]
 annee: 1995
 magazine: n°8 1er mars 1996

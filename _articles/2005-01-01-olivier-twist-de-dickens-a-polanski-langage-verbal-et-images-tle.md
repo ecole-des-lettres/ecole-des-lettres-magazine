@@ -1,6 +1,6 @@
 ---
 id: 11303
-title: « Olivier Twist » : de Dickens à Polanski
+title: « Olivier Twist » – de Dickens à Polanski
 rubrique: Langage verbal et images [Tle]
 annee: 2005
 magazine: n°3 1er octobre 2005

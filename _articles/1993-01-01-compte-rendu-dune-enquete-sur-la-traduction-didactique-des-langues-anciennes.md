@@ -11,7 +11,7 @@ description:
   – la liste des manuels cités
   – le travail de préparation des élèves
 article_pdf: 1163.pdf
-magazine_special: Langues anciennes : didactique
+magazine_special: Langues anciennes – didactique
 revue: L’école des lettres des lycées
 auteurs:
 - Claire Muckensturm-Poulle

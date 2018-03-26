@@ -6,7 +6,7 @@ annee: 2002
 magazine: n°5 15 octobre 2002
 pages: 7
 description: 
-  Présentation de trois ouvrages de littérature jeunesse permettant de travailler l’expression orale :
+  Présentation de trois ouvrages de littérature jeunesse permettant de travailler l’expression orale – 
   – « Le Roi du jazz », d’Alain Gerber
   – « Ali Zaoua, prince de la rue », de Nathalie Saugeon
   – « C’est la vie, Lili », de Valérie Dayre

@@ -1,6 +1,6 @@
 ---
 id: 4026
-title: Victor Hugo : « J’aime l’araignée et j’aime l’ortie » (« Les Contemplations »)
+title: Victor Hugo – « J’aime l’araignée et j’aime l’ortie » (« Les Contemplations »)
 rubrique: Poésie [4e]
 annee: 2000
 magazine: n°5 15 octobre 2000

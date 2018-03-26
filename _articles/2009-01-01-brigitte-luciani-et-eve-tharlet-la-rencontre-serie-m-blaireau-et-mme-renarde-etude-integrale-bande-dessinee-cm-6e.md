@@ -1,6 +1,6 @@
 ---
 id: 11970
-title: Brigitte Luciani et Ève Tharlet : « La Rencontre » (série « M. Blaireau et
+title: Brigitte Luciani et Ève Tharlet – « La Rencontre » (série « M. Blaireau et
   Mme Renarde »). Étude intégrale
 rubrique: Bande dessinée [CM-6e]
 annee: 2009

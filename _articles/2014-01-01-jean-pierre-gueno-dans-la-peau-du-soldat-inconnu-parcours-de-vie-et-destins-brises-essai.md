@@ -13,7 +13,7 @@ description: Dans l’abondante bibliographie personnelle de Jean-Pierre Guéno 
   écrit avec ferveur et élégance, et répondant à un titre qui mérite d’être pris au
   sérieux, « Dans la peau du Soldat inconnu ». L’approche est pertinente car, comme
   nous le rappelle l’auteur, un tiers des tués de 14-18, soit cinq cent mille hommes,
-  n’ont jamais été formellement identifiés. De là ce constat : « Le Soldat inconnu
+  n’ont jamais été formellement identifiés. De là ce constat – « Le Soldat inconnu
   est une sorte d’aboutissement, de chimère, un être composite victime de l’un des
   plus grands cataclysmes de l’Histoire »...
 article_pdf: 12728.pdf

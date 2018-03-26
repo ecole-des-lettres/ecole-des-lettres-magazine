@@ -1,6 +1,6 @@
 ---
 id: 12030
-title: Marie Desplechin : « Satin grenadine ». Lecture cursive
+title: Marie Desplechin – « Satin grenadine ». Lecture cursive
 rubrique: Littérature de jeunesse et roman historique [4e-3e]
 annee: 2009
 magazine: n°8 2009-2010

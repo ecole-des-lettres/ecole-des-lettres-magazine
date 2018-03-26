@@ -1,11 +1,11 @@
 ---
 id: 12069
-title: Des contes... au musée : parcours d’écriture 
+title: Des contes... au musée – parcours d’écriture 
 rubrique: Histoire des arts [6e]
 annee: 2010
 magazine: n°4-5 2010-2011
 pages: 4
-description: L’écriture d’un conte est un classique de la classe de sixième : il
+description: L’écriture d’un conte est un classique de la classe de sixième – il
   s’agit ici de proposer aux élèves une entrée qui renouvelle l’exercice. L’objectif
   de ce projet, qui s’appuie sur les tableaux de Camille Corot exposés au Louvre (consultables
   sur la base Atlas), est d’associer l’écriture créative, l’histoire des arts et le

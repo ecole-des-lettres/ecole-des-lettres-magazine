@@ -9,7 +9,7 @@ description: Fixer, par la photographie, une scène de lecture ne pose aucun pro
   particulier. Mais le photographe a-t-il le pouvoir de détecter le génie du lecteur
   ? 
 article_pdf: 2788.pdf
-magazine_special: Lecture : le génie du lecteur, colloque de Cerisy
+magazine_special: Lecture – le génie du lecteur, colloque de Cerisy
 revue: L’école des lettres des lycées
 auteurs:
 - Maurice Wegnez

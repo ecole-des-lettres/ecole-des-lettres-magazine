@@ -1,6 +1,6 @@
 ---
 id: 3360
-title: Émile Zola : le souffle de « J’accuse… ! », cent ans après 
+title: Émile Zola – le souffle de « J’accuse… ! », cent ans après 
 rubrique: L’argumentation [2de]
 annee: 1998
 magazine: n°8 15 décembre 1998

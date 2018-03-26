@@ -9,7 +9,7 @@ description:
   Composition française (résumé-discussion) à partir d’un texte de Gérard Spitéri donné au baccalauréat en 1982…
   1. Résumé (paragraphe par paragraphe)
   2. Explications
-  3. Discussion : la chanson est-elle, comme on le dit souvent, un art mineur ?
+  3. Discussion – la chanson est-elle, comme on le dit souvent, un art mineur ?
   – un « art mineur »… dans une hiérarchie traditionnelle des genres
   – un point de vue réducteur et simplificateur
   – la vraie valeur de la chanson

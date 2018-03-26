@@ -1,6 +1,6 @@
 ---
 id: 2101
-title: Chrétien de Troyes : « Le Conte du Graal ». Lecture méthodique : les trois
+title: Chrétien de Troyes – « Le Conte du Graal ». Lecture méthodique – les trois
   gouttes de sang sur la neige 
 rubrique: Grands modèles littéraires [Tle]
 annee: 1995
@@ -14,7 +14,7 @@ description:
   – la lecture psychanalytique
   – la lecture comparatiste
 article_pdf: 2101.pdf
-magazine_special: Chrétien de Troyes : Le Conte du Graal
+magazine_special: Chrétien de Troyes – Le Conte du Graal
 revue: L’école des lettres des lycées
 auteurs:
 - Didier Verney

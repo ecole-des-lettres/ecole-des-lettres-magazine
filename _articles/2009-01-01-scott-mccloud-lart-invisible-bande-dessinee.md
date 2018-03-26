@@ -1,6 +1,6 @@
 ---
 id: 12003
-title: Scott McCloud : « L’Art invisible »
+title: Scott McCloud – « L’Art invisible »
 rubrique: Bande dessinée
 annee: 2009
 magazine: n°7 2009-2010

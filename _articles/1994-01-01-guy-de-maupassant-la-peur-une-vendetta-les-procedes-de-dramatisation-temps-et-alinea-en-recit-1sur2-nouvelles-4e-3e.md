@@ -1,14 +1,14 @@
 ---
 id: 1754
-title: Guy de Maupassant : « La Peur », « Une vendetta ». Les procédés de dramatisation
-  : temps et alinéa en récit (1/2)
+title: Guy de Maupassant – « La Peur », « Une vendetta ». Les procédés de dramatisation
+  – temps et alinéa en récit (1/2)
 rubrique: Nouvelles [4e-3e]
 annee: 1994
 magazine: n°6 1er janvier 1995
 pages: 15
 description: 
   Cet article propose une étude des procédés de dramatisation à partir de l’analyse des temps, de l’alternance des premier plan et arrière-plan narratifs et des alinéas dans six textes…
-  Dans ce numéro :
+  Dans ce numéro – 
   1. Maupassant, « La Peur »
   – passé simple et imparfait
   – reconstitution

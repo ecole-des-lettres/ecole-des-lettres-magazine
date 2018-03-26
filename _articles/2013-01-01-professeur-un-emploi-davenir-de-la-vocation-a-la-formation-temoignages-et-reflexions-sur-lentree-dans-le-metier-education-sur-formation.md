@@ -1,6 +1,6 @@
 ---
 id: 12258
-title: Professeur : un emploi d’avenir ? De la vocation à la formation, témoignages
+title: Professeur – un emploi d’avenir ? De la vocation à la formation, témoignages
   et réflexions sur l’entrée dans le métier
 rubrique: Éducation / Formation
 annee: 2013

@@ -1,6 +1,6 @@
 ---
 id: 1595
-title: Longus : « Daphnis et Chloé »
+title: Longus – « Daphnis et Chloé »
 rubrique: Grec [1re]
 annee: 1994
 magazine: n°13-14 30 juin 1995
@@ -10,7 +10,7 @@ description:
   1. Présentation
   2. Pistes de lecture
   3. Technique de la lecture suivie
-  4. Un exemple d’étude d’extrait : « Deux riches enfants abandonnés sont protégés par les Nymphes »
+  4. Un exemple d’étude d’extrait – « Deux riches enfants abandonnés sont protégés par les Nymphes »
 article_pdf: 1595.pdf
 revue: L’école des lettres des lycées
 auteurs:

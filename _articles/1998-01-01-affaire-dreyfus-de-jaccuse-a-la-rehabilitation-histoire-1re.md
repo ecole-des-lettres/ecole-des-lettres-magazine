@@ -1,6 +1,6 @@
 ---
 id: 3354
-title: Affaire Dreyfus : de « J’accuse… ! » à la réhabilitation
+title: Affaire Dreyfus – de « J’accuse… ! » à la réhabilitation
 rubrique: Histoire [1re]
 annee: 1998
 magazine: n°8 15 décembre 1998

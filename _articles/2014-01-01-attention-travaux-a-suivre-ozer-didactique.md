@@ -1,6 +1,6 @@
 ---
 id: 12706
-title: Attention ! Travaux à suivre : OZER
+title: Attention ! Travaux à suivre – OZER
 rubrique: Didactique
 annee: 2014
 magazine: n°1

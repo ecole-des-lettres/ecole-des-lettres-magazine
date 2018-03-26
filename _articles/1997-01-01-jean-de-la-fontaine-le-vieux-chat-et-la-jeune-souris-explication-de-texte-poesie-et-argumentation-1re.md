@@ -1,6 +1,6 @@
 ---
 id: 2959
-title: Jean de La Fontaine : « Le Vieux Chat et la Jeune Souris ». Explication de
+title: Jean de La Fontaine – « Le Vieux Chat et la Jeune Souris ». Explication de
   texte 
 rubrique: Poésie et argumentation [1re]
 annee: 1997

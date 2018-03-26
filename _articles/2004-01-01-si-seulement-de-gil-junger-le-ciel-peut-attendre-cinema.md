@@ -1,6 +1,6 @@
 ---
 id: 11191
-title: « Si seulement », de Gil Junger : le ciel peut attendre
+title: « Si seulement », de Gil Junger – le ciel peut attendre
 rubrique: Cinéma
 annee: 2004
 magazine: n°4 décembre 2004

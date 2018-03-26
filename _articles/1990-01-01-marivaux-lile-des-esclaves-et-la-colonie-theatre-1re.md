@@ -1,6 +1,6 @@
 ---
 id: 284
-title: Marivaux : « L’Île des esclaves » et « La Colonie »
+title: Marivaux – « L’Île des esclaves » et « La Colonie »
 rubrique: Théâtre [1re]
 annee: 1990
 magazine: n°3 15 octobre 1990

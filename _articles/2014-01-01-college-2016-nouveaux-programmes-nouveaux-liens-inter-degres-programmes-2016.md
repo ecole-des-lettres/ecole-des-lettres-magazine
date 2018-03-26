@@ -1,6 +1,6 @@
 ---
 id: 12764
-title: Collège 2016 : Nouveaux programmes, nouveaux liens inter-degrés ?
+title: Collège 2016 – Nouveaux programmes, nouveaux liens inter-degrés ?
 rubrique: Programmes 2016
 annee: 2014
 magazine: juin 2015

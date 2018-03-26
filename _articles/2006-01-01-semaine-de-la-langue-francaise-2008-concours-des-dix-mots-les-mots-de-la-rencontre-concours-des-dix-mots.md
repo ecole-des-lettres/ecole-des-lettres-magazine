@@ -1,6 +1,6 @@
 ---
 id: 11772
-title: Semaine de la langue française 2008. Concours des dix mots : Les mots de la
+title: Semaine de la langue française 2008. Concours des dix mots – Les mots de la
   rencontre
 rubrique: Concours des dix mots
 annee: 2006

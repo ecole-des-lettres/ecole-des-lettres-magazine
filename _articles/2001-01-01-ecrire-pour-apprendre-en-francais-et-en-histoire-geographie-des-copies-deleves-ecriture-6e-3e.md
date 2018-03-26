@@ -1,6 +1,6 @@
 ---
 id: 4492
-title: Écrire pour apprendre en français et en histoire-géographie : des copies d’élèves
+title: Écrire pour apprendre en français et en histoire-géographie – des copies d’élèves
 rubrique: Écriture [6e-3e] 
 annee: 2001
 magazine: n°6 1er novembre 2001

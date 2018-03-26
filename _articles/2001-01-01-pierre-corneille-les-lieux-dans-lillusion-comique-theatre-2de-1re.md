@@ -1,6 +1,6 @@
 ---
 id: 4578
-title: Pierre Corneille : les lieux dans « L’Illusion comique »
+title: Pierre Corneille – les lieux dans « L’Illusion comique »
 rubrique: Théâtre [2de-1re]
 annee: 2001
 magazine: n°9 1er février 2002
@@ -17,7 +17,7 @@ description: Avec le renouveau des études baroques, à la suite de Jean Rousset
   du phénomène théâtral – que dans l’intention d’indiquer les tensions marquant l’effort
   de Corneille pour créer du  nouveau. 
 article_pdf: 4578.pdf
-magazine_special: Corneille : Le Cid et L’Illusion comique
+magazine_special: Corneille – Le Cid et L’Illusion comique
 revue: L’école des lettres des lycées
 auteurs:
 - Patricia Gauthier

@@ -1,6 +1,6 @@
 ---
 id: 1224
-title: Susie Morgenstern : pourquoi j’écris pour les hippopotames ?
+title: Susie Morgenstern – pourquoi j’écris pour les hippopotames ?
 rubrique: Littérature de jeunesse
 annee: 1993
 magazine: n°12-13 1er juin 1994

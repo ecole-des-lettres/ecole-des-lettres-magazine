@@ -6,8 +6,8 @@ annee: 1998
 magazine: n°1 juillet 1998
 pages: 16
 description: 1. La logique d’organisation des « Instructions officielles »\n– des
-  finalités aux objectifs\n– de nouvelles notions : le discours et les pratiques discursives\n–
-  les nouveaux programmes : entre prescription et souplesse\n2. Présentation synthétique
+  finalités aux objectifs\n– de nouvelles notions – le discours et les pratiques discursives\n–
+  les nouveaux programmes – entre prescription et souplesse\n2. Présentation synthétique
   des programmes (notamment sous la forme d’un tableau)\n– les progressions\n– les
   pratiques discursives\n– la place de la langue\n3. Quelles séquences projeter pour
   la quatrième ? \n– dix propositions de séquences possibles\n4. Variations et combinaisons

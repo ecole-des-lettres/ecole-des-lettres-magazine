@@ -1,6 +1,6 @@
 ---
 id: 5364
-title: Benjamin Constant : « Adolphe » selon Benoît Jacquot
+title: Benjamin Constant – « Adolphe » selon Benoît Jacquot
 rubrique: Réécritures [1re]
 annee: 2003
 magazine: n°12-14 août 2004

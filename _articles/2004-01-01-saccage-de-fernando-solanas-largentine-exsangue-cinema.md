@@ -1,6 +1,6 @@
 ---
 id: 11158
-title: « Saccage », de Fernando Solanas  : l’Argentine exsangue
+title: « Saccage », de Fernando Solanas  – l’Argentine exsangue
 rubrique: Cinéma
 annee: 2004
 magazine: n°2 1er octobre 2004

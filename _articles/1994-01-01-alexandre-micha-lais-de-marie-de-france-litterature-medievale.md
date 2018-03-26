@@ -1,6 +1,6 @@
 ---
 id: 1638
-title: Alexandre Micha : « Lais de Marie de France »
+title: Alexandre Micha – « Lais de Marie de France »
 rubrique: Littérature médiévale
 annee: 1994
 magazine: n°2 1er octobre 1994

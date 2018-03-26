@@ -1,6 +1,6 @@
 ---
 id: 11724
-title: Ellen Weiss : « Le Pôle-Express, un voyage au pays du Père Noël ». Lecture
+title: Ellen Weiss – « Le Pôle-Express, un voyage au pays du Père Noël ». Lecture
   cursive autour des contes
 rubrique: Littérature de jeunesse  [6e]
 annee: 2006

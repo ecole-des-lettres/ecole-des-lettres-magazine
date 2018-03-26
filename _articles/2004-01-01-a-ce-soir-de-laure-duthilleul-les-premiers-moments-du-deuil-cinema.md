@@ -1,6 +1,6 @@
 ---
 id: 11208
-title: « À ce soir », de Laure Duthilleul : les premiers moments du deuil
+title: « À ce soir », de Laure Duthilleul – les premiers moments du deuil
 rubrique: Cinéma
 annee: 2004
 magazine: n°5 janvier 2005

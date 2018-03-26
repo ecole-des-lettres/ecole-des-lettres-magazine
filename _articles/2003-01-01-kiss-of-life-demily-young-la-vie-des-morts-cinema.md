@@ -1,6 +1,6 @@
 ---
 id: 5255
-title: « Kiss of Life », d’Emily Young : la vie des morts
+title: « Kiss of Life », d’Emily Young – la vie des morts
 rubrique: Cinéma
 annee: 2003
 magazine: n°6 1er décembre 2003

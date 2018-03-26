@@ -6,7 +6,7 @@ annee: 1991
 magazine: n°8 15 février 1992
 pages: 3
 description: 
-  Onomastique :
+  Onomastique – 
   – Le roi Marc
   – Tristan
   – Iseut

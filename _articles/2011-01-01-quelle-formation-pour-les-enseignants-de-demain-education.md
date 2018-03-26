@@ -5,7 +5,7 @@ rubrique: Éducation
 annee: 2011
 magazine: avril 2011
 pages: 2
-description: Créés voici vingt ans, les IUFM ont oscillé entre deux modèles : l’école
+description: Créés voici vingt ans, les IUFM ont oscillé entre deux modèles – l’école
   professionnelle et l’université. Ils sont aujourd’hui intégrés aux universités dont
   l’autonomie va se renforcer. On peut ainsi craindre que les transformations en cours
   n’« aboutissent à accentuer l’écart entre une offre de formation hétérogène et dérégulée,

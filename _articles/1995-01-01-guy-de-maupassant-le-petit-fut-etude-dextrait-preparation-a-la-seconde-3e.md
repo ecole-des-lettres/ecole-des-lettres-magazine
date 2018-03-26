@@ -1,6 +1,6 @@
 ---
 id: 2080
-title: Guy de Maupassant : « Le Petit Fût ». Étude d’extrait 
+title: Guy de Maupassant – « Le Petit Fût ». Étude d’extrait 
 rubrique: Préparation à la seconde [3e]
 annee: 1995
 magazine: n°5 1er décembre 1995

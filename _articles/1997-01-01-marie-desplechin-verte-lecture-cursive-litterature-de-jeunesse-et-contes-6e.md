@@ -1,6 +1,6 @@
 ---
 id: 2895
-title: Marie Desplechin : « Verte ». Lecture cursive
+title: Marie Desplechin – « Verte ». Lecture cursive
 rubrique: Littérature de jeunesse et contes [6e]
 annee: 1997
 magazine: n°5-6 1er-15 novembre 1997

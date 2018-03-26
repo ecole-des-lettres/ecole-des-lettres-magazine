@@ -1,6 +1,6 @@
 ---
 id: 12301
-title: Jean-Pierre Tusseau : « L’Iroquois blanc »
+title: Jean-Pierre Tusseau – « L’Iroquois blanc »
 rubrique: Histoire / Littérature de jeunesse
 annee: 2013
 magazine: avril 2013

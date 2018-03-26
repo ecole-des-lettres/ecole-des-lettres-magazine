@@ -8,9 +8,9 @@ pages: 20
 description: 
   Groupement de textes autour du personnage de Marc Antoine…
   2. Explication de deux extraits des « Philippiques » de Cicéron
-  – premier extrait : Antoine dilapide les biens de Pompée (traduction et éléments de commentaire)
-  – deuxième extrait : les Lupercales (traduction et éléments de commentaire)
-  3. Tite-Live : mort d’un proscrit célèbre, Cicéron
+  – premier extrait – Antoine dilapide les biens de Pompée (traduction et éléments de commentaire)
+  – deuxième extrait – les Lupercales (traduction et éléments de commentaire)
+  3. Tite-Live – mort d’un proscrit célèbre, Cicéron
   (traduction et éléments de commentaire)
 article_pdf: 1532.pdf
 revue: L’école des lettres des lycées
@@ -26,7 +26,7 @@ oeuvres:
 ecrivains:
 - Cicéron
 programmes:
-- latin - le monde romain : mare nostrum
+- latin - le monde romain – mare nostrum
 siecles:
 - Antiquité
 ---

@@ -1,6 +1,6 @@
 ---
 id: 3095
-title: Philippe Dufour : « Le Réalisme »
+title: Philippe Dufour – « Le Réalisme »
 rubrique: Histoire littéraire
 annee: 1998
 magazine: n°12 1er avril 1999

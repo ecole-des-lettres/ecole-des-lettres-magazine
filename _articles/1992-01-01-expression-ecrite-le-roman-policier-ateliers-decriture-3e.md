@@ -1,12 +1,12 @@
 ---
 id: 1081
-title: Expression écrite : le roman policier 
+title: Expression écrite – le roman policier 
 rubrique: Ateliers décriture [3e]
 annee: 1992
 magazine: n°9 1er mars 1993
 pages: 6
 description: 
-  De l’écriture à la publication d’un roman policier avec une classe de troisième : compte rendu d’une expérience pédagogique menée avec l’écrivain Jean Colombier…
+  De l’écriture à la publication d’un roman policier avec une classe de troisième – compte rendu d’une expérience pédagogique menée avec l’écrivain Jean Colombier…
   1. Les préliminaires
   2. L’écriture
   – consignes d’écriture

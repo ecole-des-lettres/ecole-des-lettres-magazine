@@ -7,7 +7,7 @@ annee: 1997
 magazine: 1997
 pages: 26
 description: 
-  Élaborer un projet didactique pertinent pour une classe de première à partir de cinq extraits :
+  Élaborer un projet didactique pertinent pour une classe de première à partir de cinq extraits – 
   – un extrait du « Tartuffe », de Molière
   – un extrait des « Caractères », de La Bruyère
   – un extrait du « Barbier de Séville », de Beaumarchais

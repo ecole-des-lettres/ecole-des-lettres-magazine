@@ -1,6 +1,6 @@
 ---
 id: 186
-title: Plaute : géographie d’« Amphitryon » 
+title: Plaute – géographie d’« Amphitryon » 
 rubrique: Latin [5e-4e]
 annee: 1990
 magazine: n°11 1er mai 1991

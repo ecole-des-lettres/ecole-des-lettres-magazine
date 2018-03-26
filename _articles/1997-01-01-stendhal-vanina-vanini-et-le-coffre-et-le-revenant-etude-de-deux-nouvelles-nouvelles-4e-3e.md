@@ -1,6 +1,6 @@
 ---
 id: 2596
-title: Stendhal : « Vanina Vanini » et « Le Coffre et le Revenant ». Étude de deux
+title: Stendhal – « Vanina Vanini » et « Le Coffre et le Revenant ». Étude de deux
   nouvelles
 rubrique: Nouvelles [4e-3e]
 annee: 1997

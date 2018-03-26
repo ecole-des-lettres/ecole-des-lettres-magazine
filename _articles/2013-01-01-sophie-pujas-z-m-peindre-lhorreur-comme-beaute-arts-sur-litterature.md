@@ -1,6 +1,6 @@
 ---
 id: 12304
-title: Sophie Pujas : « Z. M. ». Peindre l’horreur comme beauté
+title: Sophie Pujas – « Z. M. ». Peindre l’horreur comme beauté
 rubrique: Arts / Littérature
 annee: 2013
 magazine: avril 2013

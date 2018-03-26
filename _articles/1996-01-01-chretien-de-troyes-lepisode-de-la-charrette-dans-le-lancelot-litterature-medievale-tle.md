@@ -1,12 +1,12 @@
 ---
 id: 2244
-title: Chrétien de Troyes : l’épisode de la charrette dans le « Lancelot »
+title: Chrétien de Troyes – l’épisode de la charrette dans le « Lancelot »
 rubrique: Littérature médiévale [Tle]
 annee: 1996
 magazine: n°10 1er mars 1997
 pages: 9
 description: Un jour d’Ascension, au château de Camaalot, un mystérieux étranger
-  (nommé Méléagant au vers 637) lance le défi suivant au roi Arthur : que son épouse
+  (nommé Méléagant au vers 637) lance le défi suivant au roi Arthur – que son épouse
   soit confiée à un chevalier assez hardi pour l’affronter ; s’il est vaincu, il libérera
   tous les prisonniers qu’il retient dans son pays ; en revanche, s’il est vainqueur,
   il emmènera la reine avec lui. Grâce à un « don contraignant », l’outrecuidant sénéchal
@@ -18,7 +18,7 @@ description: Un jour d’Ascension, au château de Camaalot, un mystérieux étr
   masculins, obligés de choisir entre des valeurs contradictoires. Emblématique du
   titre du roman, elle révèle les comportements humains et la toute-puissance de l’amour.
 article_pdf: 2244.pdf
-magazine_special: Chrétien de Troyes : Lancelot ou le Chevalier de la charrette
+magazine_special: Chrétien de Troyes – Lancelot ou le Chevalier de la charrette
 revue: L’école des lettres des lycées
 auteurs:
 - Claude Lachet

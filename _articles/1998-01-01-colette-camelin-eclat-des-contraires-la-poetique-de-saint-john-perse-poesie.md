@@ -1,6 +1,6 @@
 ---
 id: 3076
-title: Colette Camelin : « Éclat des contraires. La poétique de Saint-John Perse »
+title: Colette Camelin – « Éclat des contraires. La poétique de Saint-John Perse »
 rubrique: Poésie
 annee: 1998
 magazine: n°11 1er mars 1999

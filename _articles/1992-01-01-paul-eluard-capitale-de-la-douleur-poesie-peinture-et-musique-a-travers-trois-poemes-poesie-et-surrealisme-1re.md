@@ -1,6 +1,6 @@
 ---
 id: 967
-title: Paul Eluard : « Capitale de la douleur ». Poésie, peinture et musique à travers
+title: Paul Eluard – « Capitale de la douleur ». Poésie, peinture et musique à travers
   trois poèmes
 rubrique: Poésie et surréalisme [1re]
 annee: 1992

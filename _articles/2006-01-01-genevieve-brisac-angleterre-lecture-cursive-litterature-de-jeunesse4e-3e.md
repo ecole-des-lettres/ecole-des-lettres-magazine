@@ -1,6 +1,6 @@
 ---
 id: 11646
-title: Geneviève Brisac : « Angleterre ». Lecture cursive
+title: Geneviève Brisac – « Angleterre ». Lecture cursive
 rubrique: Littérature de jeunesse[4e-3e]
 annee: 2006
 magazine: 

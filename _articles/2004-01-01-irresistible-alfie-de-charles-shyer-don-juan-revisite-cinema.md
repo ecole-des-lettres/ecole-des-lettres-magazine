@@ -1,6 +1,6 @@
 ---
 id: 11201
-title: « Irrésistible Alfie », de Charles Shyer : don Juan revisité
+title: « Irrésistible Alfie », de Charles Shyer – don Juan revisité
 rubrique: Cinéma
 annee: 2004
 magazine: n°5 janvier 2005

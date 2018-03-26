@@ -1,6 +1,6 @@
 ---
 id: 12452
-title: Annie Ernaux : « Écrire la vie »
+title: Annie Ernaux – « Écrire la vie »
 rubrique: Roman contemporain
 annee: 2011
 magazine: novembre 2011

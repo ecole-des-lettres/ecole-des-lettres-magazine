@@ -1,6 +1,6 @@
 ---
 id: 12534
-title: Lettres et carnets du front : Franz Marc, Anatole Castex, André Mare
+title: Lettres et carnets du front – Franz Marc, Anatole Castex, André Mare
 rubrique: Histoire
 annee: 1996
 magazine: n°13 1996-1997
@@ -8,7 +8,7 @@ pages: 10
 description: Franz Marc, artiste allemand engagé volontaire pendant la Première Guerre
   mondiale, reste encore relativement peu connu du public français. C’est pourtant
   un peintre majeur de l’expressionnisme allemand… Un pendant français à la correspondance
-  de guerre de Franz Marc : les lettres du capitaine Anatole Castex, mort au champ
+  de guerre de Franz Marc – les lettres du capitaine Anatole Castex, mort au champ
   d’honneur le 6 septembre 1916, quelques mois après Franz Marc, sur le même front,
   celui de Verdun. Son fils, Henri Castex, qui a déjà publié de nombreux ouvrages
   sur la Grande Guerre, propose en ouverture une trentaine de pages sur ce qu’il nomme

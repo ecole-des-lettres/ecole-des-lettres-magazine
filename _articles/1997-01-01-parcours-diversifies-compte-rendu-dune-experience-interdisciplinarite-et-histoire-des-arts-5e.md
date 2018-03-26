@@ -1,6 +1,6 @@
 ---
 id: 2931
-title: Parcours diversifiés : compte rendu d’une expérience 
+title: Parcours diversifiés – compte rendu d’une expérience 
 rubrique: Interdisciplinarité et histoire des arts [5e]
 annee: 1997
 magazine: n°7 1er décembre 1997

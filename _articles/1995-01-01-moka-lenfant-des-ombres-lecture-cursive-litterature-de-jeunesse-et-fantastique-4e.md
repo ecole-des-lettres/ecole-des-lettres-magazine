@@ -1,6 +1,6 @@
 ---
 id: 1911
-title: Moka : « L’Enfant des ombres ». Lecture cursive
+title: Moka – « L’Enfant des ombres ». Lecture cursive
 rubrique: Littérature de jeunesse et fantastique [4e]
 annee: 1995
 magazine: n°11 15 mai 1996

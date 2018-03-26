@@ -1,6 +1,6 @@
 ---
 id: 3144
-title: Les minorités aux États-Unis : échec du melting-pot ou avenir du « salad bowl » ? 
+title: Les minorités aux États-Unis – échec du melting-pot ou avenir du « salad bowl » ? 
 rubrique: Géographie [4e]
 annee: 1998
 magazine: n°14 15 mai 1999

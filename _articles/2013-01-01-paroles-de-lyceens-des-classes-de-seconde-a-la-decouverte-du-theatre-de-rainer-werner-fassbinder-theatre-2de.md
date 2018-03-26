@@ -1,6 +1,6 @@
 ---
 id: 12311
-title: Paroles de lycéens : des classes de seconde à la découverte du théâtre de
+title: Paroles de lycéens – des classes de seconde à la découverte du théâtre de
   Rainer Werner Fassbinder
 rubrique: Théâtre [2de]
 annee: 2013

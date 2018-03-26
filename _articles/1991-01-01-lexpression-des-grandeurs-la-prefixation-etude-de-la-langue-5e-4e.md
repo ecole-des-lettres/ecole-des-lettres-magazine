@@ -1,6 +1,6 @@
 ---
 id: 557
-title: L’expression des grandeurs : la préfixation 
+title: L’expression des grandeurs – la préfixation 
 rubrique: Étude de la langue [5e-4e]
 annee: 1991
 magazine: n°14 15 juin 1992

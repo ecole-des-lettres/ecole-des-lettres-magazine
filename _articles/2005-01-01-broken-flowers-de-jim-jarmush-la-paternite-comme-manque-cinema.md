@@ -1,6 +1,6 @@
 ---
 id: 11285
-title: « Broken Flowers », de Jim Jarmush : la paternité comme manque
+title: « Broken Flowers », de Jim Jarmush – la paternité comme manque
 rubrique: Cinéma
 annee: 2005
 magazine: n°1 août-septembre 2005

@@ -1,11 +1,11 @@
 ---
 id: 5276
-title: Chrétien de Troyes : « Le Conte du Graal »
+title: Chrétien de Troyes – « Le Conte du Graal »
 rubrique: Grands modèles littéraires [Tle]
 annee: 2003
 magazine: n°8 15 février 2004
 pages: 20
-description: Lorsqu’il dépeint l’amour, Chrétien de Troyes subit une triple influence :
+description: Lorsqu’il dépeint l’amour, Chrétien de Troyes subit une triple influence – 
   celle de la légende des amants de Cornouailles, celle de l’idéologie courtoise et
   celle de l’« Historia Regum Britanniae », de Geoffroy de Monmouth, qui crée une
   union étroite entre l’amour et la chevalerie. Mais l’amour est-il le sujet majeur

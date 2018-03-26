@@ -1,6 +1,6 @@
 ---
 id: 11517
-title: Un exercice poétique : la boîte à trésors
+title: Un exercice poétique – la boîte à trésors
 rubrique: Poésie et expression écrite [5e]
 annee: 2006
 magazine: n°8 juin 2007

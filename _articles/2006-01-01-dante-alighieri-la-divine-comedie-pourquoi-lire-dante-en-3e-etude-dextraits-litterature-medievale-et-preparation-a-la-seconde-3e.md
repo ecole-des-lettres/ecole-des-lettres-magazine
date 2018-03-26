@@ -1,6 +1,6 @@
 ---
 id: 11797
-title: Dante Alighieri : « La Divine Comédie ». Pourquoi lire Dante en 3e ? Étude
+title: Dante Alighieri – « La Divine Comédie ». Pourquoi lire Dante en 3e ? Étude
   d’extraits
 rubrique: Littérature médiévale  et préparation à la seconde [3e]
 annee: 2006
@@ -20,7 +20,7 @@ description: Il n’est pas indispensable de connaître, pour apprécier le text
   une façon de donner envie de s’approprier le texte et d’en dépasser les difficultés.
   Cet article se limite à trois chants empruntés à « L’Enfer », la première partie
   du livre, la plus célèbre, et aussi la plus représentative de l’œuvre. Pour ces
-  trois chants, l’article suggère une démarche en trois temps : une lecture personnelle
+  trois chants, l’article suggère une démarche en trois temps – une lecture personnelle
   par les élèves ; un test de lecture et de compréhension sous forme de « quizz » ;
   une correction détaillée du questionnaire à choix multiples, à partir duquel sera
   développé un début de commentaire. On peut bien entendu imaginer de reproduire l’exercice

@@ -1,6 +1,6 @@
 ---
 id: 12196
-title: Le proverbe chez Musset : l’aboutissement d’un genre théâtral
+title: Le proverbe chez Musset – l’aboutissement d’un genre théâtral
 rubrique: Théâtre [agrégation]
 annee: 2013
 magazine: 2013

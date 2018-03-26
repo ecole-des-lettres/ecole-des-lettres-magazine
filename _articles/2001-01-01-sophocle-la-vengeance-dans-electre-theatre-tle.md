@@ -1,6 +1,6 @@
 ---
 id: 4354
-title: Sophocle : la vengeance dans « Électre » 
+title: Sophocle – la vengeance dans « Électre » 
 rubrique: Théâtre [Tle]
 annee: 2001
 magazine: n°2 août 2001

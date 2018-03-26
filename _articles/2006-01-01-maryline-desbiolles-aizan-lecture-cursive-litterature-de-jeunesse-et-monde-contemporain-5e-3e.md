@@ -1,6 +1,6 @@
 ---
 id: 11695
-title: Maryline Desbiolles : « Aïzan ». Lecture cursive
+title: Maryline Desbiolles – « Aïzan ». Lecture cursive
 rubrique: Littérature de jeunesse et monde contemporain [5e-3e]
 annee: 2006
 magazine: 2007

@@ -1,6 +1,6 @@
 ---
 id: 3363
-title: Ahmed Madani : propos sur le théâtre autour de « Il faut tuer Sammy »
+title: Ahmed Madani – propos sur le théâtre autour de « Il faut tuer Sammy »
 rubrique: Théâtre jeune public [3e]
 annee: 1998
 magazine: n°8 15 décembre 1998

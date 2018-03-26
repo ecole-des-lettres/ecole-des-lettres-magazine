@@ -1,6 +1,6 @@
 ---
 id: 1275
-title: Pline le Jeune : « Lettre » (livre 8, 17) 
+title: Pline le Jeune – « Lettre » (livre 8, 17) 
 rubrique: Latin [5e-4e]
 annee: 1993
 magazine: n°2 1er octobre 1993

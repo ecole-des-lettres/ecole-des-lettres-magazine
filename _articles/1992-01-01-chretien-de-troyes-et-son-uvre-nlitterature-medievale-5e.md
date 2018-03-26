@@ -6,13 +6,13 @@ annee: 1992
 magazine: n°12 15 mai 1993
 pages: 8
 description: 
-  Quelques éléments sur Chrétien de Troyes, ainsi que sur son œuvre :
+  Quelques éléments sur Chrétien de Troyes, ainsi que sur son œuvre – 
   – « Érec et Énide »
   – « Cligès »
   – « Le Chevalier de la Charrette »
   – « Le Conte du Graal » (« Perceval »)
 article_pdf: 845.pdf
-magazine_special: Chrétien de Troyes : Yvain, le Chevalier au Lion
+magazine_special: Chrétien de Troyes – Yvain, le Chevalier au Lion
 revue: L’école des lettres des collèges
 auteurs:
 - Corinne Pierreville

@@ -1,7 +1,7 @@
 ---
 id: 11794
-title: Étude de l’image avec l’album : propositions de lecture et décriture autour
-  du portfolio de Chris Van Allsburg : « Les Mystères de Harris Burdick » 
+title: Étude de l’image avec l’album – propositions de lecture et décriture autour
+  du portfolio de Chris Van Allsburg – « Les Mystères de Harris Burdick » 
 rubrique: Littérature de jeunesse [CM-6e]
 annee: 2006
 magazine: n°7 2007-2008

@@ -14,7 +14,7 @@ description: Point n’est besoin de démontrer l’importance du rythme dans la
   spécifiques du verset senghorien, de présenter quelques notions indispensables sur
   le rythme et sur l’histoire de ses principales conceptions…
 article_pdf: 2726.pdf
-magazine_special: Senghor : Éthiopiques
+magazine_special: Senghor – Éthiopiques
 revue: L’école des lettres des lycées
 auteurs:
 - Anne Hubat-Blanc

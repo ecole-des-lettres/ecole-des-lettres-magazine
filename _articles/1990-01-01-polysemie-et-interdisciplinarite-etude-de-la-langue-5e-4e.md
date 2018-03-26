@@ -6,7 +6,7 @@ annee: 1990
 magazine: n°2 1er octobre 1990
 pages: 6
 description: 
-  Objectif : faire prendre conscience aux élèves que le vocabulaire employé au collège dans les différentes disciplines n’appartient pas à une langue coupée du monde…
+  Objectif – faire prendre conscience aux élèves que le vocabulaire employé au collège dans les différentes disciplines n’appartient pas à une langue coupée du monde…
   1. Le vocabulaire des mathématiques
   2. Le vocabulaire de la grammaire
   3. Élargissement à d’autres matières

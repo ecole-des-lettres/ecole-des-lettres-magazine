@@ -1,6 +1,6 @@
 ---
 id: 2133
-title: Jean Racine : emplois rhétoriques et poétiques du nom propre dans « Britannicus
+title: Jean Racine – emplois rhétoriques et poétiques du nom propre dans « Britannicus
   »
 rubrique: Théâtre [2de-1re]
 annee: 1995
@@ -14,7 +14,7 @@ description:
   4. La figure de l’énallage (acte de nomination)
   5. Poétique du nom propre
 article_pdf: 2133.pdf
-magazine_special: Racine : Britannicus, Bérénice et Mithridate
+magazine_special: Racine – Britannicus, Bérénice et Mithridate
 revue: L’école des lettres des lycées
 auteurs:
 - Agnès Fontvieille

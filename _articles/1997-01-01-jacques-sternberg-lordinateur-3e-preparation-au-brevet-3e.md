@@ -1,6 +1,6 @@
 ---
 id: 2934
-title: Jacques Sternberg : « L’Ordinateur » [3e] 
+title: Jacques Sternberg – « L’Ordinateur » [3e] 
 rubrique: Préparation au brevet [3e]
 annee: 1997
 magazine: n°7 1er décembre 1997

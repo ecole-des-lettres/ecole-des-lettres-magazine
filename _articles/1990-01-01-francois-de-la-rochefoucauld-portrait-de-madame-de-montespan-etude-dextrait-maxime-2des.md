@@ -1,6 +1,6 @@
 ---
 id: 355
-title: François de La Rochefoucauld : « Portrait de Madame de Montespan ». Étude
+title: François de La Rochefoucauld – « Portrait de Madame de Montespan ». Étude
   d’extrait 
 rubrique: Maxime [2de]s
 annee: 1990

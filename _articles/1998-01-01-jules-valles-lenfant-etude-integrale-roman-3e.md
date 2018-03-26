@@ -1,6 +1,6 @@
 ---
 id: 3298
-title: Jules Vallès : « L’Enfant ». Étude intégrale
+title: Jules Vallès – « L’Enfant ». Étude intégrale
 rubrique: Roman [3e]
 annee: 1998
 magazine: 1998

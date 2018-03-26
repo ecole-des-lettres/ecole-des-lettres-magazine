@@ -1,6 +1,6 @@
 ---
 id: 646
-title: Christiane Baroche : des « Liaisons dangereuses » à « L’Hiver de beauté ».
+title: Christiane Baroche – des « Liaisons dangereuses » à « L’Hiver de beauté ».
   Lecture cursive  
 rubrique: Réécritures[1re]
 annee: 1991

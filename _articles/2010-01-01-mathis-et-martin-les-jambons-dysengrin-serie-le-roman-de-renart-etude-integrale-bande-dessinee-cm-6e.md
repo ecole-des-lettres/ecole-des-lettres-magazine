@@ -1,6 +1,6 @@
 ---
 id: 12038
-title: Mathis et Martin : « Les Jambons d’Ysengrin » (série « Le Roman de Renart
+title: Mathis et Martin – « Les Jambons d’Ysengrin » (série « Le Roman de Renart
   »). Étude intégrale 
 rubrique: Bande dessinée [CM-6e]
 annee: 2010

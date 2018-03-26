@@ -1,6 +1,6 @@
 ---
 id: 12466
-title: Éric Reinhardt : « Le Système Victoria »
+title: Éric Reinhardt – « Le Système Victoria »
 rubrique: Roman contemporain
 annee: 2011
 magazine: septembre 2011

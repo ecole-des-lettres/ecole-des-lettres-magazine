@@ -1,6 +1,6 @@
 ---
 id: 12319
-title: Tomi Ungerer : « Maître des Brumes »
+title: Tomi Ungerer – « Maître des Brumes »
 rubrique: Littérature de jeunesse
 annee: 2013
 magazine: mars 2013

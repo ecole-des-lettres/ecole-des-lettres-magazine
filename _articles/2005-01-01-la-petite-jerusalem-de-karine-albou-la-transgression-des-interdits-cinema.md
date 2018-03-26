@@ -1,6 +1,6 @@
 ---
 id: 11334
-title: « La Petite Jérusalem », de Karine Albou : la transgression des interdits
+title: « La Petite Jérusalem », de Karine Albou – la transgression des interdits
 rubrique: Cinéma
 annee: 2005
 magazine: n°6-7 janvier 2006

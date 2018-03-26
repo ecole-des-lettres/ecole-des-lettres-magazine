@@ -1,6 +1,6 @@
 ---
 id: 12475
-title: Arnaud Cathrine : « Nos vies romancées »
+title: Arnaud Cathrine – « Nos vies romancées »
 rubrique: Roman contemporain
 annee: 2011
 magazine: septembre 2011

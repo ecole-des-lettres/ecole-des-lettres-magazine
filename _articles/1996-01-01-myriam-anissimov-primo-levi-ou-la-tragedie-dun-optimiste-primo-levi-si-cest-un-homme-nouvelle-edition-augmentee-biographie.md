@@ -1,6 +1,6 @@
 ---
 id: 2298
-title: Myriam Anissimov : « Primo Levi ou la Tragédie d’un optimiste » ; Primo Levi :
+title: Myriam Anissimov – « Primo Levi ou la Tragédie d’un optimiste » ; Primo Levi – 
   « Si c’est un homme », nouvelle édition augmentée
 rubrique: Biographie
 annee: 1996

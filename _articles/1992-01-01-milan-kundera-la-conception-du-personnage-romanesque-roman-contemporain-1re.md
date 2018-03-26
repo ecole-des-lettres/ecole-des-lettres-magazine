@@ -1,6 +1,6 @@
 ---
 id: 838
-title: Milan Kundera : la conception du personnage romanesque 
+title: Milan Kundera – la conception du personnage romanesque 
 rubrique: Roman contemporain [1re]
 annee: 1992
 magazine: n°12 15 mai 1993

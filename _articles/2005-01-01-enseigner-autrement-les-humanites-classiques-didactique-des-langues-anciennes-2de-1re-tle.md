@@ -12,7 +12,7 @@ description: L’intérêt pour l’Antiquité gréco-romaine n’a jamais été
   cet intérêt pour l’Antiquité. On compte au total 560 000 élèves latinistes sur les
   trois niveaux du collège. Les besoins en professeurs de lettres classiques sont
   réels pour les années à venir. Néanmoins, cette évolution historique est marquée
-  par un paradoxe : l’intérêt intellectuel pour l’Antiquité classique va de pair avec
+  par un paradoxe – l’intérêt intellectuel pour l’Antiquité classique va de pair avec
   une désaffection, dans les lycées, pour des options de langues anciennes jugées
   peu rentables ou difficiles d’accès en raison de multiples freins administratifs…
 article_pdf: 11312.pdf

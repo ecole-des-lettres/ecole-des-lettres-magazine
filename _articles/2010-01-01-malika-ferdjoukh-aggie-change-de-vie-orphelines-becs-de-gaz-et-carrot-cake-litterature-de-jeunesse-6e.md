@@ -1,6 +1,6 @@
 ---
 id: 12094
-title: Malika Ferdjoukh : « Aggie change de vie ». Orphelines, becs de gaz et carrot
+title: Malika Ferdjoukh – « Aggie change de vie ». Orphelines, becs de gaz et carrot
   cake
 rubrique: Littérature de jeunesse [6e]
 annee: 2010

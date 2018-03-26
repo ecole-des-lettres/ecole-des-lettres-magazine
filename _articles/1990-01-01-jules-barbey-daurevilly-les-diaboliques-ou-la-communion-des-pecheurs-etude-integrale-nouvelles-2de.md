@@ -1,6 +1,6 @@
 ---
 id: 399
-title: Jules Barbey d’Aurevilly : « Les Diaboliques » ou la communion des pécheurs.
+title: Jules Barbey d’Aurevilly – « Les Diaboliques » ou la communion des pécheurs.
   Étude intégrale 
 rubrique: Nouvelles [2de]
 annee: 1990
@@ -17,7 +17,7 @@ description:
   – Le catholicisme de Barbey
   Barbey renouvelle la vision chrétienne de la passion, le combat de l’esprit contre la chair.
 article_pdf: 399.pdf
-magazine_special: Barbey d’Aurevilly : Les Diaboliques
+magazine_special: Barbey d’Aurevilly – Les Diaboliques
 revue: L’école des lettres des lycées
 auteurs:
 - Colette Cazenobe

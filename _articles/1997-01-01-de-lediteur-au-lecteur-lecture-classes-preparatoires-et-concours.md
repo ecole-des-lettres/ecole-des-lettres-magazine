@@ -13,7 +13,7 @@ description: De tous les personnages qui composent le pandémonium de l’édite
   un «lecteur moyen» qui ne ressemble à aucun –, soit contraint de l’imaginer presque
   de toutes pièces et souvent à sa propre image.
 article_pdf: 2794.pdf
-magazine_special: Lecture : le génie du lecteur, colloque de Cerisy
+magazine_special: Lecture – le génie du lecteur, colloque de Cerisy
 revue: L’école des lettres des lycées
 auteurs:
 - Hubert Nyssen

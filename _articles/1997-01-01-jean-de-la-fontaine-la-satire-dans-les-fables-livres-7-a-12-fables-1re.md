@@ -1,6 +1,6 @@
 ---
 id: 2624
-title: Jean de La Fontaine : la satire dans les « Fables » (livres 7 à 12)
+title: Jean de La Fontaine – la satire dans les « Fables » (livres 7 à 12)
 rubrique: Fables [1re]
 annee: 1997
 magazine: n°10 15 février 1998

@@ -1,6 +1,6 @@
 ---
 id: 151
-title: Victor Hugo : propositions pour une illustration musicale
+title: Victor Hugo – propositions pour une illustration musicale
 rubrique: Poésie et musique [2de]
 annee: 1990
 magazine: n°1 15 septembre 1990

@@ -1,6 +1,6 @@
 ---
 id: 11214
-title: « À corps perdus », de Sergio Castellito : la vie est double
+title: « À corps perdus », de Sergio Castellito – la vie est double
 rubrique: 
 annee: 2004
 magazine: n°6 février 2005

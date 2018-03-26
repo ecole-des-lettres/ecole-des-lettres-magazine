@@ -1,6 +1,6 @@
 ---
 id: 145
-title: Mots latins en français : les parties du corps
+title: Mots latins en français – les parties du corps
 rubrique: Interdisciplinarité français, latin [5e-3e]
 annee: 1990
 magazine: n°1 15 septembre 1990

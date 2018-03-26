@@ -6,7 +6,7 @@ annee: 2003
 magazine: 2003
 pages: 34
 description: Cette séquence est destinée à aborder l’argumentation en classe de seconde
-  à partir de l’une des problématiques recommandées par les programmes : « Littérature
+  à partir de l’une des problématiques recommandées par les programmes – « Littérature
   et altérité ». Les textes retenus témoignent principalement de l’intérêt pour l’étranger.
   L’actualité a montré la nécessité de faire réfléchir les élèves sur les rapports
   entre individus, de peuples, de sociétés, de religions différents, et de les faire
@@ -14,7 +14,7 @@ description: Cette séquence est destinée à aborder l’argumentation en class
   formulation de la problématique naît de la confrontation des textes et documents.
   La perspective dominante est l’étude de l’argumentation, mais l’objet d’étude se
   limite à « Convaincre et persuader ». La diversité des extraits choisis et l’amplitude
-  temporelle du groupement permettent d’aborder des perspectives complémentaires :
+  temporelle du groupement permettent d’aborder des perspectives complémentaires – 
   étude des genres (essai, roman, conte philosophique, dialogue, Mémoires…) et des
   registres (ironique, polémique, satirique…).
 article_pdf: 5193.pdf

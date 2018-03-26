@@ -14,9 +14,9 @@ description: Il s’agit dans cet article de constater les similitudes entre le 
   de ses frères à son époux, qui accepte. Il tue accidentellement son beau-père lors
   d’une querelle et se retire à Thèbes où il mène avec les Thébains plusieurs expéditions.
   Pendant son absence, Zeus tombe amoureux d’Alcmène. Il lui rend visite sous l’aspect
-  de son mari et s’unit à elle. Alcmène met au monde des jumeaux : Iphiclès, fils
+  de son mari et s’unit à elle. Alcmène met au monde des jumeaux – Iphiclès, fils
   d’Amphitryon, et Héraclès, fils de Zeus. Cette histoire va devenir une source d’inspiration
-  jamais démentie : après la comédie latine de Plaute, Molière reprendra le mythe
+  jamais démentie – après la comédie latine de Plaute, Molière reprendra le mythe
   en écrivant « Amphitryon » en 1668, où apparaît la figure pathétique du mari trompé.
   Giraudoux, lui, prétendra écrire la trente-huitième version du mythe en 1929 en
   donnant à sa pièce le titre d’« Amphitryon 38 ».

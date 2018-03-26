@@ -8,7 +8,7 @@ pages: 17
 description: Cet article, consacré au volet « orthographe » de la maîtrise de la
   langue, propose un apprentissage complémentaire de ce qui se fait dans les manuels
   de classe et les ouvrages parascolaires. L’originalité du dispositif tient à ce
-  qu’il met en place un triple système de vigilance : tour à tour sont sollicités
+  qu’il met en place un triple système de vigilance – tour à tour sont sollicités
   l’œil de l’exécutant, celui d’un tiers (parent, frère ou sœur ou camarade de classe),
   enfin l’œil du maître. L’action se déroule en quatre temps. La préparation individuelle
   se fait à la maison et la correction intervient lors d’une séance de compte rendu

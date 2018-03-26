@@ -6,12 +6,12 @@ annee: 1994
 magazine: n°11 15 mai 1995
 pages: 15
 description: 
-  1. « Mystère gaulois » : les difficultés d’une approche
+  1. « Mystère gaulois » – les difficultés d’une approche
   – les Gaulois sont avant tout des Celtes
   – éléments d’une religion disparue
   – caractères de civilisation
   2. Inventaire et exposition
-  – quelques divinités de la Gaule : Mercure, Jupiter, Mars, Apollon, Minerve, Dis Pater, Esus, Cernunnos
+  – quelques divinités de la Gaule – Mercure, Jupiter, Mars, Apollon, Minerve, Dis Pater, Esus, Cernunnos
   – divinités gallo-romaines
   – clergé, rites et fêtes
   3. La question du sens

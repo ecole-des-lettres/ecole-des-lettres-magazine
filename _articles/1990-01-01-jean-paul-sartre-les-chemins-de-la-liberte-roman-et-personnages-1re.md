@@ -1,12 +1,12 @@
 ---
 id: 228
-title: Jean-Paul Sartre : « Les Chemins de la liberté » 
+title: Jean-Paul Sartre – « Les Chemins de la liberté » 
 rubrique: Roman et personnages [1re]
 annee: 1990
 magazine: n°14 15 juillet 1991
 pages: 20
 description: Précédés de quelques repères biographiques, trois éclairages sur trois
-  personnages en quête des chemins de leur liberté : Philippe Grésigne, Mathieu Delarue
+  personnages en quête des chemins de leur liberté – Philippe Grésigne, Mathieu Delarue
   et Brunet…
 article_pdf: 228.pdf
 magazine_special: Seconde Guerre mondiale et littérature

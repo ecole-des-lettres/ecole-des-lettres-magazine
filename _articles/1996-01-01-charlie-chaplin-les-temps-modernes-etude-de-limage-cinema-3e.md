@@ -1,12 +1,12 @@
 ---
 id: 2207
-title: Charlie Chaplin : « Les Temps modernes » 
-rubrique: Étude de l’image : cinéma  [3e]
+title: Charlie Chaplin – « Les Temps modernes » 
+rubrique: Étude de l’image – cinéma  [3e]
 annee: 1996
 magazine: n°1 1er septembre 1996
 pages: 11
 description: L’étude de films en classe de collège a pour but de sensibiliser un
-  jeune public à la lecture d’images. Le choix de films n’est pas indifférent : il
+  jeune public à la lecture d’images. Le choix de films n’est pas indifférent – il
   se porte toujours sur des cinéastes dont l’œuvre est porteuse d’une vision personnelle
   et d’un message universel. Ainsi, « Les Temps modernes » permet de mettre en exergue
   l’art de la pantomime, le travail du comédien et celui du réalisateur, voire celui

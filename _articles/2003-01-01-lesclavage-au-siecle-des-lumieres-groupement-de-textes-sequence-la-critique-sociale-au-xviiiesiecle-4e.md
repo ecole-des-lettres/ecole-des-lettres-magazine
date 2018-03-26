@@ -7,14 +7,14 @@ magazine: n°11 15 avril 2004
 pages: 36
 description: 
   Les programmes officiels pour la classe de quatrième préconisent l’étude des textes de satire ou de critique sociale du XVIIIe siècle. En partant du thème de l’esclavage, cette séquence conjugue l’étude et la pratique de l’argumentation et la découverte du XVIIIe siècle au programme d’histoire. Des textes littéraires mais aussi non littéraires sont utilisés afin que l’élève construise et déconstruise les arguments proposés et soit ainsi confronté à des prises de positions divergentes.
-  Déroulement de la séquence : six séances.
-  Corpus de textes soutenant l’esclavage :
+  Déroulement de la séquence – six séances.
+  Corpus de textes soutenant l’esclavage – 
   – un extrait du « Voyage aux Isles », de Jean-Baptiste Labat ;
   – un extrait de « De l’esprit des lois », de Montesquieu ;
   – un extrait d’une ordonnance royale ;
   – un extrait de « Mélanges intéressants et curieux », de Jacques-Philibert Rousselot de Surgy ;
   – un extrait d’une adresse à l’Assemblée nationale par les représentants de la commune de Rouen
-  Corpus de textes dénonçant l’esclavage :
+  Corpus de textes dénonçant l’esclavage – 
   – un extrait de « Candide », de Voltaire et du « Supplément au voyage de Bougainville », de Diderot
   – un extrait de « Réflexions sur l’esclavage des nègres », de Condorcet et du « Contrat social », de Rousseau
   – un extrait de « De l’esprit des lois », de Montesquieu

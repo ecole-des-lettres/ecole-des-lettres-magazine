@@ -1,6 +1,6 @@
 ---
 id: 2937
-title: E. M. Cioran : « Anthologie du portrait : de Saint-Simon à Tocqueville »
+title: E. M. Cioran – « Anthologie du portrait – de Saint-Simon à Tocqueville »
 rubrique: Histoire littéraire
 annee: 1997
 magazine: n°7 1er décembre 1997
@@ -33,7 +33,7 @@ niveau_etudes:
 - agrégation
 - CAPES
 oeuvres:
-- Anthologie du portrait : de Saint-Simon à Tocqueville
+- Anthologie du portrait – de Saint-Simon à Tocqueville
 ecrivains:
 - E. M. Cioran
 siecles:

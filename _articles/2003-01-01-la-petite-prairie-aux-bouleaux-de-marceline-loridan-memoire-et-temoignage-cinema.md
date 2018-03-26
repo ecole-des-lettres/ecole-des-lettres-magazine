@@ -1,6 +1,6 @@
 ---
 id: 5237
-title: « La Petite Prairie aux bouleaux », de Marceline Loridan : mémoire et témoignage
+title: « La Petite Prairie aux bouleaux », de Marceline Loridan – mémoire et témoignage
 rubrique: Cinéma
 annee: 2003
 magazine: n°5 1er novembre 2003

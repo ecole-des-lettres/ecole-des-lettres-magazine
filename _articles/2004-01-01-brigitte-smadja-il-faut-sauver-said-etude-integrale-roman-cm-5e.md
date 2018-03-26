@@ -1,6 +1,6 @@
 ---
 id: 11119
-title: Brigitte Smadja : « Il faut sauver Saïd ». Étude intégrale 
+title: Brigitte Smadja – « Il faut sauver Saïd ». Étude intégrale 
 rubrique: Roman [CM-5e]
 annee: 2004
 magazine: n°9 mai 2005

@@ -6,7 +6,7 @@ annee: 2006
 magazine: n°3 novembre 2006
 pages: 4
 description: Lors d’une séquence sur le conte, il est assez évident de proposer aux
-  élèves des travaux d’écriture : suites, réécritures, structures, personnages ou
+  élèves des travaux d’écriture – suites, réécritures, structures, personnages ou
   situations à (ré)utiliser, titres à composer, etc. Mais l’inventivité demeure souvent
   le point faible des élèves. On peut donc, pour pallier cette difficulté, s’appuyer
   sur un conte que toute la classe connaît, découpé en unités narratives extrêmement
@@ -17,7 +17,7 @@ description: Lors d’une séquence sur le conte, il est assez évident de propo
   la lignée de ce qui précède. Cette exploitation systématique des possibles narratifs
   présente l’avantage de montrer que l’on peut toujours écrire une histoire différente
   à partir des mêmes données. Le conte choisi en exemple, arbitrairement découpé en
-  vingt-deux étapes, est un grand classique : « Cendrillon », de Charles Perrault
+  vingt-deux étapes, est un grand classique – « Cendrillon », de Charles Perrault
   (1697).
 article_pdf: 11473.pdf
 revue: L’école des lettres des collèges

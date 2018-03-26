@@ -1,6 +1,6 @@
 ---
 id: 12229
-title: Michel Feuillet : « Les 100 mots de l’Italie »
+title: Michel Feuillet – « Les 100 mots de l’Italie »
 rubrique: Dictionnaire
 annee: 2013
 magazine: octobre 2013

@@ -1,6 +1,6 @@
 ---
 id: 502
-title: Eugène Ionesco : « Rhinocéros » ou le classicisme ionesquien 
+title: Eugène Ionesco – « Rhinocéros » ou le classicisme ionesquien 
 rubrique: Théâtre [classes préparatoires et concours]
 annee: 1991
 magazine: n°11 15 mai 1992

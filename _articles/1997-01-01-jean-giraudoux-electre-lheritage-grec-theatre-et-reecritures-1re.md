@@ -1,6 +1,6 @@
 ---
 id: 2598
-title: Jean Giraudoux : « Électre ». L’héritage grec 
+title: Jean Giraudoux – « Électre ». L’héritage grec 
 rubrique: Théâtre et réécritures [1re]
 annee: 1997
 magazine: n°1 1er septembre 1997

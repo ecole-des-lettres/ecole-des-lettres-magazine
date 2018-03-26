@@ -8,7 +8,7 @@ pages: 8
 description: Un bilan de l’enseignement du français par le doyen de l’inspection générale
   des lettres…
 article_pdf: 3728.pdf
-magazine_special: Français (seconde) : nouveaux programmes de 1999 / 2000
+magazine_special: Français (seconde) – nouveaux programmes de 1999 / 2000
 revue: L’école des lettres des lycées
 auteurs:
 - Marc Baconnet

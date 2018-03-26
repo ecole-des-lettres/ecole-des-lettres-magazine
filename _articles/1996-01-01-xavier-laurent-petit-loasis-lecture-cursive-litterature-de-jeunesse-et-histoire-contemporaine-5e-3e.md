@@ -1,6 +1,6 @@
 ---
 id: 2364
-title: Xavier-Laurent Petit : « L’Oasis ». Lecture cursive
+title: Xavier-Laurent Petit – « L’Oasis ». Lecture cursive
 rubrique: Littérature de jeunesse et histoire contemporaine [5e-3e]
 annee: 1996
 magazine: n°14 1er juin 1997

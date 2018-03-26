@@ -1,6 +1,6 @@
 ---
 id: 1693
-title: Approche d’un genre : le théâtre (4/4)
+title: Approche d’un genre – le théâtre (4/4)
 rubrique: Théâtre [4e-3e]
 annee: 1994
 magazine: n°4 15 novembre 1994

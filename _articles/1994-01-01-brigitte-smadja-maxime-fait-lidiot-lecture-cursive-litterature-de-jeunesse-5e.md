@@ -1,6 +1,6 @@
 ---
 id: 1781
-title: Brigitte Smadja : « Maxime fait l’idiot ». Lecture cursive
+title: Brigitte Smadja – « Maxime fait l’idiot ». Lecture cursive
 rubrique: Littérature de jeunesse [5e] 
 annee: 1994
 magazine: n°7 1er février 1995

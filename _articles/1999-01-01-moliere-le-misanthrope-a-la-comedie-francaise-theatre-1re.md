@@ -1,6 +1,6 @@
 ---
 id: 3452
-title: Molière : « Le Misanthrope » à la Comédie-Française
+title: Molière – « Le Misanthrope » à la Comédie-Française
 rubrique: Théâtre [1re]
 annee: 1999
 magazine: n°10 15 février 2000

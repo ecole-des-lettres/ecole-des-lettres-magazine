@@ -1,6 +1,6 @@
 ---
 id: 2562
-title: Marivaux : redoublement et dédoublement dans « La Double Inconstance »
+title: Marivaux – redoublement et dédoublement dans « La Double Inconstance »
 rubrique: Théâtre [1re]
 annee: 1996
 magazine: n°8 1er février 1997

@@ -1,11 +1,11 @@
 ---
 id: 3935
-title: Moka : « L’Écolier assassin ». Lecture cursive 
+title: Moka – « L’Écolier assassin ». Lecture cursive 
 rubrique: Littérature de jeunesse et fantastique [4e]
 annee: 2000
 magazine: n°14 15 mai 2001
 pages: 6
-description: Ce roman présente un double intérêt : une histoire envoûtante, aux limites
+description: Ce roman présente un double intérêt – une histoire envoûtante, aux limites
   du fantastique, mais aussi une possibilité d’ouverture du texte vers des sujets
   d’écriture. En effet, il est possible de demander aux élèves de s’identifier aux
   personnages et de cerner leurs impressions et leurs sentiments. Le roman est essentiellement

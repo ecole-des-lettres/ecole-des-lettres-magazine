@@ -1,6 +1,6 @@
 ---
 id: 1458
-title: Émile Zola : « L’Assommoir ». La dernière fête [agrégation]
+title: Émile Zola – « L’Assommoir ». La dernière fête [agrégation]
 rubrique: Roman
 annee: 1993
 magazine: n°9 15 mars 1994

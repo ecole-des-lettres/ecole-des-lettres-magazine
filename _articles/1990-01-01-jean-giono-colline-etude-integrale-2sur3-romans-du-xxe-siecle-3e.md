@@ -1,6 +1,6 @@
 ---
 id: 216
-title: Jean Giono : « Colline ». Étude intégrale (2/3)
+title: Jean Giono – « Colline ». Étude intégrale (2/3)
 rubrique: Romans du XXe siècle [3e]
 annee: 1990
 magazine: n°13 1er juin 1991

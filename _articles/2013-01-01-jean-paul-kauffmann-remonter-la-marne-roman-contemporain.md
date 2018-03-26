@@ -1,6 +1,6 @@
 ---
 id: 12266
-title: Jean-Paul Kauffmann : « Remonter la Marne »
+title: Jean-Paul Kauffmann – « Remonter la Marne »
 rubrique: Roman contemporain
 annee: 2013
 magazine: juin 2013

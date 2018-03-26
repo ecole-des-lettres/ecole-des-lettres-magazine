@@ -12,7 +12,7 @@ description: Le costume de théâtre est l’un des éléments qui donnent à l�
   du passage entre le paraître dupersonnage et l’être de l’acteur. Quelques études
   traitent de l’apparence du costume tragique entre la fin du XVIIe siècle et le XIXe.
   Cet article met en évidence une évolution moins connue et moins spectaculaire, mais
-  très importante parce qu’elle touche l’intime de l’acteur et l’invisible du costume :
+  très importante parce qu’elle touche l’intime de l’acteur et l’invisible du costume – 
   l’évolution de la structure qui modèle le corps et porte le costume…
 article_pdf: 5348.pdf
 magazine_special: Théâtre à l’âge classique

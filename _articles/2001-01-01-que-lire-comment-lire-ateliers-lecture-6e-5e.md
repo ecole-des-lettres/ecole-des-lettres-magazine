@@ -8,7 +8,7 @@ pages: 8
 description: Face à la nécessité nouvelle de prendre en charge un meilleur accès
   à la lecture de leurs élèves, la plupart des professeurs – hormis les professeurs
   de lettres – se déclarent démunis. Tous ont le sentiment de faire lire leurs élèves
-  dans les multiples activités du cours. Ils ont raison : lecture de passages du manuel,
+  dans les multiples activités du cours. Ils ont raison – lecture de passages du manuel,
   lecture de documents, lecture de consignes sont sans cesse proposées aux élèves.
   Mais, si les professeurs de toutes les disciplines font lire leurs élèves, on ne
   peut pas dire pour autant qu’ils leur enseignent la lecture. Reste  à la charge

@@ -1,6 +1,6 @@
 ---
 id: 3135
-title: Honoré de Balzac : « El Verdugo » ou l’antithèse tranchée
+title: Honoré de Balzac – « El Verdugo » ou l’antithèse tranchée
 rubrique: Nouvelles [2de-1re]
 annee: 1998
 magazine: n°13 1er mai 1999

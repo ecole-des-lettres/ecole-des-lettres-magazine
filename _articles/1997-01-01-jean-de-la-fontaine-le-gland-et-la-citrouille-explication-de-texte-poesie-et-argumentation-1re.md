@@ -1,6 +1,6 @@
 ---
 id: 2927
-title: Jean de La Fontaine : « Le Gland et la Citrouille ». Explication de texte 
+title: Jean de La Fontaine – « Le Gland et la Citrouille ». Explication de texte 
 rubrique: Poésie et argumentation [1re]
 annee: 1997
 magazine: n°7 1er décembre 1997

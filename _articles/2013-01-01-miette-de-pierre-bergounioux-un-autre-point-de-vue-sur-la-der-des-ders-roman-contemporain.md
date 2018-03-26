@@ -14,7 +14,7 @@ description: En dépit de sa brièveté, ce récit de cent quarante pages au for
   des combats. Le plus intéressant dans le texte de Bergounioux reste sans doute l’attention
   qu’il porte aux « petites » scènes, telle la première, où les gars en permission,
   avant de repartir servir de chair à canon, viennent saluer la « petite communauté
-  », avec cette mention essentielle : « à la façon des gens qui passent présenter
+  », avec cette mention essentielle – « à la façon des gens qui passent présenter
   leurs condoléances ».
 
 

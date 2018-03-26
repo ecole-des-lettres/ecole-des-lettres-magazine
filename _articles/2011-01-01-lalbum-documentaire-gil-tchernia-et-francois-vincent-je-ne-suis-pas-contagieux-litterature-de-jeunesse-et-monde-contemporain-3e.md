@@ -1,6 +1,6 @@
 ---
 id: 12132
-title: L’album documentaire. Gil Tchernia et François Vincent : « Je ne suis pas
+title: L’album documentaire. Gil Tchernia et François Vincent – « Je ne suis pas
   contagieux »
 rubrique: Littérature de jeunesse et monde contemporain [3e]
 annee: 2011

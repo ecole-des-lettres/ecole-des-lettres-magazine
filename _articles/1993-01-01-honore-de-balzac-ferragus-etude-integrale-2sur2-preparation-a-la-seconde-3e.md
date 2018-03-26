@@ -1,6 +1,6 @@
 ---
 id: 1361
-title: Honoré de Balzac : « Ferragus ». Étude intégrale (2/2)
+title: Honoré de Balzac – « Ferragus ». Étude intégrale (2/2)
 rubrique: Préparation à la seconde [3e]
 annee: 1993
 magazine: n°6 15 décembre 1993

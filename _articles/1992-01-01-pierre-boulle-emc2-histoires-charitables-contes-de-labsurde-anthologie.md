@@ -1,6 +1,6 @@
 ---
 id: 1021
-title: Pierre Boulle : « E=mc2 », « Histoires charitables », « Contes de l’absurde »
+title: Pierre Boulle – « E=mc2 », « Histoires charitables », « Contes de l’absurde »
 rubrique: Anthologie
 annee: 1992
 magazine: n°6 15 décembre 1992

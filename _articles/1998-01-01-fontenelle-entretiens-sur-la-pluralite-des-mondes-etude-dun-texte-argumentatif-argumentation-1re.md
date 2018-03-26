@@ -1,6 +1,6 @@
 ---
 id: 3173
-title:  Fontenelle : « Entretiens sur la pluralité des mondes ». Étude d’un texte
+title:  Fontenelle – « Entretiens sur la pluralité des mondes ». Étude d’un texte
   argumentatif 
 rubrique: Argumentation [1re]
 annee: 1998

@@ -1,6 +1,6 @@
 ---
 id: 12465
-title: Annie Ernaux : « L’Autre Fille »
+title: Annie Ernaux – « L’Autre Fille »
 rubrique: Roman contemporain
 annee: 2011
 magazine: septembre 2011

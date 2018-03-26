@@ -1,6 +1,6 @@
 ---
 id: 2423
-title: Christiane Moatti : « L’Espoir, de Malraux »
+title: Christiane Moatti – « L’Espoir, de Malraux »
 rubrique: 
 annee: 1996
 magazine: n°4 1er novembre 1996

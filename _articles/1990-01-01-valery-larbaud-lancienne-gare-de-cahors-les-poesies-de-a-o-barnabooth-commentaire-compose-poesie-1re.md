@@ -1,6 +1,6 @@
 ---
 id: 137
-title: Valery Larbaud : « L’Ancienne Gare de Cahors » (« Les Poésies de A. O. Barnabooth »).
+title: Valery Larbaud – « L’Ancienne Gare de Cahors » (« Les Poésies de A. O. Barnabooth »).
   Commentaire composé
 rubrique: Poésie [1re]
 annee: 1990

@@ -1,6 +1,6 @@
 ---
 id: 3010
-title: Wladimir Berelovitch et Olga Medvedkova : « Histoire de Saint-Pétersbourg »
+title: Wladimir Berelovitch et Olga Medvedkova – « Histoire de Saint-Pétersbourg »
 rubrique: Histoire
 annee: 1998
 magazine: n°1 15 juillet 1998

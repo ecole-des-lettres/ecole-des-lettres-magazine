@@ -1,6 +1,6 @@
 ---
 id: 2650
-title: André Collinot et Francine Mazière : « Un prêt-à-parler : le dictionnaire »
+title: André Collinot et Francine Mazière – « Un prêt-à-parler – le dictionnaire »
 rubrique: Dictionnaire
 annee: 1997
 magazine: n°10 15 février 1998

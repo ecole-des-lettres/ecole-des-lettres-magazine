@@ -10,7 +10,7 @@ description:
   – les racines du mal italien
   – humiliations et agitations de l’après-guerre
   2. Naissance et mise en place du régime fasciste
-  – Mussolini : l’homme et la doctrine
+  – Mussolini – l’homme et la doctrine
   – la prise en main du pays (conquête du pouvoir et établissement de la dictature)
   – l’État totalitaire
   3. L’œuvre du régime fasciste

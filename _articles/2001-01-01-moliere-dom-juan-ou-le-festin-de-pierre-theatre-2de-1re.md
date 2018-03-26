@@ -1,6 +1,6 @@
 ---
 id: 4305
-title: Molière : « Dom Juan ou le Festin de pierre »
+title: Molière – « Dom Juan ou le Festin de pierre »
 rubrique: Théâtre [2de-1re]
 annee: 2001
 magazine: n°13 mai 2002

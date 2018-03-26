@@ -11,7 +11,7 @@ description: Des soulèvements d’esclaves dans la Rome antique d’« Alix �
   Squarzoni dans « Garduno, en temps de paix », révoltes et révolutions peuplent la
   bande dessinée, qu’elle soit d’aventures, historique, de science-fiction ou autobiographique.
   « Le Cri du peuple », de Jacques Tardi, et « Le Temps des bombes », d’Emmanuel Moynot,
-  témoignent dans des styles différents de deux formes de révoltes : celle de la Commune
+  témoignent dans des styles différents de deux formes de révoltes – celle de la Commune
   en 1870 et celle des anarchistes des années 1890 en France.
 article_pdf: 11812.pdf
 revue: L’école des lettres des collèges

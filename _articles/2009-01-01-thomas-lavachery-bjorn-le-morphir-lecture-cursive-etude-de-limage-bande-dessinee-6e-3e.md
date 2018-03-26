@@ -1,7 +1,7 @@
 ---
 id: 11969
-title: Thomas Lavachery : « Bjorn le Morphir ». Lecture cursive
-rubrique: Étude de l’image : bande dessinée [6e-3e]
+title: Thomas Lavachery – « Bjorn le Morphir ». Lecture cursive
+rubrique: Étude de l’image – bande dessinée [6e-3e]
 annee: 2009
 magazine: n°1 2009-2010
 pages: 11

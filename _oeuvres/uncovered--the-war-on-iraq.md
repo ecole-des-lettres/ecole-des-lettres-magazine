@@ -1,3 +1,3 @@
 ---
-title: 'Uncovered : the War on Iraq'
+title: 'Uncovered – the War on Iraq'
 ---

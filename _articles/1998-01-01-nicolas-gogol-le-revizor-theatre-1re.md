@@ -1,6 +1,6 @@
 ---
 id: 3403
-title: Nicolas Gogol : « Le Revizor » 
+title: Nicolas Gogol – « Le Revizor » 
 rubrique: Théâtre [1re]
 annee: 1998
 magazine: n°12 1er avril 1999

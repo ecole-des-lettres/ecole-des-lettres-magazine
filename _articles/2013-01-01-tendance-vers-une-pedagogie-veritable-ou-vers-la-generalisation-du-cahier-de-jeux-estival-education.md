@@ -1,6 +1,6 @@
 ---
 id: 12256
-title: Tendance : vers une pédagogie véritable ou vers la généralisation du cahier
+title: Tendance – vers une pédagogie véritable ou vers la généralisation du cahier
   de jeux estival ?
 rubrique: Éducation
 annee: 2013

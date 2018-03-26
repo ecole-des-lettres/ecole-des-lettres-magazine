@@ -1,6 +1,6 @@
 ---
 id: 2574
-title: Franz Kafka : l’extérieur et l’intérieur dans « La Métamorphose » 
+title: Franz Kafka – l’extérieur et l’intérieur dans « La Métamorphose » 
 rubrique: Roman et personnages [1re]
 annee: 1996
 magazine: n°9 15 février 1997

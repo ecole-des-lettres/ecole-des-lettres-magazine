@@ -1,6 +1,6 @@
 ---
 id: 3556
-title: Johann Gottfried Schnabel : « L’Île de Felsenbourg ». Découverte d’un roman
+title: Johann Gottfried Schnabel – « L’Île de Felsenbourg ». Découverte d’un roman
   allemand utopique du XVIIIe siècle
 rubrique: Roman utopique [1re]
 annee: 1999

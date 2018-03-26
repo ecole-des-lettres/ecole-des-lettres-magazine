@@ -1,11 +1,11 @@
 ---
 id: 1769
-title: Sénèque : « De brevitate vitæ ». Questions et traduction (IV)
+title: Sénèque – « De brevitate vitæ ». Questions et traduction (IV)
 rubrique: Interrogations politiques
 annee: 1994
 magazine: n°7 15 février 1995
 pages: 10
-description: Épreuve corrigée (version, traduction, questions et réponses) de latin :
+description: Épreuve corrigée (version, traduction, questions et réponses) de latin – 
   texte de Sénèque sur Auguste…
 article_pdf: 1769.pdf
 revue: L’école des lettres des lycées

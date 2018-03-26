@@ -1,6 +1,6 @@
 ---
 id: 12965
-title: Se former au numérique : une sélection de ressources sur Éduscol
+title: Se former au numérique – une sélection de ressources sur Éduscol
 rubrique: Éducation
 annee: 2014
 magazine: novembre 2014

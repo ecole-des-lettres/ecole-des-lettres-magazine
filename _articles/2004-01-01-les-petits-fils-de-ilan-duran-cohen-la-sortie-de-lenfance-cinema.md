@@ -1,6 +1,6 @@
 ---
 id: 11190
-title: « Les Petits-Fils », de Ilan Duran Cohen : la sortie de l’enfance
+title: « Les Petits-Fils », de Ilan Duran Cohen – la sortie de l’enfance
 rubrique: Cinéma
 annee: 2004
 magazine: n°4 décembre 2004

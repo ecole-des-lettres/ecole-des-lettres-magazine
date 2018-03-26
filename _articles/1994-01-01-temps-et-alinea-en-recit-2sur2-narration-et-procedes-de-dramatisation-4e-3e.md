@@ -7,9 +7,9 @@ magazine: n°7 1er février 1995
 pages: 10
 description: 
   Étude des procédés de dramatisation à partir de l’analyse des temps, de l’alternance des premier plan et arrière-plan narratifs et des alinéas dans six textes…
-  Dans ce numéro :
+  Dans ce numéro – 
   3. Évaluation
-  – Flaubert, « La Légende de saint Julien l’Hospitalier » : les alinéas ; les temps
+  – Flaubert, « La Légende de saint Julien l’Hospitalier » – les alinéas ; les temps
   4. Mérimée, « Tamango »
   5. Albert Camus, « La Chute »
   L’article est suivi d’une brève bibliographie sur l’alinéa et les temps, ainsi que des textes de Flaubert, Mérimée et Camus.

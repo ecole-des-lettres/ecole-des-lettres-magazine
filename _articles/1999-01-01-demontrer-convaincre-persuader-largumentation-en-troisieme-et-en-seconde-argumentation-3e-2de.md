@@ -9,7 +9,7 @@ description: L’étude des grandes formes d’argumentation, l’une des orient
   l’enseignement en troisième, fait partie des objectifs généraux de l’enseignement
   au collège ; elle participe à la maîtrise des discours et ouvre à l’élève l’exercice
   de la citoyenneté. Cette étude pose un certain nombre de problèmes théoriques, pédagogiques
-  et didactiques : l’argumentation est partout, sous des formes diverses. Comment
+  et didactiques – l’argumentation est partout, sous des formes diverses. Comment
   la définir ? Quels sont précisément les apprentissages en troisième ? Quelles limites
   leur fixer ? Quelles procédures d’apprentissage avoir ? Quelles relations établir
   avec d’autres disciplines qui ont aussi pour objectif de développer cette compétence ?

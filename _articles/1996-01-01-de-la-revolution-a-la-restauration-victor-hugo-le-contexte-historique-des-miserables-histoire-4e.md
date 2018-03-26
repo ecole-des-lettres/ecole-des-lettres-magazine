@@ -1,6 +1,6 @@
 ---
 id: 2578
-title: De la Révolution à la Restauration : Victor Hugo : le contexte historique
+title: De la Révolution à la Restauration – Victor Hugo – le contexte historique
   des « Misérables » 
 rubrique: Histoire [4e]
 annee: 1996

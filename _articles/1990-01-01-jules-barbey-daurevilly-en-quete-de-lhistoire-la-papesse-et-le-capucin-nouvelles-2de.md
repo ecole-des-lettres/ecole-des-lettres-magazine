@@ -12,7 +12,7 @@ description: Barbey d’Aurevilly paraît refuser l’Histoire et le va-et-vient
   deux derniers textes de fiction rédigés en cette période « Une histoire sans nom »
   et « Une page d’histoire »…
 article_pdf: 397.pdf
-magazine_special: Barbey d’Aurevilly : Les Diaboliques
+magazine_special: Barbey d’Aurevilly – Les Diaboliques
 revue: L’école des lettres des lycées
 auteurs:
 - Alain Boureau

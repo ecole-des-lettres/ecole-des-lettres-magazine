@@ -1,6 +1,6 @@
 ---
 id: 12481
-title: Philippe Meirieu : « Lettre à un jeune professeur »
+title: Philippe Meirieu – « Lettre à un jeune professeur »
 rubrique: Éducation
 annee: 2011
 magazine: septembre 2011

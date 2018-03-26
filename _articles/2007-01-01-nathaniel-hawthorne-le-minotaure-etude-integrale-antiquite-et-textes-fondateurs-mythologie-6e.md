@@ -1,7 +1,7 @@
 ---
 id: 11589
-title: Nathaniel Hawthorne : « Le Minotaure ». Étude intégrale
-rubrique: Antiquité et textes fondateurs : mythologie [6e]
+title: Nathaniel Hawthorne – « Le Minotaure ». Étude intégrale
+rubrique: Antiquité et textes fondateurs – mythologie [6e]
 annee: 2007
 magazine: n°2 2007-2008
 pages: 16

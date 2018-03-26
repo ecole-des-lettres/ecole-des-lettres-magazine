@@ -11,7 +11,7 @@ description:
   3. Esprit des programmes
   4. Perspectives pédagogiques
 article_pdf: 3738.pdf
-magazine_special: Français (seconde) : nouveaux programmes de 1999 / 2000
+magazine_special: Français (seconde) – nouveaux programmes de 1999 / 2000
 revue: L’école des lettres des lycées
 auteurs:
 - Alain Viala

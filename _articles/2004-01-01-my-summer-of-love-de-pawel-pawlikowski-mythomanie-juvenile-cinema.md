@@ -1,6 +1,6 @@
 ---
 id: 11254
-title: « My Summer of Love », de Pawel Pawlikowski : mythomanie juvénile
+title: « My Summer of Love », de Pawel Pawlikowski – mythomanie juvénile
 rubrique: Cinéma
 annee: 2004
 magazine: n°9 mai 2005

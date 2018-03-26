@@ -1,6 +1,6 @@
 ---
 id: 1958
-title: Jean-Jacques Rousseau : « Confessions ». Étude d’extraits 
+title: Jean-Jacques Rousseau – « Confessions ». Étude d’extraits 
 rubrique: Autobiographie [4e-3e]
 annee: 1995
 magazine: n°13-14 15 juin 1996

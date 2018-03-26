@@ -10,7 +10,7 @@ description: Les programmes de français accordent une large place à l’image.
   qui va de la représentation jusqu’à l’argumentation. Parmi les types d’images abordés,
   on peut noter la une d’un quotidien au cycle central, le dessin de presse et d’humour
   en troisième. Le corpus du quatrième objet d’étude du nouveau programme de première
-  (« l’argumentation : convaincre, persuader et délibérer ») peut inclure des articles
+  (« l’argumentation – convaincre, persuader et délibérer ») peut inclure des articles
   de presse et des images. Il est précisé également que « la lecture s’applique aussi
   à l’image (fixe et mobile, y compris des films). L’analyse s’attache à dégager les
   spécificités du langage de l’image et à mettre en relation celui-ci avec le langage

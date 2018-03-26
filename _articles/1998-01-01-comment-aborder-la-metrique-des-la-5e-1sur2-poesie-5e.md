@@ -6,10 +6,10 @@ annee: 1998
 magazine: n°5 15 octobre 1998
 pages: 10
 description: 
-  Proposition de progression :
+  Proposition de progression – 
   1. L’hendécasyllabe phalécien
-  – découverte de la quantité des voyelles : lecture et bref commentaire d’un épigramme de Martial
-  – deuxième lecture scandée : observations
+  – découverte de la quantité des voyelles – lecture et bref commentaire d’un épigramme de Martial
+  – deuxième lecture scandée – observations
   – reprise et approfondissement de la première observation
   2. Découverte des mètres et de l’hendécasyllabe
   – syllabes et notes de musique

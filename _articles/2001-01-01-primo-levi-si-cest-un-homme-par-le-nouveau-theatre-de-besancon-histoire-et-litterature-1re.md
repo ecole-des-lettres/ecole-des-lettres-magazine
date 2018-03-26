@@ -1,6 +1,6 @@
 ---
 id: 4262
-title: Primo Levi : « Si c’est un homme » par le Nouveau Théâtre de Besançon
+title: Primo Levi – « Si c’est un homme » par le Nouveau Théâtre de Besançon
 rubrique: Histoire et littérature [1re]
 annee: 2001
 magazine: n°12 15 avril 2002

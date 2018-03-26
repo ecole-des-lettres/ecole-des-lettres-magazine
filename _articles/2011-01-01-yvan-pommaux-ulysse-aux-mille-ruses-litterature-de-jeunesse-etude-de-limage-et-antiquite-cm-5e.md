@@ -1,6 +1,6 @@
 ---
 id: 12109
-title: Yvan Pommaux : « Ulysse aux mille ruses »
+title: Yvan Pommaux – « Ulysse aux mille ruses »
 rubrique: Littérature de jeunesse, étude de l’image et Antiquité [CM-5e]
 annee: 2011
 magazine: n°1

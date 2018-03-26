@@ -1,6 +1,6 @@
 ---
 id: 12129
-title: Emily Brontë : l’incipit des « Hauts de Hurle-Vent »
+title: Emily Brontë – l’incipit des « Hauts de Hurle-Vent »
 rubrique: Roman [4e-3e]
 annee: 2011
 magazine: n°5

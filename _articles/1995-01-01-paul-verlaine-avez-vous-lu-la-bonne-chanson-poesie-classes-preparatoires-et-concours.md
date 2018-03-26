@@ -1,6 +1,6 @@
 ---
 id: 1983
-title: Paul Verlaine : avez-vous lu « La Bonne Chanson » ?
+title: Paul Verlaine – avez-vous lu « La Bonne Chanson » ?
 rubrique: Poésie [classes préparatoires et concours]
 annee: 1995
 magazine: n°14 juillet 1996

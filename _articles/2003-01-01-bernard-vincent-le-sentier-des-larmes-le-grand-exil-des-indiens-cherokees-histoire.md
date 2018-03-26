@@ -1,6 +1,6 @@
 ---
 id: 5248
-title: Bernard Vincent : « Le Sentier des larmes. Le grand exil des Indiens Cherokees »
+title: Bernard Vincent – « Le Sentier des larmes. Le grand exil des Indiens Cherokees »
 rubrique: Histoire
 annee: 2003
 magazine: n°6 1er décembre 2003

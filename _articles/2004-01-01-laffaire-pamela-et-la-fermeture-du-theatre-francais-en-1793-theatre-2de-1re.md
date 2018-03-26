@@ -6,7 +6,7 @@ annee: 2004
 magazine: n°11-12 août 2005
 pages: 19
 description: La fermeture du Théâtre-Français en 1793 à cause de la pièce de François
-  de Neufchâteau : « Paméla ou la Vertu récompensée »
+  de Neufchâteau – « Paméla ou la Vertu récompensée »
 article_pdf: 11269.pdf
 revue: L’école des lettres des lycées
 auteurs:

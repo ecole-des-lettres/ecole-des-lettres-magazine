@@ -6,7 +6,7 @@ annee: 2012
 magazine: n° 6-7 2012-2013
 pages: 16
 description: Les récurrences sont fréquentes, et de natures différentes, dans les
-  œuvres d’Yvan Pommaux : récurrences dans l’apparence des personnages, dans certaines
+  œuvres d’Yvan Pommaux – récurrences dans l’apparence des personnages, dans certaines
   péripéties, dans des filiations cachées... Tout se passe comme si l’auteur reliait,
   non sans malice, l’ensemble de ses livres par des fils discrets…
 article_pdf: 12191.pdf

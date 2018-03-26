@@ -1,6 +1,6 @@
 ---
 id: 12188
-title: Tout ça, c’est du cinéma : le cinéma dans l’œuvre d’Yvan Pommaux
+title: Tout ça, c’est du cinéma – le cinéma dans l’œuvre d’Yvan Pommaux
 rubrique: Littérature de jeunesse / cinéma [5e]
 annee: 2012
 magazine: n° 6-7 2012-2013

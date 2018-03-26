@@ -1,11 +1,11 @@
 ---
 id: 4158
 title: Science, foi et secret
-rubrique: Honoré de Balzac : « La Messe de l’athée »
+rubrique: Honoré de Balzac – « La Messe de l’athée »
 annee: 2000
 magazine: n°9 15 janvier 2001
 pages: 18
-description: « La Messe de l’athée » a de multiples enjeux : enjeu philosophique,
+description: « La Messe de l’athée » a de multiples enjeux – enjeu philosophique,
   puisque le récit aborde la grande question de l’énergie vitale sous l’aspect de
   l’opposition entre le talent et le génie ; enjeu social, très parisien, puisqu’il
   est en prise directe avec l’actualité scientifique contemporaine et le quotidien

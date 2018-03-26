@@ -10,8 +10,8 @@ description:
   Entretien avec Alexandre Lafon, historien,
   conseiller pour l’action pédagogique auprès de la Mission du Centenaire
   – « Le Feu », d’Henri Barbusse, par Magali Jeannin-Corbin
-  – Henri Barbusse : acteur, témoin, écrivain ? par Magali Jeannin-Corbin
-  – En marge des récits de guerre : insoumis, pacifistes et déserteurs, par Jean-Pierre Tusseau
+  – Henri Barbusse – acteur, témoin, écrivain ? par Magali Jeannin-Corbin
+  – En marge des récits de guerre – insoumis, pacifistes et déserteurs, par Jean-Pierre Tusseau
   – « Le Dernier Ami de Jaurès », de Tania Sollogoub, par Jean-Pierre Tusseau
   – Hemingway, de la guerre à l’écriture, par Yves Stalloni
   – « Miette », de Pierre Bergounioux, par Antony Soron

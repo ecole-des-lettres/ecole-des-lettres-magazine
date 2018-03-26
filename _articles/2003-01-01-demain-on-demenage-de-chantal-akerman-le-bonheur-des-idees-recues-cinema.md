@@ -1,6 +1,6 @@
 ---
 id: 5314
-title: « Demain on déménage », de Chantal Akerman : le bonheur des idées reçues
+title: « Demain on déménage », de Chantal Akerman – le bonheur des idées reçues
 rubrique: Cinéma
 annee: 2003
 magazine: n°11 1er mai 2004

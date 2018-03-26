@@ -1,6 +1,6 @@
 ---
 id: 12463
-title: Régis Debray : « Du bon usage des catastrophes »
+title: Régis Debray – « Du bon usage des catastrophes »
 rubrique: Essai
 annee: 2011
 magazine: octobre 2011

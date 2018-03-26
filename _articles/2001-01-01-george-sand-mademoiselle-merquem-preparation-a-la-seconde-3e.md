@@ -1,12 +1,12 @@
 ---
 id: 4500
-title: George Sand : « Mademoiselle Merquem »
+title: George Sand – « Mademoiselle Merquem »
 rubrique: Préparation à la seconde [3e]
 annee: 2001
 magazine: n°6 1er novembre 2001
 pages: 8
 description: Le questionnaire de lecture proposé ici porte sur un roman de 1868 de
-  George Sand : « Mademoiselle Merquem ». Sa structure, son contenu et ses centres
+  George Sand – « Mademoiselle Merquem ». Sa structure, son contenu et ses centres
   d’intérêt confronteront de futurs élèves de lycée à un texte où les sujets de réflexion
   (amour, mariage, éducation – en particulier celle des filles –, société…) l’emportent
   sur l’action. Cet ouvrage développe un récit à la première personne où le narrateur,

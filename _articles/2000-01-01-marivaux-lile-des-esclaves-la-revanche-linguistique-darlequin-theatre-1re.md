@@ -1,6 +1,6 @@
 ---
 id: 4074
-title: Marivaux : « L’Île des esclaves ». La revanche linguistique d’Arlequin
+title: Marivaux – « L’Île des esclaves ». La revanche linguistique d’Arlequin
 rubrique: Théâtre [1re}
 annee: 2000
 magazine: n°7 1er décembre 2000

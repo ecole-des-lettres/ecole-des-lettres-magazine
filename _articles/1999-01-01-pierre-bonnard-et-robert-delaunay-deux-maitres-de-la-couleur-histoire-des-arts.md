@@ -1,6 +1,6 @@
 ---
 id: 3644
-title: Pierre Bonnard et Robert Delaunay : deux maîtres de la couleur
+title: Pierre Bonnard et Robert Delaunay – deux maîtres de la couleur
 rubrique: Histoire des arts
 annee: 1999
 magazine: n°4 1er octobre 1999

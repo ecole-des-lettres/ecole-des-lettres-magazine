@@ -1,6 +1,6 @@
 ---
 id: 12262
-title: Baccalauréat : épreuve de littérature applicable en 2014 pour la série L
+title: Baccalauréat – épreuve de littérature applicable en 2014 pour la série L
 rubrique: 
 annee: 2013
 magazine: août 2013

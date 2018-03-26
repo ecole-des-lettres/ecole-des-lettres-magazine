@@ -1,6 +1,6 @@
 ---
 id: 1618
-title: Jean Rouaud : entretien
+title: Jean Rouaud – entretien
 rubrique: Roman contemporain [1re]
 annee: 1994
 magazine: n°14 1er juillet 1995

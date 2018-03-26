@@ -1,6 +1,6 @@
 ---
 id: 2130
-title: Jean Racine : le sacré dans le théâtre « profane » de Racine
+title: Jean Racine – le sacré dans le théâtre « profane » de Racine
 rubrique: Théâtre [2de-1re]
 annee: 1995
 magazine: n°7 15 février 1996
@@ -9,7 +9,7 @@ description: Sous diverses formes et dans des contextes parfois inattendus, le s
   est présent dans l’ensemble de l’œuvre de Racine – même dans les tragédies «profanes»
   . 
 article_pdf: 2130.pdf
-magazine_special: Racine : Britannicus, Bérénice et Mithridate
+magazine_special: Racine – Britannicus, Bérénice et Mithridate
 revue: L’école des lettres des lycées
 auteurs:
 - Jacques Morel

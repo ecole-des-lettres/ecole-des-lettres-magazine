@@ -1,6 +1,6 @@
 ---
 id: 2947
-title: Victor Hugo : « Claude Gueux ». Étude intégrale
+title: Victor Hugo – « Claude Gueux ». Étude intégrale
 rubrique: Romans du XIXe siècle [4e]
 annee: 1997
 magazine: n°8 15 décembre 1997

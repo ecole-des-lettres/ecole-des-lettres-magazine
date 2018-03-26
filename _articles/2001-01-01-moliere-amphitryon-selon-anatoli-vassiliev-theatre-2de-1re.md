@@ -1,6 +1,6 @@
 ---
 id: 4307
-title: Molière : « Amphitryon » selon Anatoli Vassiliev
+title: Molière – « Amphitryon » selon Anatoli Vassiliev
 rubrique: Théâtre [2de-1re]
 annee: 2001
 magazine: 2002

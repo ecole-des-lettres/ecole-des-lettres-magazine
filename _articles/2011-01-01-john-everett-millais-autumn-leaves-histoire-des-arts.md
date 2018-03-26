@@ -1,6 +1,6 @@
 ---
 id: 12131
-title: John Everett Millais : « Autumn Leaves »
+title: John Everett Millais – « Autumn Leaves »
 rubrique: Histoire des arts
 annee: 2011
 magazine: n°5

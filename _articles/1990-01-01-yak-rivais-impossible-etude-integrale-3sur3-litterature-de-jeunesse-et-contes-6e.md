@@ -1,6 +1,6 @@
 ---
 id: 252
-title: Yak Rivais : « Impossible ! ». Étude intégrale  (3/3)
+title: Yak Rivais – « Impossible ! ». Étude intégrale  (3/3)
 rubrique: Littérature de jeunesse et contes [6e]
 annee: 1990
 magazine: n°14 15 juin 1991

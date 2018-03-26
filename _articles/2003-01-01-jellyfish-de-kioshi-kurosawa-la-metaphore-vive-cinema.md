@@ -1,6 +1,6 @@
 ---
 id: 5252
-title: « Jellyfish », de Kioshi Kurosawa : la métaphore vive
+title: « Jellyfish », de Kioshi Kurosawa – la métaphore vive
 rubrique: Cinéma
 annee: 2003
 magazine: n°6 1er décembre 2003

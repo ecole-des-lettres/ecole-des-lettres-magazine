@@ -1,6 +1,6 @@
 ---
 id: 4003
-title: Arthur Rimbaud : « Poésies »
+title: Arthur Rimbaud – « Poésies »
 rubrique: Poésie
 annee: 2000
 magazine: n°4 15 octobre 2000

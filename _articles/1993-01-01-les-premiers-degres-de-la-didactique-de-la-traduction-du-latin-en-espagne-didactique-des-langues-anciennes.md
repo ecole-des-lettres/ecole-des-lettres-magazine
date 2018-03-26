@@ -9,7 +9,7 @@ description:
   Difficultés de l’enseignement du latin en Espagne…
   L’article est suivi d’exemples de cours et d’exercices en espagnol.
 article_pdf: 1175.pdf
-magazine_special: Langues anciennes : didactique
+magazine_special: Langues anciennes – didactique
 revue: L’école des lettres des lycées
 auteurs:
 - Pedro-Luis Cano

@@ -1,6 +1,6 @@
 ---
 id: 1243
-title: Victor Hugo : la tragédie du langage dans « Le Dernier Jour d’un condamné » 
+title: Victor Hugo – la tragédie du langage dans « Le Dernier Jour d’un condamné » 
 rubrique: Roman [2de]
 annee: 1993
 magazine: n°13-14 juillet 1994

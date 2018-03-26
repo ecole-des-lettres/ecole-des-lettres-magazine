@@ -7,7 +7,7 @@ magazine: n°2 2008-2009
 pages: 10
 description: Les nouveaux programmes de français proposent, en troisième, de faire
   rédiger une critique de film par les élèves. Cette activité ne peut être entreprise
-  sans la maîtrise par ces derniers d’un certain nombre de compétences : connaissance
+  sans la maîtrise par ces derniers d’un certain nombre de compétences – connaissance
   des spécificités du langage cinématographique et du système médiatique, découverte
   du métier de critique, pratique de l’écriture argumentative. On pourra donc faire
   un travail préalable d’éducation à l’image et aux médias.

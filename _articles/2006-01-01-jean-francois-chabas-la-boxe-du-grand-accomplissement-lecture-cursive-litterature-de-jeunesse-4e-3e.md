@@ -1,6 +1,6 @@
 ---
 id: 11717
-title: Jean-François Chabas : « La Boxe du Grand Accomplissement ». Lecture cursive
+title: Jean-François Chabas – « La Boxe du Grand Accomplissement ». Lecture cursive
 rubrique: Littérature de jeunesse [4e-3e]
 annee: 2006
 magazine: 2007

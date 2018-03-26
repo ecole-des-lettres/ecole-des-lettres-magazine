@@ -1,6 +1,6 @@
 ---
 id: 12377
-title: Kenneth Grahame : « Le Vent dans les saules »
+title: Kenneth Grahame – « Le Vent dans les saules »
 rubrique: Littérature de jeunesse
 annee: 2012
 magazine: septembre 2012

@@ -1,6 +1,6 @@
 ---
 id: 12273
-title: Philippe Jaccottet : « Taches de soleil, ou d’ombre »
+title: Philippe Jaccottet – « Taches de soleil, ou d’ombre »
 rubrique: Poésie
 annee: 2013
 magazine: mai 2013

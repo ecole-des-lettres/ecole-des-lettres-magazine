@@ -1,7 +1,7 @@
 ---
 id: 11610
 title: Étude d’une nouvelle 
-rubrique: Leïla Sebbar : « Zizou l’Algérien » [5e-3e]
+rubrique: Leïla Sebbar – « Zizou l’Algérien » [5e-3e]
 annee: 2007
 magazine: n°3-4 2007-2008
 pages: 13

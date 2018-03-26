@@ -1,6 +1,6 @@
 ---
 id: 884
-title: Guy de Maupassant : « Boule de suif », ou la république des ogres 
+title: Guy de Maupassant – « Boule de suif », ou la république des ogres 
 rubrique: Nouvelles [2de]
 annee: 1992
 magazine: n°13 1er juin 1993
@@ -12,7 +12,7 @@ description:
   4. La peur et le sacrifice
   5. Un nouvel ordre
 article_pdf: 884.pdf
-magazine_special: Maupassant : romans et nouvelles
+magazine_special: Maupassant – romans et nouvelles
 revue: L’école des lettres des lycées
 auteurs:
 - Alain Boureau

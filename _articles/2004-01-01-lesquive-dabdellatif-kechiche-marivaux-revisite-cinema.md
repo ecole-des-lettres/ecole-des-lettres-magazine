@@ -1,6 +1,6 @@
 ---
 id: 11218
-title: « L’Esquive » d’Abdellatif Kechiche : Marivaux revisité
+title: « L’Esquive » d’Abdellatif Kechiche – Marivaux revisité
 rubrique: Cinéma
 annee: 2004
 magazine: n°7 mars 2005

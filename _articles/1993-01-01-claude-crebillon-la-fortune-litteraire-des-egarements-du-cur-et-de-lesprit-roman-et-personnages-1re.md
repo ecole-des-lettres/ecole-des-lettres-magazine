@@ -1,6 +1,6 @@
 ---
 id: 1372
-title: Claude Crébillon : la fortune littéraire des « Égarements du cœur et de l’esprit » 
+title: Claude Crébillon – la fortune littéraire des « Égarements du cœur et de l’esprit » 
 rubrique: Roman et personnages [1re]
 annee: 1993
 magazine: n°6 1er janvier 1994
@@ -11,7 +11,7 @@ description:
   3. Réhabilitation des « Égarements » au XXe siècle
   L’article est suivi d’une bibliographie.
 article_pdf: 1372.pdf
-magazine_special: Crébillon fils : Les Égarements du cœur et de l’esprit
+magazine_special: Crébillon fils – Les Égarements du cœur et de l’esprit
 revue: L’école des lettres des lycées
 auteurs:
 - Pascal Caglar

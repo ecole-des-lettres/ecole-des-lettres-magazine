@@ -10,7 +10,7 @@ description: Contrairement aux idées reçues, la tragédie n’est pas morte av
   jamais autant écrit, joué et vu de tragédies qu’au XVIIIe siècle. Pourquoi ont-elles
   donc été oubliées ? S’il est vrai que, sur le point de vue du style et de la composition,
   la tragédie dite « tardive » diffère peu de la tragédie classique, il semble en
-  revanche que sur de nombreux points elle s’ouvre à de nouveaux horizons : tout en
+  revanche que sur de nombreux points elle s’ouvre à de nouveaux horizons – tout en
   s’intéressant aux sujets tirés de l’Histoire, la tragédie se fait également,au cours
   de ce siècle, tribune, politique et philosophique, inflexion qui trouvera son accomplissement
   dans le théâtre de la Révolution. Enfin, dès la première moitié du siècle, les auteurs

@@ -6,7 +6,7 @@ annee: 2003
 magazine: 2003
 pages: 45
 description: 
-  Cet article propose en diversifiant les supports, les formes de lecture, les situations d’écriture, trois ateliers regroupant des élèves en difficulté : un atelier lecture avec un support informatique qui dure toute l’année scolaire ; un atelier lecture et un atelier écriture avec des supports textuels variés qui feront l’objet de sept séquences constituant un ensemble mais pouvant être utilisées séparément.
+  Cet article propose en diversifiant les supports, les formes de lecture, les situations d’écriture, trois ateliers regroupant des élèves en difficulté – un atelier lecture avec un support informatique qui dure toute l’année scolaire ; un atelier lecture et un atelier écriture avec des supports textuels variés qui feront l’objet de sept séquences constituant un ensemble mais pouvant être utilisées séparément.
   3. Atelier d’écriture avec la bande dessinée
   – cinq séances autour de « Ras le Bill ! », de Roba 
   4. Atelier d’écriture avec la littérature de jeunesse

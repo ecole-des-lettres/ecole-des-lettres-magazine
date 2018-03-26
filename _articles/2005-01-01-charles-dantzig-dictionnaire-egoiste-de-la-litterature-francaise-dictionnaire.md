@@ -1,6 +1,6 @@
 ---
 id: 11370
-title: Charles Dantzig : « Dictionnaire égoïste de la littérature française »
+title: Charles Dantzig – « Dictionnaire égoïste de la littérature française »
 rubrique: Dictionnaire
 annee: 2005
 magazine: n°10 avril 2006

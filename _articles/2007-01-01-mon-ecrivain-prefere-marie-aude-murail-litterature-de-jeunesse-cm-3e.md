@@ -1,6 +1,6 @@
 ---
 id: 11590
-title: « Mon écrivain préféré » : Marie-Aude Murail
+title: « Mon écrivain préféré » – Marie-Aude Murail
 rubrique: Littérature de jeunesse [CM-3e]
 annee: 2007
 magazine: n°1 2007-2008

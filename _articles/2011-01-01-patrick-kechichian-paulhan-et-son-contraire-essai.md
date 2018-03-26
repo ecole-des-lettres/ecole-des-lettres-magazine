@@ -1,6 +1,6 @@
 ---
 id: 12443
-title: Patrick Kéchichian : « Paulhan et son contraire »
+title: Patrick Kéchichian – « Paulhan et son contraire »
 rubrique: Essai
 annee: 2011
 magazine: décembre 2011

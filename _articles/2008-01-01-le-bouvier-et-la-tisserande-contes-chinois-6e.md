@@ -11,10 +11,10 @@ description: Le conte est le texte qui se prête le mieux à une lecture magistr
   du conteur de quoi donner libre cours à son pouvoir de suggestion. Et quand arrive
   l’étape qui mène au dénouement, il est bon de marquer une pause et de vérifier la
   manière dont les élèves se sont approprié la logique du récit. L’auditoire a son
-  mot à dire : chacun se remémore le fil de l’histoire et, en silence, note comment
-  il imagine la fin. La mise en commun favorise l’échange : on compare, on élimine,
+  mot à dire – chacun se remémore le fil de l’histoire et, en silence, note comment
+  il imagine la fin. La mise en commun favorise l’échange – on compare, on élimine,
   on évalue les solutions proposées. Alors intervient la lecture de la fin du récit
-  : l’écoute répond alors vraiment à une attente. Trois contes, extraits du recueil
+  – l’écoute répond alors vraiment à une attente. Trois contes, extraits du recueil
   « Contes chinois » (L’École des loisirs, 2000), servent de supports à cette démarche. 
 article_pdf: 11975.pdf
 magazine_special: Contes populaires du monde entier

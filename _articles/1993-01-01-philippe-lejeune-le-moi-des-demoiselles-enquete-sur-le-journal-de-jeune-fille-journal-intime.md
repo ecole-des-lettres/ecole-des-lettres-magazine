@@ -1,6 +1,6 @@
 ---
 id: 1130
-title: Philippe Lejeune : « Le Moi des demoiselles. Enquête sur le journal de jeune
+title: Philippe Lejeune – « Le Moi des demoiselles. Enquête sur le journal de jeune
   fille »
 rubrique: Journal intime
 annee: 1993

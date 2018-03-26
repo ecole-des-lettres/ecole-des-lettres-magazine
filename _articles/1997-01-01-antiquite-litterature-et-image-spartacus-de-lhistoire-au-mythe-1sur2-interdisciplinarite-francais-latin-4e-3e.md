@@ -12,14 +12,14 @@ description:
   – un fait divers antique
   2. Les gladiateurs
   – généralités
-  – l’iconographie : variété des figurations ; étude d’une mosaïque ; la parodie : Astérix
+  – l’iconographie – variété des figurations ; étude d’une mosaïque ; la parodie – Astérix
   3. Spartacus, version historique
   – les sources antiques
   – étude du texte de Florus
   – comparaison avec la version de Plutarque
   4. De l’histoire à la légende
   – l’art au service de la légende
-  – la mort de Spartacus : comparaison de deux romans
+  – la mort de Spartacus – comparaison de deux romans
   L’article est suivi de nombreux documents.
 article_pdf: 2932.pdf
 revue: L’école des lettres des collèges

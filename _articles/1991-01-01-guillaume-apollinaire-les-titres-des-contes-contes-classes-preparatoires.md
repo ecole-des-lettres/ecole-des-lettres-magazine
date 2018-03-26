@@ -1,6 +1,6 @@
 ---
 id: 548
-title: Guillaume Apollinaire : les titres des contes
+title: Guillaume Apollinaire – les titres des contes
 rubrique: Contes [classes préparatoires]
 annee: 1991
 magazine: n°13 15 juin 1992

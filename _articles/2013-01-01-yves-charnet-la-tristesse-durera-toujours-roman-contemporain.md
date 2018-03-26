@@ -1,6 +1,6 @@
 ---
 id: 12325
-title: Yves Charnet : « La tristesse durera toujours »
+title: Yves Charnet – « La tristesse durera toujours »
 rubrique: Roman contemporain
 annee: 2013
 magazine: février 2013

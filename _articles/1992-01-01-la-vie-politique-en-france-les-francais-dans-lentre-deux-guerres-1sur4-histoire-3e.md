@@ -7,7 +7,7 @@ magazine: n°14 15 juin 1993
 pages: 8
 description: 
   Introduction générale
-  Objectif : repenser les clichés et les idées reçues sur la société française de l’entre-deux-guerres…
+  Objectif – repenser les clichés et les idées reçues sur la société française de l’entre-deux-guerres…
 
   1. La vie et la mort ou les pièges de la démographie
   – les données (l’effectif de la population globale ; les taux de natalité et de mortalité ; la répartition par âge)

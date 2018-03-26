@@ -1,6 +1,6 @@
 ---
 id: 2841
-title: Marcel Aymé : « Les Contes du chat perché ». Étude intégrale 
+title: Marcel Aymé – « Les Contes du chat perché ». Étude intégrale 
 rubrique: Conte [6e]
 annee: 1997
 magazine: 1997

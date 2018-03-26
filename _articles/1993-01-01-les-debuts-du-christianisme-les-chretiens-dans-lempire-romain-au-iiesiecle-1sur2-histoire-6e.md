@@ -13,9 +13,9 @@ description:
   – la Gaule et l’empire au 2e siècle
   2. Particularité du 2e siècle dans le christianisme primitif
   – la fondation
-  – la naissance de l’Église : les judéo-chrétiens ; les premières institutions
+  – la naissance de l’Église – les judéo-chrétiens ; les premières institutions
   L’article comporte une bibliographie.
-  En annexes : l’économie en Gaule ; croquis de la ville de Lyon au 2e siècle ; carte de la Gaule au 2e siècle.
+  En annexes – l’économie en Gaule ; croquis de la ville de Lyon au 2e siècle ; carte de la Gaule au 2e siècle.
 article_pdf: 1363.pdf
 revue: L’école des lettres des collèges
 auteurs:

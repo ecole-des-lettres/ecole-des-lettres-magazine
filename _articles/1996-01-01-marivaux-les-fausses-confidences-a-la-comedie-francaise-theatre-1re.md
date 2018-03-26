@@ -1,6 +1,6 @@
 ---
 id: 2569
-title: Marivaux : « Les Fausses Confidences » à la Comédie-Française
+title: Marivaux – « Les Fausses Confidences » à la Comédie-Française
 rubrique: Théâtre [1re]
 annee: 1996
 magazine: n°8 1er février 1997

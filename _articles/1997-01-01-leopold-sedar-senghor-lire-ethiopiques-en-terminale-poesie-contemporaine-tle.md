@@ -1,6 +1,6 @@
 ---
 id: 2730
-title: Léopold Sédar Senghor : lire « Éthiopiques » en terminale
+title: Léopold Sédar Senghor – lire « Éthiopiques » en terminale
 rubrique: Poésie contemporaine [Tle]
 annee: 1997
 magazine: n°12 1er avril 1998
@@ -14,7 +14,7 @@ description: Si le professeur se réjouit de programmes qui le font sortir des r
   discipline scolaire encore traversée de débats contradictoires sur la définition
   de ses finalités, de son objet et de ses méthodes…
 article_pdf: 2730.pdf
-magazine_special: Senghor : Éthiopiques
+magazine_special: Senghor – Éthiopiques
 revue: L’école des lettres des lycées
 auteurs:
 - Monique Maquaire

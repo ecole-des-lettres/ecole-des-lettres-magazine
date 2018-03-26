@@ -1,6 +1,6 @@
 ---
 id: 1451
-title: Théophile Gautier : « Le Capitaine Fracasse ». Le théâtre, matière du roman
+title: Théophile Gautier – « Le Capitaine Fracasse ». Le théâtre, matière du roman
   et source du sens 
 rubrique: Récits du XIXe siècle [4e]
 annee: 1993
@@ -16,7 +16,7 @@ description: La théâtralité du « Capitaine Fracasse » ne vient pas seulem
   la complication, ainsi que la diversité des lieux où elle se déroule, et en découvrant,
   dans la peinture des personnages, un mélange de genres dû à l’alliance des deux
   courants littéraires en vogue au XVIIe siècle, la préciosité et le burlesque. Il
-  approfondit ensuite le rapport entre « Le Capitaine Fracasse » et le théâtre : l’intérêt
+  approfondit ensuite le rapport entre « Le Capitaine Fracasse » et le théâtre – l’intérêt
   principal de ce roman vient en effet de ce qu’il mobilise les principes mêmes qui
   définissent la théâtralité – masque, miroir, décor, métamorphose, jeu avec le double
   – pour en faire les principes qui le structurent et qui délivrent son sens.

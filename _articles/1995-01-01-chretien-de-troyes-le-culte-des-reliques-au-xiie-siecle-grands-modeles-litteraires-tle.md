@@ -7,7 +7,7 @@ magazine: n°6 15 janvier 1996
 pages: 7
 description: La quête d’une protection divine par le culte des reliques…
 article_pdf: 2112.pdf
-magazine_special: Chrétien de Troyes : Le Conte du Graal
+magazine_special: Chrétien de Troyes – Le Conte du Graal
 revue: L’école des lettres des lycées
 auteurs:
 - Nicole Gonthier

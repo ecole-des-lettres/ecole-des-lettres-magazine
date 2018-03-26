@@ -1,6 +1,6 @@
 ---
 id: 4154
-title: Honoré de Balzac : « Scènes de la vie privée » ou le spectacle de l’interdit
+title: Honoré de Balzac – « Scènes de la vie privée » ou le spectacle de l’interdit
 rubrique: Nouvelles [2de]
 annee: 2000
 magazine: n°9 15 janvier 2001

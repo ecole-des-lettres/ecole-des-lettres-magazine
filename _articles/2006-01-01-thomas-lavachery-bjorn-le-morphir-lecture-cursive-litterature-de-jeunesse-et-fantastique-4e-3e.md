@@ -1,6 +1,6 @@
 ---
 id: 11715
-title: Thomas Lavachery : « Bjorn le Morphir ». Lecture cursive
+title: Thomas Lavachery – « Bjorn le Morphir ». Lecture cursive
 rubrique: Littérature de jeunesse et fantastique [4e-3e]
 annee: 2006
 magazine: 2007

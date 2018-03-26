@@ -11,9 +11,9 @@ description:
   – orthographe à légitimer à l’aide du dictionnaire
   – technique du logo-rallye
   2. Homonymes homographes
-  – homonymes opposés par le genre : phrases mystérieuses à élucider ; phrases à compléter par le déterminant qui convient ; recherche, dans le dictionnaire, des variations de sens en fonction du genre
-  – homonymes de même genre ou verbes : phrases mystérieuses à élucider ; technique du logo-rallye
-  – homonymes opposés par le nombre : phrases à élucider ; un cas difficile : « appât » et « appas »
+  – homonymes opposés par le genre – phrases mystérieuses à élucider ; phrases à compléter par le déterminant qui convient ; recherche, dans le dictionnaire, des variations de sens en fonction du genre
+  – homonymes de même genre ou verbes – phrases mystérieuses à élucider ; technique du logo-rallye
+  – homonymes opposés par le nombre – phrases à élucider ; un cas difficile – « appât » et « appas »
   3. Homonymie ou polysémie ?
   – Y a-t-il « baie » et « baie » ?
   – De même, il y aurait « mine » et « mine »…

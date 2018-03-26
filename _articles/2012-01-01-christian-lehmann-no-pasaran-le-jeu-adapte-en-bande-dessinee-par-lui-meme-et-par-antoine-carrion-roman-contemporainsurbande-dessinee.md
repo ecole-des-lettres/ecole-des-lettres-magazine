@@ -1,6 +1,6 @@
 ---
 id: 12152
-title: Christian Lehmann : « No pasarán, le jeu », adapté en bande dessinée par lui-même
+title: Christian Lehmann – « No pasarán, le jeu », adapté en bande dessinée par lui-même
   et par Antoine Carrion
 rubrique: Roman contemporain/bande dessinée
 annee: 2012

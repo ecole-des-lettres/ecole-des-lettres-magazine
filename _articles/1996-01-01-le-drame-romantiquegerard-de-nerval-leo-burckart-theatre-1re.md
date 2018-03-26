@@ -1,6 +1,6 @@
 ---
 id: 2483
-title: Le drame romantiqueGérard de Nerval : « Léo Burckart » 
+title: Le drame romantiqueGérard de Nerval – « Léo Burckart » 
 rubrique: Théâtre  [1re]
 annee: 1996
 magazine: n°6 15 décembre 1996

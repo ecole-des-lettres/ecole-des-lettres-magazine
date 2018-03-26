@@ -1,6 +1,6 @@
 ---
 id: 5311
-title: « Au bout du monde à gauche », d’Avi Nesher : à chacun sa différence
+title: « Au bout du monde à gauche », d’Avi Nesher – à chacun sa différence
 rubrique: Cinéma
 annee: 2003
 magazine: n°11 1er mai 2004

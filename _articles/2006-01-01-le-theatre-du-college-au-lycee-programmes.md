@@ -5,7 +5,7 @@ rubrique: Programmes
 annee: 2006
 magazine: n°7 mars-avril 2007
 pages: 8
-description: La présence de l’objet d’étude « Théâtre : texte et représentation »
+description: La présence de l’objet d’étude « Théâtre – texte et représentation »
   dans les programmes de français en première est le signe d’évolutions pédagogiques
   intéressantes. L’enseignement du théâtre déborde en effet les seules options de
   spécialité de la série littéraire et fait entrer les principes des études théâtrales

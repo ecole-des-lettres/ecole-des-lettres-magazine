@@ -1,3 +1,3 @@
 ---
-title: 'Trois couleurs : bleu'
+title: 'Trois couleurs – bleu'
 ---

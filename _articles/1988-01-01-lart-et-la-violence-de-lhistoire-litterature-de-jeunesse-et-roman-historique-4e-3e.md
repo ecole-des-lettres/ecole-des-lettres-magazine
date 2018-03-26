@@ -9,7 +9,7 @@ description: La guerre à travers « Rascal », de Sterling North, « La Mais
   de Claude Gutman, « L’Alsace en torts et de travers », de Tomi Ungerer, et certains
   ouvrages de Michel Tournier…
 article_pdf: 87.pdf
-magazine_special: Littérature pour la jeunesse : le roman
+magazine_special: Littérature pour la jeunesse – le roman
 revue: L’école des lettres des collèges
 auteurs:
 - Jean Perrot

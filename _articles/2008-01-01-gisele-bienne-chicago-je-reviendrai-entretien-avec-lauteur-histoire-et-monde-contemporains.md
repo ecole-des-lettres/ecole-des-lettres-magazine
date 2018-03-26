@@ -1,6 +1,6 @@
 ---
 id: 11916
-title: Gisèle Bienne : « Chicago je reviendrai ». Entretien avec l’auteur
+title: Gisèle Bienne – « Chicago je reviendrai ». Entretien avec l’auteur
 rubrique: Histoire et monde contemporains
 annee: 2008
 magazine: n°3 2008-2009

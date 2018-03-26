@@ -1,6 +1,6 @@
 ---
 id: 2918
-title: Yves Stalloni : « Les Genres littéraires »
+title: Yves Stalloni – « Les Genres littéraires »
 rubrique: Didactique
 annee: 1997
 magazine: n°6 15 novembre 1997

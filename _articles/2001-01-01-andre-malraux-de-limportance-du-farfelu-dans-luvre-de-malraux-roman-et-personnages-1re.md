@@ -1,6 +1,6 @@
 ---
 id: 4481
-title: André Malraux : de l’importance du farfelu dans l’œuvre de Malraux
+title: André Malraux – de l’importance du farfelu dans l’œuvre de Malraux
 rubrique: Roman et personnages [1re]
 annee: 2001
 magazine: n°6 15 novembre 2001

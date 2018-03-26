@@ -6,7 +6,7 @@ annee: 2013
 magazine: n°1
 pages: 3
 description: Une réforme des programmes du collège est annoncée. De grandes orientations
-  ont été définies, de grands mots, de grandes idées ont été avancés : repenser la
+  ont été définies, de grands mots, de grandes idées ont été avancés – repenser la
   liaison primaire-collège, entrer dans l’ère du numérique, renforcer le socle commun
   des connaissances. Soit. Mais aura-t-on affaire à une réforme ou à une révision
   ?

@@ -5,7 +5,7 @@ rubrique: Théâtre [1re]
 annee: 1999
 magazine: n°12 mai 2000
 pages: 10
-description: Maîtres et valets chez Lesage : dans « Crispin rival de son maître »
+description: Maîtres et valets chez Lesage – dans « Crispin rival de son maître »
   et « Turcaret »…
 article_pdf: 3517.pdf
 magazine_special: Maîtres et valets dans la comédie du XVIIIe siècle

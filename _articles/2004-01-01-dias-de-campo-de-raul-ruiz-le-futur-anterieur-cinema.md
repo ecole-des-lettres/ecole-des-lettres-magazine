@@ -1,6 +1,6 @@
 ---
 id: 11203
-title: « Dias de campo », de Raul Ruiz : le futur antérieur
+title: « Dias de campo », de Raul Ruiz – le futur antérieur
 rubrique: Cinéma
 annee: 2004
 magazine: n°5 janvier 2005

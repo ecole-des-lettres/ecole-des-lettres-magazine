@@ -1,6 +1,6 @@
 ---
 id: 2458
-title: « La Chanson des Nibelungen » : l’épopée allemande
+title: « La Chanson des Nibelungen » – l’épopée allemande
 rubrique: Épopée médiévale [classes préparatoires et concours]
 annee: 1996
 magazine: n°5 1er décembre 1996
@@ -20,7 +20,7 @@ description:
   – « L’Épopée de Dietrich »
   5. L’épopée allemande et l’histoire
 article_pdf: 2458.pdf
-magazine_special: Nibelungen : chanson des Nibelungen
+magazine_special: Nibelungen – chanson des Nibelungen
 revue: L’école des lettres des collèges
 auteurs:
 - Danielle Buschinger

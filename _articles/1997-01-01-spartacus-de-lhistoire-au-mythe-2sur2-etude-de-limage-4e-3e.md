@@ -6,9 +6,9 @@ annee: 1997
 magazine: n°8 15 décembre 1997
 pages: 15
 description: 
-  – la mort de Spartacus : comparaison de deux films
-  – une bande dessinée : « Le Fils de Spartacus », de Jacques Martin
-  – Spartacus, héros immortel : étude d’une photo
+  – la mort de Spartacus – comparaison de deux films
+  – une bande dessinée – « Le Fils de Spartacus », de Jacques Martin
+  – Spartacus, héros immortel – étude d’une photo
   L’article est suivi de nombreux documents.
 article_pdf: 2956.pdf
 revue: L’école des lettres des collèges

@@ -1,6 +1,6 @@
 ---
 id: 11718
-title: Gisèle Bienne : « Le Cavalier démonté ». Lecture cursive
+title: Gisèle Bienne – « Le Cavalier démonté ». Lecture cursive
 rubrique: Littérature de jeunesse et roman historique [3e]
 annee: 2006
 magazine: 

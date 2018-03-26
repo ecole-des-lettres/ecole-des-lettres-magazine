@@ -10,7 +10,7 @@ description:
   2. Typologie bureaucratique
   3. Motifs récurrents
 article_pdf: 890.pdf
-magazine_special: Maupassant : romans et nouvelles
+magazine_special: Maupassant – romans et nouvelles
 revue: L’école des lettres des lycées
 auteurs:
 - Anne-Marie Baron

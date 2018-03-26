@@ -1,6 +1,6 @@
 ---
 id: 2313
-title: Alain Korkos : « En attendant Éliane ». Lecture cursive 
+title: Alain Korkos – « En attendant Éliane ». Lecture cursive 
 rubrique: Littérature de jeunesse et roman historique [3e]
 annee: 1996
 magazine: n°13 15 mai 1997

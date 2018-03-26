@@ -16,7 +16,7 @@ description: Le programme de seconde insère le théâtre dans l’histoire litt
   avec la représentation. Il s’agit de faire prendre conscience aux élèves que la
   mise en scène moderne, notion récente, est une interprétation du texte qui laisse
   ouverts d’autres sens possibles. Les genres sont également appréhendés à travers
-  leurs enjeux pragmatiques : leurs effets émotionnels et leur visée argumentative
+  leurs enjeux pragmatiques – leurs effets émotionnels et leur visée argumentative
   (critique des mœurs pour la comédie et réflexion politique pour la tragédie). Des
   groupements de textes (présentés de façon plus schématique), comportant des œuvres
   du XVIIIe au XXe siècle, complètent l’analyse des œuvres intégrales et permettent

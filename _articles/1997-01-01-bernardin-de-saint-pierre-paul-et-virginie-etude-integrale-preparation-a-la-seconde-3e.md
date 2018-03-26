@@ -1,6 +1,6 @@
 ---
 id: 2977
-title: Bernardin de Saint-Pierre : « Paul et Virginie ». Étude intégrale
+title: Bernardin de Saint-Pierre – « Paul et Virginie ». Étude intégrale
 rubrique: Préparation à la seconde [3e]
 annee: 1997
 magazine: 1998

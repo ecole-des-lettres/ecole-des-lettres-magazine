@@ -1,6 +1,6 @@
 ---
 id: 270
-title: Jean-Côme Noguès : « Le Faucon déniché ». Étude intégrale (1/4)
+title: Jean-Côme Noguès – « Le Faucon déniché ». Étude intégrale (1/4)
 rubrique: Littérature de jeunesse et Moyen Âge [5e]
 annee: 1990
 magazine: n°2 1er octobre 1990

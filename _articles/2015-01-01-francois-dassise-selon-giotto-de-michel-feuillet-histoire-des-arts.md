@@ -6,7 +6,7 @@ annee: 2015
 magazine: mars 2015
 pages: 4
 description: Le « François d’Assise selon Giotto », de Michel Feuillet, pourrait
-  être un livre d’art, ou un essai hagiographique : c’est l’histoire d’une rencontre.
+  être un livre d’art, ou un essai hagiographique – c’est l’histoire d’une rencontre.
   Ils ne sont pas de la même époque (à quelques décennies près), ne suivent pas la
   même route, n’ont pas connu le même destin, mais ils sont animés tous deux par une
   égale ferveur – spirituelle ici, esthétique là – et unis par la même aura posthume...

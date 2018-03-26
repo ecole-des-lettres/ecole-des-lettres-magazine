@@ -1,6 +1,6 @@
 ---
 id: 11694
-title: Valérie Zenatti : « Adieu mes neuf ans ». Lecture cursive
+title: Valérie Zenatti – « Adieu mes neuf ans ». Lecture cursive
 rubrique: Littérature de jeunesse [CM-6e]
 annee: 2006
 magazine: 2007

@@ -7,9 +7,9 @@ magazine: n°14 15 juin 1993
 pages: 4
 description: 
   1. Grammaticalité, usage(s) et norme
-  2. Les usages : variations régionales
-  3. Les usages : variantes liées au temps
-  4. Les usages : variantes sociales
+  2. Les usages – variations régionales
+  3. Les usages – variantes liées au temps
+  4. Les usages – variantes sociales
   5. Quel français enseigner ?
 article_pdf: 920.pdf
 revue: L’école des lettres des collèges

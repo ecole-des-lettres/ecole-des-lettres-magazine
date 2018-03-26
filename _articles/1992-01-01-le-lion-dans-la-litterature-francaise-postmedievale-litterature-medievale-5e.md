@@ -19,7 +19,7 @@ description:
   – de la rupture comique à une quête de vérité
   L’article est suivi d’une liste des fables de La Fontaine portant sur le lion.
 article_pdf: 860.pdf
-magazine_special: Chrétien de Troyes : Yvain, le Chevalier au Lion
+magazine_special: Chrétien de Troyes – Yvain, le Chevalier au Lion
 revue: L’école des lettres des collèges
 auteurs:
 - Guy Lavorel

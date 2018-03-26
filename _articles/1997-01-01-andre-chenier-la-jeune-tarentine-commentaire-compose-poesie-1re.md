@@ -1,6 +1,6 @@
 ---
 id: 2851
-title: André Chénier : « La Jeune Tarentine ». Commentaire composé 
+title: André Chénier – « La Jeune Tarentine ». Commentaire composé 
 rubrique: Poésie [1re]
 annee: 1997
 magazine: n°4 15 octobre 1997

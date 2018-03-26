@@ -1,6 +1,6 @@
 ---
 id: 2607
-title: Christian Lehmann : « No pasaràn, le jeu ». Lecture cursive 
+title: Christian Lehmann – « No pasaràn, le jeu ». Lecture cursive 
 rubrique: Littérature de jeunesse et fantastique [4e]
 annee: 1997
 magazine: n°1 1er septembre 1997

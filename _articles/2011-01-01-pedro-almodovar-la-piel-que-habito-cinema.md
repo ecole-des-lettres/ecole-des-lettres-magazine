@@ -1,6 +1,6 @@
 ---
 id: 12467
-title: Pedro Almòdovar : « La piel que habito »
+title: Pedro Almòdovar – « La piel que habito »
 rubrique: Cinéma
 annee: 2011
 magazine: septembre 2011

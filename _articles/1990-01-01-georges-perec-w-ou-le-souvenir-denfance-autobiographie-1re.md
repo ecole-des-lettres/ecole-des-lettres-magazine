@@ -1,6 +1,6 @@
 ---
 id: 227
-title: Georges Perec : « W ou le Souvenir d’enfance » 
+title: Georges Perec – « W ou le Souvenir d’enfance » 
 rubrique: Autobiographie [1re]
 annee: 1990
 magazine: n°14 15 juillet 1991

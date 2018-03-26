@@ -1,6 +1,6 @@
 ---
 id: 3523
-title: Beaumarchais : « Le Mariage de Figaro ». Étude d’extrait : acte III, scène
+title: Beaumarchais – « Le Mariage de Figaro ». Étude d’extrait – acte III, scène
   5
 rubrique: Théâtre [1re]
 annee: 1999

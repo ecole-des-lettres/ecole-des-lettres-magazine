@@ -1,6 +1,6 @@
 ---
 id: 5068
-title: « Cazotte : Le Diable amoureux »
+title: « Cazotte – Le Diable amoureux »
 rubrique: 
 annee: 1992
 magazine: n°10 15 mars 1993
@@ -17,7 +17,7 @@ description:
   – la portée morale du Diable amoureux ou la vérité refusée
   Dossier réalisé par Sylvie Ducas-Spaës
 article_pdf: 5068.pdf
-magazine_special: Cazotte : Le Diable amoureux
+magazine_special: Cazotte – Le Diable amoureux
 revue: L’école des lettres des lycées
 disciplines:
 - lettres

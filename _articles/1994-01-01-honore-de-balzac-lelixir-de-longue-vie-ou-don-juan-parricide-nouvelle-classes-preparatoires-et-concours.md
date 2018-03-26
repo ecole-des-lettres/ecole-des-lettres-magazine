@@ -1,6 +1,6 @@
 ---
 id: 1645
-title: Honoré de Balzac : « L’Élixir de longue vie » ou don Juan parricide 
+title: Honoré de Balzac – « L’Élixir de longue vie » ou don Juan parricide 
 rubrique: Nouvelle [classes préparatoires et concours]
 annee: 1994
 magazine: n°2 1er octobre 1994

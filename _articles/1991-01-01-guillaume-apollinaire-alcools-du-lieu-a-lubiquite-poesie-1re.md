@@ -1,6 +1,6 @@
 ---
 id: 525
-title: Guillaume Apollinaire : « Alcools ». Du lieu à l’ubiquité 
+title: Guillaume Apollinaire – « Alcools ». Du lieu à l’ubiquité 
 rubrique: Poésie [1re]
 annee: 1991
 magazine: n°12 1er juin 1992

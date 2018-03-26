@@ -1,6 +1,6 @@
 ---
 id: 11366
-title: Émile Zola : « Le Roman expérimental »
+title: Émile Zola – « Le Roman expérimental »
 rubrique: Roman [2de-1re]
 annee: 2005
 magazine: n°10 avril 2006

@@ -1,6 +1,6 @@
 ---
 id: 1318
-title: Émile Zola : « Germinal ». Le Voreux ou l’ogre 
+title: Émile Zola – « Germinal ». Le Voreux ou l’ogre 
 rubrique: Le récit (roman ou nouvelle) [2de-1re]
 annee: 1993
 magazine: n°4 1er novembre 1993
@@ -21,12 +21,12 @@ description:
   – « l’ogre sans cesse affamé du capital… »
   – « les forts mangeant les faibles »
   – « la société qui craque un instant »
-  4. Le mythe du Voreux : du réalisme à l’affleurement mythique
+  4. Le mythe du Voreux – du réalisme à l’affleurement mythique
   – « la mythologie est partout dans Germinal »
   – « ces holocaustes de chair »
-  – du réel au mythe dans l’évocation du Voreux : un exemple d’analyse textuelle
+  – du réel au mythe dans l’évocation du Voreux – un exemple d’analyse textuelle
 article_pdf: 1318.pdf
-magazine_special: Zola : Germinal
+magazine_special: Zola – Germinal
 revue: L’école des lettres des lycées
 auteurs:
 - Sylvie Ducas-Spaës

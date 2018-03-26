@@ -1,6 +1,6 @@
 ---
 id: 11345
-title: Henry Bauchau : « Antigone »
+title: Henry Bauchau – « Antigone »
 rubrique: Grands modèles littéraires et réécritures [Tle]
 annee: 2005
 magazine: n°8 février 2006

@@ -1,6 +1,6 @@
 ---
 id: 12392
-title: La librairie introuvable : chronique de campagne
+title: La librairie introuvable – chronique de campagne
 rubrique: Éducation
 annee: 2012
 magazine: août 2012

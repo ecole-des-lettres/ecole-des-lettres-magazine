@@ -1,6 +1,6 @@
 ---
 id: 408
-title: Jules Barbey d’Aurevilly : « Les Diaboliques ». Le fer et le sang : vision
+title: Jules Barbey d’Aurevilly – « Les Diaboliques ». Le fer et le sang – vision
   mythique du XVIe siècle 
 rubrique: Nouvelles [2de]
 annee: 1990
@@ -9,10 +9,10 @@ pages: 6
 description: 
   1. Quel XVIe siècle ?
   2. Un réseau emblématique
-  3. Construction du mythe : « L’âpre saveur de la vie »
+  3. Construction du mythe – « L’âpre saveur de la vie »
   4. Mythe et conception de l’histoire
 article_pdf: 408.pdf
-magazine_special: Barbey d’Aurevilly : Les Diaboliques
+magazine_special: Barbey d’Aurevilly – Les Diaboliques
 revue: L’école des lettres des lycées
 auteurs:
 - Michèle Clément

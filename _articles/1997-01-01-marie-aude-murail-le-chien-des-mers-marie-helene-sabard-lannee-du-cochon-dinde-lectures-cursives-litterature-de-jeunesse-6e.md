@@ -1,6 +1,6 @@
 ---
 id: 2805
-title: Marie-Aude Murail : « Le Chien des mers » ; Marie-Hélène Sabard : « L’Année
+title: Marie-Aude Murail – « Le Chien des mers » ; Marie-Hélène Sabard – « L’Année
   du cochon d’Inde ». Lectures cursives
 rubrique: Littérature de jeunesse [6e]
 annee: 1997

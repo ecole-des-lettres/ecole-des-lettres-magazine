@@ -1,6 +1,6 @@
 ---
 id: 11267
-title: L’écriture dramatique : une expression sous haute surveillance
+title: L’écriture dramatique – une expression sous haute surveillance
 rubrique: Théâtre
 annee: 2004
 magazine: n°11-12 août 2005

@@ -1,6 +1,6 @@
 ---
 id: 2308
-title: Robert Louis Stevenson : « Un mort encombrant ». Étude intégrale  
+title: Robert Louis Stevenson – « Un mort encombrant ». Étude intégrale  
 rubrique: Récit humoristique [5e-4e]
 annee: 1996
 magazine: 1997
@@ -9,7 +9,7 @@ description: « Un mort encombrant » (1889), que Robert Louis Stevenson a éc
   collaboration avec son beau-fils, Lloyd Osbourne, est un roman dynamique et sans
   temps mort. L’histoire débute sur un quiproquo qui va en générer bien d’autres.
   Le lecteur découvre alors une série de situations invraisemblables en apparence,
-  mais dont la construction et l’enchaînement ne laissent rien au hasard : le roman
+  mais dont la construction et l’enchaînement ne laissent rien au hasard – le roman
   ne cesse jamais d’éveiller la curiosité et d’entretenir le suspense. Au-delà du
   divertissement, « Un mort encombrant » instruit sur des comportements et des coutumes.
   Les aventures des personnages, toujours à la limite du tragique, demeurent comiques

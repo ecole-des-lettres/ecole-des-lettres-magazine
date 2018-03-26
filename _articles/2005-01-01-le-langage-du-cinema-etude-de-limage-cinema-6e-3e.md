@@ -1,7 +1,7 @@
 ---
 id: 11744
 title: Le langage du cinéma
-rubrique: Étude de l’image : cinéma [6e-3e]
+rubrique: Étude de l’image – cinéma [6e-3e]
 annee: 2005
 magazine: 
 pages: 1

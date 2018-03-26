@@ -1,6 +1,6 @@
 ---
 id: 1247
-title: Nikita Mikhalkov : « Soleil trompeur »
+title: Nikita Mikhalkov – « Soleil trompeur »
 rubrique: Cinéma
 annee: 1993
 magazine: n°13-14 juillet 1994

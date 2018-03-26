@@ -1,6 +1,6 @@
 ---
 id: 3378
-title: Nicolas Boileau : « Satire X ». Commentaire composé 
+title: Nicolas Boileau – « Satire X ». Commentaire composé 
 rubrique: L’argumentation[1re]
 annee: 1998
 magazine: n°9 15 janvier 1999

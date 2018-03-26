@@ -7,7 +7,7 @@ magazine:
 pages: 2
 description: « Suzanne » passera aux yeux de beaucoup pour un petit film alors que
   c’est d’abord un grand film moral, sans effets appuyés, servi par des acteurs exceptionnels,
-  des ambiances ô combien perçues avec justesse : ce Sud des bals du samedi soir,
+  des ambiances ô combien perçues avec justesse – ce Sud des bals du samedi soir,
   des petites gens qui n’ont rien mais qui donnent tout, des petits et gros trafics,
   des vies cabossées, des appartements trop chauds l’été où l’on s’entasse dans une
   odeur de sueur et deb  soirs d’oubli. Et tous ces lieux que l’on connaît souvent

@@ -1,6 +1,6 @@
 ---
 id: 305
-title: Julien Gracq : « Au château d’Argol ». Étude d’extrait 
+title: Julien Gracq – « Au château d’Argol ». Étude d’extrait 
 rubrique: Réécritures [1re]
 annee: 1990
 magazine: n°4 1er novembre 1990

@@ -1,6 +1,6 @@
 ---
 id: 11870
-title:  Lecture cursive [2de-1re] Nicolas Gogol : « Tarass Boulba »
+title:  Lecture cursive [2de-1re] Nicolas Gogol – « Tarass Boulba »
 rubrique: 
 annee: 2001
 magazine: n°10 15 février 2002

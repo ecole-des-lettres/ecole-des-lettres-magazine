@@ -1,6 +1,6 @@
 ---
 id: 12519
-title: Edgar Morin : « La Voie. Pour l’avenir de l’humanité »
+title: Edgar Morin – « La Voie. Pour l’avenir de l’humanité »
 rubrique: Sciences humaines
 annee: 2011
 magazine: mars 2011

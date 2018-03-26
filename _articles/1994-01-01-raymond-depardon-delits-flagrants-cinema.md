@@ -1,6 +1,6 @@
 ---
 id: 1650
-title: Raymond Depardon : « Délits flagrants »
+title: Raymond Depardon – « Délits flagrants »
 rubrique: Cinéma
 annee: 1994
 magazine: n°2 1er octobre 1994

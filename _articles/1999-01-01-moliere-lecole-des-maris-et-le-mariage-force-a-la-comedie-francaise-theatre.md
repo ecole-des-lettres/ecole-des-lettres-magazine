@@ -1,6 +1,6 @@
 ---
 id: 3783
-title: Molière : « L’École des maris » et « Le Mariage forcé » à la Comédie-Française
+title: Molière – « L’École des maris » et « Le Mariage forcé » à la Comédie-Française
 rubrique: Théâtre
 annee: 1999
 magazine: n°9 15 janvier 2000

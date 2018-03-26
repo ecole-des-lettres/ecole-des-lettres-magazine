@@ -1,6 +1,6 @@
 ---
 id: 11080
-title: « La première fois que j’ai eu vingt ans » : de Susie Morgenstern à Lorraine
+title: « La première fois que j’ai eu vingt ans » – de Susie Morgenstern à Lorraine
   Lévy, l’adaptation, un partage dans la liberté
 rubrique: Littérature de jeunesse et étude de l’image [3e]
 annee: 2004

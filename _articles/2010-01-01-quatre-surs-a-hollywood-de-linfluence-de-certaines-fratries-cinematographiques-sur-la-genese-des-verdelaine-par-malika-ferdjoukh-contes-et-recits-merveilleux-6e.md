@@ -1,6 +1,6 @@
 ---
 id: 12090
-title: Quatre sœurs à Hollywood : de l’influence de certaines fratries cinématographiques
+title: Quatre sœurs à Hollywood – de l’influence de certaines fratries cinématographiques
   sur la genèse des Verdelaine par Malika Ferdjoukh
 rubrique: Contes et récits merveilleux [6e]
 annee: 2010

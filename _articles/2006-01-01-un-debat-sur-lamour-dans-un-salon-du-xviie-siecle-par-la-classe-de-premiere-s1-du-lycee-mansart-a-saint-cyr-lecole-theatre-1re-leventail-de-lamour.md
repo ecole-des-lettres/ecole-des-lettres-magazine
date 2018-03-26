@@ -7,7 +7,7 @@ annee: 2006
 magazine: 2007
 pages: 29
 description: Cet article relate une expérience pédagogique menée avec deux classes
-  de première S : il s’agissait d’abord de proposer un exercice d’écriture qui s’inscrive
+  de première S – il s’agissait d’abord de proposer un exercice d’écriture qui s’inscrive
   dans la préparation du bac français, l’écriture d’invention. Associée à l’étude
   du texte dramatique et du dialogue argumentatif, l’écriture d’invention a pour but
   de « mettre en application quelques-unes des caractéristiques de ces types de texte ».

@@ -1,6 +1,6 @@
 ---
 id: 11984
-title: Rascal et Peter Elliott : « Étoile » (série « Le Petit Cirque »). Étude intégrale
+title: Rascal et Peter Elliott – « Étoile » (série « Le Petit Cirque »). Étude intégrale
 rubrique: Bande dessinée [CM-6e]
 annee: 2009
 magazine: n°7 2009-2010

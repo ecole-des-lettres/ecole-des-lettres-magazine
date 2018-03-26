@@ -1,6 +1,6 @@
 ---
 id: 11118
-title: Hector Malot : « Sans famille ». Étude intégrale
+title: Hector Malot – « Sans famille ». Étude intégrale
 rubrique: Roman [5e]
 annee: 2004
 magazine: n°8 avril 2005

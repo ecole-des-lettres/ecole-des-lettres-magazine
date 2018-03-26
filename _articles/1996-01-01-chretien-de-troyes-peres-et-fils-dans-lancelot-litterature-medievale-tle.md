@@ -1,6 +1,6 @@
 ---
 id: 2253
-title: Chrétien de Troyes : pères et fils dans « Lancelot »
+title: Chrétien de Troyes – pères et fils dans « Lancelot »
 rubrique: Littérature médiévale [Tle]
 annee: 1996
 magazine: n°10 1er mars 1997
@@ -10,7 +10,7 @@ description: Les relations père-fils sont au centre du roman de Chrétien de Tr
   comme un traité d’éducation s’interrogeant sur l’autorité, la rivalité, les conflits
   et les problèmes de succession du fils au père.
 article_pdf: 2253.pdf
-magazine_special: Chrétien de Troyes : Lancelot ou le Chevalier de la charrette
+magazine_special: Chrétien de Troyes – Lancelot ou le Chevalier de la charrette
 revue: L’école des lettres des lycées
 auteurs:
 - Alban Georges

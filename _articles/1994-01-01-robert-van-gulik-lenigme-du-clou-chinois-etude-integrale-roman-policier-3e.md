@@ -1,6 +1,6 @@
 ---
 id: 1597
-title: Robert Van Gulik : « L’Énigme du clou chinois ». Étude intégrale
+title: Robert Van Gulik – « L’Énigme du clou chinois ». Étude intégrale
 rubrique: Roman policier [3e]
 annee: 1994
 magazine: n°13-14 30 juin 1995
@@ -12,7 +12,7 @@ description:
   – biographie de Robert Van Gulik
   – la Chine vers l’an 670
   – l’authenticité romanesque
-  – plan de l’étude : aider les élèves à entrer dans le roman ; les aspects événementiels
+  – plan de l’étude – aider les élèves à entrer dans le roman ; les aspects événementiels
   2. Monsieur Tchou, meurtrier
   – le portrait d’un meurtrier
   – les indices
@@ -26,7 +26,7 @@ description:
   – questionnaire de lecture
   – réponses au questionnaire
   – sujets de composition française
-  – prolongements : comparaison avec une enquête occidentale contemporaine ; la narration comme labyrinthe
+  – prolongements – comparaison avec une enquête occidentale contemporaine ; la narration comme labyrinthe
   L’article comporte une bibliographie.
 article_pdf: 1597.pdf
 revue: L’école des lettres des collèges

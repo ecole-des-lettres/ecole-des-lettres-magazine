@@ -1,6 +1,6 @@
 ---
 id: 12901
-title: « Chant furieux », de Philippe Bordas : chanter le héros
+title: « Chant furieux », de Philippe Bordas – chanter le héros
 rubrique: Roman contemporain
 annee: 2014
 magazine: septembre 2014

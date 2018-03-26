@@ -1,6 +1,6 @@
 ---
 id: 1689
-title: George Sand : « La Mare au diable ». Étude intégrale (1/3)
+title: George Sand – « La Mare au diable ». Étude intégrale (1/3)
 rubrique: Récits du XIXe siècle [4e]
 annee: 1994
 magazine: n°4 15 novembre 1994
@@ -9,7 +9,7 @@ description: Dès sa parution en 1815, « La Mare au diable » connut, pendant p
   d’un siècle, un succès sans cesse grandissant. Aujourd’hui, ce roman, qui figure
   au programme des Instructions officielles, dépoussiéré de ses clichés de « roman
   champêtre », est un remarquable roman initiatique, comportant plusieurs volets et
-  susceptible de multiples\nlectures :\n– roman d’initiation à une réflexion sur l’amour
+  susceptible de multiples\nlectures – \n– roman d’initiation à une réflexion sur l’amour
   et sur les premiers émois amoureux des adolescents ; \n– roman d’initiation à la
   prise de conscience des potentialités des droits de la femme et, par là même, de
   l’adolescente ;\n– roman d’initiation à une lecture plurielle des textes, puisqu’il

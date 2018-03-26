@@ -1,6 +1,6 @@
 ---
 id: 598
-title: Max Ernst : l’art, l’inconscient, la fiction
+title: Max Ernst – l’art, l’inconscient, la fiction
 rubrique: Histoire des arts
 annee: 1991
 magazine: n°3 15 octobre 1991

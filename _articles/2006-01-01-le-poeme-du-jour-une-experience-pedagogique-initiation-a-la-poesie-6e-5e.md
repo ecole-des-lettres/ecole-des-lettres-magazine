@@ -1,6 +1,6 @@
 ---
 id: 11518
-title: Le poème du jour : une expérience pédagogique 
+title: Le poème du jour – une expérience pédagogique 
 rubrique: Initiation à la poésie [6e-5e]
 annee: 2006
 magazine: n°8 juin 2007

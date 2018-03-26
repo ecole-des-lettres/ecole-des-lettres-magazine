@@ -1,6 +1,6 @@
 ---
 id: 662
-title: La question de l’enseignement de l’histoire des religions : une redéfinition
+title: La question de l’enseignement de l’histoire des religions – une redéfinition
   de la culture générale
 rubrique: Histoire et didactique
 annee: 1991

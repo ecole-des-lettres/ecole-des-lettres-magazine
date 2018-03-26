@@ -7,7 +7,7 @@ magazine: n°14 juillet 1998
 pages: 7
 description: La lecture vue par l’écrivain Christiane Baroche.
 article_pdf: 2795.pdf
-magazine_special: Lecture : le génie du lecteur, colloque de Cerisy
+magazine_special: Lecture – le génie du lecteur, colloque de Cerisy
 revue: L’école des lettres des lycées
 auteurs:
 - Christiane Baroche

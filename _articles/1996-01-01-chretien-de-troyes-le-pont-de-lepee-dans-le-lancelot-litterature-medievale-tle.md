@@ -1,13 +1,13 @@
 ---
 id: 2248
-title: Chrétien de Troyes : le pont de l’épée dans le « Lancelot »
+title: Chrétien de Troyes – le pont de l’épée dans le « Lancelot »
 rubrique: Littérature médiévale [Tle]
 annee: 1996
 magazine: n°10 1er mars 1997
 pages: 7
 description: 
   Le franchissement du Pont de l’Épée s’inscrit dans la longue suite d’épreuves qui s’imposent à Lancelot dans sa quête de Guenièvre…
-  Étude littéraire des vers 3003 à 3141 :
+  Étude littéraire des vers 3003 à 3141 – 
   1. L’écriture de l’aventure
   – le fil dramatique
   – susciter la peur
@@ -17,7 +17,7 @@ description:
   – mirage païen et miracle chrétien
   – le miracle de l’amour
 article_pdf: 2248.pdf
-magazine_special: Chrétien de Troyes : Lancelot ou le Chevalier de la charrette
+magazine_special: Chrétien de Troyes – Lancelot ou le Chevalier de la charrette
 revue: L’école des lettres des lycées
 auteurs:
 - Didier Verney

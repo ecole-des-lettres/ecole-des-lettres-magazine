@@ -16,7 +16,7 @@ description:
   – l’émigration protestante
   – la résistance armée
   – le protestantisme français et l’histoire
-  L’article est suivi de plusieurs documents : les protestants dans la société du XVIIe siècle ; la révocation de l’édit de Nantes ; l’émigration huguenote.
+  L’article est suivi de plusieurs documents – les protestants dans la société du XVIIe siècle ; la révocation de l’édit de Nantes ; l’émigration huguenote.
 article_pdf: 1337.pdf
 revue: L’école des lettres des collèges
 auteurs:

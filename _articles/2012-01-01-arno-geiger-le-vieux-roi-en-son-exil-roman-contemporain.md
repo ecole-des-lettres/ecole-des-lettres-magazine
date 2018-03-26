@@ -1,6 +1,6 @@
 ---
 id: 12361
-title: Arno Geiger : « Le Vieux Roi en son exil »
+title: Arno Geiger – « Le Vieux Roi en son exil »
 rubrique: Roman contemporain
 annee: 2012
 magazine: novembre 2012

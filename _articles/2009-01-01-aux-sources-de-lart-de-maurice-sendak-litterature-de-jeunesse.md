@@ -7,7 +7,7 @@ magazine: n°3 2009-2010
 pages: 6
 description: Quiconque parcourt l’ensemble de l’œuvre de Maurice Sendak ne peut qu’être
   intimidé par sa très grande richesse et sa profonde complexité. Qu’il s’agisse des
-  thèmes abordés : la colère, la rupture et la réconciliation, la jalousie, l’injustice,
+  thèmes abordés – la colère, la rupture et la réconciliation, la jalousie, l’injustice,
   la condition des enfants, leur vitalité, leur fragilité, leur vulnérabilité, leurs
   peurs, leur sensualité, la jubilation que procure le jeu, le pouvoir de la psyché
   et de l’imaginaire... Tout en s’inscrivant dans l’évolution de l’album contemporain

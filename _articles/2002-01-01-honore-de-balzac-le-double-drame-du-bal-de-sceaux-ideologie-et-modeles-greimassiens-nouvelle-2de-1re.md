@@ -1,6 +1,6 @@
 ---
 id: 5008
-title: Honoré de Balzac : Le double drame du « Bal de Sceaux », idéologie et modèles
+title: Honoré de Balzac – Le double drame du « Bal de Sceaux », idéologie et modèles
   greimassiens
 rubrique: Nouvelle [2de-1re]
 annee: 2002

@@ -22,7 +22,7 @@ description:
   4. Travaux divers
   – travail avec le dictionnaire
   – les animaux et la publicité
-  Texte annexe : un extrait du « Jacassin », de Pierre Daninos, suivi d’un questionnaire.
+  Texte annexe – un extrait du « Jacassin », de Pierre Daninos, suivi d’un questionnaire.
 article_pdf: 961.pdf
 revue: L’école des lettres des collèges
 auteurs:

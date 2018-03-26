@@ -1,6 +1,6 @@
 ---
 id: 5336
-title: Marie-Aude Murail : « Tu t’es vue quand tu écris ? »
+title: Marie-Aude Murail – « Tu t’es vue quand tu écris ? »
 rubrique: Lexpression écrite au collège [6e-3e]
 annee: 2003
 magazine: n°13 juin 2004

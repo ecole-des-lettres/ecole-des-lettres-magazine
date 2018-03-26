@@ -1,7 +1,7 @@
 ---
 id: 11500
-title: Wolfgang Becker : « Good Bye Lenin ! »
-rubrique: Étude de l’image : cinéma [4e-3e]
+title: Wolfgang Becker – « Good Bye Lenin ! »
+rubrique: Étude de l’image – cinéma [4e-3e]
 annee: 2006
 magazine: n°5-6 janvier-février 2007
 pages: 11

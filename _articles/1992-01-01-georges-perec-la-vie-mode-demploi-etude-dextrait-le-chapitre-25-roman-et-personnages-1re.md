@@ -1,6 +1,6 @@
 ---
 id: 1061
-title: Georges Perec : « La Vie mode d’emploi ». Étude d’extrait : le chapitre 25 
+title: Georges Perec – « La Vie mode d’emploi ». Étude d’extrait – le chapitre 25 
 rubrique: Roman et personnages [1re]
 annee: 1992
 magazine: n°8 1er février 1993

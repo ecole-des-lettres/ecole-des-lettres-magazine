@@ -1,12 +1,12 @@
 ---
 id: 12268
-title: Émile Zola : « Nouvelles roses » et « Nouvelles noires », édition d’Henri
+title: Émile Zola – « Nouvelles roses » et « Nouvelles noires », édition d’Henri
   Mitterand
 rubrique: Nouvelles
 annee: 2013
 magazine: juin 2013
 pages: 2
-description: Ce n’est pas par ses nouvelles que Zola a conquis la notoriété : du
+description: Ce n’est pas par ses nouvelles que Zola a conquis la notoriété – du
   recueil collectif « Les Soirées de Médan », paru sous son patronage en 1880, la
   postérité a retenu le chef-d’œuvre du jeune Maupassant, « Boule de suif », consacré
   depuis comme le maître du genre, et oublié « L’Attaque du moulin ». Henri Mitterand,

@@ -1,6 +1,6 @@
 ---
 id: 11821
-title: « Aime comme Mathilde », de Sophie Chérer et « Nonpareil » de Marie-Aude Murail :
+title: « Aime comme Mathilde », de Sophie Chérer et « Nonpareil » de Marie-Aude Murail – 
   deux contes d’aujourd’hui. Lectures cursives autour des contes 
 rubrique: Littérature de jeunesse [6e-3e]
 annee: 2007

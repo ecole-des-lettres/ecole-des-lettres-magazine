@@ -1,6 +1,6 @@
 ---
 id: 4339
-title: Sophie Van Der Linden : « Claude Ponti »
+title: Sophie Van Der Linden – « Claude Ponti »
 rubrique: Littérature de jeunesse
 annee: 2001
 magazine: n°2 août 2001

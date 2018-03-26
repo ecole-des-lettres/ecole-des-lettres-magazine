@@ -1,6 +1,6 @@
 ---
 id: 11700
-title: Aurélien Loncke : « L’Histoire d’un épouvantail débutant ». Lecture cursive 
+title: Aurélien Loncke – « L’Histoire d’un épouvantail débutant ». Lecture cursive 
 rubrique: Littérature de jeunesse et nouvelles [5e]
 annee: 2006
 magazine: 2007

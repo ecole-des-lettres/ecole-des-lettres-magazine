@@ -6,7 +6,7 @@ annee: 2015
 magazine: janvier 2015
 pages: 6
 description: Suite aux attentats du début janvier 2015, les informations se croisent,
-  s’entremêlent et s’amalgament sur fond de peurs sociales fortes : comment faire
+  s’entremêlent et s’amalgament sur fond de peurs sociales fortes – comment faire
   pour ne pas laisser les jeunes, au sein de l’école, seuls face à cette saturation
   de signaux et stimuli émotionnels forts et parfois contradictoires de l’espace médiatique
   ? Comment aborder avec distance et raison tout à la fois le cœur des questions posées

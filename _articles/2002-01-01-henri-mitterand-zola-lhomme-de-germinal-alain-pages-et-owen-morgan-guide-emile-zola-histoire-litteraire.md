@@ -1,6 +1,6 @@
 ---
 id: 4685
-title: Henri Mitterand : « Zola, l’homme de Germinal » ; Alain Pagès et Owen Morgan :
+title: Henri Mitterand – « Zola, l’homme de Germinal » ; Alain Pagès et Owen Morgan – 
   « Guide Émile Zola »
 rubrique: Histoire littéraire
 annee: 2002

@@ -1,6 +1,6 @@
 ---
 id: 844
-title: « Chrétien de Troyes : Yvain, le Chevalier au lion ». Présentation du numéro
+title: « Chrétien de Troyes – Yvain, le Chevalier au lion ». Présentation du numéro
   spécial
 rubrique: Littérature médiévale [5e]
 annee: 1992
@@ -10,7 +10,7 @@ description: Préface de Claude Lachet, professeur de littérature française du
   Âge, au numéro spécial consacré à « Yvain, le Chevalier au Lion », de Chrétien de
   Troyes…
 article_pdf: 844.pdf
-magazine_special: Chrétien de Troyes : Yvain, le Chevalier au Lion
+magazine_special: Chrétien de Troyes – Yvain, le Chevalier au Lion
 revue: L’école des lettres des collèges
 auteurs:
 - Claude Lachet

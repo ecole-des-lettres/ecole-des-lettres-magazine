@@ -1,6 +1,6 @@
 ---
 id: 41
-title: Molière et le « latin macaronique » : « Le malade imaginaire », troisième
+title: Molière et le « latin macaronique » – « Le malade imaginaire », troisième
   intermède
 rubrique: Interdisciplinarité français, latin [5e]
 annee: 1985
@@ -16,7 +16,7 @@ description:
   – les mots latins lexicalisés
   4. Du français au latin
 article_pdf: 41.pdf
-magazine_special: Molière : farces et comédies
+magazine_special: Molière – farces et comédies
 revue: L’école des lettres des collèges
 auteurs:
 - Gérard-Guy Mouchel

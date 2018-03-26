@@ -1,15 +1,15 @@
 ---
 id: 1498
-title: Virgile : l’« Énéide »
+title: Virgile – l’« Énéide »
 rubrique: Mythe et histoire
 annee: 1994
 magazine: n°10 15 avril 1995
 pages: 10
 description: 
-  Objectif : initier les élèves à la poésie latine…
+  Objectif – initier les élèves à la poésie latine…
   1. Première séquence
   – présentation de l’auteur, de l’œuvre, du héros et de sa légende
-  – étude des vers 1 à 7 : traduction accompagnée ; apprentissage de la scansion
+  – étude des vers 1 à 7 – traduction accompagnée ; apprentissage de la scansion
   – lecture des vers 8 à 11
   2. Deuxième séquence
   – lecture méthodique des vers 81 à 94

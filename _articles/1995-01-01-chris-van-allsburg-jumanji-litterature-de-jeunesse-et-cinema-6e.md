@@ -1,6 +1,6 @@
 ---
 id: 2170
-title: Chris Van Allsburg : « Jumanji » 
+title: Chris Van Allsburg – « Jumanji » 
 rubrique: Littérature de jeunesse et cinéma [6e]
 annee: 1995
 magazine: n°8 1er mars 1996

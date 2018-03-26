@@ -1,12 +1,12 @@
 ---
 id: 4650
-title: Théophile Gautier : « Le Capitaine Fracasse ».Étude intégrale (séquence)(3/3)
+title: Théophile Gautier – « Le Capitaine Fracasse ».Étude intégrale (séquence)(3/3)
 rubrique: Roman [4e]
 annee: 2002
 magazine: n°3 15 septembre 2002
 pages: 20
 description: 
-  4. Lecture méthodique : la scène de duel (chapitre 9)
+  4. Lecture méthodique – la scène de duel (chapitre 9)
   5. Étude des chapitres 15 à 18
   6. Lecture individuelle des chapitres 19 à 21
   7. Analyse comparative des chapitres 1 et 22

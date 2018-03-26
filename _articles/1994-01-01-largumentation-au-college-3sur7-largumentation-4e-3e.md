@@ -10,7 +10,7 @@ description:
   – le répit dans l’action
   4. Trouver des idées
   – trouver… sans chercher
-  Textes choisis : un extrait de « La Chute », d’Albert Camus, un extrait de « Des grives aux loups », de Claude Michelet, donnés en fin d’article.
+  Textes choisis – un extrait de « La Chute », d’Albert Camus, un extrait de « Des grives aux loups », de Claude Michelet, donnés en fin d’article.
 article_pdf: 1667.pdf
 revue: L’école des lettres des collèges
 auteurs:

@@ -1,6 +1,6 @@
 ---
 id: 777
-title: Charles Juliet : entretien
+title: Charles Juliet – entretien
 rubrique: Roman contemporain [1re-Tle]
 annee: 1991
 magazine: n°9 1er avril 1992

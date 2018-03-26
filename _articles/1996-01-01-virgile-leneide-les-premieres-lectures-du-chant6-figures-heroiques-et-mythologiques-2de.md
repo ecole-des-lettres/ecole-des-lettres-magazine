@@ -1,6 +1,6 @@
 ---
 id: 2206
-title: Virgile : l’« Énéide ». Les premières lectures du chant 6 
+title: Virgile – l’« Énéide ». Les premières lectures du chant 6 
 rubrique: Figures héroïques et mythologiques [2de]
 annee: 1996
 magazine: n°1 1er septembre 1996

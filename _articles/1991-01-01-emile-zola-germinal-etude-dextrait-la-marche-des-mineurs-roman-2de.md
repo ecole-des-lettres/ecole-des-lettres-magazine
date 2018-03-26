@@ -1,6 +1,6 @@
 ---
 id: 752
-title: Émile Zola : « Germinal ». Étude d’extrait : la marche des mineurs 
+title: Émile Zola – « Germinal ». Étude d’extrait – la marche des mineurs 
 rubrique: Roman [2de]
 annee: 1991
 magazine: n°8 1er mars 1992

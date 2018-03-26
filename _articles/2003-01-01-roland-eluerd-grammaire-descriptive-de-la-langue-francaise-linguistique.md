@@ -1,6 +1,6 @@
 ---
 id: 5303
-title: Roland Éluerd : « Grammaire descriptive de la langue française »
+title: Roland Éluerd – « Grammaire descriptive de la langue française »
 rubrique: Linguistique
 annee: 2003
 magazine: n°11 1er mai 2004

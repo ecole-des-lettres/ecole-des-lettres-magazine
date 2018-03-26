@@ -1,6 +1,6 @@
 ---
 id: 2443
-title: André Malraux : « L’Espoir ». Étude d’extrait : la prise de l’hôtel Colon
+title: André Malraux – « L’Espoir ». Étude d’extrait – la prise de l’hôtel Colon
   à Barcelone 
 rubrique: Roman contemporain [1re]
 annee: 1996
@@ -11,10 +11,10 @@ description:
   1. Écriture et représentation de l’action
   – découpage et progression des scènes
   – le rôle des ellipses
-  – la mise en scène : les notations chronologiques ; la description des lieux ; orchestration des autres notations descriptives : bruits, pigeons, morts
+  – la mise en scène – les notations chronologiques ; la description des lieux ; orchestration des autres notations descriptives – bruits, pigeons, morts
   – des visions individuelles
   2. Éléments de signification
-  – les difficultés de lecture : le trouble et la confusion
+  – les difficultés de lecture – le trouble et la confusion
   – indications historiques
   – l’union de tous les partis de la gauche
   – des actions héroïques, mais suicidaires

@@ -1,6 +1,6 @@
 ---
 id: 12167
-title: Gilson et Clarke : série « Mélusine », « Sortilèges »
+title: Gilson et Clarke – série « Mélusine », « Sortilèges »
 rubrique: Bande dessinée [CM-6e]
 annee: 2012
 magazine: n°3 2012-2013

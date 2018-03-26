@@ -11,8 +11,8 @@ description:
   – de l’apprentissage à la lecture expressive
   – la lecture expliquée à la découverte du lecteur
   – les nouveaux programmes et la lecture
-  2. Enseigner la lecture aujourd’hui : pratiques et recherches
-  – la lecture dite méthodique : représentations et pratiques
+  2. Enseigner la lecture aujourd’hui – pratiques et recherches
+  – la lecture dite méthodique – représentations et pratiques
   – les outils pour aider à lire
   – les axes de réflexion de la didactique de la lecture
   L’article est suivi d’une bibliographie.

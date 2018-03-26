@@ -1,6 +1,6 @@
 ---
 id: 4232
-title: Les itinéraires de découverte : les enjeux pour le français
+title: Les itinéraires de découverte – les enjeux pour le français
 rubrique: Interdisciplinarité [6e-3e]
 annee: 2001
 magazine: n°11 mars 2002

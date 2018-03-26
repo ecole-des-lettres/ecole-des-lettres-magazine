@@ -1,6 +1,6 @@
 ---
 id: 2837
-title: Odile Weulersse : « Le Chevalier au bouclier vert ». Étude intégrale 
+title: Odile Weulersse – « Le Chevalier au bouclier vert ». Étude intégrale 
 rubrique: Littérature de jeunesse et Moyen Âge [5e]
 annee: 1997
 magazine: 1997

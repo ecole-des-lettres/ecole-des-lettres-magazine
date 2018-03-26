@@ -1,6 +1,6 @@
 ---
 id: 4039
-title: Jules Laforgue : « Les Complaintes ». Étude intégrale
+title: Jules Laforgue – « Les Complaintes ». Étude intégrale
 rubrique: Poésie [1re]
 annee: 2000
 magazine: n°5 1er novembre 2000

@@ -1,6 +1,6 @@
 ---
 id: 11348
-title: « Good Night and Good Luck », de George Clooney : le noir et blanc du maccarthysme
+title: « Good Night and Good Luck », de George Clooney – le noir et blanc du maccarthysme
 rubrique: Cinéma
 annee: 2005
 magazine: n°8 février 2006

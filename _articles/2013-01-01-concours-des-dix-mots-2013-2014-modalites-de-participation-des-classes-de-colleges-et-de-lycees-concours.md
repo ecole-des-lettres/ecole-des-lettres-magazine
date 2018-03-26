@@ -1,6 +1,6 @@
 ---
 id: 12260
-title: Concours des dix mots 2013-2014 : modalités de participation des classes de
+title: Concours des dix mots 2013-2014 – modalités de participation des classes de
   collèges et de lycées
 rubrique: Concours
 annee: 2013

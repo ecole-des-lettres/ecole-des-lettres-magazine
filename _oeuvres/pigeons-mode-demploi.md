@@ -1,3 +1,3 @@
 ---
-title: 'Pigeons : mode d’emploi'
+title: 'Pigeons – mode d’emploi'
 ---

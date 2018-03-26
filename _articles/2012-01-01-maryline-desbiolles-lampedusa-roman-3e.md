@@ -1,6 +1,6 @@
 ---
 id: 12177
-title: Maryline Desbiolles : «Lampedusa » 
+title: Maryline Desbiolles – «Lampedusa » 
 rubrique: Roman [3e]
 annee: 2012
 magazine: n°5 2012-2013

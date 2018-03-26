@@ -12,7 +12,7 @@ description: Cette séquence d’apprentissage se propose donc de faire acquéri
   Dans un premier temps, on oppose texte descriptif et texte narratif dans leur fonctionnement.
   Des textes descriptifs sont ensuite proposés aux élèves dans le but de leur faire
   assimiler une grille de lecture minimale pour la description. Sont alors étudiés
-  un point de grammaire, l’expansion du groupe nominal, et un point de vocabulaire :
+  un point de grammaire, l’expansion du groupe nominal, et un point de vocabulaire – 
   les couleurs, de façon à donner aux élèves des outils destinés à la dernière partie
   de la séquence. Celle-ci consistera à rédiger de courts textes descriptifs, qui
   pourront s’inspirer largement de la structure étudiée précédemment.

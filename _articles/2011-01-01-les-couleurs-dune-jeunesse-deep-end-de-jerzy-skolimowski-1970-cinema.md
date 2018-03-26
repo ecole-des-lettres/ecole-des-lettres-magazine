@@ -1,6 +1,6 @@
 ---
 id: 12442
-title: Les couleurs d’une jeunesse : « Deep End », de Jerzy Skolimowski (1970)
+title: Les couleurs d’une jeunesse – « Deep End », de Jerzy Skolimowski (1970)
 rubrique: Cinéma
 annee: 2011
 magazine: décembre 2011

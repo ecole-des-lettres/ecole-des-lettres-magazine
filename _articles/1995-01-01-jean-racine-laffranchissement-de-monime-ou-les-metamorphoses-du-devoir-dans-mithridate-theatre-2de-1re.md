@@ -1,6 +1,6 @@
 ---
 id: 2136
-title: Jean Racine : l’affranchissement de Monime ou les métamorphoses du devoir
+title: Jean Racine – l’affranchissement de Monime ou les métamorphoses du devoir
   dans « Mithridate »
 rubrique: Théâtre [2de-1re]
 annee: 1995
@@ -19,7 +19,7 @@ description: «Mithridate» semble une pièce un peu atypique dans l’univers d
   Or c’est précisément cet héroïsme inflexible et triomphant qui fait d’elle un personnage
   tragique…
 article_pdf: 2136.pdf
-magazine_special: Racine : Britannicus, Bérénice et Mithridate
+magazine_special: Racine – Britannicus, Bérénice et Mithridate
 revue: L’école des lettres des lycées
 auteurs:
 - Sylvain Cornic

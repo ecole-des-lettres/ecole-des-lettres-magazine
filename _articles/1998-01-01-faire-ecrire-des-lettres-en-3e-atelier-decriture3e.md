@@ -5,7 +5,7 @@ rubrique: Atelier d’écriture[3e]
 annee: 1998
 magazine: n°9 15 janvier 1999
 pages: 4
-description: Proposition pour la mise en place d’un atelier d’écriture de type littéraire :
+description: Proposition pour la mise en place d’un atelier d’écriture de type littéraire – 
   écrire plusieurs lettres à un destinataire de son choix, imaginaire ou non… Faire
   écrire des lettres aux jeunes est pédagogiquement intéressant à plusieurs titres.
   D’abord, le contenu d’une lettre est libre de contraintes, tandis que sa forme en

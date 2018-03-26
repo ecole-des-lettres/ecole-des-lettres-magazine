@@ -1,14 +1,14 @@
 ---
 id: 819
 title: L’épreuve de « composition à partir d’un ou plusieurs textes d’auteurs » à
-  l’écrit du concours interne de l’agrégation : l’autobiographie en 1re
+  l’écrit du concours interne de l’agrégation – l’autobiographie en 1re
 rubrique: Agrégation
 annee: 1992
 magazine: n°11 15 avril 1993
 pages: 16
 description: 
   Une épreuve qui vise à évaluer les connaissances littéraires et critiques des candidats et à mesurer leur capacité d’utiliser leurs compétences au niveau des classes de lycée…
-  Sujet proposé (type lettres classiques) : un groupement de textes extraits des « Illustres Françaises », de Robert Challe…
+  Sujet proposé (type lettres classiques) – un groupement de textes extraits des « Illustres Françaises », de Robert Challe…
   1. Recherche d’une problématique
   – cadre historique
   – analyse des textes

@@ -1,6 +1,6 @@
 ---
 id: 2193
-title: Claude Crébillon. Versac : de la domination des femmes au gouvernement du
+title: Claude Crébillon. Versac – de la domination des femmes au gouvernement du
   monde dans « Les Égarements du cœur et de l’esprit » 
 rubrique: Roman [1re]
 annee: 1995

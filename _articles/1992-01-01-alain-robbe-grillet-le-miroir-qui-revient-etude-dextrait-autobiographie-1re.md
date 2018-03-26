@@ -1,6 +1,6 @@
 ---
 id: 978
-title: Alain Robbe-Grillet : « Le miroir qui revient ». Étude d’extrait
+title: Alain Robbe-Grillet – « Le miroir qui revient ». Étude d’extrait
 rubrique: Autobiographie [1re]
 annee: 1992
 magazine: n°4 1er novembre 1992

@@ -1,6 +1,6 @@
 ---
 id: 12235
-title: Étienne Klein : « En cherchant Majorana, le physicien absolu »
+title: Étienne Klein – « En cherchant Majorana, le physicien absolu »
 rubrique: Biographie / Sciences
 annee: 2013
 magazine: octobre 2013

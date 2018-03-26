@@ -1,6 +1,6 @@
 ---
 id: 12269
-title: Hélène Waysbord : « L’Amour sans visage »
+title: Hélène Waysbord – « L’Amour sans visage »
 rubrique: Autobiographie
 annee: 2013
 magazine: juin 2013

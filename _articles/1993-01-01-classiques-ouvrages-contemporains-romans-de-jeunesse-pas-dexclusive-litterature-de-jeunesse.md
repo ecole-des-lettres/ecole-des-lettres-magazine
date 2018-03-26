@@ -10,7 +10,7 @@ description:
   – Des attitudes de lecture
   – Des destins possibles
   – D’une œuvre à l’autre
-  – Deux par deux : des lectures conjointes
+  – Deux par deux – des lectures conjointes
   – Pas « un livre sur rien »
 article_pdf: 1228.pdf
 magazine_special: Lire avec les adolescents

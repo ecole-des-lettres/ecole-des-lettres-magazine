@@ -1,6 +1,6 @@
 ---
 id: 4170
-title: Expression écrite et TIC : courrier électronique et nouvelles conditions d’écriture
+title: Expression écrite et TIC – courrier électronique et nouvelles conditions d’écriture
 rubrique: Écrture [6e-3e]
 annee: 2001
 magazine: n°1 juillet 2001

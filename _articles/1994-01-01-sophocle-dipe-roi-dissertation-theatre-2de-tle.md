@@ -1,6 +1,6 @@
 ---
 id: 1814
-title: Sophocle : « Œdipe Roi ». Dissertation
+title: Sophocle – « Œdipe Roi ». Dissertation
 rubrique: Théâtre [2de-Tle]
 annee: 1994
 magazine: n°8 1er mars 1995

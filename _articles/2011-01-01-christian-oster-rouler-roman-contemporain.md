@@ -1,6 +1,6 @@
 ---
 id: 12488
-title: Christian Oster : « Rouler »
+title: Christian Oster – « Rouler »
 rubrique: Roman contemporain
 annee: 2011
 magazine: août 2011

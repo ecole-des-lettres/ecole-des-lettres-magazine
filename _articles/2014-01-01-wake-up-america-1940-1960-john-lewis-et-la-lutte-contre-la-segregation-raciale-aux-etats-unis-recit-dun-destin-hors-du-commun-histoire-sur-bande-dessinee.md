@@ -8,7 +8,7 @@ magazine:
 pages: 3
 description: « Wake Up America », paru le 8 janvier 2014 aux éditions Rue de Sèvres,
   est un récit en bande dessinée qui retrace vingt ans de l’histoire américaine contemporaine
-  : 1940-1960. Vingt ans qui ont fait passer les États-Unis d’une époque où la société,
+  – 1940-1960. Vingt ans qui ont fait passer les États-Unis d’une époque où la société,
   figée, reposait sur la ségrégation raciale, au réveil que rappelle le titre en forme
   de slogan, « Wake Up America », un réveil obtenu grâce à la lutte des Noirs pour
   l’égalité. Ce titre résonne comme un rappel des conditions de vie d’une époque injuste,

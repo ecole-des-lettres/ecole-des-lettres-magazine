@@ -1,6 +1,6 @@
 ---
 id: 5306
-title: Guenter Lewy : « La Persécution des Tsiganes par les nazis »
+title: Guenter Lewy – « La Persécution des Tsiganes par les nazis »
 rubrique: Histoire
 annee: 2003
 magazine: n°11 1er mai 2004

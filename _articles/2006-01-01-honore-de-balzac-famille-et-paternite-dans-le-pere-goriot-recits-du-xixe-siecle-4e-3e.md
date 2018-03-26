@@ -1,6 +1,6 @@
 ---
 id: 11802
-title: Honoré de Balzac : famille et paternité dans « Le Père Goriot »
+title: Honoré de Balzac – famille et paternité dans « Le Père Goriot »
 rubrique: Récits du XIXe siècle [4e-3e]
 annee: 2006
 magazine: n°8 2007-2008

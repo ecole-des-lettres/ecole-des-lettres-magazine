@@ -1,12 +1,12 @@
 ---
 id: 1877
-title: Lecture et écriture autour d’un poème baroque : l’énigme poétique, séquence 
+title: Lecture et écriture autour d’un poème baroque – l’énigme poétique, séquence 
 rubrique: Poésie [4e]
 annee: 1995
 magazine: n°10 15 avril 1996
 pages: 5
 description: 
-  Objectifs généraux de la séquence :
+  Objectifs généraux de la séquence – 
   – initier les élèves à quelques thèmes et motifs baroques ;
   – repérer et réutiliser les procédés de l’énigme poétique ;
   – interpréter certains effets poétiques ;

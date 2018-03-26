@@ -7,8 +7,8 @@ magazine: n°4 1er octobre 2001
 pages: 6
 description: 
   Documents d’accompagnement des programmes.
-  – le théâtre en classe de seconde : comédie et tragédie ; comique et tragique
-  – le théâtre en classe de première : art et langage dramatiques
+  – le théâtre en classe de seconde – comédie et tragédie ; comique et tragique
+  – le théâtre en classe de première – art et langage dramatiques
 article_pdf: 4422.pdf
 revue: L’école des lettres des lycées
 disciplines:

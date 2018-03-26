@@ -1,6 +1,6 @@
 ---
 id: 12327
-title: Katherine Mansfield : « Villa Pauline et autres poèmes »
+title: Katherine Mansfield – « Villa Pauline et autres poèmes »
 rubrique: Poésie
 annee: 2013
 magazine: février 2013

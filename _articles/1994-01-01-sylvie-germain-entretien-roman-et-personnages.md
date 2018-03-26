@@ -1,6 +1,6 @@
 ---
 id: 1476
-title: Sylvie Germain : entretien
+title: Sylvie Germain – entretien
 rubrique: Roman et personnages
 annee: 1994
 magazine: n°1 15 septembre 1994

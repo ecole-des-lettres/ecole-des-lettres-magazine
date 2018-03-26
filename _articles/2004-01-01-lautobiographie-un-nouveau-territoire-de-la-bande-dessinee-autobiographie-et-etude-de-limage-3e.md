@@ -9,9 +9,9 @@ description: La bande dessinée autobiographique est relativement récente en Fr
   Adulte, élaborée, en recherche de formes nouvelles et porteuse de remises en cause
   du genre de la bande dessinée dans son ensemble, elle est révélatrice d’un nouveau
   souffle de ces dix dernières années. Comme en littérature, la bande dessinée autobiographique
-  se caractérise par les points suivants : récit rétrospectif, identité entre auteur,
+  se caractérise par les points suivants – récit rétrospectif, identité entre auteur,
   narrateur et personnage principal, vérité des faits rapportés. On retrouve évidemment
-  dans ce schéma le pacte autobiographique défini par Philippe Lejeune : l’auteur
+  dans ce schéma le pacte autobiographique défini par Philippe Lejeune – l’auteur
   s’engage à dire la vérité, le lecteur le croit.
 article_pdf: 11135.pdf
 revue: L’école des lettres des collèges

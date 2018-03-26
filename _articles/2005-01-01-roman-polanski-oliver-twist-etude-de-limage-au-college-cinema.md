@@ -1,7 +1,7 @@
 ---
 id: 11417
-title: Roman Polanski : « Oliver Twist »
-rubrique: Étude de l’image au collège : cinéma
+title: Roman Polanski – « Oliver Twist »
+rubrique: Étude de l’image au collège – cinéma
 annee: 2005
 magazine: n°3 1er octobre 2005
 pages: 12

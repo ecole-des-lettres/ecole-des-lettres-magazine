@@ -8,7 +8,7 @@ pages: 2
 description: Compte rendu de l’enquête menée par « L’École des lettres » sur l’explication
   de texte en langues anciennes…
 article_pdf: 1172.pdf
-magazine_special: Langues anciennes : didactique
+magazine_special: Langues anciennes – didactique
 revue: L’école des lettres des lycées
 auteurs:
 - Cécile Daude

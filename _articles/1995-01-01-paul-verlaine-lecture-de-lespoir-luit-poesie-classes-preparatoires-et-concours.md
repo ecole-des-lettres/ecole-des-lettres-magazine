@@ -1,6 +1,6 @@
 ---
 id: 1978
-title: Paul Verlaine : lecture de « L’espoir luit… »
+title: Paul Verlaine – lecture de « L’espoir luit… »
 rubrique: Poésie  [classes préparatoires et concours]
 annee: 1995
 magazine: n°14 juillet 1996

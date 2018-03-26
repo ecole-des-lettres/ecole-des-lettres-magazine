@@ -1,6 +1,6 @@
 ---
 id: 403
-title: Jules Barbey d’Aurevilly : « Les Diaboliques. Réalisme et fantastique
+title: Jules Barbey d’Aurevilly – « Les Diaboliques. Réalisme et fantastique
 rubrique: Nouvelles  [2de-1re]
 annee: 1990
 magazine: n°7 15 janvier 1991
@@ -9,7 +9,7 @@ description: Le réalisme de Balzac a influencé Barbey. Mais s’il sait plante
   Barbey charge le réel de fantasmes qui lui sont propres. Il ne clôt pas définitivement
   le destin de ses personnages et, ainsi, crée le mystère…
 article_pdf: 403.pdf
-magazine_special: Barbey d’Aurevilly : Les Diaboliques
+magazine_special: Barbey d’Aurevilly – Les Diaboliques
 revue: L’école des lettres des lycées
 auteurs:
 - Philippe Teissier

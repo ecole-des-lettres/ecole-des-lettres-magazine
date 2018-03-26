@@ -1,6 +1,6 @@
 ---
 id: 3037
-title: Jean Renoir : « La Règle du jeu » 
+title: Jean Renoir – « La Règle du jeu » 
 rubrique: Étude d’une œuvre cinématographique [Tle]
 annee: 1998
 magazine: n°10 1er février 1999

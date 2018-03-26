@@ -1,6 +1,6 @@
 ---
 id: 5278
-title: François-Marie Mourad : « Zola, critique littéraire »
+title: François-Marie Mourad – « Zola, critique littéraire »
 rubrique: Histoire littéraire
 annee: 2003
 magazine: n°8 15 février 2004

@@ -1,6 +1,6 @@
 ---
 id: 826
-title: Tite-Live : lecture d’un texte
+title: Tite-Live – lecture d’un texte
 rubrique: Latin [4e] 
 annee: 1992
 magazine: n°11 15 avril 1993

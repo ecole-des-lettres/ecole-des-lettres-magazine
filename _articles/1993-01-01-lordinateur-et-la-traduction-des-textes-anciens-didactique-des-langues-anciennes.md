@@ -10,12 +10,12 @@ description:
   2. L’automate ne remplace pas le critique littéraire
   3. L’ordinateur et l’aide à la lecture
   – la présentation du texte
-  – Aula : un analyseur morphologique (présentation du système expert ; architecture du système)
-  – l’apprentissage de la lecture du latin : Vela (la lecture de la phrase latine ; un programme d’apprentissage de la lecture)
+  – Aula – un analyseur morphologique (présentation du système expert ; architecture du système)
+  – l’apprentissage de la lecture du latin – Vela (la lecture de la phrase latine ; un programme d’apprentissage de la lecture)
   – l’information lexicale
   – les systèmes hypermédia
 article_pdf: 1165.pdf
-magazine_special: Langues anciennes : didactique
+magazine_special: Langues anciennes – didactique
 revue: L’école des lettres des lycées
 auteurs:
 - François Charpin

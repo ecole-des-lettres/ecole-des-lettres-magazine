@@ -1,6 +1,6 @@
 ---
 id: 12581
-title: En marge des récits de guerre : insoumis, pacifistes et déserteurs
+title: En marge des récits de guerre – insoumis, pacifistes et déserteurs
 rubrique: Littérature / Histoire 
 annee: 2013
 magazine: n°4

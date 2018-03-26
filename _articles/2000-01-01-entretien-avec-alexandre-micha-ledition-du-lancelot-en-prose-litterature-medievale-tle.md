@@ -1,6 +1,6 @@
 ---
 id: 3930
-title: Entretien avec Alexandre Micha : l’édition du « Lancelot » en prose
+title: Entretien avec Alexandre Micha – l’édition du « Lancelot » en prose
 rubrique: Littérature médiévale [Tle]
 annee: 2000
 magazine: n°14 15 juin 2001

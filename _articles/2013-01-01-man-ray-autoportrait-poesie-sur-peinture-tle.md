@@ -1,6 +1,6 @@
 ---
 id: 12194
-title: Man Ray : « Autoportrait »
+title: Man Ray – « Autoportrait »
 rubrique: Poésie / peinture [Tle]
 annee: 2013
 magazine: 2013

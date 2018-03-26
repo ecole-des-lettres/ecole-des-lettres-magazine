@@ -1,6 +1,6 @@
 ---
 id: 5181
-title: Charles Juliet : entretien
+title: Charles Juliet – entretien
 rubrique: Journal et autobiographie [1re]
 annee: 2002
 magazine: n°14 juin 2003

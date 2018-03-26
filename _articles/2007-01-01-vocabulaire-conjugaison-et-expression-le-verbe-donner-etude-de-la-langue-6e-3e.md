@@ -9,7 +9,7 @@ description: Cette fiche explore le champ sémantique du verbe donner. Elle peut
   une analyse en relation avec la lecture et l’observation de textes. Le travail sur
   la différenciation des sens lie le verbe à son environnement immédiat, aux éléments
   dépendants qui l’entourent. Le cadre où prend sens le verbe résulte de considérations
-  relevant de deux domaines : d’une part, les relations d’ordre syntaxique (le verbe
+  relevant de deux domaines – d’une part, les relations d’ordre syntaxique (le verbe
   est-il intransitif ou appelle-t-il une suite ? celle-ci est-elle alors de construction
   directe ou indirecte ?) ; d’autre part, les rapports de niveau sémantique (l’agent
   fait-il partie des noms animés ou non animés ? L’objet désigne-t-il quelqu’un ou

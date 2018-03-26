@@ -1,7 +1,7 @@
 ---
 id: 3436
-title: Commentaire composé : les pieds de Coupeau ou la mort de l’« homme » 
-rubrique: Émile Zola : « L’Assommoir » [2de]
+title: Commentaire composé – les pieds de Coupeau ou la mort de l’« homme » 
+rubrique: Émile Zola – « L’Assommoir » [2de]
 annee: 1999
 magazine: n°10 15 février 2000
 pages: 17

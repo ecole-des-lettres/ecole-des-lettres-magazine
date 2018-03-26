@@ -1,6 +1,6 @@
 ---
 id: 124
-title: Émile Zola : une interprétation de structurale de « L’Assommoir » est-elle
+title: Émile Zola – une interprétation de structurale de « L’Assommoir » est-elle
   possible ?
 rubrique: Le naturalisme [2de]
 annee: 1989

@@ -7,7 +7,7 @@ magazine: 2007
 pages: 5
 description: Cet article rend compte d’une activité qui s’est inscrite dans le cadre
   d’un voyage ayant pour thème « Les deux guerres mondiales et la construction européenne ».
-  Les buts poursuivis étaient les suivants : approfondir les connaissances des élèves
+  Les buts poursuivis étaient les suivants – approfondir les connaissances des élèves
   sur les deux guerres mondiales et la construction européenne, les sensibiliser à
   l’importance des lieux de mémoire dans notre histoire et travailler en interdisciplinarité
   (histoire, français, arts plastiques et technologie) sur leur ressenti face aux

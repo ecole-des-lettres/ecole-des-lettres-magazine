@@ -1,6 +1,6 @@
 ---
 id: 134
-title: Gérard de Nerval : « Fantaisie » 
+title: Gérard de Nerval – « Fantaisie » 
 rubrique: Poésie [1re]
 annee: 1990
 magazine: n°1 15 septembre 1990

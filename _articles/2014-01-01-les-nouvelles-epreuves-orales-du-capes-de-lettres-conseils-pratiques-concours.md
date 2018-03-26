@@ -1,6 +1,6 @@
 ---
 id: 12606
-title: Les nouvelles épreuves orales du CAPES de Lettres : conseils pratiques
+title: Les nouvelles épreuves orales du CAPES de Lettres – conseils pratiques
 rubrique: Concours
 annee: 2014
 magazine: 

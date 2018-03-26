@@ -1,6 +1,6 @@
 ---
 id: 4943
-title: Ferdinand de Saussure : « Écrits de linguistique générale »
+title: Ferdinand de Saussure – « Écrits de linguistique générale »
 rubrique: Linguistique
 annee: 2002
 magazine: n°8 1er janvier 2003

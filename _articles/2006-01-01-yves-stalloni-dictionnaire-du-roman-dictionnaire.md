@@ -1,6 +1,6 @@
 ---
 id: 11471
-title: Yves Stalloni : « Dictionnaire du roman »
+title: Yves Stalloni – « Dictionnaire du roman »
 rubrique: Dictionnaire
 annee: 2006
 magazine: n°3 novembre 2006

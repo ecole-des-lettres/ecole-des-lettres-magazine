@@ -1,6 +1,6 @@
 ---
 id: 3690
-title: Raymond Queneau : « Les Fleurs bleues ». Étude d’extrait : l’incipit
+title: Raymond Queneau – « Les Fleurs bleues ». Étude d’extrait – l’incipit
 rubrique: Roman contemporain [Tle]
 annee: 1999
 magazine: n°6 15 novembre 1999

@@ -1,6 +1,6 @@
 ---
 id: 3361
-title: Victor Hugo : « Les Châtiments ». Le thème de la nature 
+title: Victor Hugo – « Les Châtiments ». Le thème de la nature 
 rubrique: Poésie [1re]
 annee: 1998
 magazine: n°8 15 décembre 1998

@@ -1,6 +1,6 @@
 ---
 id: 11703
-title: Jean-François Chabas : « Le Jardin de l’homme-léopard ». Lecture cursive 
+title: Jean-François Chabas – « Le Jardin de l’homme-léopard ». Lecture cursive 
 rubrique: Littérature de jeunesse et récit d’aventures [4e]
 annee: 2006
 magazine: 2006

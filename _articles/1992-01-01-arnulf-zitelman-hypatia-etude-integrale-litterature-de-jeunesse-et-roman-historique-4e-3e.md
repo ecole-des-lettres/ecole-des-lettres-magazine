@@ -1,6 +1,6 @@
 ---
 id: 806
-title: Arnulf Zitelman : « Hypatia ». Étude intégrale 
+title: Arnulf Zitelman – « Hypatia ». Étude intégrale 
 rubrique: Littérature de jeunesse et roman historique [4e-3e]
 annee: 1992
 magazine: n°10 15 mars 1993
@@ -13,7 +13,7 @@ description:
   – contexte historique
   – liste des personnages principaux
   2. Alexandrie
-  Quatre séquences décomposées chacune comme suit : évolution de l’intrigue, vie quotidienne et sociale, culture grecque
+  Quatre séquences décomposées chacune comme suit – évolution de l’intrigue, vie quotidienne et sociale, culture grecque
   3. Grèce
   Deux séquences
   4. Alexandrie

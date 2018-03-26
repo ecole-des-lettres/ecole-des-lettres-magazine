@@ -1,6 +1,6 @@
 ---
 id: 527
-title: Guillaume Apollinaire : le thème de l’ombre 
+title: Guillaume Apollinaire – le thème de l’ombre 
 rubrique: Poésie [1re]
 annee: 1991
 magazine: n°12 1er juin 1992
@@ -8,9 +8,9 @@ pages: 22
 description: 
   Le thème de l’ombre dans les poèmes d’Apollinaire…
   1. Les poètes et les ombres
-  2. Le thème de l’ombre dans la poésie d’Apollinaire : perspective d’ensemble
+  2. Le thème de l’ombre dans la poésie d’Apollinaire – perspective d’ensemble
   3. Les « ombres infidèles » au début de « La Chanson du Mal-Aimé »
-  4. Les strophes 36-37 de « La Chanson » : discours à l’ombre fidèle
+  4. Les strophes 36-37 de « La Chanson » – discours à l’ombre fidèle
   5. Le jardin des ombres de « Clotilde », ou l’ombre poursuivie
   6. Ombres fugitives au détour de quelques poèmes d’« Alcools »
   7. Des « Fiançailles d’« Alcools » à « Ombre » de « Calligrammes »

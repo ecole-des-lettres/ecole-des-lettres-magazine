@@ -1,6 +1,6 @@
 ---
 id: 5280
-title: Federico Zeri : « J’avoue m’être trompé. Fragments d’une autobiographie »
+title: Federico Zeri – « J’avoue m’être trompé. Fragments d’une autobiographie »
 rubrique: Histoire des arts
 annee: 2003
 magazine: n°8 15 février 2004

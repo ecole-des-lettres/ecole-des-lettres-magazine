@@ -1,6 +1,6 @@
 ---
 id: 3569
-title: Gustave Flaubert : « Salammbô ». Commentaire littéraire 
+title: Gustave Flaubert – « Salammbô ». Commentaire littéraire 
 rubrique: Roman et personnages [1re]
 annee: 1999
 magazine: n°2 août 1999

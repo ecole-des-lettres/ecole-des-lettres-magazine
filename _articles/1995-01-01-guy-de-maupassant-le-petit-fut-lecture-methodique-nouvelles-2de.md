@@ -1,6 +1,6 @@
 ---
 id: 11840
-title: Guy de Maupassant : « Le Petit Fût ». Lecture méthodique 
+title: Guy de Maupassant – « Le Petit Fût ». Lecture méthodique 
 rubrique: Nouvelles [2de]
 annee: 1995
 magazine: n°5 1er décembre 1995

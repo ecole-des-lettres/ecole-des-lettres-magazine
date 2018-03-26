@@ -1,6 +1,6 @@
 ---
 id: 649
-title: Eschyle : « Les Perses »  (2)
+title: Eschyle – « Les Perses »  (2)
 rubrique: Grec / Théâtre [Tle]
 annee: 1991
 magazine: n°5 1er décembre 1991

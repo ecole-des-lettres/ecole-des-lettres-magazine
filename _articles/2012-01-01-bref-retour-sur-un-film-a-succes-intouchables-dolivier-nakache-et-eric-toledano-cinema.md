@@ -1,6 +1,6 @@
 ---
 id: 12434
-title: Bref retour sur un film à succès : « Intouchables », d’Olivier Nakache et
+title: Bref retour sur un film à succès – « Intouchables », d’Olivier Nakache et
   Éric Toledano
 rubrique: Cinéma
 annee: 2012

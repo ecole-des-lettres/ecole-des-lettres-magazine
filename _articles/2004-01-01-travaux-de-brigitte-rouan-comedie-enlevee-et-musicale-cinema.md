@@ -1,6 +1,6 @@
 ---
 id: 11253
-title: « Travaux », de Brigitte Roüan : comédie enlevée et musicale
+title: « Travaux », de Brigitte Roüan – comédie enlevée et musicale
 rubrique: Cinéma
 annee: 2004
 magazine: n°9 mai 2005

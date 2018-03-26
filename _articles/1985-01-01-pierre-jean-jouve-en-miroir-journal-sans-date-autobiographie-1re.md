@@ -1,6 +1,6 @@
 ---
 id: 29
-title: Pierre-Jean Jouve : « En miroir : journal sans date »
+title: Pierre-Jean Jouve – « En miroir – journal sans date »
 rubrique: Autobiographie [1re]
 annee: 1985
 magazine: n°11 15 mars 1986
@@ -18,7 +18,7 @@ disciplines:
 niveau_etudes:
 - première
 oeuvres:
-- En miroir : journal sans date
+- En miroir – journal sans date
 ecrivains:
 - Pierre Jean Jouve
 programmes:

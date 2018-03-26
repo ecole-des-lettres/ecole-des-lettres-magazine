@@ -1,6 +1,6 @@
 ---
 id: 2567
-title: Marivaux : « Les Fausses Confidences ». Magie et scandale
+title: Marivaux – « Les Fausses Confidences ». Magie et scandale
 rubrique: Théâtre [1re]
 annee: 1996
 magazine: n°8 1er février 1997

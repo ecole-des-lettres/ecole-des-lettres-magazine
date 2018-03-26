@@ -1,6 +1,6 @@
 ---
 id: 11338
-title: « Une fois que tu es né », de Marco Tullio Giordana : les nantis et les démunis
+title: « Une fois que tu es né », de Marco Tullio Giordana – les nantis et les démunis
 rubrique: Cinéma
 annee: 2005
 magazine: n°6-7 janvier 2006

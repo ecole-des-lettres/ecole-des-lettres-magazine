@@ -1,12 +1,12 @@
 ---
 id: 2294
-title: Jean de La Fontaine : « La Matrone d’Éphèse ». Commentaire composé 
+title: Jean de La Fontaine – « La Matrone d’Éphèse ». Commentaire composé 
 rubrique: Réécritures [1re]
 annee: 1996
 magazine: n°12 15 avril 1997
 pages: 13
 description: 
-  Une séquence pédagogique destinée à élargir l’étude du texte littéraire vers des objectifs culturels :
+  Une séquence pédagogique destinée à élargir l’étude du texte littéraire vers des objectifs culturels – 
   – le rapprochement du conte avec le récit de Pétrone peut donner lieu à une initiation à l’intertextualité ;
   – chacune des œuvres peut se prêter à une analyse des modes du récit, étude des temps de la narration, insertion des différents discours, place et fonction du conteur ;
   – un travail sur la transposition en vers d’un récit en prose permet de souligner les libertés prises par La Fontaine avec son modèle et les différents effets ajoutés par le poète.

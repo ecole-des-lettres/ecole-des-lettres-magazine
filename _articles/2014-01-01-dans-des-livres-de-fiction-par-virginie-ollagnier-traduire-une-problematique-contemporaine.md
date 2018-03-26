@@ -5,7 +5,7 @@ rubrique: Traduire une problématique contemporaine
 annee: 2014
 magazine: n°3
 pages: 6
-description: Virginie Ollagnier : « Chacune de mes histoires part de ma vie, non
+description: Virginie Ollagnier – « Chacune de mes histoires part de ma vie, non
   de ce qu’il m’arrive, mais de ce que j’observe de la société dans laquelle je vis.
   Toutes traitent de sujets assez contemporains mais situés dans le passé. En voici
   deux exemples à travers une expérience de bande dessinée, « Kia Ora » (avec Olivier

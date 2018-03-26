@@ -1,6 +1,6 @@
 ---
 id: 12712
-title: « Le Passeur » & « Le Fils » de Lois Lowry : la difficile reconquête de l’humanité
+title: « Le Passeur » & « Le Fils » de Lois Lowry – la difficile reconquête de l’humanité
 rubrique: Roman contemporain
 annee: 2014
 magazine: n°2

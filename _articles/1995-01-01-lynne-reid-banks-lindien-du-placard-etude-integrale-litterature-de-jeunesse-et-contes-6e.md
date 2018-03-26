@@ -1,6 +1,6 @@
 ---
 id: 2120
-title: Lynne Reid Banks : « L’Indien du placard ». Étude intégrale
+title: Lynne Reid Banks – « L’Indien du placard ». Étude intégrale
 rubrique: Littérature de jeunesse et contes [6e]
 annee: 1995
 magazine: n°6 1er janvier 1996

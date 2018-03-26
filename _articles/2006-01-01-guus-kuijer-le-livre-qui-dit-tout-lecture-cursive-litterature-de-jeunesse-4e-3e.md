@@ -1,6 +1,6 @@
 ---
 id: 11705
-title: Guus Kuijer : « Le livre qui dit tout ». Lecture cursive
+title: Guus Kuijer – « Le livre qui dit tout ». Lecture cursive
 rubrique: Littérature de jeunesse [4e-3e]
 annee: 2006
 magazine: 2007

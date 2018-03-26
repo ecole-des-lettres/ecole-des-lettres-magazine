@@ -1,6 +1,6 @@
 ---
 id: 11368
-title: Humanisme et Renaissance. La Renaissance à Florence : l’exemple de la chapelle
+title: Humanisme et Renaissance. La Renaissance à Florence – l’exemple de la chapelle
   des Mages de Benozzo Gozzoli
 rubrique: Histoire et histoire des arts en seconde
 annee: 2005

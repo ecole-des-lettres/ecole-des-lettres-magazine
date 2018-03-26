@@ -1,6 +1,6 @@
 ---
 id: 11071
-title: Écrire pour le théâtre : un entretien avec Marie Desplechin
+title: Écrire pour le théâtre – un entretien avec Marie Desplechin
 rubrique: Théâtre
 annee: 2004
 magazine: n°1 août-septembre 2004

@@ -1,6 +1,6 @@
 ---
 id: 12050
-title: Alain Chopin : « Flaubert est un blaireau »
+title: Alain Chopin – « Flaubert est un blaireau »
 rubrique: Témoignage
 annee: 2010
 magazine: n°1 2010-2011

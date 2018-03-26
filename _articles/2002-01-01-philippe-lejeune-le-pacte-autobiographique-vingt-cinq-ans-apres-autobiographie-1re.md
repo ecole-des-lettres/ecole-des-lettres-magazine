@@ -1,6 +1,6 @@
 ---
 id: 4608
-title: Philippe Lejeune : le « pacte autobiographique » vingt-cinq ans après
+title: Philippe Lejeune – le « pacte autobiographique » vingt-cinq ans après
 rubrique: Autobiographie [1re]
 annee: 2002
 magazine: n°1 juillet-septembre 2002

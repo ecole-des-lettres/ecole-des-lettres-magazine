@@ -15,7 +15,7 @@ description: Parodies et inversions se mêlent dans cette curieuse composition q
   comme décor principal, ainsi que les rapports entre cette ville et d’autres lieux
   cités dans la chantefable. Par ailleurs, les relations entre les personnages illustrent
   plusieurs usages sociaux qui méritent d’être replacés dans leur réalité historique
-  afin d’apprécier les inventions littéraires de l’auteur : liens familiaux, hiérarchies
+  afin d’apprécier les inventions littéraires de l’auteur – liens familiaux, hiérarchies
   politico-sociales, rapports entre les sexes. Enfin, la résonance exacte des valeurs
   et des croyances auxquelles se réfèrent les héros doit être précisée.
 article_pdf: 4150.pdf

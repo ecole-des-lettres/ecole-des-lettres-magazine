@@ -1,6 +1,6 @@
 ---
 id: 11675
-title: Claire Julliard : « Des Indiens au paradis ». Lecture cursive autour des contes
+title: Claire Julliard – « Des Indiens au paradis ». Lecture cursive autour des contes
 rubrique: Littérature de jeunesse [6e]
 annee: 2006
 magazine: 

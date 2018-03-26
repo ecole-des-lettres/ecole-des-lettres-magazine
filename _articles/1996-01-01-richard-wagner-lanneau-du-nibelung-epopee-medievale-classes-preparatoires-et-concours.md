@@ -1,6 +1,6 @@
 ---
 id: 2467
-title: Richard Wagner : « L’Anneau du Nibelung »
+title: Richard Wagner – « L’Anneau du Nibelung »
 rubrique: Épopée médiévale [classes préparatoires et concours] 
 annee: 1996
 magazine: n°5 1er décembre 1996
@@ -19,7 +19,7 @@ description:
   – « Crépuscule des dieux »
   L’article est suivi d’une bibliographie et d’une discographie.
 article_pdf: 2467.pdf
-magazine_special: Nibelungen : chanson des Nibelungen
+magazine_special: Nibelungen – chanson des Nibelungen
 revue: L’école des lettres des collèges
 auteurs:
 - Danielle Buschinger

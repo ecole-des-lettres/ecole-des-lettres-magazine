@@ -9,7 +9,7 @@ description: Éditée par l’Office national du tourisme égyptien et diffusée
   presse sur deux pages dans des magazines, la publicité pour un séjour en Égypte,
   publiée en annexe de cet article, est un document pédagogique très utile, car elle
   peut être étudiée soit comme un point de départ, soit au cours de plusieurs séquences
-  avec des objectifs divers : approche de la fonction argumentative de l’image et
+  avec des objectifs divers – approche de la fonction argumentative de l’image et
   du discours publicitaire, étude de l’image dans ses relations avec le texte, étude
   du discours descriptif. Utilisée en cinquième pour favoriser l’adhésion des élèves,
   l’analyse de cette publicité et les prolongements qu’elle permet offre aussi une

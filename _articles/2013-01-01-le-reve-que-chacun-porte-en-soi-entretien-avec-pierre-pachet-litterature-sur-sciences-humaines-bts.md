@@ -1,6 +1,6 @@
 ---
 id: 12252
-title: « Le rêve que chacun porte en soi » : entretien avec Pierre Pachet
+title: « Le rêve que chacun porte en soi » – entretien avec Pierre Pachet
 rubrique: Littérature / Sciences humaines [BTS]
 annee: 2013
 magazine: septembre 2013

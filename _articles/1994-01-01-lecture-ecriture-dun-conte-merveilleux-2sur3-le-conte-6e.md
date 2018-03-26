@@ -6,11 +6,11 @@ annee: 1994
 magazine: n°2 1er octobre 1994
 pages: 9
 description: 
-  – le vocabulaire du conte : l’évocation ; listage des représentations ; bilan des représentations ; utilisation des représentations ; réinvestissement
-  – « Les Trois Cheveux d’or du diable » : travail individuel
+  – le vocabulaire du conte – l’évocation ; listage des représentations ; bilan des représentations ; utilisation des représentations ; réinvestissement
+  – « Les Trois Cheveux d’or du diable » – travail individuel
   – écrire une situation finale de conte
   – évaluation finale de l’activité de lecture
-  L’article est suivi de plusieurs documents :
+  L’article est suivi de plusieurs documents – 
   – un texte à trous à compléter
   – le texte des « Trois Cheveux d’or du diable »
   – « Les Nains et le Cordonnier », des frères Grimm

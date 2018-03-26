@@ -1,6 +1,6 @@
 ---
 id: 11707
-title: Nathalie Kuperman : « Mensonges et vérité ». Lecture cursive
+title: Nathalie Kuperman – « Mensonges et vérité ». Lecture cursive
 rubrique: Littérature de jeunesse [CM-6e]
 annee: 2006
 magazine: 2007

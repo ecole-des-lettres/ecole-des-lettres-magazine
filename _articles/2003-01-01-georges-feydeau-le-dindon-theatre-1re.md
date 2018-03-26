@@ -1,6 +1,6 @@
 ---
 id: 5229
-title: Georges Feydeau : « Le Dindon »
+title: Georges Feydeau – « Le Dindon »
 rubrique: Théâtre [1re]
 annee: 2003
 magazine: n°5 1er novembre 2003

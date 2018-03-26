@@ -1,6 +1,6 @@
 ---
 id: 2520
-title: Merritt Ruhlen : « L’Origine des langues »
+title: Merritt Ruhlen – « L’Origine des langues »
 rubrique: Linguistique
 annee: 1996
 magazine: n°7 15 janvier 1997

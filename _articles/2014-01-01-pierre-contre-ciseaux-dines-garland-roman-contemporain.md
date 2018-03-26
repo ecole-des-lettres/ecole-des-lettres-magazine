@@ -6,7 +6,7 @@ annee: 2014
 magazine: n°1
 pages: 10
 description: Cette étude propose des pistes de lecture pour un roman d’apprentissage
-  : le parcours d’une adolescente et son passage à l’âge adulte sous la dictature
+  – le parcours d’une adolescente et son passage à l’âge adulte sous la dictature
   militaire en Argentine...
 article_pdf: 12701.pdf
 revue: L’école des lettres des collèges

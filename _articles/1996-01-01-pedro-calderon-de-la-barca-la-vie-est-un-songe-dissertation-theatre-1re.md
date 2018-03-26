@@ -1,6 +1,6 @@
 ---
 id: 2504
-title: Pedro Calderon de la Barca : « La vie est un songe ». Dissertation 
+title: Pedro Calderon de la Barca – « La vie est un songe ». Dissertation 
 rubrique: Théâtre [1re]
 annee: 1996
 magazine: n°7 15 janvier 1997

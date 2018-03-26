@@ -7,7 +7,7 @@ magazine: n°8 1er février 1991
 pages: 8
 description: Afin de définir ce que les enseignants de troisième peuvent exiger de
   leurs élèves, voici un complément aux documents officiels s’articulant autour de
-  trois axes : l’esprit de synthèse, l’autonomie, l’image…
+  trois axes – l’esprit de synthèse, l’autonomie, l’image…
 article_pdf: 417.pdf
 revue: L’école des lettres des collèges
 auteurs:

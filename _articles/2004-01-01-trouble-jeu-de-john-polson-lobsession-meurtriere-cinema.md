@@ -1,6 +1,6 @@
 ---
 id: 11233
-title: « Trouble jeu », de John Polson : l’obsession meurtrière
+title: « Trouble jeu », de John Polson – l’obsession meurtrière
 rubrique: Cinéma
 annee: 2004
 magazine: n°7 mars 2005

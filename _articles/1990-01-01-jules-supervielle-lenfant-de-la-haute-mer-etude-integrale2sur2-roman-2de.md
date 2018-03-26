@@ -1,12 +1,12 @@
 ---
 id: 359
-title: Jules Supervielle : « L’Enfant de la haute mer » Étude intégrale (2/2)
+title: Jules Supervielle – « L’Enfant de la haute mer » Étude intégrale (2/2)
 rubrique: Roman [2de]
 annee: 1990
 magazine: n°6 15 décembre 1990
 pages: 10
 description: 
-  Étude des six autres nouvelles du recueil « L’Enfant de la haute mer » :
+  Étude des six autres nouvelles du recueil « L’Enfant de la haute mer » – 
   – « L’Inconnue de la Seine »
   – « Les Boiteux du ciel »
   – « Rani »

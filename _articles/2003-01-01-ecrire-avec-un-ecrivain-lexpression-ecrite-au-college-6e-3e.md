@@ -13,8 +13,8 @@ description:
   – intrigue
   – élaboration d’un scénario
   2. L’écriture « en vrai »
-  – la méthode : travail de réécriture ; narrateur et temps de narration ; action ; techniques liées à l’écriture
-  – l’animateur de l’atelier d’écriture : un point de référence
+  – la méthode – travail de réécriture ; narrateur et temps de narration ; action ; techniques liées à l’écriture
+  – l’animateur de l’atelier d’écriture – un point de référence
   – l’enseignant devient un écrivant du groupe
   – la place prépondérante des élèves
   3. Réinvestissement en classe

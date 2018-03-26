@@ -7,7 +7,7 @@ magazine: n°4 décembre 2006
 pages: 8
 description: La magie, dans l’Antiquité, relève à la fois de la science, de la philosophie,
   et de la religion ; elle peut toucher des domaines aussi divers que la médecine,
-  la cuisine ou encore le bricolage. Ses buts sont de deux ordres : dévoiler l’avenir
+  la cuisine ou encore le bricolage. Ses buts sont de deux ordres – dévoiler l’avenir
   (avec la divination et l’astrologie) ; et aussi modifier l’ordre des choses (agir
   sur un amoureux, interroger un mort provisoirement ressuscité ou encore réaliser
   des « adynata », c’est-à-dire associer des faits incompatibles, comme, par exemple,

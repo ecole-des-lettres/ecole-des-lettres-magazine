@@ -8,7 +8,7 @@ magazine: n°8 15 décembre 2000
 pages: 20
 description: Le programme de troisième propose d’étudier la France depuis 1945 et
   d’aborder « les mutations de l’économie française et leurs conséquences géographiques ».
-  Pour le secteur secondaire, et si on part de 1945, les mutations sont de trois ordres :
+  Pour le secteur secondaire, et si on part de 1945, les mutations sont de trois ordres – 
   l’industrialisation accélérée du territoire pendant les années de forte croissance,
   la crise à partir du milieu des années 1970 et le redéploiement aujourd’hui. La
   description géographique doit s’inscrire dans cette trame chronologique de façon

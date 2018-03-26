@@ -14,7 +14,7 @@ description: Ce n’est qu’au prix d’un profond changement de perspective hi
   retenons seule aujourd’hui, dans notre lecture courante, est présentée par la préposition
   « avec » comme un élément second, subsidiaire, une manière de rajout inessentiel.
   Ce n’est jamais, semble-t-il, qu’un pont jeté, à de pures fins de commodité, entre
-  un ouvrage culturellement lointain et le hic et nunc de la réception : l’adjectif
+  un ouvrage culturellement lointain et le hic et nunc de la réception – l’adjectif
   démonstratif (« ce ») a pour fonction manifeste d’ancrer dans un contexte connu
   une étude des mœurs trop ancienne pour séduire immédiatement le lecteur.
 article_pdf: 11222.pdf

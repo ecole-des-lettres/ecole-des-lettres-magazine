@@ -1,3 +1,3 @@
 ---
-title: 'La Cigale et la Fourmi : autoportrait'
+title: 'La Cigale et la Fourmi – autoportrait'
 ---

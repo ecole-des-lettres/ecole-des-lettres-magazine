@@ -1,6 +1,6 @@
 ---
 id: 1976
-title: Paul Verlaine : référence et représentations dans les « Romances sans paroles »
+title: Paul Verlaine – référence et représentations dans les « Romances sans paroles »
 rubrique: Poésie [classes préparatoires et concours]
 annee: 1995
 magazine: n°14 juillet 1996

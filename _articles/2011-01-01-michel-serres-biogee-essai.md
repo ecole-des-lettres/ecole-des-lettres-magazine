@@ -1,6 +1,6 @@
 ---
 id: 12530
-title: Michel Serres : « Biogée »
+title: Michel Serres – « Biogée »
 rubrique: Essai
 annee: 2011
 magazine: janvier 2011

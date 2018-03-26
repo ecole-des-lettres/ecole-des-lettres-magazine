@@ -1,6 +1,6 @@
 ---
 id: 11224
-title: « Ray », de Taylor Hackford : biographie et passion
+title: « Ray », de Taylor Hackford – biographie et passion
 rubrique: Cinéma
 annee: 2004
 magazine: n°7 mars 2005

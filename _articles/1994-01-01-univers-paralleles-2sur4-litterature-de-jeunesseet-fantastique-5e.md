@@ -9,7 +9,7 @@ description:
   Une série d’articles sur le genre de la science-fiction, le genre fantastique, historique et le ton naïf…
   2. Le genre « fantastique »
   – une tentative de définition
-  – approche du genre fantastique à travers deux albums : « Une lettre à Grand-Mère », de Paul Rogers, et « Le Gardien de l’oubli », de Joan Manuel Gisbert
+  – approche du genre fantastique à travers deux albums – « Une lettre à Grand-Mère », de Paul Rogers, et « Le Gardien de l’oubli », de Joan Manuel Gisbert
 article_pdf: 1806.pdf
 revue: L’école des lettres des collèges
 auteurs:

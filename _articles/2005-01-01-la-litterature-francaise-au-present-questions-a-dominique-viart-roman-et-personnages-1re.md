@@ -1,6 +1,6 @@
 ---
 id: 11346
-title: « La Littérature française au présent » : questions à Dominique Viart
+title: « La Littérature française au présent » – questions à Dominique Viart
 rubrique: Roman et personnages [1re]
 annee: 2005
 magazine: n°8 février 2006

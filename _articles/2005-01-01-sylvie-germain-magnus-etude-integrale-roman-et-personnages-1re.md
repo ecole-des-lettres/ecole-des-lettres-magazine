@@ -1,6 +1,6 @@
 ---
 id: 11384
-title: Sylvie Germain : « Magnus ». Étude intégrale
+title: Sylvie Germain – « Magnus ». Étude intégrale
 rubrique: Roman et personnages [1re]
 annee: 2005
 magazine: n°11-12 septembre 2006
@@ -17,7 +17,7 @@ description: Ce roman de Sylvie Germain s’inscrit dans la continuité d’une 
   par une mémoire lacunaire. Cette perte de repères est la conséquence de la pression
   écrasante de l’Histoire qui corrompt jusqu’au langage et dont le héros tente de
   se libérer en recherchant l’antidote au contact des forces primordiales de la nature.
-  La quête qu’il mène pour atteindre sa vérité a une dimension existentielle : elle
+  La quête qu’il mène pour atteindre sa vérité a une dimension existentielle – elle
   amène le héros à s’interroger sur le problème du mal et elle devient spirituelle
   dans le dépassement final qui laisse ce « il », un homme, au bord de l’inconnu.
 article_pdf: 11384.pdf

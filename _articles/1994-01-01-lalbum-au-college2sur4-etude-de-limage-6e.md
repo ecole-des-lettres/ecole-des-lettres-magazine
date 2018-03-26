@@ -10,7 +10,7 @@ description:
   3. « Le Diable des rochers », de Grégoire Solotareff
   – résumé
   – la notion de point de vue
-  – autres activités à partir du même album : le temps fictionnel ; le thème ; l’implicite
+  – autres activités à partir du même album – le temps fictionnel ; le thème ; l’implicite
 article_pdf: 1807.pdf
 revue: L’école des lettres des collèges
 auteurs:

@@ -1,6 +1,6 @@
 ---
 id: 5337
-title: L’écriture au collège : visées nouvelles ou modifications des conceptions
+title: L’écriture au collège – visées nouvelles ou modifications des conceptions
   du travail de l’écriture en classe  ?
 rubrique: Lexpression écrite au collège [6e-3e]
 annee: 2003
@@ -15,10 +15,10 @@ description:
   2. Obstacles, dilemmes et ajustements
   – des gestes professionnels plus complexes, nécessitant une inventivité dans les choix pédagogiques
   – faut-il tout corriger ?
-  – le texte intermédiaire : identifier deux types de production : le texte de travail (texte intermédiaire) et le texte destiné à la diffusion
-  – l’écriture : une pratique ordinaire
+  – le texte intermédiaire – identifier deux types de production – le texte de travail (texte intermédiaire) et le texte destiné à la diffusion
+  – l’écriture – une pratique ordinaire
   – travailler les variations d’un texte
-  – les mélanges : une spécificité de l’écriture scolaire ?
+  – les mélanges – une spécificité de l’écriture scolaire ?
   – évaluer autrement
 article_pdf: 5337.pdf
 magazine_special: Écriture littéraire

@@ -1,6 +1,6 @@
 ---
 id: 2245
-title: Chrétien de Troyes : la mort dans le « Lancelot »
+title: Chrétien de Troyes – la mort dans le « Lancelot »
 rubrique: Littérature médiévale [Tle]
 annee: 1996
 magazine: n°10 1er mars 1997
@@ -22,11 +22,11 @@ description:
   – la mort-emprisonnement
   – l’absence à soi-même due à l’extase ou à la contemplation de l’objet aimé
   – la séparation des deux amants
-  4. L’amour peut conduire à la mort, révélateur de l’intensité des sentiments : l’expérience de la mort choisie
+  4. L’amour peut conduire à la mort, révélateur de l’intensité des sentiments – l’expérience de la mort choisie
   – les trois tentatives de suicide
   – le discours sur la mort
 article_pdf: 2245.pdf
-magazine_special: Chrétien de Troyes : Lancelot ou le Chevalier de la charrette
+magazine_special: Chrétien de Troyes – Lancelot ou le Chevalier de la charrette
 revue: L’école des lettres des lycées
 auteurs:
 - Marc Le Person

@@ -1,6 +1,6 @@
 ---
 id: 11874
-title:  Michel del Castillo : « Tanguy »
+title:  Michel del Castillo – « Tanguy »
 rubrique:  Lecture cursive [2de-1re]
 annee: 2002
 magazine: n°7 1er décembre 2002

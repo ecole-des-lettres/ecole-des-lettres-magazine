@@ -1,6 +1,6 @@
 ---
 id: 12226
-title: Bertrand de la Peine : « La Méthode Arbogast »
+title: Bertrand de la Peine – « La Méthode Arbogast »
 rubrique: Roman contemporain
 annee: 2013
 magazine: octobre 2013

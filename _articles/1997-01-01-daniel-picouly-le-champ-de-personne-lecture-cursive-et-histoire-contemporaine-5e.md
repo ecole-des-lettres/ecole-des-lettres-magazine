@@ -1,6 +1,6 @@
 ---
 id: 2758
-title: Daniel Picouly : « Le Champ de personne »
+title: Daniel Picouly – « Le Champ de personne »
 rubrique: Lecture cursive et histoire contemporaine [5e]
 annee: 1997
 magazine: n°14 15 mai 1998

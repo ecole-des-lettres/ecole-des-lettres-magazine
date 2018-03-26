@@ -12,8 +12,8 @@ description:
   – « Le Club des cinq et le Trésor de l’île », d’Enid Blyton
   – « Cabot-Caboche », de Daniel Pennac 
   – « Pandora, cochon de compagnie », de Joan Carris
-  Réflexion générale sur la démarche : définitions de la scène romanesque ; démarche pédagogique
-  Déroulement de la séquence : sept séances.
+  Réflexion générale sur la démarche – définitions de la scène romanesque ; démarche pédagogique
+  Déroulement de la séquence – sept séances.
 article_pdf: 3203.pdf
 revue: L’école des lettres des collèges
 auteurs:

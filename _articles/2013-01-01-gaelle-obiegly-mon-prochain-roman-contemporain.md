@@ -1,6 +1,6 @@
 ---
 id: 12233
-title: Gaëlle Obiégly : « Mon prochain »
+title: Gaëlle Obiégly – « Mon prochain »
 rubrique: Roman contemporain
 annee: 2013
 magazine: octobre 2013

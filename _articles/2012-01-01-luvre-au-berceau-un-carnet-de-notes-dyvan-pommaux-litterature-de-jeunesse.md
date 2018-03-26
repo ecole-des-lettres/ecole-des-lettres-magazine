@@ -1,6 +1,6 @@
 ---
 id: 12190
-title: L’œuvre au berceau : un carnet de notes d’Yvan Pommaux
+title: L’œuvre au berceau – un carnet de notes d’Yvan Pommaux
 rubrique: Littérature de jeunesse
 annee: 2012
 magazine: n° 6-7 2012-2013

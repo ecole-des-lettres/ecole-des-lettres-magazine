@@ -1,6 +1,6 @@
 ---
 id: 2066
-title: « Hiroshima : 50 ans »
+title: « Hiroshima – 50 ans »
 rubrique: Histoire
 annee: 1995
 magazine: n°5 15 décembre 1995

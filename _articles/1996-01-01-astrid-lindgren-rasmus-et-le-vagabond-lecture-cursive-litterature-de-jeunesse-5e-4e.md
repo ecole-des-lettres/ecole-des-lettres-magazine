@@ -1,6 +1,6 @@
 ---
 id: 2306
-title: Astrid Lindgren : « Rasmus et le Vagabond ». Lecture cursive 
+title: Astrid Lindgren – « Rasmus et le Vagabond ». Lecture cursive 
 rubrique: Littérature de jeunesse [5e-4e]
 annee: 1996
 magazine: n°12 1er mai 1997

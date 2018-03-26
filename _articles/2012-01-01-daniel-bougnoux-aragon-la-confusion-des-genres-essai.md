@@ -1,6 +1,6 @@
 ---
 id: 12352
-title: Daniel Bougnoux : « Aragon, la confusion des genres »
+title: Daniel Bougnoux – « Aragon, la confusion des genres »
 rubrique: Essai
 annee: 2012
 magazine: décembre 2012

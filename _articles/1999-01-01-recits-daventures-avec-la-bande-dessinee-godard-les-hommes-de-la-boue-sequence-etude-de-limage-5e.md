@@ -1,6 +1,6 @@
 ---
 id: 3626
-title: Récits d’aventures avec la bande dessinée. Godard : « Les Hommes de la boue ».
+title: Récits d’aventures avec la bande dessinée. Godard – « Les Hommes de la boue ».
   Séquence
 rubrique: Étude de l’image [5e]
 annee: 1999

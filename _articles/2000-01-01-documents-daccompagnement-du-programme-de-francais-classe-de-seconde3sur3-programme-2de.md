@@ -1,6 +1,6 @@
 ---
 id: 3995
-title: Documents d’accompagnement du programme de français : classe de seconde (3/3)
+title: Documents d’accompagnement du programme de français – classe de seconde (3/3)
 rubrique: Programme [2de]
 annee: 2000
 magazine: n°4 15 octobre 2000

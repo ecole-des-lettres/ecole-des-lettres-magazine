@@ -7,7 +7,7 @@ magazine: n°1 août-septembre 2006
 pages: 12
 description: Les romans d’Agnès Desarthe publiés dans les collections « Neuf » et
   « Médium » de l’école des loisirs sont à la portée des élèves, ils renvoient à un
-  quotidien réaliste, imparfait mais enthousiasmant : les situations, embûches et
+  quotidien réaliste, imparfait mais enthousiasmant – les situations, embûches et
   bouleversements intimes que rencontre le personnage principal sont insolites, amusants
   et pourtant très accessibles. Et, en prime, nous sommes au pays de la littérature,
   la vraie.

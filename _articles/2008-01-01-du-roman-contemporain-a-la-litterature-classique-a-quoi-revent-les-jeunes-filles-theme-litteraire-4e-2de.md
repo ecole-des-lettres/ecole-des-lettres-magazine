@@ -10,7 +10,7 @@ description: À quoi rêvent les jeunes filles, dans la littérature classique, 
   particulièrement au théâtre, chez Molière, Marivaux, Musset, Giraudoux, Anouilh,
   et, aujourd’hui, dans les écritures féminines de jeunesse.\nCet article s’intéresse
   également aux jeunes filles dans l’œuvre de Marivaux, ainsi qu’à une manière originale
-  d’aborder cet auteur :  « Rue Marivaux », d’Yvan Pommaux. 
+  d’aborder cet auteur –  « Rue Marivaux », d’Yvan Pommaux. 
 article_pdf: 11992.pdf
 revue: L’école des lettres des collèges
 auteurs:

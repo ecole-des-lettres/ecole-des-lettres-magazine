@@ -1,6 +1,6 @@
 ---
 id: 2158
-title: Jean de La Fontaine : « Le Rat et l’Huître ». Explication de texte 
+title: Jean de La Fontaine – « Le Rat et l’Huître ». Explication de texte 
 rubrique: Poésie et argumentation [1re]
 annee: 1995
 magazine: n°8 15 mars 1996

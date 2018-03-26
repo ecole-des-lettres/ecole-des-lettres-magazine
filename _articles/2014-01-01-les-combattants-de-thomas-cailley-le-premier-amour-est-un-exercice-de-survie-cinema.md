@@ -1,6 +1,6 @@
 ---
 id: 12923
-title: « Les Combattants », de Thomas Cailley : le premier amour est un exercice
+title: « Les Combattants », de Thomas Cailley – le premier amour est un exercice
   de survie
 rubrique: Cinéma
 annee: 2014

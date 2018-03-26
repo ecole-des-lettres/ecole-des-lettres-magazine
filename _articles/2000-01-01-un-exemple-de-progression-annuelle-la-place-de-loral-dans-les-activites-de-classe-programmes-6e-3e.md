@@ -1,6 +1,6 @@
 ---
 id: 3790
-title: Un exemple de progression annuelle : la place de l’oral dans les activités
+title: Un exemple de progression annuelle – la place de l’oral dans les activités
   de classe 
 rubrique: Programmes [6e-3e]
 annee: 2000

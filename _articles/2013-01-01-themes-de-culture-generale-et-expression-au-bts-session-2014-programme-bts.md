@@ -6,7 +6,7 @@ annee: 2013
 magazine: mars 2013
 pages: 6
 description: 
-  Les thèmes retenus pour l’enseignement de culture générale et expression en deuxième année de BTS seront les suivants à la session de 2014 :
+  Les thèmes retenus pour l’enseignement de culture générale et expression en deuxième année de BTS seront les suivants à la session de 2014 – 
   1. Paroles, échanges, conversations, et révolution numérique.
   2. Cette part de rêve que chacun porte en soi.
   Suit le texte de la circulaire.

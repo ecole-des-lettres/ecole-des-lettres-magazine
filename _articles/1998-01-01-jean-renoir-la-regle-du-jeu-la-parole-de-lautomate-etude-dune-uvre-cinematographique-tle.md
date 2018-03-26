@@ -1,6 +1,6 @@
 ---
 id: 3085
-title: Jean Renoir : « La Règle du jeu ». La parole de l’automate 
+title: Jean Renoir – « La Règle du jeu ». La parole de l’automate 
 rubrique: Étude d’une œuvre cinématographique [Tle]
 annee: 1998
 magazine: n°12 1er avril 1999

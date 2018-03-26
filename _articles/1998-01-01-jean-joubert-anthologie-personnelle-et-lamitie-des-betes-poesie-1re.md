@@ -1,6 +1,6 @@
 ---
 id: 3397
-title: Jean Joubert : « Anthologie personnelle » et « L’Amitié des bêtes »
+title: Jean Joubert – « Anthologie personnelle » et « L’Amitié des bêtes »
 rubrique: Poésie [1re]
 annee: 1998
 magazine: n°9 15 janvier 1999

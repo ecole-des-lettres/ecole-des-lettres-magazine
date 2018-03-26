@@ -1,13 +1,13 @@
 ---
 id: 12944
-title: « Viva », de Patrick Deville : bandes et duos
+title: « Viva », de Patrick Deville – bandes et duos
 rubrique: Roman contemporain
 annee: 2014
 magazine: septembre 2014
 pages: 2
 description: Mexique, 1937. Le sort de deux hommes se joue dans ce pays qui servira
   de havre aux fugitifs, aux exilés, aux rêveurs et artistes. Le premier a débarqué
-  à Tampico, poursuivi de lieu en lieu par les sbires de Staline : c’est Léon Trotsky.
+  à Tampico, poursuivi de lieu en lieu par les sbires de Staline – c’est Léon Trotsky.
   Le second veut écrire une oeuvre totale, unique et il met sa vie en jeu pour ce
   faire, c’est Malcolm Lowry. Le nouveau roman de Patrick Deville les suit, les met
   en parallèle, les montre parmi d’autres, leurs contemporains, qui se nomment Diego

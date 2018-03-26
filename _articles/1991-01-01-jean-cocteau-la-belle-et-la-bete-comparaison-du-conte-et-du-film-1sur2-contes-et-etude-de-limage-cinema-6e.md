@@ -1,7 +1,7 @@
 ---
 id: 470
-title: Jean Cocteau : « La Belle et la Bête ». Comparaison du conte et du film (1/2)
-rubrique: Contes et étude de l’image : cinéma [6e]
+title: Jean Cocteau – « La Belle et la Bête ». Comparaison du conte et du film (1/2)
+rubrique: Contes et étude de l’image – cinéma [6e]
 annee: 1991
 magazine: n°1 15 septembre 1991
 pages: 6

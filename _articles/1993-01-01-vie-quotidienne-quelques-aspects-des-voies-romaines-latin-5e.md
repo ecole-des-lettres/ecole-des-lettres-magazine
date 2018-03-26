@@ -9,9 +9,9 @@ description:
   1. Les voies romaines en Gaule
   2. L’archéologie des voies romaines
   – les différents types de voies
-  – la construction : le tracé ; le chantier ;
-  – l’aménagement de la route : monuments et établissements publics ; établissements et monuments privés
-  – la fréquentation des routes : les voyageurs ; les moyens de locomotion ; le trafic commercial ; les brigands
+  – la construction – le tracé ; le chantier ;
+  – l’aménagement de la route – monuments et établissements publics ; établissements et monuments privés
+  – la fréquentation des routes – les voyageurs ; les moyens de locomotion ; le trafic commercial ; les brigands
   3. La fonction des voies
   L’article est suivi d’une bibliographie.
 article_pdf: 1362.pdf

@@ -1,6 +1,6 @@
 ---
 id: 12342
-title: Monique Legrand et Odile Luginbühl : « L’Art des mots. Enseigner le vocabulaire
+title: Monique Legrand et Odile Luginbühl – « L’Art des mots. Enseigner le vocabulaire
   au collège et au lycée »
 rubrique: Éducation / Littérature
 annee: 2013

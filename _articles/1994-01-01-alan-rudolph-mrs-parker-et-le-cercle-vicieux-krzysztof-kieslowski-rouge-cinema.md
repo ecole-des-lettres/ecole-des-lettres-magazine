@@ -1,6 +1,6 @@
 ---
 id: 1477
-title: Alan Rudolph : « Mrs Parker et le cercle vicieux » ; Krzysztof Kieslowski :
+title: Alan Rudolph – « Mrs Parker et le cercle vicieux » ; Krzysztof Kieslowski – 
   « Rouge »
 rubrique: Cinéma
 annee: 1994

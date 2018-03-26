@@ -1,6 +1,6 @@
 ---
 id: 3827
-title: Stefan Zweig : quelle culture européenne dans « Le Joueur d’échecs » ?
+title: Stefan Zweig – quelle culture européenne dans « Le Joueur d’échecs » ?
 rubrique: Nouvelles [Tle]
 annee: 2000
 magazine: n°10 15 février 2001

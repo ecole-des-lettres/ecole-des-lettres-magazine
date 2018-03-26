@@ -1,3 +1,3 @@
 ---
-title: 'Couleur de peau : miel'
+title: 'Couleur de peau – miel'
 ---

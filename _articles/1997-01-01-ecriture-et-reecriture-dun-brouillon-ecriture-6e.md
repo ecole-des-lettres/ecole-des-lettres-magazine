@@ -5,7 +5,7 @@ rubrique: Écriture [6e]
 annee: 1997
 magazine: n°2 15 septembre 1997
 pages: 11
-description: Objectifs : amener les élèves à élaborer eux-mêmes une grille de correction
+description: Objectifs – amener les élèves à élaborer eux-mêmes une grille de correction
   de leur brouillon et leur faire prendre conscience de l’importance de cette étape
   dans l’acte d’écrire…
 article_pdf: 2796.pdf

@@ -1,6 +1,6 @@
 ---
 id: 11866
-title: Italo Calvino : « Le Baron perché ». 
+title: Italo Calvino – « Le Baron perché ». 
 rubrique: Lecture cursive [2de]
 annee: 2000
 magazine: n°7 1er décembre 2000

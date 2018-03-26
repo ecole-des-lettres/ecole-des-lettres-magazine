@@ -1,6 +1,6 @@
 ---
 id: 552
-title: Guillaume Apollinaire : l’Amérique dans « La Femme assise »
+title: Guillaume Apollinaire – l’Amérique dans « La Femme assise »
 rubrique: Poésie / Récit [classes préparatoires]
 annee: 1991
 magazine: n°13 15 juin 1992

@@ -1,6 +1,6 @@
 ---
 id: 12263
-title: Michel Winock : « Flaubert »
+title: Michel Winock – « Flaubert »
 rubrique: Biographie
 annee: 2013
 magazine: juillet 2013

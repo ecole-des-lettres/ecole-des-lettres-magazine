@@ -1,7 +1,7 @@
 ---
 id: 1739
 title: Analyse d’une adaptation cinématographique de l’œuvre de Shakespeare. Laurence
-  Olivier : « Hamlet » 
+  Olivier – « Hamlet » 
 rubrique: Théâtre et réécritures [1re]
 annee: 1994
 magazine: n°6 15 janvier 1995
@@ -16,7 +16,7 @@ description:
   – le monologue
   – le récit théâtral
   3. Points de vue et théâtralité
-  – le point de vue : cadrages et gros plans ; effets de cadrage et mouvements de caméra
+  – le point de vue – cadrages et gros plans ; effets de cadrage et mouvements de caméra
   – la traduction cinématographique de la théâtralité dans « Hamlet »
 article_pdf: 1739.pdf
 revue: L’école des lettres des lycées

@@ -1,6 +1,6 @@
 ---
 id: 3717
-title: John Steinbeck : « La Coupe d’or » 
+title: John Steinbeck – « La Coupe d’or » 
 rubrique: Préparation à la seconde [3e]
 annee: 1999
 magazine: n°7 15 novembre 1999

@@ -15,9 +15,9 @@ description:
   – penser ensemble l’indexation
   3. Collaborer pour diffuser l’information
   – mettre ses compétences au service des professeurs
-  – pratiquer la « veille documentaire » : se tenir informé des nouveautés
+  – pratiquer la « veille documentaire » – se tenir informé des nouveautés
 article_pdf: 1924.pdf
-magazine_special: CDI : quel CDI voulez-vous ?
+magazine_special: CDI – quel CDI voulez-vous ?
 revue: L’école des lettres des collèges
 auteurs:
 - Isabelle Berteloot

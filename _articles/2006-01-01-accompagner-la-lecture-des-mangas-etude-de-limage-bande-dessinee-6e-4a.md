@@ -1,7 +1,7 @@
 ---
 id: 11809
 title: Accompagner la lecture des mangas
-rubrique: Étude de l’image : bande dessinée [6e-4a]
+rubrique: Étude de l’image – bande dessinée [6e-4a]
 annee: 2006
 magazine: n°6 2007-2008
 pages: 8

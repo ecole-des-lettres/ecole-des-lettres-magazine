@@ -1,6 +1,6 @@
 ---
 id: 850
-title: Chrétien de Troyes : l’espace dans « Yvain, le Chevalier au Lion » 
+title: Chrétien de Troyes – l’espace dans « Yvain, le Chevalier au Lion » 
 rubrique: Littérature médiévale [5e]
 annee: 1992
 magazine: n°12 15 mai 1993
@@ -14,11 +14,11 @@ description:
   – la fontaine merveilleuse
   – la forêt
   3. L’espace spirituel
-  – le cadre spatial : reflet d’un itinéraire
+  – le cadre spatial – reflet d’un itinéraire
   – le motif de l’enfermement (spatial ou matériel ; amoureux ; mental ; spirituel)
   – la libération (l’espace maîtrisé ; métaphores célestes)
 article_pdf: 850.pdf
-magazine_special: Chrétien de Troyes : Yvain, le Chevalier au Lion
+magazine_special: Chrétien de Troyes – Yvain, le Chevalier au Lion
 revue: L’école des lettres des collèges
 auteurs:
 - Fabienne Decorsaire

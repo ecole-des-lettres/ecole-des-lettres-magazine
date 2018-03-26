@@ -1,7 +1,7 @@
 ---
 id: 12017
 title: Étude intégrale
-rubrique: Shakespeare : « Roméo et Juliette »
+rubrique: Shakespeare – « Roméo et Juliette »
 annee: 2009
 magazine: 2009
 pages: 18

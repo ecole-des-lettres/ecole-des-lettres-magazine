@@ -1,6 +1,6 @@
 ---
 id: 560
-title: José Mauro de Vasconcelos : « Mon bel oranger ». Étude intégrale (2/2)
+title: José Mauro de Vasconcelos – « Mon bel oranger ». Étude intégrale (2/2)
 rubrique: Littérature de jeunesse et monde contemporain [5e-4e]
 annee: 1991
 magazine: n°14 15 juin 1992

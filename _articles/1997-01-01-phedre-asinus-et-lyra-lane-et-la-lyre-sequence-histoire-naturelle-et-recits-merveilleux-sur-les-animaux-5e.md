@@ -1,6 +1,6 @@
 ---
 id: 2969
-title: Phèdre : « Asinus et Lyra », « L’Âne et la Lyre », séquence
+title: Phèdre – « Asinus et Lyra », « L’Âne et la Lyre », séquence
 rubrique: Histoire naturelle et récits merveilleux sur les animaux [5e]
 annee: 1997
 magazine: n°9 15 janvier 1998

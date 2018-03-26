@@ -1,6 +1,6 @@
 ---
 id: 12073
-title: L’histoire des arts au brevet : un exemple de partenariat avec le musée du
+title: L’histoire des arts au brevet – un exemple de partenariat avec le musée du
   Louvre
 rubrique: Histoire des arts [3e]
 annee: 2010

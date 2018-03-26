@@ -1,6 +1,6 @@
 ---
 id: 2485
-title: Gérard de Nerval : « Léo Burckart » à la Comédie-Française. Entretien avec
+title: Gérard de Nerval – « Léo Burckart » à la Comédie-Française. Entretien avec
   Jean-Pierre Vincent
 rubrique: Théâtre
 annee: 1996

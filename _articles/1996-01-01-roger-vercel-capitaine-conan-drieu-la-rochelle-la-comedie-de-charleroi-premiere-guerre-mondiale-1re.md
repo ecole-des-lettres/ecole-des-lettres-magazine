@@ -1,6 +1,6 @@
 ---
 id: 2328
-title: Roger Vercel : « Capitaine Conan » ; Drieu la Rochelle : « La Comédie de Charleroi »
+title: Roger Vercel – « Capitaine Conan » ; Drieu la Rochelle – « La Comédie de Charleroi »
 rubrique: Première guerre mondiale [1re]
 annee: 1996
 magazine: n°13 1er mai 1997

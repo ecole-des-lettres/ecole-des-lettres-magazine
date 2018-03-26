@@ -1,6 +1,6 @@
 ---
 id: 12927
-title: « L’Oubli », de Frederika Amalia Finkelstein : mémoire mécanique
+title: « L’Oubli », de Frederika Amalia Finkelstein – mémoire mécanique
 rubrique: Roman contemporain
 annee: 2014
 magazine: novembre 2014

@@ -1,6 +1,6 @@
 ---
 id: 12293
-title: Concours des dix mots : Dix mots qui rassemblent
+title: Concours des dix mots – Dix mots qui rassemblent
 rubrique: Concours
 annee: 2013
 magazine: mai 2013

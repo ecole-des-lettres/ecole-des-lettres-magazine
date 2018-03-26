@@ -1,6 +1,6 @@
 ---
 id: 12977
-title: Jean Anouilh : « Antigone ». Étude intégrale 
+title: Jean Anouilh – « Antigone ». Étude intégrale 
 rubrique: Théâtre [3e]
 annee: 1996
 magazine: 1997

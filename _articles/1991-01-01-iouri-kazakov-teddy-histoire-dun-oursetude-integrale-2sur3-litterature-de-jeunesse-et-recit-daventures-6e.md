@@ -1,6 +1,6 @@
 ---
 id: 769
-title: Iouri Kazakov : « Teddy, histoire d’un ours ». Étude intégrale (2/3)
+title: Iouri Kazakov – « Teddy, histoire d’un ours ». Étude intégrale (2/3)
 rubrique: Littérature de jeunesse et récit d’aventures [6e]
 annee: 1991
 magazine: n°9 15 mars 1992

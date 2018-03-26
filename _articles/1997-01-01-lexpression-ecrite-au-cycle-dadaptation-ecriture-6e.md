@@ -12,7 +12,7 @@ description: Le programme de sixième présente l’expression écrite, avec l�
   le caractère fédérateur de l’écriture dans l’élaboration des séquences.\n1. Les
   principes fondateurs du programme\n2. Les exercices proposés\n– « écrire pour soi »\n–
   « écrire pour autrui »\n– les différents types d’écrits\n3. Une activité fédératrice
-  de la séquence \n– l’écrit : un objectif terminal de séquence\n– l’apprentissage
+  de la séquence \n– l’écrit – un objectif terminal de séquence\n– l’apprentissage
   progressif du texte narratif\n– rythmes de l’écrit\n4. De l’usage du brouillon\n5.
   Barème et évaluation\nL’article est suivi d’une bibliographie.
 article_pdf: 2849.pdf

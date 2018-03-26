@@ -1,6 +1,6 @@
 ---
 id: 12474
-title: Éric Laurrent : « Les Découvertes »
+title: Éric Laurrent – « Les Découvertes »
 rubrique: Roman contemporain
 annee: 2011
 magazine: septembre 2011

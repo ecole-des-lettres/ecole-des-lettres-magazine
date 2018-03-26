@@ -1,6 +1,6 @@
 ---
 id: 11722
-title: Jean-François Chabas : « Asami le nageur ». Lecture cursive 
+title: Jean-François Chabas – « Asami le nageur ». Lecture cursive 
 rubrique: Littérature de jeunesse et récit d’aventures [5e-4e]
 annee: 2006
 magazine: 

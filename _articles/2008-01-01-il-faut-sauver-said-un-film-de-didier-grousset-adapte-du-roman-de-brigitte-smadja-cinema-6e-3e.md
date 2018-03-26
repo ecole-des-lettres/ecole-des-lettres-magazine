@@ -1,6 +1,6 @@
 ---
 id: 11912
-title: « Il faut sauver Saïd » : un film de Didier Grousset, adapté du roman de Brigitte
+title: « Il faut sauver Saïd » – un film de Didier Grousset, adapté du roman de Brigitte
   Smadja 
 rubrique: Cinéma [6e-3e]
 annee: 2008

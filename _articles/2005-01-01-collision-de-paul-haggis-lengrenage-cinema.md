@@ -1,6 +1,6 @@
 ---
 id: 11305
-title: « Collision », de Paul Haggis : l’engrenage
+title: « Collision », de Paul Haggis – l’engrenage
 rubrique: Cinéma
 annee: 2005
 magazine: n°3 1er octobre 2005

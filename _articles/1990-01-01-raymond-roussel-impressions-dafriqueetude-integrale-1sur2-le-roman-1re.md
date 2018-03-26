@@ -1,6 +1,6 @@
 ---
 id: 180
-title: Raymond Roussel : « Impressions d’Afrique » Étude intégrale (1/2) 
+title: Raymond Roussel – « Impressions d’Afrique » Étude intégrale (1/2) 
 rubrique: Le roman [1re]
 annee: 1990
 magazine: n°11 1er avril 1991

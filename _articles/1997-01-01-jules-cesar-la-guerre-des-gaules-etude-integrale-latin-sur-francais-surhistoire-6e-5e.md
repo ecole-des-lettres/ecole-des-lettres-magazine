@@ -1,6 +1,6 @@
 ---
 id: 2707
-title: Jules César : « La Guerre des Gaules ». Étude intégrale 
+title: Jules César – « La Guerre des Gaules ». Étude intégrale 
 rubrique: Latin / français /histoire  [6e-5e]
 annee: 1997
 magazine: 1998

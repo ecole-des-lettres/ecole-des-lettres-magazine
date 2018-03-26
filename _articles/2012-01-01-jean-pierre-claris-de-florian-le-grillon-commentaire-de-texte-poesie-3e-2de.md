@@ -1,6 +1,6 @@
 ---
 id: 12179
-title: Jean-Pierre Claris de Florian : « Le Grillon ». Commentaire de texte 
+title: Jean-Pierre Claris de Florian – « Le Grillon ». Commentaire de texte 
 rubrique: Poésie [3e-2de]
 annee: 2012
 magazine: n°5 2012-2013

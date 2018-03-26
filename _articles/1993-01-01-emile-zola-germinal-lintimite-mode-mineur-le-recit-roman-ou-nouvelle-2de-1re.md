@@ -1,6 +1,6 @@
 ---
 id: 1323
-title: Émile Zola : « Germinal ». L’intimité, mode mineur 
+title: Émile Zola – « Germinal ». L’intimité, mode mineur 
 rubrique: Le récit (roman ou nouvelle) [2de-1re]
 annee: 1993
 magazine: n°4 1er novembre 1993
@@ -13,7 +13,7 @@ description:
   5. « Prenez tout le pain, j’ai un peu de vermicelle pour les enfants ! »
   5. Le point de vue d’Alzire
 article_pdf: 1323.pdf
-magazine_special: Zola : Germinal
+magazine_special: Zola – Germinal
 revue: L’école des lettres des lycées
 auteurs:
 - Francis Marcoin

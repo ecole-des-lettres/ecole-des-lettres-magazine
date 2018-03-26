@@ -1,6 +1,6 @@
 ---
 id: 12249
-title: François Beaune : « La Lune dans le puits »
+title: François Beaune – « La Lune dans le puits »
 rubrique: Roman contemporain
 annee: 2013
 magazine: septembre 2013

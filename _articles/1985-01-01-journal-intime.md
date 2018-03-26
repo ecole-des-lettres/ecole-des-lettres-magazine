@@ -23,7 +23,7 @@ description:
   – « En miroir. Journal sans date », de Pierre Jean Jouve 
   – « Les Sandales de paille », de Pierre-Albert Jourdan 
   – les « Papiers collés », de Georges Perros
-  Ont participé à ce numéro :
+  Ont participé à ce numéro – 
   Jean Arrouye, Christiane Blot-Labarrère, Pierre-Yves Bourdil, Georges Cesbron, Michel Erman, Véronique Grollier, Yves Leclair, Francine de Martinoir, Pierre Masson, Yves Pihan, Yves Stalloni et Laurence Viglieno
 article_pdf: 5070.pdf
 magazine_special: Journal intime

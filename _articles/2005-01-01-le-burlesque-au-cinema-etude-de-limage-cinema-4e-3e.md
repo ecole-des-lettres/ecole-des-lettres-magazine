@@ -1,7 +1,7 @@
 ---
 id: 11538
 title: Le burlesque au cinéma
-rubrique: Étude de l’image : cinéma [4e-3e]
+rubrique: Étude de l’image – cinéma [4e-3e]
 annee: 2005
 magazine: n°10 avril 2006
 pages: 14

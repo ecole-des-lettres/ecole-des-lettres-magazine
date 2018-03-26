@@ -1,6 +1,6 @@
 ---
 id: 2334
-title: Maxence Van Der Meersch : « Invasion 14 »
+title: Maxence Van Der Meersch – « Invasion 14 »
 rubrique: Première guerre mondiale [1re]
 annee: 1996
 magazine: n°13 1er mai 1997

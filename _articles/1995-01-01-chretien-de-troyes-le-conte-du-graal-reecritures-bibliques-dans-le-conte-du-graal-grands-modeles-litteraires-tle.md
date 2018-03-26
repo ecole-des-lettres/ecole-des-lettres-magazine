@@ -1,6 +1,6 @@
 ---
 id: 2107
-title: Chrétien de Troyes : « Le Conte du Graal ». Réécritures bibliques dans « Le
+title: Chrétien de Troyes – « Le Conte du Graal ». Réécritures bibliques dans « Le
   Conte du Graal » 
 rubrique: Grands modèles littéraires [Tle]
 annee: 1995
@@ -16,7 +16,7 @@ description: Les soixante-six premiers vers du prologue du « Conte du Graal �
   ainsi, dès la préface, comme une œuvre à envisager avant tout dans une perspective
   mystique.
 article_pdf: 2107.pdf
-magazine_special: Chrétien de Troyes : Le Conte du Graal
+magazine_special: Chrétien de Troyes – Le Conte du Graal
 revue: L’école des lettres des lycées
 auteurs:
 - Marc Le Person

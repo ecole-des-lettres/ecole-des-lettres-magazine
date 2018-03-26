@@ -6,7 +6,7 @@ annee: 1993
 magazine: n°1 7 septembre 1993
 pages: 6
 description: 
-  2. Villes et campagnes : l’exception française
+  2. Villes et campagnes – l’exception française
   – une société profondément rurale (quelques comparaisons statistiques ; bien des citadins restent, dans le fond, des ruraux ; la lenteur des évolutions et le malaise paysan)
   – de la ville à la banlieue (l’attraction des villes ; la naissance de la banlieue)
   L’article est suivi d’une bibliographie.

@@ -1,6 +1,6 @@
 ---
 id: 1209
-title: La lecture des adolescents : identification et interprétation
+title: La lecture des adolescents – identification et interprétation
 rubrique: Littérature de jeunesse
 annee: 1993
 magazine: n°12-13 1er juin 1994

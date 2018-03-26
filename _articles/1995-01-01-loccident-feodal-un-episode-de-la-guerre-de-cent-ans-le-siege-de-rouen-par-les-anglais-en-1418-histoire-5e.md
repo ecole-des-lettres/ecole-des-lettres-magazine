@@ -1,6 +1,6 @@
 ---
 id: 2150
-title: L’Occident féodal. Un épisode de la guerre de Cent Ans : le siège de Rouen
+title: L’Occident féodal. Un épisode de la guerre de Cent Ans – le siège de Rouen
   par les Anglais en 1418 
 rubrique: Histoire [5e]
 annee: 1995

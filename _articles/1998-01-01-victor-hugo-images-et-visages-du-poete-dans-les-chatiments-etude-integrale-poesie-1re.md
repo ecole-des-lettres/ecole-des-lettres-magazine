@@ -1,6 +1,6 @@
 ---
 id: 3381
-title: Victor Hugo : images et visages du poète dans « Les Châtiments ». Étude intégrale 
+title: Victor Hugo – images et visages du poète dans « Les Châtiments ». Étude intégrale 
 rubrique: Poésie [1re]
 annee: 1998
 magazine: n°9 15 janvier 1999

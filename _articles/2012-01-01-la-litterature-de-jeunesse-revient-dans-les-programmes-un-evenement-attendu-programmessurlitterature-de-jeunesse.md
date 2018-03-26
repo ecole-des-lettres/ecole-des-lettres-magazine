@@ -1,6 +1,6 @@
 ---
 id: 12156
-title: La littérature de jeunesse revient dans les programmes : un événement attendu
+title: La littérature de jeunesse revient dans les programmes – un événement attendu
 rubrique: Programmes/littérature de jeunesse
 annee: 2012
 magazine: n°2 2012-2013

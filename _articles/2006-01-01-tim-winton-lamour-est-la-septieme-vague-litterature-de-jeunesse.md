@@ -1,6 +1,6 @@
 ---
 id: 11903
-title: Tim Winton : « L’amour est la septième vague » 
+title: Tim Winton – « L’amour est la septième vague » 
 rubrique: Littérature de jeunesse
 annee: 2006
 magazine: 2007

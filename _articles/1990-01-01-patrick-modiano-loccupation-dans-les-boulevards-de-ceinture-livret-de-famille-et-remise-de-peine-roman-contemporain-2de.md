@@ -1,6 +1,6 @@
 ---
 id: 229
-title: Patrick Modiano : l’Occupation dans « Les Boulevards de ceinture », « Livret
+title: Patrick Modiano – l’Occupation dans « Les Boulevards de ceinture », « Livret
   de famille » et « Remise de peine » 
 rubrique: Roman contemporain [2de]
 annee: 1990

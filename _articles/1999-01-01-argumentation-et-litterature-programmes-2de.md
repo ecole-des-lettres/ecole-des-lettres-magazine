@@ -12,7 +12,7 @@ description:
   4. Du côté de la littérature
   5. De la littérature comme argumentation
 article_pdf: 3735.pdf
-magazine_special: Français (seconde) : nouveaux programmes de 1999 / 2000
+magazine_special: Français (seconde) – nouveaux programmes de 1999 / 2000
 revue: L’école des lettres des lycées
 auteurs:
 - Alain Boissinot

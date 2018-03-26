@@ -7,10 +7,10 @@ magazine: n°4 1er octobre 2002
 pages: 9
 description: 
   Module de remise à niveau
-  Plan de la séquence :
-  – écrire le scénario d’un conte : sept séances
-  – le conte pressé : six séances
-  – le conte précis : six séances
+  Plan de la séquence – 
+  – écrire le scénario d’un conte – sept séances
+  – le conte pressé – six séances
+  – le conte précis – six séances
 article_pdf: 4697.pdf
 revue: L’école des lettres des collèges
 auteurs:

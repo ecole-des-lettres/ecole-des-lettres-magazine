@@ -1,6 +1,6 @@
 ---
 id: 4234
-title: Les itinéraires de découverte : les enjeux pour les élèves
+title: Les itinéraires de découverte – les enjeux pour les élèves
 rubrique: Interdisciplinarité [6e-3e]
 annee: 2001
 magazine: n°11 mars 2002

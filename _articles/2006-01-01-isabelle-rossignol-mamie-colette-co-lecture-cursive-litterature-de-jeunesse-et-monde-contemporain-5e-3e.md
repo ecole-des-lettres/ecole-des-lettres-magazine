@@ -1,6 +1,6 @@
 ---
 id: 11706
-title: Isabelle Rossignol : « Mamie Colette & Co ». Lecture cursive]
+title: Isabelle Rossignol – « Mamie Colette & Co ». Lecture cursive]
 rubrique: Littérature de jeunesse et monde contemporain [5e-3e
 annee: 2006
 magazine: 2007

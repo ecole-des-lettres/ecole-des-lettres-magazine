@@ -1,6 +1,6 @@
 ---
 id: 481
-title: Pierre Loti : « Aziyadé ». Étude intégrale 
+title: Pierre Loti – « Aziyadé ». Étude intégrale 
 rubrique: Autobiographie [1re]
 annee: 1991
 magazine: n°10 15 avril 1992
@@ -17,7 +17,7 @@ description:
   6. L’attirance pour l’Islam
   7. Le rejet du progrès
   8. L’influence du romantisme
-  9. Travestissement : jeu ou quête d’identité
+  9. Travestissement – jeu ou quête d’identité
   10. Les amitiés masculines
   11. La mort et la force du souvenir
   12. Le pouvoir des objets

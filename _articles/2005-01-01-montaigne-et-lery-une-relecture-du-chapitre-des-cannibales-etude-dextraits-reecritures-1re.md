@@ -1,6 +1,6 @@
 ---
 id: 11387
-title: Montaigne et Léry : une relecture du chapitre « Des cannibales ». Étude d’extraits
+title: Montaigne et Léry – une relecture du chapitre « Des cannibales ». Étude d’extraits
 rubrique: Réécritures [1re]
 annee: 2005
 magazine: n°11-12 septembre 2006

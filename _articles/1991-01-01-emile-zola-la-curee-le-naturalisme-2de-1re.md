@@ -1,6 +1,6 @@
 ---
 id: 749
-title: Émile Zola : « La Curée » 
+title: Émile Zola – « La Curée » 
 rubrique: Le naturalisme [2de-1re]
 annee: 1991
 magazine: n°8 1er mars 1992

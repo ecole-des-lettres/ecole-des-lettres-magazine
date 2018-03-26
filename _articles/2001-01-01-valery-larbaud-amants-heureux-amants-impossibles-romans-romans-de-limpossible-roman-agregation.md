@@ -1,6 +1,6 @@
 ---
 id: 4546
-title: Valery Larbaud : « Amants, heureux amants… ». Impossibles romans, romans de
+title: Valery Larbaud – « Amants, heureux amants… ». Impossibles romans, romans de
   l’impossible
 rubrique: Roman [agrégation]
 annee: 2001

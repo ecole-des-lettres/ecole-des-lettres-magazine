@@ -1,6 +1,6 @@
 ---
 id: 1046
-title: Paul Guimard : « Rue du Havre »
+title: Paul Guimard – « Rue du Havre »
 rubrique: Préparation au brevet [3e]
 annee: 1992
 magazine: n°7 15 janvier 1993

@@ -1,7 +1,7 @@
 ---
 id: 11447
 title: Propositions de lecture et d’écriture
-rubrique: Agnès Desarthe : « Mon écrivain préféré » [5e-4e]
+rubrique: Agnès Desarthe – « Mon écrivain préféré » [5e-4e]
 annee: 2006
 magazine: n°1 août-septembre 2006
 pages: 8

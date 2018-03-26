@@ -1,6 +1,6 @@
 ---
 id: 1998
-title: Joachim du Bellay : « Sonnet VI » dans « Le Songe ». Commentaire composé 
+title: Joachim du Bellay – « Sonnet VI » dans « Le Songe ». Commentaire composé 
 rubrique: Poésie [1re]
 annee: 1995
 magazine: n°2 1er octobre 1995

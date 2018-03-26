@@ -10,7 +10,7 @@ description: Depuis quelques années, le ministère de l’Éducation nationale 
   lycée. Cet article présente une lecture synthétique des nouveaux programmes qui
   permet de mettre en évidence la philosophie qui les inspire. Il propose ensuite
   quelques outils pour répondre à deux axes principaux de l’étude de l’image en classe
-  de troisième : l’étude de l’image argumentative de publicité et l’initiation à l’analyse
+  de troisième – l’étude de l’image argumentative de publicité et l’initiation à l’analyse
   filmique.
 article_pdf: 11857.pdf
 magazine_special: Liaison troisième-seconde

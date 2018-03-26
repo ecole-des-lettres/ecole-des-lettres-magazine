@@ -1,6 +1,6 @@
 ---
 id: 331
-title: Marie-Aude Murail : l’insoutenable légèreté du livre… 
+title: Marie-Aude Murail – l’insoutenable légèreté du livre… 
 rubrique: Documentation et littérature de jeunesse [6e-3e]
 annee: 1990
 magazine: n°5 15 novembre 1990

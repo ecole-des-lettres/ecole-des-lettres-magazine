@@ -1,6 +1,6 @@
 ---
 id: 12852
-title: Le Salon de Montreuil : le temple des livres de jeunesse
+title: Le Salon de Montreuil – le temple des livres de jeunesse
 rubrique: Littérature de jeunesse
 annee: 2014
 magazine: novembre 2014

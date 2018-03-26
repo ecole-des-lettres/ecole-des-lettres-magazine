@@ -1,6 +1,6 @@
 ---
 id: 2119
-title: Dino Buzzati : « Le Veston ensorcelé ». Activités autour d’un thème : figures
+title: Dino Buzzati – « Le Veston ensorcelé ». Activités autour d’un thème – figures
   du diable 
 rubrique: Nouvelle fantastique [4e]
 annee: 1995

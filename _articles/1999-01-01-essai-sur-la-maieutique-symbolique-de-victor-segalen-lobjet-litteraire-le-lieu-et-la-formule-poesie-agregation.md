@@ -1,6 +1,6 @@
 ---
 id: 3555
-title: Essai sur la maïeutique symbolique de Victor Segalen. L’objet littéraire :
+title: Essai sur la maïeutique symbolique de Victor Segalen. L’objet littéraire – 
   « le lieu et la formule »
 rubrique: Poésie [agrégation]
 annee: 1999
@@ -11,10 +11,10 @@ description:
   2. Enjeux esthétiques de la forme stèle
   – la clé d’un système métaphorique
   – la clé d’une esthétique formulaire
-  3. Situation littéraire de l’objet-poème : filiations affrontées
+  3. Situation littéraire de l’objet-poème – filiations affrontées
   – une forme autoréférentielle
   – une « poéthique » aux résonances mallarméennes
-  – la cadence : « ordre de marche »
+  – la cadence – « ordre de marche »
 article_pdf: 3555.pdf
 revue: L’école des lettres des lycées
 auteurs:

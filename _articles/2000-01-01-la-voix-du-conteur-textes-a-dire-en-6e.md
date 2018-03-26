@@ -1,6 +1,6 @@
 ---
 id: 4064
-title: La voix du conteur : textes à dire en 6e
+title: La voix du conteur – textes à dire en 6e
 rubrique: 
 annee: 2000
 magazine: n°7 1er décembre 2000

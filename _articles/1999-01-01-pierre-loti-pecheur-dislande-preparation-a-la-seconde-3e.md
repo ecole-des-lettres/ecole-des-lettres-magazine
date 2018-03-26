@@ -1,6 +1,6 @@
 ---
 id: 3443
-title: Pierre Loti : « Pêcheur d’Islande »
+title: Pierre Loti – « Pêcheur d’Islande »
 rubrique: Préparation à la seconde [3e]
 annee: 1999
 magazine: n°10 15 février 2000

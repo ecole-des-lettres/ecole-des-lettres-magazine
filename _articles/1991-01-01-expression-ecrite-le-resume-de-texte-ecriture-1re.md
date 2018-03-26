@@ -1,6 +1,6 @@
 ---
 id: 701
-title: Expression écrite : le résumé de texte 
+title: Expression écrite – le résumé de texte 
 rubrique: Écriture [1re]
 annee: 1991
 magazine: n°7 1er février 1992

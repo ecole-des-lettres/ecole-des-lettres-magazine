@@ -1,6 +1,6 @@
 ---
 id: 11502
-title: E. B. White : « Le Petit Monde de Charlotte ». Étude intégrale
+title: E. B. White – « Le Petit Monde de Charlotte ». Étude intégrale
 rubrique: Littérature de jeunesse et contes [6e]
 annee: 2006
 magazine: n°5-6 janvier-février 2007

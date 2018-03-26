@@ -1,6 +1,6 @@
 ---
 id: 11747
-title: Les classes-presse : un laboratoire de bonnes idées utilisables par tous les
+title: Les classes-presse – un laboratoire de bonnes idées utilisables par tous les
   enseignants
 rubrique: Éducation aux médias [6e-3e]
 annee: 2007

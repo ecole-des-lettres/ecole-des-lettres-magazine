@@ -12,7 +12,7 @@ description: Les compagnies du Théâtre de l’Ordinaire et de l’Asian People
   la Première Guerre mondiale. La mise en scène du tout jeune Maxime Séchaud, qui
   s’inspire du burlesque et de la tragédie des « Bourreaux meurent aussi », de Fritz
   Lang et Bertold Brecht, éveille en nous des questions universelles et atemporelles
-  : Quelles forces agissent en nous ? Comment l’Histoire imprègne-t-elle nos vies
+  – Quelles forces agissent en nous ? Comment l’Histoire imprègne-t-elle nos vies
   ? Comment nos actes peuvent-ils modifier le cours des événements ?
 article_pdf: 12777.pdf
 revue: L’école des lettres des collèges

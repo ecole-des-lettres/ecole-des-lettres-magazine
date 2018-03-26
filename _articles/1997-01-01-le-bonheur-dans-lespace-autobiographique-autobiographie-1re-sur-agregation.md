@@ -7,7 +7,7 @@ magazine: n°9 15 janvier 1998
 pages: 25
 description: 
   Entraînement à l’épreuve de didactique de l’agrégation interne.
-  Proposition d’étude d’un groupement de textes en première :
+  Proposition d’étude d’un groupement de textes en première – 
   – Montaigne, « Essais », III, 13
   – Rousseau, « Confessions », livre 2
   – Chateaubriand, « Mémoires d’outre-tombe », I, 3, 1

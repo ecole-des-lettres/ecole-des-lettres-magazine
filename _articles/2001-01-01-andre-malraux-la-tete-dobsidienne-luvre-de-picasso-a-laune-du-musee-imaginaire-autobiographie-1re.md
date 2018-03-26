@@ -1,6 +1,6 @@
 ---
 id: 4485
-title: André Malraux : « La Tête d’obsidienne ». L’œuvre de Picasso à l’aune du Musée
+title: André Malraux – « La Tête d’obsidienne ». L’œuvre de Picasso à l’aune du Musée
   Imaginaire
 rubrique: Autobiographie [1re]
 annee: 2001

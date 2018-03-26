@@ -1,6 +1,6 @@
 ---
 id: 24
-title: Marguerite Duras : « La Douleur ». Étude intégrale
+title: Marguerite Duras – « La Douleur ». Étude intégrale
 rubrique: Autobiographie [1re]
 annee: 1985
 magazine: n°11 15 mars 1986

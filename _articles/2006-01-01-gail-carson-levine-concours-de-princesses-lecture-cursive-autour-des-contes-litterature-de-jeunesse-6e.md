@@ -1,6 +1,6 @@
 ---
 id: 11638
-title: Gail Carson Levine : « Concours de princesses ». Lecture cursive autour des
+title: Gail Carson Levine – « Concours de princesses ». Lecture cursive autour des
   contes
 rubrique: Littérature de jeunesse [6e]
 annee: 2006

@@ -1,6 +1,6 @@
 ---
 id: 11326
-title: « Kiss kiss bang bang », de Shane Black : le cercle des parodies
+title: « Kiss kiss bang bang », de Shane Black – le cercle des parodies
 rubrique: Cinéma
 annee: 2005
 magazine: n°5 décembre 2005

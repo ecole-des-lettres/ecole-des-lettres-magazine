@@ -1,6 +1,6 @@
 ---
 id: 11063
-title: « Mon écrivain préféré : Moka ». Lecture cursive
+title: « Mon écrivain préféré – Moka ». Lecture cursive
 rubrique: Littérature de jeunesse et fantastique [6e-3e]
 annee: 2004
 magazine: n°1 août-septembre 2004

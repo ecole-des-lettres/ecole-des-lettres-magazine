@@ -1,13 +1,13 @@
 ---
 id: 11388
-title: Sfar & Guibert : « La Fille du professeur ». Une bande dessinée entre aventure
+title: Sfar & Guibert – « La Fille du professeur ». Une bande dessinée entre aventure
   et burlesque
 rubrique: Bande dessinée [bac pro]
 annee: 2005
 magazine: n°11-12 septembre 2006
 pages: 22
 description: Récit fantastique, aventure, histoire d’amour, critique sociale, comique
-  burlesque : « La Fille du professeur », de Joann Sfar et Emmanuel Guibert, joue
+  burlesque – « La Fille du professeur », de Joann Sfar et Emmanuel Guibert, joue
   avec les genres, les tons, les thèmes et leurs clichés pour les traiter sur un mode
   poétique par le biais d’un graphisme qui utilise toute la richesse du lavis. L’étude
   de cette bande dessinée originale, peut-être plus attractive pour des élèves de

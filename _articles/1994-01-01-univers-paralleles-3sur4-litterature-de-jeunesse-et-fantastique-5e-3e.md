@@ -7,8 +7,8 @@ magazine: n°9 15 mars 1995
 pages: 6
 description: 
   Une série d’articles sur le genre de la science-fiction, le genre fantastique, historique et le ton naïf…
-  Le genre « fantastique » :
-  – deux interprétations entre lesquelles le lecteur ne peut trancher : « L’Arbre du Portugais », de Bernard Cassac (« Le Train perdu et autres histoires mystérieuses ») ; « La Peur », de Maupassant
+  Le genre « fantastique » – 
+  – deux interprétations entre lesquelles le lecteur ne peut trancher – « L’Arbre du Portugais », de Bernard Cassac (« Le Train perdu et autres histoires mystérieuses ») ; « La Peur », de Maupassant
   – histoires de fantômes
   L’article est suivi d’une bibliographie proposant des histoires de fantômes et des histoires fantastiques.
 article_pdf: 1842.pdf

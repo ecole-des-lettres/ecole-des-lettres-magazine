@@ -1,6 +1,6 @@
 ---
 id: 12641
-title: « Loulou, l’incroyable secret », de Grégoire Solotareff : où le loup est l’agneau
+title: « Loulou, l’incroyable secret », de Grégoire Solotareff – où le loup est l’agneau
 rubrique: Littérature de jeunesse / Cinéma
 annee: 2014
 magazine: 

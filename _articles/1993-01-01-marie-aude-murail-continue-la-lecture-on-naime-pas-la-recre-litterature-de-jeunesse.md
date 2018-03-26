@@ -1,6 +1,6 @@
 ---
 id: 1115
-title: Marie-Aude Murail : « Continue la lecture, on n’aime pas la récré »
+title: Marie-Aude Murail – « Continue la lecture, on n’aime pas la récré »
 rubrique: Littérature de jeunesse
 annee: 1993
 magazine: n°1 7 septembre 1993

@@ -1,6 +1,6 @@
 ---
 id: 11443
-title: Gisèle Bienne : « Les Champions ». Lecture cursive
+title: Gisèle Bienne – « Les Champions ». Lecture cursive
 rubrique: Littérature de jeunesse et journal intime [4e-3e]
 annee: 2005
 magazine: n°9 mars 2006

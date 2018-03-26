@@ -1,6 +1,6 @@
 ---
 id: 1510
-title: Denis Diderot : « Paradoxe sur le comédien » : tableaux et récits [1re] 
+title: Denis Diderot – « Paradoxe sur le comédien » – tableaux et récits [1re] 
 rubrique: Théâtre/argumentation [1re]
 annee: 1994
 magazine: n°10 15 avril 1995
@@ -14,7 +14,7 @@ description: L’« Essai sur la peinture », le « Traité du Beau » et les «
   autour du concept de récit, conjuguant les vertus de la peinture aux puissances
   de la musique et de la poésie. 
 article_pdf: 1510.pdf
-magazine_special: Diderot : Paradoxe sur le comédien
+magazine_special: Diderot – Paradoxe sur le comédien
 revue: L’école des lettres des lycées
 auteurs:
 - Joël Dupas

@@ -1,6 +1,6 @@
 ---
 id: 12077
-title: Le Muz : le musée des œuvres des enfants. Entretien avec Anne Josse
+title: Le Muz – le musée des œuvres des enfants. Entretien avec Anne Josse
 rubrique: Histoire des arts
 annee: 2010
 magazine: n°4-5 2010-2011

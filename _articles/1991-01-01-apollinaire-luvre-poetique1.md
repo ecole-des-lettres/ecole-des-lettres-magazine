@@ -17,9 +17,9 @@ description:
   8. Apollinaire, du lyrisme orphique au regard sur le
   réel
   9. Apollinaire et l’avant-garde
-  10. La pureté de l’art : « théologie » cubiste d’Apollinaire ?
+  10. La pureté de l’art – « théologie » cubiste d’Apollinaire ?
   11. Apollinaire et l’avant-garde en 1913
-  Ont participé à ce numéro :
+  Ont participé à ce numéro – 
   Marie-Hélène Boblet-Viart, Madeleine Boisson, Claude Debon, Michel Décaudin, Jacques Guilhembet, Marie-Louise Lentengre, Dominique Millet-Gérard, Jean Sémolué, Yves Stalloni et Dominique Viart
 article_pdf: 5033.pdf
 magazine_special: Apollinaire. L’œuvre poétique (1)

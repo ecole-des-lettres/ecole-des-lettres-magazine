@@ -1,6 +1,6 @@
 ---
 id: 11726
-title: Sophie Chérer : « La Santé sans télé ». Lecture cursive 
+title: Sophie Chérer – « La Santé sans télé ». Lecture cursive 
 rubrique: Littérature de jeunesse et expression orale [6e]
 annee: 2006
 magazine: 

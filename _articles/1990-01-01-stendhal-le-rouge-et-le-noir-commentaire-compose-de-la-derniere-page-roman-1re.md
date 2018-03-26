@@ -1,6 +1,6 @@
 ---
 id: 421
-title: Stendhal : « Le Rouge et le Noir ». Commentaire composé de la dernière page 
+title: Stendhal – « Le Rouge et le Noir ». Commentaire composé de la dernière page 
 rubrique: Roman [1re]
 annee: 1990
 magazine: n°8 1er février 1991

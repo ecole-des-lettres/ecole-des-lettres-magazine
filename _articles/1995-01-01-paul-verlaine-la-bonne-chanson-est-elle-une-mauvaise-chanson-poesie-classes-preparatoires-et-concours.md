@@ -1,6 +1,6 @@
 ---
 id: 1973
-title: Paul Verlaine : « La Bonne Chanson » est-elle une mauvaise chanson ?
+title: Paul Verlaine – « La Bonne Chanson » est-elle une mauvaise chanson ?
 rubrique: Poésie [classes préparatoires et concours]
 annee: 1995
 magazine: n°14 juillet 1996

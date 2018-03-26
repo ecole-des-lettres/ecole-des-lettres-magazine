@@ -1,12 +1,12 @@
 ---
 id: 1906
-title: Jean Renoir : « La Bête humaine » ou Zola vu par Renoir 
-rubrique: Littérature et étude de l’image : cinéma [3e]
+title: Jean Renoir – « La Bête humaine » ou Zola vu par Renoir 
+rubrique: Littérature et étude de l’image – cinéma [3e]
 annee: 1995
 magazine: n°11 15 mai 1996
 pages: 12
 description: 
-  Regarder et étudier « La Bête humaine », c’est  s’interroger sur trois points qui sont autant d’objectifs :
+  Regarder et étudier « La Bête humaine », c’est  s’interroger sur trois points qui sont autant d’objectifs – 
   1. Quels choix Renoir a-t-il fait en adaptant le roman et pourquoi ?
   2. Comment filme-t-il ?
   3. Quelle vision historique, politique et sociale donne-t-il ?

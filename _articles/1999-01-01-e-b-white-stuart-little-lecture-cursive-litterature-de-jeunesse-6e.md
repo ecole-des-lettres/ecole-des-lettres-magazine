@@ -1,6 +1,6 @@
 ---
 id: 3496
-title: E. B. White : « Stuart Little ». Lecture cursive
+title: E. B. White – « Stuart Little ». Lecture cursive
 rubrique: Littérature de jeunesse [6e]
 annee: 1999
 magazine: n°11 (supplément) 15 mars 2000

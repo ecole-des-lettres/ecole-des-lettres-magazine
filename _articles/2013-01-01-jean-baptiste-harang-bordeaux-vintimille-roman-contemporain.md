@@ -1,6 +1,6 @@
 ---
 id: 12343
-title: Jean-Baptiste Harang : « Bordeaux-Vintimille »
+title: Jean-Baptiste Harang – « Bordeaux-Vintimille »
 rubrique: Roman contemporain
 annee: 2013
 magazine: janvier 2013

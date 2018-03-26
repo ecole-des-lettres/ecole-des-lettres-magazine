@@ -12,7 +12,7 @@ description: Les polémiques récentes [cet article a été initialement publié
   temps », l’islam aurait interdit la représentation de son prophète, voire toute
   représentation humaine. Encore faudrait-il savoir de quel objet on parle lorsqu’on
   utilise le terme « islam », dont les significations multiples sont trop souvent
-  confondues ou tenues pour équivalentes : parle-t-on de l’islam sunnite, de l’islam
+  confondues ou tenues pour équivalentes – parle-t-on de l’islam sunnite, de l’islam
   chiite ? Des pratiques des croyants, qu’il faut toujours rapporter à un contexte
   géographique et historique précis ? Des textes sacrés de l’islam, en premier lieu
   du Coran, ou des interprétations des juristes et des exégètes ? De l’islam des fatwas

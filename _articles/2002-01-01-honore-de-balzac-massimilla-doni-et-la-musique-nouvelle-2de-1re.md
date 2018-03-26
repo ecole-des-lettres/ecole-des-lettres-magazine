@@ -1,6 +1,6 @@
 ---
 id: 5015
-title: Honoré de Balzac : « Massimilla Doni » et la musique
+title: Honoré de Balzac – « Massimilla Doni » et la musique
 rubrique: Nouvelle [2de-1re]
 annee: 2002
 magazine: n°13 juillet 2003

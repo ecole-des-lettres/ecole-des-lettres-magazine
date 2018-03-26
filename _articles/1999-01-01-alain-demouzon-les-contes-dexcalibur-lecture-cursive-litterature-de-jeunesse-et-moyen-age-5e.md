@@ -1,6 +1,6 @@
 ---
 id: 3625
-title: Alain Demouzon : « Les Contes d’Excalibur ». Lecture cursive 
+title: Alain Demouzon – « Les Contes d’Excalibur ». Lecture cursive 
 rubrique: Littérature de jeunesse et Moyen Âge  [5e]
 annee: 1999
 magazine: n°4 1er octobre 1999

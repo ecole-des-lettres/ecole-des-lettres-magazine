@@ -1,6 +1,6 @@
 ---
 id: 1241
-title: Gérard de Nerval : « Corilla » 
+title: Gérard de Nerval – « Corilla » 
 rubrique: Nouvelle [2de]
 annee: 1993
 magazine: n°13-14 juillet 1994

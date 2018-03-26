@@ -1,6 +1,6 @@
 ---
 id: 5265
-title: Fabrice Melquiot : « Bouli Miro » par les Comédiens-Français
+title: Fabrice Melquiot – « Bouli Miro » par les Comédiens-Français
 rubrique: Théâtre
 annee: 2003
 magazine: n°7 1er janvier 2004

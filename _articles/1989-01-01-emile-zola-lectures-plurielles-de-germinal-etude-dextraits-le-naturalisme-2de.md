@@ -1,6 +1,6 @@
 ---
 id: 121
-title: Émile Zola : lectures plurielles de « Germinal ». Étude d’extraits
+title: Émile Zola – lectures plurielles de « Germinal ». Étude d’extraits
 rubrique: Le naturalisme [2de]
 annee: 1989
 magazine: n°6 15 décembre 1989

@@ -1,6 +1,6 @@
 ---
 id: 1959
-title: Comtesse de Ségur : « Mémoires d’un âne ». Étude intégrale
+title: Comtesse de Ségur – « Mémoires d’un âne ». Étude intégrale
 rubrique: Littérature de jeunesse et narration [6e]
 annee: 1995
 magazine: n°13-14 15 juin 1996

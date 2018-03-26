@@ -1,6 +1,6 @@
 ---
 id: 4764
-title: Michel del Castillo : « Tanguy »
+title: Michel del Castillo – « Tanguy »
 rubrique: Préparation à la seconde et autobiographie [3e]
 annee: 2002
 magazine: n°7 1er décembre 2002

@@ -1,6 +1,6 @@
 ---
 id: 2604
-title: Les épreuves écrites du baccalauréat : le premier sujet 
+title: Les épreuves écrites du baccalauréat – le premier sujet 
 rubrique: L’argumentation [2de-1re]
 annee: 1997
 magazine: 1997
@@ -10,7 +10,7 @@ description:
   1. Montaigne, « Essais », I, 31
   2. Voltaire, « Le Mondain », v. 1-43
   3. Molière, « Les Femmes savantes », II, 7
-  Étude de l’argumentation de la révolte de Chrysale : système énonciatif, structure rhétorique, figures de style…
+  Étude de l’argumentation de la révolte de Chrysale – système énonciatif, structure rhétorique, figures de style…
   4. Laclos, « Cécilia ou les Mémoires d’une héritière »
   5. La Fontaine, « Le Berger et le Roi » (« Fables », X, 9).
   6. Montaigne, « Des cannibales » ; Baudelaire, « Le Peintre de la vie moderne »

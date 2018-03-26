@@ -1,6 +1,6 @@
 ---
 id: 4162
-title: Honoré de Balzac : « Adieu »
+title: Honoré de Balzac – « Adieu »
 rubrique: Nouvelles [2de]
 annee: 2000
 magazine: n°9 15 janvier 2001

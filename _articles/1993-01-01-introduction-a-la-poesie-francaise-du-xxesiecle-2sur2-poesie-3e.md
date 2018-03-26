@@ -6,7 +6,7 @@ annee: 1993
 magazine: n°14 juin 1994
 pages: 8
 description: 
-  À partir de quelques œuvres de quatre poètes contemporains : Saint-John Perse, René Char, Jean Follain et Georges Schéhadé, familiariser les élèves de troisième avec la poésie contemporaine par le biais de l’étude thématique du monde de l’enfance et de l’adolescence…
+  À partir de quelques œuvres de quatre poètes contemporains – Saint-John Perse, René Char, Jean Follain et Georges Schéhadé, familiariser les élèves de troisième avec la poésie contemporaine par le biais de l’étude thématique du monde de l’enfance et de l’adolescence…
   2. Le monde de l’enfance et de l’adolescence dans les œuvres de ces quatre poètes
   – l’enfance et l’adolescence, sources éternelles d’inspiration et de création poétiques
   – les thèmes

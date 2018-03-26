@@ -8,7 +8,7 @@ pages: 2
 description: En Italie, le latin est obligatoire à partir de l’âge de quatorze ans.
   Comment l’enseigne-t-on ?
 article_pdf: 1166.pdf
-magazine_special: Langues anciennes : didactique
+magazine_special: Langues anciennes – didactique
 revue: L’école des lettres des lycées
 auteurs:
 - Silvana Rocca

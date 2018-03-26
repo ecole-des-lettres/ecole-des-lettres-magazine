@@ -1,7 +1,7 @@
 ---
 id: 4577
 title: Le triomphe de l’éloquence
-rubrique: Pierre Corneille : « L’Illusion comique »
+rubrique: Pierre Corneille – « L’Illusion comique »
 annee: 2001
 magazine: n°9 1er février 2002
 pages: 18
@@ -20,7 +20,7 @@ description:
   – les illusions du discours
   – le discours agissant du démiurge
 article_pdf: 4577.pdf
-magazine_special: Corneille : Le Cid et L’Illusion comique
+magazine_special: Corneille – Le Cid et L’Illusion comique
 revue: L’école des lettres des lycées
 auteurs:
 - Christiane Pilaud

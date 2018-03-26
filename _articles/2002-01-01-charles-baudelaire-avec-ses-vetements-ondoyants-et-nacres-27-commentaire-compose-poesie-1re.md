@@ -1,6 +1,6 @@
 ---
 id: 4980
-title: Charles Baudelaire : « Avec ses vêtements ondoyants et nacrés… », 27. Commentaire
+title: Charles Baudelaire – « Avec ses vêtements ondoyants et nacrés… », 27. Commentaire
   composé
 rubrique: Poésie [1re]
 annee: 2002
@@ -20,7 +20,7 @@ description:
   – l’allégorie du thyrse
   – le poème comme allégorie
 article_pdf: 4980.pdf
-magazine_special: Baudelaire : Les Fleurs du Mal
+magazine_special: Baudelaire – Les Fleurs du Mal
 revue: L’école des lettres des lycées
 auteurs:
 - Catherine Thiollet

@@ -1,6 +1,6 @@
 ---
 id: 12297
-title: Réaliser une émission de radio avec des élèves : un projet pédagogique innovant
+title: Réaliser une émission de radio avec des élèves – un projet pédagogique innovant
   et efficace
 rubrique: Éducation aux médias
 annee: 2013

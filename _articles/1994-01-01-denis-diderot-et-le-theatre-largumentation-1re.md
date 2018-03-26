@@ -16,7 +16,7 @@ description:
   7. Le point de vue du « metteur en scène »
   8. La rhétorique théâtrale
 article_pdf: 1496.pdf
-magazine_special: Diderot : Paradoxe sur le comédien
+magazine_special: Diderot – Paradoxe sur le comédien
 revue: L’école des lettres des lycées
 auteurs:
 - Joël Dupas

@@ -1,6 +1,6 @@
 ---
 id: 3006
-title: Victor Hugo : « Les Châtiments »  Étude intégrale (1/2)
+title: Victor Hugo – « Les Châtiments »  Étude intégrale (1/2)
 rubrique: Poésie [1re]
 annee: 1998
 magazine: n°1 15 juillet 1998

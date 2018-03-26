@@ -1,15 +1,15 @@
 ---
 id: 3522
-title: Beaumarchais : « Le Mariage de Figaro ». Étude d’extrait : acte I, scène 1
+title: Beaumarchais – « Le Mariage de Figaro ». Étude d’extrait – acte I, scène 1
 rubrique: Théâtre [1re]
 annee: 1999
 magazine: n°12 mai 2000
 pages: 15
 description: 
-  1. L’espace scénique : du jeu au symbole
+  1. L’espace scénique – du jeu au symbole
   – les éléments de décor
   – l’espace scénique, un espace dramaturgique
-  – la fonction symbolique : un espace menacé
+  – la fonction symbolique – un espace menacé
   2. Le début d’une « folle journée »
   – le fonctionnement actantiel
   – les allusions au « Barbier de Séville »

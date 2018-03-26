@@ -9,7 +9,7 @@ description:
   Un itinéraire de découverte autour de l’Europe unissant français et histoire-géographie
   1. Un itinéraire de découverte
   – l’ancrage dans les programmes
-  – actualité historique et politique : du multiculturalisme à l’interculturalité
+  – actualité historique et politique – du multiculturalisme à l’interculturalité
   2. Déroulement de l’itinéraire
   L’article est suivi d’une bibliographie.
 article_pdf: 4237.pdf

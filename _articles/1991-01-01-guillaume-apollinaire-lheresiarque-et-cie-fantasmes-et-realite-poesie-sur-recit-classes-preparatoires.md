@@ -1,6 +1,6 @@
 ---
 id: 551
-title: Guillaume Apollinaire : « L’Hérésiarque et Cie », fantasmes et réalité
+title: Guillaume Apollinaire – « L’Hérésiarque et Cie », fantasmes et réalité
 rubrique: Poésie / Récit [classes préparatoires]
 annee: 1991
 magazine: n°13 15 juin 1992

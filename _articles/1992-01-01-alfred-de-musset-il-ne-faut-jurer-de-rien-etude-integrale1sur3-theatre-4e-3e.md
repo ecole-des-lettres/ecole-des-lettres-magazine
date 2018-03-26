@@ -1,12 +1,12 @@
 ---
 id: 786
-title: Alfred de Musset : « Il ne faut jurer de rien ». Étude intégrale(1/3) 
+title: Alfred de Musset – « Il ne faut jurer de rien ». Étude intégrale(1/3) 
 rubrique: Théâtre [4e-3e] 
 annee: 1992
 magazine: n°1 10 septembre 1992
 pages: 10
 description: 
-  Séquence 1 : La structure de la pièce
+  Séquence 1 – La structure de la pièce
   – répartition des personnages acte par acte
   – schéma des péripéties
   – initiation au schéma actantiel

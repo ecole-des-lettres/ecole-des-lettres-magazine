@@ -5,7 +5,7 @@ rubrique: Interdisciplinarité français, latin-grec [3e]
 annee: 2001
 magazine: n°11 mars 2002
 pages: 10
-description: Objectif : faire repérer dans des supports multiples (peinture, architecture,
+description: Objectif – faire repérer dans des supports multiples (peinture, architecture,
   littérature, publicité, etc.) les utilisations de l’Antiquité…
 article_pdf: 4238.pdf
 magazine_special: Itinéraires de découverte

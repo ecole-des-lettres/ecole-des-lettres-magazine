@@ -1,6 +1,6 @@
 ---
 id: 12835
-title: Je suis Charlie : toi aussi
+title: Je suis Charlie – toi aussi
 rubrique: Éducation
 annee: 2014
 magazine: janvier 2015

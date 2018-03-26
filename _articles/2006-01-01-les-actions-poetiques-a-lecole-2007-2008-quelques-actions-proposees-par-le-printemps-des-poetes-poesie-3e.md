@@ -1,6 +1,6 @@
 ---
 id: 11615
-title: Les actions poétiques à l’école. 2007-2008 : quelques actions proposées par
+title: Les actions poétiques à l’école. 2007-2008 – quelques actions proposées par
   le Printemps des poètes
 rubrique: Poésie [3e]
 annee: 2006

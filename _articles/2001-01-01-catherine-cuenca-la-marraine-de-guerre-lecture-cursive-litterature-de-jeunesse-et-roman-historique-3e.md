@@ -1,6 +1,6 @@
 ---
 id: 4415
-title: Catherine Cuenca : « La Marraine de guerre ». Lecture cursive
+title: Catherine Cuenca – « La Marraine de guerre ». Lecture cursive
 rubrique: Littérature de jeunesse et roman historique [3e]
 annee: 2001
 magazine: n°4 1er octobre 2001

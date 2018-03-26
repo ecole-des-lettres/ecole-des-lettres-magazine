@@ -1,6 +1,6 @@
 ---
 id: 774
-title: Eugène Ionesco : « La Cantatrice chauve » ou la révolution dramaturgique 
+title: Eugène Ionesco – « La Cantatrice chauve » ou la révolution dramaturgique 
 rubrique: Théâtre [1re]
 annee: 1991
 magazine: n°9 1er avril 1992

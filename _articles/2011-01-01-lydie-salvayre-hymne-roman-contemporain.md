@@ -1,6 +1,6 @@
 ---
 id: 12462
-title: Lydie Salvayre : « Hymne »
+title: Lydie Salvayre – « Hymne »
 rubrique: Roman contemporain
 annee: 2011
 magazine: octobre 2011

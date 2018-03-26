@@ -1,6 +1,6 @@
 ---
 id: 11231
-title: « Before Sunset », de Richard Linklater : la mise en scène du désir
+title: « Before Sunset », de Richard Linklater – la mise en scène du désir
 rubrique: Cinéma
 annee: 2004
 magazine: n°7 mars 2005

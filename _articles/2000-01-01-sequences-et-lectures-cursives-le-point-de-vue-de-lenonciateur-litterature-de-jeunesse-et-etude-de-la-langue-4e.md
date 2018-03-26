@@ -1,6 +1,6 @@
 ---
 id: 3821
-title: Séquences et lectures cursives : le point de vue de l’énonciateur
+title: Séquences et lectures cursives – le point de vue de l’énonciateur
 rubrique: Littérature de jeunesse et étude de la langue [4e]
 annee: 2000
 magazine: n°10 15 février 2001

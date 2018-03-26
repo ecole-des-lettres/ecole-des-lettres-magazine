@@ -1,6 +1,6 @@
 ---
 id: 12388
-title: Patrick Modiano : « L’Herbe des nuits »
+title: Patrick Modiano – « L’Herbe des nuits »
 rubrique: Roman contemporain
 annee: 2012
 magazine: septembre 2012

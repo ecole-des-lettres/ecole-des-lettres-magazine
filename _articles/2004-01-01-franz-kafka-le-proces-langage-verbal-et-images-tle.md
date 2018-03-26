@@ -1,6 +1,6 @@
 ---
 id: 11250
-title: Franz Kafka : « Le Procès »
+title: Franz Kafka – « Le Procès »
 rubrique: Langage verbal et images [Tle]
 annee: 2004
 magazine: n°9 mai 2005

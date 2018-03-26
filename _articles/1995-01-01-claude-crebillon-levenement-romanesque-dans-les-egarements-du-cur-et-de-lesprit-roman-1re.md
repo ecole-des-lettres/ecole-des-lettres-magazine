@@ -1,6 +1,6 @@
 ---
 id: 2192
-title: Claude Crébillon : l’événement romanesque dans « Les Égarements du cœur et
+title: Claude Crébillon – l’événement romanesque dans « Les Égarements du cœur et
   de l’esprit » 
 rubrique: Roman [1re]
 annee: 1995

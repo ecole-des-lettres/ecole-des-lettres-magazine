@@ -1,6 +1,6 @@
 ---
 id: 11835
-title: Pierre Choderlos de Laclos : « Les Liaisons dangereuses ». Étude intégrale
+title: Pierre Choderlos de Laclos – « Les Liaisons dangereuses ». Étude intégrale
   (2/3) 
 rubrique: Langage verbal et images [Tle]
 annee: 1991

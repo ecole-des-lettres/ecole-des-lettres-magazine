@@ -1,6 +1,6 @@
 ---
 id: 12693
-title: OCDE : TALIS 2013, de l’enquête à la feuille de route
+title: OCDE – TALIS 2013, de l’enquête à la feuille de route
 rubrique: Éducation / Formation
 annee: 2014
 magazine: 

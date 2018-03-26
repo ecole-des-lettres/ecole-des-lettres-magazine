@@ -1,6 +1,6 @@
 ---
 id: 11180
-title: « Les Revenants », de Robin Campillo : le jugement dernier
+title: « Les Revenants », de Robin Campillo – le jugement dernier
 rubrique: Cinéma
 annee: 2004
 magazine: n°3 1er novembre 2004

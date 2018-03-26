@@ -20,7 +20,7 @@ description:
   – « L’Épopée de Dietrich »
   5. L’épopée allemande et l’histoire
 article_pdf: 2469.pdf
-magazine_special: Nibelungen : chanson des Nibelungen
+magazine_special: Nibelungen – chanson des Nibelungen
 revue: L’école des lettres des collèges
 auteurs:
 - Danielle Buschinger

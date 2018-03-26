@@ -1,6 +1,6 @@
 ---
 id: 11164
-title: « Infernal Affairs », de Andy Lau : l’identité en question
+title: « Infernal Affairs », de Andy Lau – l’identité en question
 rubrique: Cinéma
 annee: 2004
 magazine: n°2 1er octobre 2004

@@ -1,6 +1,6 @@
 ---
 id: 12945
-title: Nouveaux programmes de collège : où sont les œuvres ?
+title: Nouveaux programmes de collège – où sont les œuvres ?
 rubrique: Programmes 2016
 annee: 2015
 magazine: mai 2015

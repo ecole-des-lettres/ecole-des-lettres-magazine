@@ -1,6 +1,6 @@
 ---
 id: 1931
-title: Recherche documentaire informatisée : une moisson d’apprentissages…
+title: Recherche documentaire informatisée – une moisson d’apprentissages…
 rubrique: Documentation et TIC
 annee: 1995
 magazine: n°12 15 juin 1996
@@ -21,7 +21,7 @@ description: La plupart des CDI sont équipés d’un logiciel documentaire qui 
   quelques pistes visant à aider les élèves à effectuer des recherches pertinentes
   et à s’approprier le logiciel.
 article_pdf: 1931.pdf
-magazine_special: CDI : quel CDI voulez-vous ?
+magazine_special: CDI – quel CDI voulez-vous ?
 revue: L’école des lettres des collèges
 auteurs:
 - Christine Van Lancker

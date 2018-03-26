@@ -6,7 +6,7 @@ annee: 2001
 magazine: n°1 juillet 2001
 pages: 5
 description: 
-  Présentation de deux ouvrages de littérature jeunesse permettant de faire travailler l’expression orale aux élèves :
+  Présentation de deux ouvrages de littérature jeunesse permettant de faire travailler l’expression orale aux élèves – 
   – « Dans la gueule du vent », de Daniel Meynard
   – « Jusqu’à la mer »,  de Jacques Mazeau
 article_pdf: 4168.pdf

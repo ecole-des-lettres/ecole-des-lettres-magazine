@@ -1,6 +1,6 @@
 ---
 id: 2416
-title: André Malraux : « Œuvres complètes »
+title: André Malraux – « Œuvres complètes »
 rubrique: Roman contemporain
 annee: 1996
 magazine: n°3 15 octobre 1996

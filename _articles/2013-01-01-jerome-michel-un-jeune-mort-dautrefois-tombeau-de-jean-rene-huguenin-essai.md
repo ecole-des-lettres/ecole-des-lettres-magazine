@@ -1,6 +1,6 @@
 ---
 id: 12277
-title: Jérôme Michel : « Un jeune mort d’autrefois. Tombeau de Jean-René Huguenin
+title: Jérôme Michel – « Un jeune mort d’autrefois. Tombeau de Jean-René Huguenin
   »
 rubrique: Essai
 annee: 2013

@@ -1,6 +1,6 @@
 ---
 id: 11363
-title: « Capote », de Bennett Miller : la double vie d’un journaliste
+title: « Capote », de Bennett Miller – la double vie d’un journaliste
 rubrique: Cinéma
 annee: 2005
 magazine: n°9 mars 2006

@@ -1,6 +1,6 @@
 ---
 id: 1225
-title: Brigitte Smadja : pour saluer l’adolescence
+title: Brigitte Smadja – pour saluer l’adolescence
 rubrique: Littérature de jeunesse
 annee: 1993
 magazine: n°12-13 1er juin 1994

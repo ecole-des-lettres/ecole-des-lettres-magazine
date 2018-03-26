@@ -1,6 +1,6 @@
 ---
 id: 4152
-title: « Aucassin et Nicolette » : bibliographie sélective
+title: « Aucassin et Nicolette » – bibliographie sélective
 rubrique: Littérature médiévale [5e]
 annee: 2000
 magazine: n°9 15 janvier 2001

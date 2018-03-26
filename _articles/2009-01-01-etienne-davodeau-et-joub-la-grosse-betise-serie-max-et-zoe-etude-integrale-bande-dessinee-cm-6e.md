@@ -1,6 +1,6 @@
 ---
 id: 12002
-title: Étienne Davodeau et Joub : « La Grosse Bêtise » (série « Max et Zoé »). Étude
+title: Étienne Davodeau et Joub – « La Grosse Bêtise » (série « Max et Zoé »). Étude
   intégrale 
 rubrique: Bande dessinée  [CM-6e]
 annee: 2009

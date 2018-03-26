@@ -1,6 +1,6 @@
 ---
 id: 12638
-title: Alain Rey : « Dictionnaire amoureux du diable »
+title: Alain Rey – « Dictionnaire amoureux du diable »
 rubrique: Dictionnaire
 annee: 2014
 magazine: 
@@ -11,7 +11,7 @@ description: Dans ce « Dictionnaire amoureux du diable », Alain Rey, comme on 
   variation aimable destinée à un public distrait. Nous sommes en présence d’un travail
   scientifique, loin de toute démagogie, qui s’adresse sinon aux initiés du moins
   aux esprits curieux et cultivés. Et pourtant, ce dictionnaire se dévore avec passion,
-  et ceci à trois niveaux de lecture : celui de la découverte, celui de la vérification,
+  et ceci à trois niveaux de lecture – celui de la découverte, celui de la vérification,
   celui de l’élargissement…
 article_pdf: 12638.pdf
 revue: L’école des lettres des lycées

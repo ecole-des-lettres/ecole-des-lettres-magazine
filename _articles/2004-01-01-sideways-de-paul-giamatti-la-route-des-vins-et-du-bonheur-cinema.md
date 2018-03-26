@@ -1,6 +1,6 @@
 ---
 id: 11236
-title: « Sideways », de Paul Giamatti : la route des vins et du bonheur
+title: « Sideways », de Paul Giamatti – la route des vins et du bonheur
 rubrique: Cinéma
 annee: 2004
 magazine: n°7 mars 2005

@@ -1,6 +1,6 @@
 ---
 id: 3858
-title: De Gaulle : la photographie au service de la légende
+title: De Gaulle – la photographie au service de la légende
 rubrique: Histoire 
 annee: 2000
 magazine: n°11 15 mars 2001
@@ -15,7 +15,7 @@ description: Charles de Gaulle apparaît trois fois dans le programme de troisi�
   des cinq documents choisis, mais aussi d’aller plus loin pour que les élèves prennent
   conscience que les photographies de presse possèdent, comme les autres documents,
   un langage propre. On cherchera également à montrer que la photo, même prise spontanément
-  par l’opérateur, est aussi le résultat de choix : celui du moment de la prise de
+  par l’opérateur, est aussi le résultat de choix – celui du moment de la prise de
   vue et celui du cadrage du cliché sélectionné sur la planche contact, parce qu’il
   est suffisamment éloquent pour illustrer l’instant vécu.
 article_pdf: 3858.pdf

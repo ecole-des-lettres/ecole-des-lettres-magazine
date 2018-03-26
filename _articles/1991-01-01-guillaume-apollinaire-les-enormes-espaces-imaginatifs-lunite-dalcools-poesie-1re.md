@@ -1,6 +1,6 @@
 ---
 id: 524
-title: Guillaume Apollinaire : « Les énormes espaces imaginatifs ». L’unité d’« Alcools » 
+title: Guillaume Apollinaire – « Les énormes espaces imaginatifs ». L’unité d’« Alcools » 
 rubrique: Poésie [1re]
 annee: 1991
 magazine: n°12 1er juin 1992

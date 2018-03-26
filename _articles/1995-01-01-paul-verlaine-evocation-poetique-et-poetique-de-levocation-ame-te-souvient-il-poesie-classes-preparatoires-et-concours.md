@@ -1,6 +1,6 @@
 ---
 id: 1981
-title: Paul Verlaine. Évocation poétique et poétique de l’évocation : « Âme, te souvient-il… »
+title: Paul Verlaine. Évocation poétique et poétique de l’évocation – « Âme, te souvient-il… »
 rubrique: Poésie [classes préparatoires et concours]
 annee: 1995
 magazine: n°14 juillet 1996

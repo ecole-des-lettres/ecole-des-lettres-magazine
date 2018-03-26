@@ -1,6 +1,6 @@
 ---
 id: 1600
-title: Jean Joubert : « Poèmes de la lune et de quelques étoiles » 
+title: Jean Joubert – « Poèmes de la lune et de quelques étoiles » 
 rubrique: Initiation à la poésie et étude de l’image [6e]
 annee: 1994
 magazine: n°13-14 30 juin 1995
@@ -10,7 +10,7 @@ description:
   1. Introduction
   2. Travail sur les poèmes et les illustrations
   – découverte du recueil
-  – lecture des poèmes : lexicale et sémantique ; thématique ; stylistique ; étude méthodique
+  – lecture des poèmes – lexicale et sémantique ; thématique ; stylistique ; étude méthodique
   – lecture des images
   – diction et récitation
   – création de textes poétiques sur le modèle de…

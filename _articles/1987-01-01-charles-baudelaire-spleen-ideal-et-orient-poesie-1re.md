@@ -1,6 +1,6 @@
 ---
 id: 64
-title: Charles Baudelaire : Spleen, idéal et Orient
+title: Charles Baudelaire – Spleen, idéal et Orient
 rubrique: Poésie [1re]
 annee: 1987
 magazine: n°12 15 avril 1988

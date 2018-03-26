@@ -10,11 +10,11 @@ description: De même que les programmes entrés en vigueur au collège depuis 1
   à égalité de statut dans l’enseignement du français. Cette évolution, qui entraîne
   une promotion des activités orales, est la conséquence du choix fondamental consistant
   à donner comme finalité à l’enseignement du français la maîtrise des principales
-  formes de discours : narration, description, explication, argumentation. Celles-ci
+  formes de discours – narration, description, explication, argumentation. Celles-ci
   se réalisent en effet aussi bien dans des textes oraux que des textes écrits. Quelle
   progression suit l’enseignement de l’oral au collège ? En quoi consiste-t-il précisément
   en troisième et en seconde et, sur un plan pratique, comment envisager un exercice
-  oral difficile, mais désormais commun à ces deux classes : le débat ?
+  oral difficile, mais désormais commun à ces deux classes – le débat ?
 article_pdf: 3506.pdf
 magazine_special: Liaison troisième-seconde
 revue: L’école des lettres des collèges

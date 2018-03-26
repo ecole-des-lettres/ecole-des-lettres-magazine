@@ -1,6 +1,6 @@
 ---
 id: 3742
-title: Michel Tournier : « Des clés et des serrures »
+title: Michel Tournier – « Des clés et des serrures »
 rubrique: Préparation au brevet [3e]
 annee: 1999
 magazine: n°8 15 décembre 1999

@@ -14,10 +14,10 @@ description: Lors d’un parcours de lecture rapide à travers la littérature p
   ? Quelles transformations annonce-t-il dans l’espace social et professionnel des
   documentalistes ? \n1. Didactique et discipline\n2. Les grandes lignes d’une discipline
   « documentation »\n3. Les incidences sur l’enseignement\n4. En poussant jusqu’au
-  bout l’utopie… : conséquences institutionnelles\n5. Conclusion (provisoire) : les
+  bout l’utopie… – conséquences institutionnelles\n5. Conclusion (provisoire) – les
   issues possibles d’une crise
 article_pdf: 1921.pdf
-magazine_special: CDI : quel CDI voulez-vous ?
+magazine_special: CDI – quel CDI voulez-vous ?
 revue: L’école des lettres des collèges
 auteurs:
 - Annette Béguin

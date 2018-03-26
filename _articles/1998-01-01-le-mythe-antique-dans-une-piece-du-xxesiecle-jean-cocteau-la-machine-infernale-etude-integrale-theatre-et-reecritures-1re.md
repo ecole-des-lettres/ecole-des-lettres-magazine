@@ -1,6 +1,6 @@
 ---
 id: 3306
-title: Le mythe antique dans une pièce du XXe siècle. Jean Cocteau : « La Machine
+title: Le mythe antique dans une pièce du XXe siècle. Jean Cocteau – « La Machine
   infernale ». Étude intégrale 
 rubrique: Théâtre et réécritures [1re]
 annee: 1998

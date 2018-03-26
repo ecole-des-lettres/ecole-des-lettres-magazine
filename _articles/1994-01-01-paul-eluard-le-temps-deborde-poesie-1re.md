@@ -1,6 +1,6 @@
 ---
 id: 1724
-title: Paul Eluard : « Le temps déborde » 
+title: Paul Eluard – « Le temps déborde » 
 rubrique: Poésie [1re]
 annee: 1994
 magazine: n°5 15 décembre 1994

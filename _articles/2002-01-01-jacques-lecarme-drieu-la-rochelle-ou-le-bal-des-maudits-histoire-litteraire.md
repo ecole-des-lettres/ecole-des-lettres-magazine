@@ -1,6 +1,6 @@
 ---
 id: 4668
-title: Jacques Lecarme : « Drieu La Rochelle ou le Bal des maudits »
+title: Jacques Lecarme – « Drieu La Rochelle ou le Bal des maudits »
 rubrique: Histoire littéraire
 annee: 2002
 magazine: n°3 septembre 2002

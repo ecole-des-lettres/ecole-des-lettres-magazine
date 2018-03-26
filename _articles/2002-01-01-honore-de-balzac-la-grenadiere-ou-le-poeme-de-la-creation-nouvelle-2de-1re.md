@@ -1,6 +1,6 @@
 ---
 id: 5009
-title: Honoré de Balzac : « La Grenadière » ou le poème de la création
+title: Honoré de Balzac – « La Grenadière » ou le poème de la création
 rubrique: Nouvelle [2de-1re]
 annee: 2002
 magazine: n°13 juillet 2003

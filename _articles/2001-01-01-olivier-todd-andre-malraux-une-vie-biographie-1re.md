@@ -1,6 +1,6 @@
 ---
 id: 4474
-title: Olivier Todd : « André Malraux, une vie »
+title: Olivier Todd – « André Malraux, une vie »
 rubrique: Biographie [1re]
 annee: 2001
 magazine: n°6 15 novembre 2001

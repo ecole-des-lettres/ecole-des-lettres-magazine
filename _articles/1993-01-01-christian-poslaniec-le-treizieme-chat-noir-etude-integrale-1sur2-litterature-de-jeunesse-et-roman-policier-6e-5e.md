@@ -1,6 +1,6 @@
 ---
 id: 1376
-title: Christian Poslaniec : « Le Treizième Chat noir ». Étude intégrale  (1/2)
+title: Christian Poslaniec – « Le Treizième Chat noir ». Étude intégrale  (1/2)
 rubrique: Littérature de jeunesse et roman policier [6e-5e]
 annee: 1993
 magazine: n°7 15 janvier 1994

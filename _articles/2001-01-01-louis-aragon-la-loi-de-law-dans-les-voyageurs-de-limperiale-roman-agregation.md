@@ -1,6 +1,6 @@
 ---
 id: 4547
-title: Louis Aragon : la loi de Law dans « Les Voyageurs de l’impériale »
+title: Louis Aragon – la loi de Law dans « Les Voyageurs de l’impériale »
 rubrique: Roman [agrégation]
 annee: 2001
 magazine: n°8 1er janvier 2002

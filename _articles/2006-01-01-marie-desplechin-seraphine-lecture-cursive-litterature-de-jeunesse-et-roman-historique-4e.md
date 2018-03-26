@@ -1,6 +1,6 @@
 ---
 id: 11636
-title: Marie Desplechin : « Séraphine ». Lecture cursive 
+title: Marie Desplechin – « Séraphine ». Lecture cursive 
 rubrique: Littérature de jeunesse et roman historique [4e]
 annee: 2006
 magazine: 2007

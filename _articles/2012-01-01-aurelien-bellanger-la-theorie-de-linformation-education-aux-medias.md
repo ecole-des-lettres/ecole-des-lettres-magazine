@@ -1,6 +1,6 @@
 ---
 id: 12378
-title: Aurélien Bellanger : « La Théorie de l’information »
+title: Aurélien Bellanger – « La Théorie de l’information »
 rubrique: Éducation aux médias
 annee: 2012
 magazine: septembre 2012

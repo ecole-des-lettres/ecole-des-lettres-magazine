@@ -11,7 +11,7 @@ description:
   3. Entraîner à la traduction
   En annexes, plusieurs exemples et exercices de traduction latine.
 article_pdf: 1164.pdf
-magazine_special: Langues anciennes : didactique
+magazine_special: Langues anciennes – didactique
 revue: L’école des lettres des lycées
 auteurs:
 - Pierre Monat

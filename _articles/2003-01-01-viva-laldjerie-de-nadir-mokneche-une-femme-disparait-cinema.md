@@ -1,6 +1,6 @@
 ---
 id: 5315
-title: « Viva Laldjérie », de Nadir Moknèche : une femme disparaît
+title: « Viva Laldjérie », de Nadir Moknèche – une femme disparaît
 rubrique: Cinéma
 annee: 2003
 magazine: n°11 1er mai 2004

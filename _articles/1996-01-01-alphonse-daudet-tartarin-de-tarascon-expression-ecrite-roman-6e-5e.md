@@ -1,6 +1,6 @@
 ---
 id: 2366
-title: Alphonse Daudet : « Tartarin de Tarascon ». Expression écrite 
+title: Alphonse Daudet – « Tartarin de Tarascon ». Expression écrite 
 rubrique: Roman [6e-5e]
 annee: 1996
 magazine: n°14 1er juin 1997

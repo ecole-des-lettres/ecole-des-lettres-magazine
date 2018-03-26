@@ -1,6 +1,6 @@
 ---
 id: 1659
-title: William Shakespeare : « Roméo et Juliette ». Étude intégrale  (1/2)
+title: William Shakespeare – « Roméo et Juliette ». Étude intégrale  (1/2)
 rubrique: Préparation à la seconde et théâtre [3e]
 annee: 1994
 magazine: n°3 15 octobre 1994

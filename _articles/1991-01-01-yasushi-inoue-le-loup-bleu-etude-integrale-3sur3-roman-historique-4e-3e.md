@@ -1,6 +1,6 @@
 ---
 id: 487
-title: Yasushi Inoué : « Le Loup bleu ». Étude intégrale (3/3) 
+title: Yasushi Inoué – « Le Loup bleu ». Étude intégrale (3/3) 
 rubrique: Roman historique [4e-3e] 
 annee: 1991
 magazine: n°10 15 avril 1992

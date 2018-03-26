@@ -1,6 +1,6 @@
 ---
 id: 11581
-title: Gustave Doré : artiste et illustrateur
+title: Gustave Doré – artiste et illustrateur
 rubrique: Langage verbal et images [Tle]
 annee: 2006
 magazine: 2007

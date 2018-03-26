@@ -1,6 +1,6 @@
 ---
 id: 2961
-title: Gotthold Ephraïm Lessing : « Nathan le Sage » à la Comédie-Française
+title: Gotthold Ephraïm Lessing – « Nathan le Sage » à la Comédie-Française
 rubrique: Théâtre
 annee: 1997
 magazine: n°8 1er janvier 1998

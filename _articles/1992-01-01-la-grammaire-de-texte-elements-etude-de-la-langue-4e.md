@@ -1,6 +1,6 @@
 ---
 id: 1004
-title: La grammaire de texte : éléments 
+title: La grammaire de texte – éléments 
 rubrique: Étude de la langue [4e]
 annee: 1992
 magazine: n°5 1er décembre 1992

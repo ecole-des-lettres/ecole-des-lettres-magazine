@@ -1,6 +1,6 @@
 ---
 id: 2474
-title: Ester Rota Gasperoni : « Orage sur le lac ». Lecture cursive 
+title: Ester Rota Gasperoni – « Orage sur le lac ». Lecture cursive 
 rubrique: Littérature de jeunesse et roman historique [3e]
 annee: 1996
 magazine: n°6 15 décembre 1996

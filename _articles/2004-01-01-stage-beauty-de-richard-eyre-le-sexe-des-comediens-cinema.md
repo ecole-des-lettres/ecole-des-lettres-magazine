@@ -1,6 +1,6 @@
 ---
 id: 11235
-title: « Stage Beauty », de Richard Eyre : le sexe des comédiens
+title: « Stage Beauty », de Richard Eyre – le sexe des comédiens
 rubrique: Cinéma
 annee: 2004
 magazine: n°7 mars 2005

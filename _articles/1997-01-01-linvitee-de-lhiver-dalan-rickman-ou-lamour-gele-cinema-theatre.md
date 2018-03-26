@@ -7,7 +7,7 @@ magazine: n°11 15 mars 1998
 pages: 1
 description: Compte rendu du film d’Alan Rickman.
 article_pdf: 2701.pdf
-magazine_special: Théâtre : Corneille, Molière, Shakespeare, Strindberg
+magazine_special: Théâtre – Corneille, Molière, Shakespeare, Strindberg
 revue: L’école des lettres des lycées
 auteurs:
 - Victoria Attal

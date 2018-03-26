@@ -1,6 +1,6 @@
 ---
 id: 11374
-title: « Rent », de Jonathan Larson, adapté de « La Bohème », de Puccini : la bohème
+title: « Rent », de Jonathan Larson, adapté de « La Bohème », de Puccini – la bohème
   à New York
 rubrique: Cinéma
 annee: 2005

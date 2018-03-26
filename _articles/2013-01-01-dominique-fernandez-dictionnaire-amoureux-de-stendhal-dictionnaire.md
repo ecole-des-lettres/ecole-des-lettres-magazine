@@ -1,6 +1,6 @@
 ---
 id: 12290
-title: Dominique Fernandez : « Dictionnaire amoureux de Stendhal »
+title: Dominique Fernandez – « Dictionnaire amoureux de Stendhal »
 rubrique: Dictionnaire
 annee: 2013
 magazine: mai 2013

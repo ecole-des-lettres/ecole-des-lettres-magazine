@@ -10,10 +10,10 @@ description: Cet article, qui poursuit l’analyse méthodique de l’accord de 
   la question de sa parenté avec la classe des adverbes. En effet, très souvent, l’adverbe
   est formé à partir du féminin d’un adjectif, auquel on ajoute le suffixe -ment (forte
   – fortement). Mais la langue offre une autre ressource, illustrée par des expressions
-  comme: «ils disent vrai», «elles jouent gros», «triez utile», «dormez malin». La
+  comme – «ils disent vrai», «elles jouent gros», «triez utile», «dormez malin». La
   presse, la publicité exploitent largement ces tournures, qui peuvent être critiquées
   d’un point de vue stylistique, mais n’en correspondent pas moins au fonctionnement
-  de la langue...
+  de la langue…
 article_pdf: 12118.pdf
 revue: L’école des lettres des collèges
 auteurs:

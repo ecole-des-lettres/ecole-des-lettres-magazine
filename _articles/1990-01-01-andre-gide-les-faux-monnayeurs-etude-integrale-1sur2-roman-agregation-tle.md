@@ -1,6 +1,6 @@
 ---
 id: 168
-title: André Gide : « Les Faux-Monnayeurs ». Étude intégrale (1/2)
+title: André Gide – « Les Faux-Monnayeurs ». Étude intégrale (1/2)
 rubrique: Roman [agrégation-Tle]
 annee: 1990
 magazine: n°10 15 mars 1991

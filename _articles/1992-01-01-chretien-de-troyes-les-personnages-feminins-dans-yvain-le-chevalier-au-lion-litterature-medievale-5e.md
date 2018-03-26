@@ -1,6 +1,6 @@
 ---
 id: 854
-title: Chrétien de Troyes : les personnages féminins dans « Yvain, le Chevalier au
+title: Chrétien de Troyes – les personnages féminins dans « Yvain, le Chevalier au
   Lion » 
 rubrique: Littérature médiévale [5e]
 annee: 1992
@@ -16,7 +16,7 @@ description: Alors que la chanson de geste adjuge à la femme un rôle fort disc
   dans la structure narrative du roman ? Quel regard Chrétien de Troyes porte-t-il
   sur eux et quelle signification leur attribue-t-il ?
 article_pdf: 854.pdf
-magazine_special: Chrétien de Troyes : Yvain, le Chevalier au Lion
+magazine_special: Chrétien de Troyes – Yvain, le Chevalier au Lion
 revue: L’école des lettres des collèges
 auteurs:
 - Béatrice Graillat

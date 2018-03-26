@@ -12,7 +12,7 @@ description:
   4. Le manuscrit entre les mains de l’éditeur
   5. L’auteur devant son livre
 article_pdf: 57.pdf
-magazine_special: Livre : le livre entre l’imaginaire et le réel
+magazine_special: Livre – le livre entre l’imaginaire et le réel
 revue: L’école des lettres des lycées
 auteurs:
 - Yves Pihan

@@ -14,7 +14,7 @@ description:
   5. Le portail comme texte
   6. L’interprétation de la métaphore
 article_pdf: 2029.pdf
-magazine_special: Virgile : L’Énéide
+magazine_special: Virgile – L’Énéide
 revue: L’école des lettres des lycées
 auteurs:
 - Perrine Galand-Hallyn

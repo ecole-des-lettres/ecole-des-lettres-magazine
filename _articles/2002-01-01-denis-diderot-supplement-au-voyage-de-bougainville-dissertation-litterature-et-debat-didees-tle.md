@@ -1,6 +1,6 @@
 ---
 id: 4986
-title: Denis Diderot : « Supplément au Voyage de Bougainville ». Dissertation
+title: Denis Diderot – « Supplément au Voyage de Bougainville ». Dissertation
 rubrique: Littérature et débat d’idées [Tle]
 annee: 2002
 magazine: n°12 mai 2003

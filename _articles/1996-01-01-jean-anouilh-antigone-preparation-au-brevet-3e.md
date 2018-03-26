@@ -1,11 +1,11 @@
 ---
 id: 2481
-title: Jean Anouilh : « Antigone »
+title: Jean Anouilh – « Antigone »
 rubrique: Préparation au brevet [3e] 
 annee: 1996
 magazine: n°6 15 décembre 1996
 pages: 6
-description: Préparation au brevet des collèges à partir d’un extrait d’« Antigone » :
+description: Préparation au brevet des collèges à partir d’un extrait d’« Antigone » – 
   questions de grammaire, vocabulaire, compréhension et composition française (avec
   corrigés).
 article_pdf: 2481.pdf

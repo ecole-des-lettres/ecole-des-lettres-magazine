@@ -1,13 +1,13 @@
 ---
 id: 11239
-title: Le théâtre et la guerre. Plaute : « Miles gloriosus »
+title: Le théâtre et la guerre. Plaute – « Miles gloriosus »
 rubrique: Latin [2de]
 annee: 2004
 magazine: n°8 avril 2005
 pages: 8
 description: Cet article a été conçu et rédigé par une classe de latin de seconde
   du lycée Léonard-de-Vinci, à Saint-Michel-sur-Orge (Essonne). La démarche a été
-  la suivante : les élèves ont dans un premier temps lu la pièce de Plaute en traduction ;
+  la suivante – les élèves ont dans un premier temps lu la pièce de Plaute en traduction ;
   ils ont débattu avec leur professeur du thème proposé par « L’École des lettres »
   et la Comédie-Française – « Le théâtre et la guerre, la guerre au théâtre » –, et
   ont décidé d’étudier les figures du guerrier dans le « Miles gloriosus ». Les élèves

@@ -6,7 +6,7 @@ annee: 2003
 magazine: n°4 15 octobre 2003
 pages: 7
 description: 
-  1. Revue de toutes les adaptations cinématographiques de l’œuvre de Cervantès :
+  1. Revue de toutes les adaptations cinématographiques de l’œuvre de Cervantès – 
   – « Don Quichotte », de Georg Wilhelm Pabst (1933)
   – « Don Quichotte », d’Orson Welles (1992)
   – « Lost in la Mancha », de Keith Fulton et Louis Pepe (2002)

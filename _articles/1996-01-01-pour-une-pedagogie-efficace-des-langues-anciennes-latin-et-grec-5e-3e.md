@@ -9,7 +9,7 @@ description:
   1. L’enseignement dans les années 1950
   2. Les langues anciennes aujourd’hui
   – l’évolution de l’enseignement
-  – les objectifs actuels : transmettre un « patrimoine » ; retrouver notre mémoire ; comprendre un texte authentique
+  – les objectifs actuels – transmettre un « patrimoine » ; retrouver notre mémoire ; comprendre un texte authentique
   3. Un cours de langues anciennes aujourd’hui
   – la langue et la civilisation
   – la synthèse et l’analyse

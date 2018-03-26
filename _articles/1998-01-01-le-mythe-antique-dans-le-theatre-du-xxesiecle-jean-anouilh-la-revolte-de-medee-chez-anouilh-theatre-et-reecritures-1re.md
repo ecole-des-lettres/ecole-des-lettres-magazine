@@ -1,6 +1,6 @@
 ---
 id: 3090
-title: Le mythe antique dans le théâtre du XXe siècle. Jean Anouilh : la révolte
+title: Le mythe antique dans le théâtre du XXe siècle. Jean Anouilh – la révolte
   de Médée chez Anouilh
 rubrique: Théâtre et réécritures [1re]
 annee: 1998

@@ -5,7 +5,7 @@ rubrique: Cinéma
 annee: 2006
 magazine: 2007
 pages: 4
-description: Pourquoi donc adapter une fois de plus ce roman ? On peut répondre :
+description: Pourquoi donc adapter une fois de plus ce roman ? On peut répondre – 
   par pure fidélité. Fidélité de Rivette à Balzac, dont il est nourri, et auquel il
   revient toujours, dit-il…
 article_pdf: 11640.pdf

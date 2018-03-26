@@ -1,6 +1,6 @@
 ---
 id: 62
-title: Gérard de Nerval : « Le Voyage en Orient »
+title: Gérard de Nerval – « Le Voyage en Orient »
 rubrique: Autobiographie [1re]
 annee: 1987
 magazine: n°12 15 avril 1988

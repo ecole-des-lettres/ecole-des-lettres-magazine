@@ -1,6 +1,6 @@
 ---
 id: 12313
-title: Anne-Marie Baron : « Balzac occulte »
+title: Anne-Marie Baron – « Balzac occulte »
 rubrique: Essai
 annee: 2013
 magazine: mars 2013

@@ -1,6 +1,6 @@
 ---
 id: 4144
-title: « Aucassin et Nicolette » : réminiscences romanesques
+title: « Aucassin et Nicolette » – réminiscences romanesques
 rubrique: Littérature médiévale [5e]
 annee: 2000
 magazine: n°9 15 janvier 2001

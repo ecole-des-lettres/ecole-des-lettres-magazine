@@ -14,7 +14,7 @@ description: Aulu-Gelle vécut à Rome au 2e siècle de notre ère, sous les rè
   les élèves. On pourra donc concevoir une séquence sur les comédies de Plaute. Cette
   séquence aura évidemment pour thème l’étude de la biographie de l’auteur, plus ou
   moins détaillée, que cet article suggère de compléter par la lecture de deux courts
-  documents tirés des « Nuits attiques » : au début, l’épitaphe de Plaute ; à la fin,
+  documents tirés des « Nuits attiques » – au début, l’épitaphe de Plaute ; à la fin,
   la lecture des détails biographiques donnés par Aulu-Gelle sur cet auteur, afin
   que les élèves aient une idée des sources qui permettent de connaître des écrivains
   ou d’autres personnages.

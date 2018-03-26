@@ -12,7 +12,7 @@ description:
   3. Chanson de geste et roman
   4. La matière de Bretagne
 article_pdf: 846.pdf
-magazine_special: Chrétien de Troyes : Yvain, le Chevalier au Lion
+magazine_special: Chrétien de Troyes – Yvain, le Chevalier au Lion
 revue: L’école des lettres des collèges
 auteurs:
 - Claude Lachet

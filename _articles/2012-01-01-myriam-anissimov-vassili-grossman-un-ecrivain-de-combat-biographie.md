@@ -1,6 +1,6 @@
 ---
 id: 12391
-title: Myriam Anissimov : « Vassili Grossman. Un écrivain de combat »
+title: Myriam Anissimov – « Vassili Grossman. Un écrivain de combat »
 rubrique: Biographie
 annee: 2012
 magazine: août 2012

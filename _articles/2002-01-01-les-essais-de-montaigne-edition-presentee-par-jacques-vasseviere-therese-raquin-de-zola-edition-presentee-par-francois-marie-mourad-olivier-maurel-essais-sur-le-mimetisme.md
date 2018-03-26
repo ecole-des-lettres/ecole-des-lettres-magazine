@@ -1,7 +1,7 @@
 ---
 id: 4970
 title: « Les Essais de Montaigne », édition présentée par Jacques Vassevière ; « Thérèse
-  Raquin de Zola », édition présentée par François-Marie Mourad ; Olivier Maurel :
+  Raquin de Zola », édition présentée par François-Marie Mourad ; Olivier Maurel – 
   « Essais sur le mimétisme »
 rubrique: 
 annee: 2002

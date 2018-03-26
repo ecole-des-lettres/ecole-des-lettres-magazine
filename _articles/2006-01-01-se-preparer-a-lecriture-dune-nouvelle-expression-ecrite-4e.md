@@ -10,7 +10,7 @@ description: Après une séquence consacrée à la nouvelle, il est  souvent dem
   ont évidemment été observées et expliquées, il arrive qu’ils aient un peu de mal
   à distinguer en quoi ce travail-là diffère des autres narrations qu’ils ont déjà
   eues à écrire au cours de leur scolarité. Il est possible de le préparer avec eux
-  à partir d’exercices présentés dans cet article : ils pourront être utilisés de
+  à partir d’exercices présentés dans cet article – ils pourront être utilisés de
   manière individuelle, collective, ou par petits groupes.
 article_pdf: 11474.pdf
 revue: L’école des lettres des collèges

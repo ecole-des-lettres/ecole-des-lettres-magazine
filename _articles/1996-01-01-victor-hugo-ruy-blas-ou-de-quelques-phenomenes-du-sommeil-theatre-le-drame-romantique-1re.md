@@ -1,7 +1,7 @@
 ---
 id: 2351
-title: Victor Hugo : « Ruy Blas », ou de quelques phénomènes du sommeil 
-rubrique: Théâtre : le drame romantique [1re]
+title: Victor Hugo – « Ruy Blas », ou de quelques phénomènes du sommeil 
+rubrique: Théâtre – le drame romantique [1re]
 annee: 1996
 magazine: n°14 15 mai 1997
 pages: 12

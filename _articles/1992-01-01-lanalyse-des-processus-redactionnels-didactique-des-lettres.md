@@ -14,7 +14,7 @@ description:
   – Contextualisation, structuration et planification
   – L’apprentissage de la planification
 article_pdf: 1094.pdf
-magazine_special: Français : les enjeux de la didactique du français
+magazine_special: Français – les enjeux de la didactique du français
 revue: L’école des lettres des lycées
 auteurs:
 - Sylvie Plane

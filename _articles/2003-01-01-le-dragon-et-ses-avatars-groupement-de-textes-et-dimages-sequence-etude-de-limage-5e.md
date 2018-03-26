@@ -6,14 +6,14 @@ annee: 2003
 magazine: n°7 15 décembre 2003
 pages: 32
 description: 
-  Objectifs de cette séquence :
+  Objectifs de cette séquence – 
   – faire acquérir aux élèves une culture commune, fondement de notre société et toujours présente, tant dans le langage que dans les images qui nous entourent (bande dessinée, publicité) ;
   – leur faire lire des textes documentaires, des textes littéraires (romans de chevalerie) et des images en relation avec le Moyen Âge ;
   – mettre en place la démarche d’analyse de l’image ;
-  – permettre aux élèves d’acquérir et / ou de développer des compétences en informatique : utilisation d’Internet, découverte et utilisation de différents sites ;
+  – permettre aux élèves d’acquérir et / ou de développer des compétences en informatique – utilisation d’Internet, découverte et utilisation de différents sites ;
   – définir les composantes et les caractères du discours descriptif ;
   – analyser des procédés parodiques simples.
-  Déroulement de la séquence : sept séances.
+  Déroulement de la séquence – sept séances.
 article_pdf: 5147.pdf
 revue: L’école des lettres des collèges
 auteurs:

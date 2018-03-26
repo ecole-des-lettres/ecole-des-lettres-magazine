@@ -6,7 +6,7 @@ annee: 1997
 magazine: n°8 15 décembre 1997
 pages: 10
 description: 1841 est une date clé, celle à laquelle est publiée en France la première
-  loi concernant le travail des enfants : sous la pression des économistes, des moralistes
+  loi concernant le travail des enfants – sous la pression des économistes, des moralistes
   et de quelques patrons, les pouvoirs publics prennent en effet conscience des problèmes
   que pose leur emploi dans la grande industrie et légifèrent en leur faveur. Cette
   loi est difficilement appliquée. Il faudra attendre les lois dites « de Jules Ferry »

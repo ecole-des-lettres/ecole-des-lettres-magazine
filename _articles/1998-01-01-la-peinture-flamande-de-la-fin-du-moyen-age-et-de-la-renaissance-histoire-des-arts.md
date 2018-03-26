@@ -6,7 +6,7 @@ annee: 1998
 magazine: n°14 1er juin 1999
 pages: 5
 description: Présentation d’ouvrages évoquant les primitifs flamands, la ville de
-  Bruges à cette époque et les peintres brugeois : Hans Memling, Pierre Pourbus, etc.
+  Bruges à cette époque et les peintres brugeois – Hans Memling, Pierre Pourbus, etc.
 article_pdf: 3162.pdf
 revue: L’école des lettres des lycées
 auteurs:

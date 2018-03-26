@@ -7,7 +7,7 @@ magazine: n°3 15 octobre 1990
 pages: 10
 description: 
   1. De l’histoire du mot à l’élaboration d’une problématique
-  2. L’organisation de l’étude thématique : présentation des six textes illustrant la problématique (« Apologie de Raymond Sebond », tirée des « Essais », de Montaigne ; extrait du livre 1 de « Dissertation en forme de paradoxe contre les aristotéliciens », de Gassendi ; extrait de « L’Autre Monde ou l’Histoire comique des États et Empires de la Lune », de Cyrano de Bergerac ; dernière « Lettre persane », de Montesquieu ; extrait des « Liaisons dangereuses », de Laclos et extrait de « La Nouvelle Justine », de Sade)
+  2. L’organisation de l’étude thématique – présentation des six textes illustrant la problématique (« Apologie de Raymond Sebond », tirée des « Essais », de Montaigne ; extrait du livre 1 de « Dissertation en forme de paradoxe contre les aristotéliciens », de Gassendi ; extrait de « L’Autre Monde ou l’Histoire comique des États et Empires de la Lune », de Cyrano de Bergerac ; dernière « Lettre persane », de Montesquieu ; extrait des « Liaisons dangereuses », de Laclos et extrait de « La Nouvelle Justine », de Sade)
   3. Les origines philosophiques du libertinage au XVIIe siècle et le premier mouvement libertin
   4. Après la Fronde ou le deuxième libertinage
   5. Le libertinage au XVIIIe siècle

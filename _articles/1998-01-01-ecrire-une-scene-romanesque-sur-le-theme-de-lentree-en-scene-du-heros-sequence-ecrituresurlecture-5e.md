@@ -6,7 +6,7 @@ annee: 1998
 magazine: n°4 1er octobre 1998
 pages: 20
 description: 
-  La production d’écrit étant indissociable de la lecture, cette séquence s’appuie sur l’étude d’un groupement de textes :
+  La production d’écrit étant indissociable de la lecture, cette séquence s’appuie sur l’étude d’un groupement de textes – 
   – « Le Faucon déniché », de Jean-Côme Noguès
   – « Le Lion », de Joseph Kessel
   – « La Mort de la terre », de Rosny André

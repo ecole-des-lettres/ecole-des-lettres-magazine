@@ -1,6 +1,6 @@
 ---
 id: 5169
-title: Raymond Radiguet : « Le Diable au corps »
+title: Raymond Radiguet – « Le Diable au corps »
 rubrique: Préparation à la seconde [3e]
 annee: 2003
 magazine: n°10 15 mars 2004

@@ -1,6 +1,6 @@
 ---
 id: 1802
-title: Marguerite Duras, Alain Robbe-Grillet : la mémoire dans la « nouvelle autobiographie
+title: Marguerite Duras, Alain Robbe-Grillet – la mémoire dans la « nouvelle autobiographie
   » 
 rubrique: Autobiographie [1re]
 annee: 1994

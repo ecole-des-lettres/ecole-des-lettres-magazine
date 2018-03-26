@@ -1,6 +1,6 @@
 ---
 id: 2320
-title: Alain Rustenholz : « Prévert, inventaire »
+title: Alain Rustenholz – « Prévert, inventaire »
 rubrique: Critique
 annee: 1996
 magazine: n°13 15 mai 1997

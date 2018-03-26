@@ -1,6 +1,6 @@
 ---
 id: 3808
-title: Raymond Queneau : petites remarques sur quelques « Fleurs bleues » en herbe
+title: Raymond Queneau – petites remarques sur quelques « Fleurs bleues » en herbe
   (1/2)
 rubrique: Roman contemporain [Tle]
 annee: 2000

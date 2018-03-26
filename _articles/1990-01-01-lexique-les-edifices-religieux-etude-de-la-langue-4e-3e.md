@@ -1,6 +1,6 @@
 ---
 id: 165
-title: Lexique : les édifices religieux 
+title: Lexique – les édifices religieux 
 rubrique: Étude de la langue [4e-3e]
 annee: 1990
 magazine: n°10 15 mars 1991

@@ -1,14 +1,14 @@
 ---
 id: 2541
-title: Le journal scolaire : une pédagogie de projet
+title: Le journal scolaire – une pédagogie de projet
 rubrique: Éducation aux médias [5e-4e]
 annee: 1996
 magazine: n°8 15 février 1997
 pages: 8
 description: 
   1. Les objectifs du projet
-  2. Les moyens : état des lieux
-  3. Le journal : une équipe
+  2. Les moyens – état des lieux
+  3. Le journal – une équipe
   – le comité de rédaction
   – les pigistes
   – des tâches bien réparties

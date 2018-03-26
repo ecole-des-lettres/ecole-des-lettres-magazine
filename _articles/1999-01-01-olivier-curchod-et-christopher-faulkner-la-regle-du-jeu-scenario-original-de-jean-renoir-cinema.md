@@ -1,6 +1,6 @@
 ---
 id: 3429
-title: Olivier Curchod et Christopher Faulkner : « La Règle du jeu, scénario original
+title: Olivier Curchod et Christopher Faulkner – « La Règle du jeu, scénario original
   de Jean Renoir »
 rubrique: Cinéma
 annee: 1999

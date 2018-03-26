@@ -1,6 +1,6 @@
 ---
 id: 1178
-title: Le « Bosphore » : tableau regardé par Philostrate
+title: Le « Bosphore » – tableau regardé par Philostrate
 rubrique: Didactique des langues anciennes
 annee: 1993
 magazine: n°11 1er juin 1994
@@ -17,7 +17,7 @@ description:
   8. Du marbre jaune à la patrie de Philostrate
   Le « Bosphore » de Philostrate est traduit en annexe.
 article_pdf: 1178.pdf
-magazine_special: Langues anciennes : didactique
+magazine_special: Langues anciennes – didactique
 revue: L’école des lettres des lycées
 auteurs:
 - Cécile Daude

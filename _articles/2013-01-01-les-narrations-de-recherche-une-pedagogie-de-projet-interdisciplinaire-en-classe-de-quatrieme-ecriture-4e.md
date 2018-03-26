@@ -1,6 +1,6 @@
 ---
 id: 12551
-title: Les narrations de recherche : une pédagogie de projet interdisciplinaire en
+title: Les narrations de recherche – une pédagogie de projet interdisciplinaire en
   classe de quatrième
 rubrique: Écriture [4e]
 annee: 2013

@@ -1,6 +1,6 @@
 ---
 id: 3163
-title: François de La Rochefoucauld : la finesse dans les « Maximes »
+title: François de La Rochefoucauld – la finesse dans les « Maximes »
 rubrique: Maximes [agrégation]
 annee: 1998
 magazine: n°14 1er juin 1999

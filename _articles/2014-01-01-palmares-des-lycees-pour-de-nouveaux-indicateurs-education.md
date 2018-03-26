@@ -1,6 +1,6 @@
 ---
 id: 12603
-title: Palmarès des lycées : pour de nouveaux indicateurs
+title: Palmarès des lycées – pour de nouveaux indicateurs
 rubrique: Éducation
 annee: 2014
 magazine: 

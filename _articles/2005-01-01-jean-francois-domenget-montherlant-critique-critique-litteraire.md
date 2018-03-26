@@ -1,6 +1,6 @@
 ---
 id: 11359
-title: Jean-François Domenget : « Montherlant critique »
+title: Jean-François Domenget – « Montherlant critique »
 rubrique: Critique littéraire
 annee: 2005
 magazine: n°9 mars 2006

@@ -42,7 +42,7 @@ var Scriptaculous = {
     function convertVersionString(versionString) {
       var v = versionString.replace(/_.*|\./g, '');
       v = parseInt(v + '0'.times(4-v.length));
-      return versionString.indexOf('_') > -1 ? v-1 : v;
+      return versionString.indexOf('_') > -1 ? v-1 – v;
     }
 
     if((typeof Prototype=='undefined') ||
@@ -59,7 +59,7 @@ var Scriptaculous = {
     }).each(function(s) {
       var path = s.src.replace(js, ''),
       includes = s.src.match(/\?.*load=([a-z,]*)/);
-      (includes ? includes[1] : 'builder,effects,dragdrop,controls,slider,sound').split(',').each(
+      (includes ? includes[1] – 'builder,effects,dragdrop,controls,slider,sound').split(',').each(
        function(include) { Scriptaculous.require(path+include+'.js') });
     });
   }

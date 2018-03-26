@@ -12,9 +12,9 @@ description:
   – Huysmans
   – Zola et Maupassant
   2. Un travail sur la langue
-  – Lexique : usage des néologismes, usage de la langue technique ou argotique
-  – Syntaxe : usage de l’article indéfini, emploi du pluriel, construction du syntagme nominal, construction de la phrase
-  – Rhétorique : la métaphore, l’hypallage, l’oxymore et le zeugma, la personnification
+  – Lexique – usage des néologismes, usage de la langue technique ou argotique
+  – Syntaxe – usage de l’article indéfini, emploi du pluriel, construction du syntagme nominal, construction de la phrase
+  – Rhétorique – la métaphore, l’hypallage, l’oxymore et le zeugma, la personnification
   L’article est suivi d’une bibliographie.
 article_pdf: 748.pdf
 magazine_special: Zola et la description naturaliste

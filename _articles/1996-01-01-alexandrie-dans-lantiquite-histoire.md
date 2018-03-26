@@ -6,8 +6,8 @@ annee: 1996
 magazine: n°9 15 février 1997
 pages: 6
 description: 
-  Analyse comparative de six ouvrages parus entre 1992 et 1996 sur l’histoire d’Alexandrie et la fin de la civilisation hellénistique :
-  – « Antoine et Cléopâtre : la fin d’un rêve », de Paul M. Martin
+  Analyse comparative de six ouvrages parus entre 1992 et 1996 sur l’histoire d’Alexandrie et la fin de la civilisation hellénistique – 
+  – « Antoine et Cléopâtre – la fin d’un rêve », de Paul M. Martin
   – « Alexandrie la Grande » et « Alexandrie des Ptolémées », d’André Bernand
   –  « Alexandrie, septième merveille du monde », de William La Riche
   – « À la recherche de Cléopâtre », de Franck Goddio

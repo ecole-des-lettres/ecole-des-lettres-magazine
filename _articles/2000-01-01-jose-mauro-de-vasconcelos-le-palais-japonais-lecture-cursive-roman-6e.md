@@ -1,6 +1,6 @@
 ---
 id: 4017
-title: José Mauro de Vasconcelos : « Le Palais japonais ». Lecture cursive
+title: José Mauro de Vasconcelos – « Le Palais japonais ». Lecture cursive
 rubrique: Roman [6e]
 annee: 2000
 magazine: n°4 1er octobre 2000

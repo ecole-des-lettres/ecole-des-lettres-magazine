@@ -1,6 +1,6 @@
 ---
 id: 12074
-title: Sylvie Dodeller : « Léonard de Vinci » 
+title: Sylvie Dodeller – « Léonard de Vinci » 
 rubrique: Histoire des arts [4e-3e]
 annee: 2010
 magazine: n°4-5 2010-2011

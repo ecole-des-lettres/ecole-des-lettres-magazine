@@ -1,6 +1,6 @@
 ---
 id: 11206
-title: « Rois et reine », d’Arnaud Desplechin : roman familial et mythologie
+title: « Rois et reine », d’Arnaud Desplechin – roman familial et mythologie
 rubrique: Cinéma
 annee: 2004
 magazine: n°5 janvier 2005

@@ -6,7 +6,7 @@ annee: 1997
 magazine: juin 1998
 pages: 15
 description: 
-  1. « Les Âmes mortes » : poème ?
+  1. « Les Âmes mortes » – poème ?
   2. L’œuvre de Gogol
   3. L’histoire des « Âmes mortes »
   4. « Des caricatures comiques ou terrifiantes »
@@ -15,7 +15,7 @@ description:
   7. « Les Âmes mortes » aujourd’hui
   L’article est suivi d’une bibliographie.
 article_pdf: 1029.pdf
-magazine_special: Gogol : Les Âmes mortes
+magazine_special: Gogol – Les Âmes mortes
 revue: L’école des lettres des lycées
 auteurs:
 - Wanda Bannour

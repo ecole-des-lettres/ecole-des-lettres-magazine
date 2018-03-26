@@ -9,7 +9,7 @@ pages: 16
 description: Le portrait du noble populaire (Catilina, Clodius) et l’étude d’extraits
   brefs et simples du « Catilina » de Salluste sont recommandés en classe de troisième.
   Par ailleurs, l’étude de « Conjuration de Catilina », de Salluste, et  de « Pro
-  Cælio », de Cicéron, peut s’inscrire dans des séquences plus longues : vocabulaire
+  Cælio », de Cicéron, peut s’inscrire dans des séquences plus longues – vocabulaire
   et techniques du portrait, la vie politique à Rome, étude des techniques rhétoriques.
 article_pdf: 3024.pdf
 revue: L’école des lettres des collèges

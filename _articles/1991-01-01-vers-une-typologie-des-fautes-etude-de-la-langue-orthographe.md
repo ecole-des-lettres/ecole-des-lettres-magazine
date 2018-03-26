@@ -1,7 +1,7 @@
 ---
 id: 678
 title: Vers une typologie des fautes
-rubrique: Étude de la langue : orthographe
+rubrique: Étude de la langue – orthographe
 annee: 1991
 magazine: n°6 1er janvier 1992
 pages: 8

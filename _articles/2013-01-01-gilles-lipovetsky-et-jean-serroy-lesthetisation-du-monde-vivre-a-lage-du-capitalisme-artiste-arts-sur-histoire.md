@@ -1,6 +1,6 @@
 ---
 id: 12240
-title: Gilles Lipovetsky et Jean Serroy : « L’Esthétisation du monde. Vivre à l’âge
+title: Gilles Lipovetsky et Jean Serroy – « L’Esthétisation du monde. Vivre à l’âge
   du capitalisme artiste »
 rubrique: Arts / Histoire
 annee: 2013

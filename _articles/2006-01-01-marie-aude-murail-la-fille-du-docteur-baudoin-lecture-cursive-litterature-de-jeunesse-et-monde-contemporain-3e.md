@@ -1,6 +1,6 @@
 ---
 id: 11719
-title: Marie-Aude Murail : « La Fille du docteur Baudoin ». Lecture cursive 
+title: Marie-Aude Murail – « La Fille du docteur Baudoin ». Lecture cursive 
 rubrique: Littérature de jeunesse et monde contemporain [3e]
 annee: 2006
 magazine: 

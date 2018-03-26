@@ -1,6 +1,6 @@
 ---
 id: 1768
-title: Saint-John Perse : « Éloges », XVI 
+title: Saint-John Perse – « Éloges », XVI 
 rubrique: Poésie [1re]
 annee: 1994
 magazine: n°7 15 février 1995

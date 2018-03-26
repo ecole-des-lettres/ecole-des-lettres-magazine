@@ -7,7 +7,7 @@ magazine: n°7 15 janvier 1991
 pages: 6
 description: 
   L’exposition consacrée à Cézanne lors de l’été 1990 à Aix-en-Provence fut un événement. Présentation de cette exposition qui montre comment Cézanne posa les fondements de la peinture du XXe siècle…
-  1. La Sainte-Victoire : un patrimoine naturel
+  1. La Sainte-Victoire – un patrimoine naturel
   2. Les « Sainte-Victoire » de Cézanne
   3. La vision cézanienne
   4. Espace mouvant des sensations

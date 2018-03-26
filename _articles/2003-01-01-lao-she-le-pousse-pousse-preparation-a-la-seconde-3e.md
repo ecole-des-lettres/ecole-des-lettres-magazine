@@ -1,6 +1,6 @@
 ---
 id: 5148
-title: Lao She : « Le Pousse-Pousse »
+title: Lao She – « Le Pousse-Pousse »
 rubrique: Préparation à la seconde [3e]
 annee: 2003
 magazine: n°6 1er décembre 2003

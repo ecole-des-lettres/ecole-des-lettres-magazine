@@ -1,6 +1,6 @@
 ---
 id: 12376
-title: Lucien Febvre et François Crouzet : « Nous sommes des sang-mêlés »
+title: Lucien Febvre et François Crouzet – « Nous sommes des sang-mêlés »
 rubrique: Éducation / Histoire / Sciences humaines
 annee: 2012
 magazine: septembre 2012

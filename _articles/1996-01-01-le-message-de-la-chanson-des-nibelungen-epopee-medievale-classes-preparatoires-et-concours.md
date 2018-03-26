@@ -10,10 +10,10 @@ description:
   – la société féodale
   – l’affaiblissement de la royauté
   2. Valeurs humaines, devoir féodal
-  – première partie : l’étiquette courtoise ; Siegried, souverain idéal ; la question du pouvoir
-  – deuxième partie : le roi hun et son entourage ; le sens de l’honneur ; les limites de l’éthique féodale
+  – première partie – l’étiquette courtoise ; Siegried, souverain idéal ; la question du pouvoir
+  – deuxième partie – le roi hun et son entourage ; le sens de l’honneur ; les limites de l’éthique féodale
 article_pdf: 2464.pdf
-magazine_special: Nibelungen : chanson des Nibelungen
+magazine_special: Nibelungen – chanson des Nibelungen
 revue: L’école des lettres des collèges
 auteurs:
 - Wolfgang Spiewok

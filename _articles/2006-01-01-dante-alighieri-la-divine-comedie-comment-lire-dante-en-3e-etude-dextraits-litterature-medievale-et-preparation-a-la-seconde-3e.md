@@ -1,6 +1,6 @@
 ---
 id: 11814
-title: Dante Alighieri : « La Divine Comédie ». Comment lire Dante en 3e. Étude d’extraits
+title: Dante Alighieri – « La Divine Comédie ». Comment lire Dante en 3e. Étude d’extraits
 rubrique: Littérature médiévale  et préparation à la seconde [3e]
 annee: 2006
 magazine: n°7 2007-2008
@@ -12,7 +12,7 @@ description: Cet article se propose d’aborder le texte de Dante dans le cadre 
   en effet la lecture d’extraits de « La Divine Comédie » en troisième. Le poème de
   Dante est analysé en cinq temps. Si le trajet dantesque peut, dans un premier temps,
   être présenté aux élèves comme l’histoire extraordinaire d’un voyage dans l’au-delà,
-  son objectif doit ensuite être clairement mis en valeur : il s’agit d’une quête
+  son objectif doit ensuite être clairement mis en valeur – il s’agit d’une quête
   de l’absolu, la plus haute qui soit. La dimension spirituelle du cheminement conduit
   alors à considérer le texte comme un récit allégorique, chargé de sens et de symboles
   visant à délivrer une leçon morale. Pour terminer, et en accompagnant l’étude de

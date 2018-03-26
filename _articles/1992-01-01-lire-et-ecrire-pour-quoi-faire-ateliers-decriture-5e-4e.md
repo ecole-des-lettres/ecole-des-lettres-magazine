@@ -1,6 +1,6 @@
 ---
 id: 1076
-title: Lire et écrire : pour quoi faire ? 
+title: Lire et écrire – pour quoi faire ? 
 rubrique: Ateliers décriture [5e-4e]
 annee: 1992
 magazine: n°9 1er mars 1993

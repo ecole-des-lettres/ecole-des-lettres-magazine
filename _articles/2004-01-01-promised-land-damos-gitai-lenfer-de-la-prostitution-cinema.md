@@ -1,6 +1,6 @@
 ---
 id: 11204
-title: « Promised land », d’Amos Gitaï : l’enfer de la prostitution
+title: « Promised land », d’Amos Gitaï – l’enfer de la prostitution
 rubrique: Cinéma
 annee: 2004
 magazine: n°5 janvier 2005

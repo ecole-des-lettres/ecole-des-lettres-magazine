@@ -1,12 +1,12 @@
 ---
 id: 12205
-title: Victor Hugo : « Notre-Dame de Paris ». Le personnage de Quasimodo
+title: Victor Hugo – « Notre-Dame de Paris ». Le personnage de Quasimodo
 rubrique: Parcours de lecture [2de]
 annee: 2011
 magazine: 2011
 pages: 14
 description: Le nouveau programme de lycée professionnel du baccalauréat professionnel
-  en trois ans propose une nouvelle modalité de lecture : le parcours de lecture.
+  en trois ans propose une nouvelle modalité de lecture – le parcours de lecture.
   Située entre le groupement de textes et l’œuvre intégrale, cette démarche permet
   aux élèves, souvent en difficulté de lecture, d’avoir accès aux grandes œuvres du
   patrimoine à partir d’un corpus plus consistant que le groupement de textes. Il

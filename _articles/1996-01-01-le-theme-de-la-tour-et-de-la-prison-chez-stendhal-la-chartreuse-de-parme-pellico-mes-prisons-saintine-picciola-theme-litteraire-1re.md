@@ -1,7 +1,7 @@
 ---
 id: 2295
-title: Le thème de la tour et de la prison chez : Stendhal : « La Chartreuse de Parme »
-  ; Pellico : « Mes Prisons » ; Saintine : « Picciola » 
+title: Le thème de la tour et de la prison chez – Stendhal – « La Chartreuse de Parme »
+  ; Pellico – « Mes Prisons » ; Saintine – « Picciola » 
 rubrique: Thème littéraire [1re]
 annee: 1996
 magazine: n°12 15 avril 1997

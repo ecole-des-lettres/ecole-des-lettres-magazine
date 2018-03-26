@@ -1,6 +1,6 @@
 ---
 id: 1680
-title: Honoré de Balzac : « Le Colonel Chabert » ou les problèmes de l’adaptation 
+title: Honoré de Balzac – « Le Colonel Chabert » ou les problèmes de l’adaptation 
 rubrique: Roman [1re]
 annee: 1994
 magazine: n°3 1er novembre 1994

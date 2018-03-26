@@ -14,7 +14,7 @@ description:
   – la diversification des formes de lecture et la formation d’une culture littéraire et théorique
   – la diversité des pratiques d’écriture et l’introduction de l’écriture d’invention
 article_pdf: 3732.pdf
-magazine_special: Français (seconde) : nouveaux programmes de 1999 / 2000
+magazine_special: Français (seconde) – nouveaux programmes de 1999 / 2000
 revue: L’école des lettres des lycées
 auteurs:
 - André Petitjean

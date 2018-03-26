@@ -11,7 +11,7 @@ description: Après nous avoir offert, pendant plus de trois décennies, une sé
   Boris Cyrulnik a consenti il y a deux ans à nous livrer, avec le superbe « Sauve-toi,
   la vie t’appelle », l’extraordinaire récit de son enfance et de sa miraculeuse survie
   dans un contexte hostile qu’il a su transformer à son avantage. Son dernier ouvrage,
-  « Les Âmes blessées » se situe au carrefour des deux inspirations : la réflexion
+  « Les Âmes blessées » se situe au carrefour des deux inspirations – la réflexion
   psychiatrique et la confidence autobiographique.
 article_pdf: 12727.pdf
 revue: L’école des lettres des collèges

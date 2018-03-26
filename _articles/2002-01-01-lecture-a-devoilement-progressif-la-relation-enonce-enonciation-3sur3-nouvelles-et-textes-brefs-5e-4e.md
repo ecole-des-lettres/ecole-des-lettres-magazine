@@ -1,6 +1,6 @@
 ---
 id: 4649
-title: Lecture à dévoilement progressif : la relation énoncé-énonciation (3/3)
+title: Lecture à dévoilement progressif – la relation énoncé-énonciation (3/3)
 rubrique: Nouvelles et textes brefs [5e-4e]
 annee: 2002
 magazine: n°3 15 septembre 2002

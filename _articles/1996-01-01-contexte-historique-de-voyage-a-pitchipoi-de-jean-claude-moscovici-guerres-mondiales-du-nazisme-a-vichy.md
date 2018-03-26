@@ -1,7 +1,7 @@
 ---
 id: 2472
 title: Contexte historique de « Voyage à Pitchipoï », de Jean-Claude Moscovici 
-rubrique: Guerres mondiales : du nazisme à Vichy
+rubrique: Guerres mondiales – du nazisme à Vichy
 annee: 1996
 magazine: n°6 15 décembre 1996
 pages: 23

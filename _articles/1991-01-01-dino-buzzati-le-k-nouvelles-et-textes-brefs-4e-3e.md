@@ -1,6 +1,6 @@
 ---
 id: 511
-title: Dino Buzzati : « Le K » 
+title: Dino Buzzati – « Le K » 
 rubrique: Nouvelles et textes brefs [4e-3e]
 annee: 1991
 magazine: n°11 1er mai 1992

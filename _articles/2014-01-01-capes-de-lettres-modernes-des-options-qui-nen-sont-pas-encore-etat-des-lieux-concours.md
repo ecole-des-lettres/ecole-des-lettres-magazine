@@ -1,6 +1,6 @@
 ---
 id: 12775
-title: Capes de lettres modernes : des options qui n’en sont pas encore… État des
+title: Capes de lettres modernes – des options qui n’en sont pas encore… État des
   lieux
 rubrique: Concours
 annee: 2014

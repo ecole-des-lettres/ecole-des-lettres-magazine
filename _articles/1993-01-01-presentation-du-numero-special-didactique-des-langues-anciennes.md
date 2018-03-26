@@ -10,7 +10,7 @@ description:
   – L’explication de texte
   – L’informatique et la recherche en didactique
 article_pdf: 1160.pdf
-magazine_special: Langues anciennes : didactique
+magazine_special: Langues anciennes – didactique
 revue: L’école des lettres des lycées
 auteurs:
 - Nicole Fick

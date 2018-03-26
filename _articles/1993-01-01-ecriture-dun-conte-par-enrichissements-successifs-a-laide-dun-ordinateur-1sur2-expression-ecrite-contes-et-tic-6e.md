@@ -7,12 +7,12 @@ annee: 1993
 magazine: n°3 15 octobre 1993
 pages: 10
 description: 
-  Introduction : l’ordinateur est l’instrument idéal pour reproduire les différentes étapes de la croissance des textes…
-  1. La structure du conte : des aventures
+  Introduction – l’ordinateur est l’instrument idéal pour reproduire les différentes étapes de la croissance des textes…
+  1. La structure du conte – des aventures
   – observation / déduction (deux mois)
   – stimulation de l’imagination (deux heures consécutives)
   – création du canevas d’un conte personnel (deux heures consécutives ou plus)
-  2. Le cadre du conte : des paysages
+  2. Le cadre du conte – des paysages
   – des notions, des mots
   – ancrage des mots
   – vérification des acquis

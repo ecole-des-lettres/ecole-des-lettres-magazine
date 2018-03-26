@@ -1,6 +1,6 @@
 ---
 id: 5313
-title: « Sang et or », de Jaffar Panahi : le ras-le-bol d’un solitaire
+title: « Sang et or », de Jaffar Panahi – le ras-le-bol d’un solitaire
 rubrique: Cinéma
 annee: 2003
 magazine: n°11 1er mai 2004

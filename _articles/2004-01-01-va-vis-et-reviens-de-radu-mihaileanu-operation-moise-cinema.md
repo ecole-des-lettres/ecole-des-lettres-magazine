@@ -1,6 +1,6 @@
 ---
 id: 11243
-title: « Va, vis et reviens », de Radu Mihaileanu : opération Moïse
+title: « Va, vis et reviens », de Radu Mihaileanu – opération Moïse
 rubrique: Cinéma
 annee: 2004
 magazine: n°8 avril 2005

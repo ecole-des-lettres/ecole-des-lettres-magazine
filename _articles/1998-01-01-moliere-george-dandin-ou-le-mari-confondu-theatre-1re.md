@@ -1,6 +1,6 @@
 ---
 id: 3066
-title: Molière : « George Dandin ou le Mari confondu » 
+title: Molière – « George Dandin ou le Mari confondu » 
 rubrique: Théâtre [1re]
 annee: 1998
 magazine: n°11 1er mars 1999

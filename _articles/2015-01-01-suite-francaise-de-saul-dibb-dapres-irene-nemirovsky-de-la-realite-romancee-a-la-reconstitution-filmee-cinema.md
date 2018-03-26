@@ -7,7 +7,7 @@ annee: 2015
 magazine: avril 2015
 pages: 2
 description: « Suite française » commence comme « Le Silence de la mer » de Vercors,
-  adapté par Jean-Pierre Melville en 1947. La situation est très comparable : un officier
+  adapté par Jean-Pierre Melville en 1947. La situation est très comparable – un officier
   allemand occupant est mal toléré par ses hôtes français, une jeune femme, Lucile,
   dont le mari est prisonnier, et sa belle-mère...
 article_pdf: 12940.pdf

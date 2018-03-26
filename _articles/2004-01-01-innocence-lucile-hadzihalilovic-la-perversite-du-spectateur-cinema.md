@@ -1,6 +1,6 @@
 ---
 id: 11216
-title: « Innocence »,  Lucile Hadzihalilovic : la perversité du spectateur
+title: « Innocence »,  Lucile Hadzihalilovic – la perversité du spectateur
 rubrique: Cinéma 
 annee: 2004
 magazine: n°6 février 2005

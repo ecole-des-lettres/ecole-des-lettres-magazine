@@ -11,10 +11,10 @@ description:
   3. « Le Rouge et le Brun ». Ricochets de conversation balzacienne entre onze heures et minuit
   4. Une passion dans le désert
   5. « Honorine » ou l’auguste mensonge
-  6. « Maître Cornélius » : de l’improvisation à l’organisation
+  6. « Maître Cornélius » – de l’improvisation à l’organisation
   7. « El Verdugo » ou l’antithèse tranchée
   Numéro coordonné par Anne-Marie Baron
-  Ont participé à ce numéro :
+  Ont participé à ce numéro – 
   Max Andréoli, Anne-Marie Baron, Lucette Besson, Mireille Labouret, Stéphane Vachon et André Vanoncini
 article_pdf: 5038.pdf
 magazine_special: Balzac et la nouvelle (1)

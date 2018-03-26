@@ -1,6 +1,6 @@
 ---
 id: 11759
-title: Narration : l’incipit (6e-3e)
+title: Narration – l’incipit (6e-3e)
 rubrique: Écriture [6e-3e]
 annee: 2003
 magazine: 

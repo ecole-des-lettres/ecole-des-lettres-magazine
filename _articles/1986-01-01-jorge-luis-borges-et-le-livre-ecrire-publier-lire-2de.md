@@ -11,7 +11,7 @@ description:
   2. La Bibliothèque de Babel
   3. Le livre et l’érudition
 article_pdf: 47.pdf
-magazine_special: Livre : le livre entre l’imaginaire et le réel
+magazine_special: Livre – le livre entre l’imaginaire et le réel
 revue: L’école des lettres des lycées
 auteurs:
 - Francine De Martinoir

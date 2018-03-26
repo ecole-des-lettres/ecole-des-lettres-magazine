@@ -6,9 +6,9 @@ annee: 2001
 magazine: n°12 15 avril 2002
 pages: 7
 description: 
-  Proposition de corrigé fourni par le MEN sur :
+  Proposition de corrigé fourni par le MEN sur – 
   Convaincre, persuader et délibérer (fables)
-  Textes retenus :
+  Textes retenus – 
   – « La Cigale et la Fourmi », de La Fontaine
   – « Avertissement hypocrite » et « La Cigale », dans les « Fables », de Jean Anouilh
   – « Fables », d’Italo Svevo

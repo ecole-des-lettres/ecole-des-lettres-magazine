@@ -1,6 +1,6 @@
 ---
 id: 12664
-title: Dominique Viart : « Anthologie de la littérature contemporaine française.
+title: Dominique Viart – « Anthologie de la littérature contemporaine française.
   Romans et récits depuis 1980 »
 rubrique: Roman contemporain
 annee: 2013

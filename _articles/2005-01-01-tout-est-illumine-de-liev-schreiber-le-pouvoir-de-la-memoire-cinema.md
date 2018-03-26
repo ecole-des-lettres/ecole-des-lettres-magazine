@@ -1,6 +1,6 @@
 ---
 id: 11335
-title: « Tout est illuminé », de Liev Schreiber : le pouvoir de la mémoire
+title: « Tout est illuminé », de Liev Schreiber – le pouvoir de la mémoire
 rubrique: Cinéma
 annee: 2005
 magazine: n°6-7 janvier 2006

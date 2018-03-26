@@ -1,6 +1,6 @@
 ---
 id: 5282
-title: Richard Rhodes : « Extermination : la machine nazie »
+title: Richard Rhodes – « Extermination – la machine nazie »
 rubrique: Histoire
 annee: 2003
 magazine: n°8 15 février 2004

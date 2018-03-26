@@ -9,7 +9,7 @@ description:
   Entretiens avec Jean Samuel, compagnon de déportation de Primo Levi à Auschwitz, et Jorge Semprun, dont l’œuvre est traversée par une réflexion sur sa détention à Buchenwald
   Propos recueillis par Yves Stalloni
 article_pdf: 5049.pdf
-magazine_special: Levi : Jean Samuel et Jorge Semprun autour de Primo Levi
+magazine_special: Levi – Jean Samuel et Jorge Semprun autour de Primo Levi
 revue: L’école des lettres des lycées
 auteurs:
 - Yves Stalloni

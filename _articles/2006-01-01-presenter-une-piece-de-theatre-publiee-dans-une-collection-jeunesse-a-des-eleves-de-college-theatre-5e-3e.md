@@ -9,7 +9,7 @@ pages: 2
 description: Cet article propose de faire lire aux élèves deux pièces de tonalités
   différentes. Cette présentation a pour but de donner envie de lire du théâtre à
   de jeunes lecteurs. Elle peut également être l’occasion d’exercices de mémorisation
-  et de diction, ou d’un travail sur les niveaux de langue dans chaque ouvrage : « Être
+  et de diction, ou d’un travail sur les niveaux de langue dans chaque ouvrage – « Être
   le loup », de Bettina Wegenast et « On fait comme ça », d’Yves Lebeau.
 article_pdf: 11785.pdf
 revue: L’école des lettres des collèges

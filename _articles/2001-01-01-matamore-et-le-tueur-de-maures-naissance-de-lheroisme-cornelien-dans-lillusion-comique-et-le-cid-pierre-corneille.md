@@ -1,6 +1,6 @@
 ---
 id: 4583
-title: Matamore et le tueur de Maures : naissance de l’héroïsme cornélien dans «
+title: Matamore et le tueur de Maures – naissance de l’héroïsme cornélien dans «
   L’Illusion comique » et « Le Cid »
 rubrique: Pierre Corneille
 annee: 2001
@@ -19,7 +19,7 @@ description:
   – l’héroïsme du verbe
   – le théâtre des poètes
 article_pdf: 4583.pdf
-magazine_special: Corneille : Le Cid et L’Illusion comique
+magazine_special: Corneille – Le Cid et L’Illusion comique
 revue: L’école des lettres des lycées
 auteurs:
 - Claire Noni

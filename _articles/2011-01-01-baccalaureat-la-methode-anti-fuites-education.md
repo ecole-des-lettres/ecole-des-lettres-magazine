@@ -1,6 +1,6 @@
 ---
 id: 12489
-title: Baccalauréat : la méthode anti-fuites
+title: Baccalauréat – la méthode anti-fuites
 rubrique: Éducation
 annee: 2011
 magazine: juillet 2011

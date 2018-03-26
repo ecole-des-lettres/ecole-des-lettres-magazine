@@ -1,6 +1,6 @@
 ---
 id: 1995
-title: Élisabeth Calaque : « Lire et comprendre : l’itinéraire de lecture »
+title: Élisabeth Calaque – « Lire et comprendre – l’itinéraire de lecture »
 rubrique: Lecture
 annee: 1995
 magazine: n°2 1er octobre 1995

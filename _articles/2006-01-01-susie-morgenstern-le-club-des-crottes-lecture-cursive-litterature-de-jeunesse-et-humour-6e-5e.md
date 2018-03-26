@@ -1,6 +1,6 @@
 ---
 id: 11699
-title: Susie Morgenstern : « Le Club des crottes ». Lecture cursive 
+title: Susie Morgenstern – « Le Club des crottes ». Lecture cursive 
 rubrique: Littérature de jeunesse et humour [6e-5e]
 annee: 2006
 magazine: 2007

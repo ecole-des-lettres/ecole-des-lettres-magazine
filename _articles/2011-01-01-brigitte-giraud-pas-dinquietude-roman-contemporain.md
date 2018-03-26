@@ -1,6 +1,6 @@
 ---
 id: 12461
-title: Brigitte Giraud : « Pas d’inquiétude »
+title: Brigitte Giraud – « Pas d’inquiétude »
 rubrique: Roman contemporain
 annee: 2011
 magazine: octobre 2011

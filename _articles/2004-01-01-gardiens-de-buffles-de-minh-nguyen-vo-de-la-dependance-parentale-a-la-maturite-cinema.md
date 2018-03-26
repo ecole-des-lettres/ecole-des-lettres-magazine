@@ -1,6 +1,6 @@
 ---
 id: 11245
-title: « Gardiens de buffles », de Minh Nguyen-Vô : de la dépendance parentale à
+title: « Gardiens de buffles », de Minh Nguyen-Vô – de la dépendance parentale à
   la maturité
 rubrique: Cinéma
 annee: 2004

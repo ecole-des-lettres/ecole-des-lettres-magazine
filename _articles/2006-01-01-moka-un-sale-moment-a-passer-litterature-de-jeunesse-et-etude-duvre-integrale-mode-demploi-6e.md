@@ -1,7 +1,7 @@
 ---
 id: 11728
-title: Moka : « Un sale moment à passer »
-rubrique: Littérature de jeunesse et étude d’œuvre intégrale : mode d’emploi ! [6e]
+title: Moka – « Un sale moment à passer »
+rubrique: Littérature de jeunesse et étude d’œuvre intégrale – mode d’emploi ! [6e]
 annee: 2006
 magazine: 2007
 pages: 8

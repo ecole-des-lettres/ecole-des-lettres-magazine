@@ -1,6 +1,6 @@
 ---
 id: 494
-title: Marie-Aude Murail : « Dinky rouge sang »
+title: Marie-Aude Murail – « Dinky rouge sang »
 rubrique: Littérature de jeunesse [4e-3e] 
 annee: 1991
 magazine: n°10 15 avril 1992

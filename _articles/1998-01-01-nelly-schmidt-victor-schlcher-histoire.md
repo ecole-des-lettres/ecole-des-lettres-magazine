@@ -1,6 +1,6 @@
 ---
 id: 3240
-title: Nelly Schmidt : « Victor Schœlcher »
+title: Nelly Schmidt – « Victor Schœlcher »
 rubrique: Histoire
 annee: 1998
 magazine: n°4 1er octobre 1998

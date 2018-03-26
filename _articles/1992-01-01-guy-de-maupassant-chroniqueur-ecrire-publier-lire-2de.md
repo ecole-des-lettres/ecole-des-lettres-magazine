@@ -12,7 +12,7 @@ description:
   – ici et ailleurs
   – le témoin d’une époque
 article_pdf: 894.pdf
-magazine_special: Maupassant : romans et nouvelles
+magazine_special: Maupassant – romans et nouvelles
 revue: L’école des lettres des lycées
 auteurs:
 - Yves Stalloni

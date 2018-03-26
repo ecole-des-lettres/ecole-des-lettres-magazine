@@ -1,6 +1,6 @@
 ---
 id: 12264
-title: Oscar Wilde : « L’Importance d’être Constant », traduit par Charles Dantzig
+title: Oscar Wilde – « L’Importance d’être Constant », traduit par Charles Dantzig
 rubrique: Théâtre
 annee: 2013
 magazine: juillet 2013

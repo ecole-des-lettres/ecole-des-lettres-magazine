@@ -1,6 +1,6 @@
 ---
 id: 12427
-title: Nathalie Léger : « Supplément à la vie de Barbara Loden »
+title: Nathalie Léger – « Supplément à la vie de Barbara Loden »
 rubrique: Roman contemporain
 annee: 2012
 magazine: février 2012

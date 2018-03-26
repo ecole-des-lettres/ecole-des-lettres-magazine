@@ -8,7 +8,7 @@ pages: 6
 description: Où l’on voit que le XVIIIe siècle, s’opposant au XVIIe, rejette les « langues
   mortes »…
 article_pdf: 1161.pdf
-magazine_special: Langues anciennes : didactique
+magazine_special: Langues anciennes – didactique
 revue: L’école des lettres des lycées
 auteurs:
 - Claude Mossé

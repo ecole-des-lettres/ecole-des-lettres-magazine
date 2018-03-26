@@ -18,7 +18,7 @@ description:
   3. Troisième séquence
   – jeux d’écriture
   – la technique du collage
-  4. Quatrième séquence : les élèves sont invités à retrouver dans un corpus le texte dans lequel se situe l’extrait
+  4. Quatrième séquence – les élèves sont invités à retrouver dans un corpus le texte dans lequel se situe l’extrait
   L’article est suivi d’un corpus de poèmes possibles (Prévert, Verlaine, Tardieu, Supervielle, Paz, Ponge, Eluard, Char, Ransetsu).
 article_pdf: 1116.pdf
 revue: L’école des lettres des collèges

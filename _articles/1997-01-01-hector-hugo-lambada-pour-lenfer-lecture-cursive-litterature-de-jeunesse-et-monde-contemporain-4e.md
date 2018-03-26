@@ -1,6 +1,6 @@
 ---
 id: 2623
-title: Hector Hugo : « Lambada pour l’enfer ». Lecture cursive 
+title: Hector Hugo – « Lambada pour l’enfer ». Lecture cursive 
 rubrique: Littérature de jeunesse et monde contemporain [4e]
 annee: 1997
 magazine: n°10 15 février 1998

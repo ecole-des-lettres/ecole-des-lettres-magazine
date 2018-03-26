@@ -1,6 +1,6 @@
 ---
 id: 2601
-title: Pierre Magnan : « Le Secret des Andrônes ». Étude d’extrait 
+title: Pierre Magnan – « Le Secret des Andrônes ». Étude d’extrait 
 rubrique: Roman policier [4e-3e]
 annee: 1997
 magazine: n°1 1er septembre 1997

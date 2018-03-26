@@ -1,6 +1,6 @@
 ---
 id: 11194
-title: Patrick Modiano : « Un pedigree »
+title: Patrick Modiano – « Un pedigree »
 rubrique: Roman contemporain
 annee: 2004
 magazine: n°5 janvier 2005

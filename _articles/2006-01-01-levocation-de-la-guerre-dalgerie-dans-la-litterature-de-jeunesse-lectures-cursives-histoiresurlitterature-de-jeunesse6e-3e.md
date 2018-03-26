@@ -1,6 +1,6 @@
 ---
 id: 11672
-title: L’évocation de la guerre d’Algérie dans la littérature de jeunesse : lectures
+title: L’évocation de la guerre d’Algérie dans la littérature de jeunesse – lectures
   cursives  
 rubrique: Histoire/littérature de jeunesse[6e-3e]
 annee: 2006

@@ -1,11 +1,11 @@
 ---
 id: 3279
-title: Victor Hugo : ombre et lumière dans « Les Châtiments »
+title: Victor Hugo – ombre et lumière dans « Les Châtiments »
 rubrique: Poésie [1re]
 annee: 1998
 magazine: n°5 15 octobre 1998
 pages: 9
-description: Ombre et lumière : si ce n’est le thème le plus obsédant des « Châtiments »,
+description: Ombre et lumière – si ce n’est le thème le plus obsédant des « Châtiments »,
   c’est sans nul doute le plus apparent, inscrit dans l’opposition qui de « Nox »
   conduit à « Lux ». À un niveau premier, le symbolisme est clair, manichéen. Le coup
   d’État dans la nuit du 1er au 2 décembre, c’est le triomphe du crime, de la nuit,

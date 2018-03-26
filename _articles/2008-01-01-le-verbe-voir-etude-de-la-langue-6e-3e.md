@@ -7,11 +7,11 @@ magazine: n°5-6 2008-2009
 pages: 9
 description: Cette fiche explore le champ sémantique du verbe « voir ». Elle peut
   prolonger une analyse en relation avec la lecture et l’observation des textes. La
-  saisie des variations de sens met en jeu deux sortes de considérations : d’une part
+  saisie des variations de sens met en jeu deux sortes de considérations – d’une part
   les relations syntaxiques entre le verbe et le co-texte, d’autre part les rapports
   sémantiques entre les notions auxquelles renvoient ces mots dans une situation donnée.
   D’un côté, on se demande si le verbe est intransitif ou si, au contraire, il appelle
-  une suite et sous quelle forme : est-elle de construction directe ou indirecte,
+  une suite et sous quelle forme – est-elle de construction directe ou indirecte,
   ou s’agit-il d’une structure à double complément ? D’autres contraintes s’exercent
   sur la forme conjuguée s’il s’agit d’un verbe impersonnel ou d’un verbe passif...
   D’un autrecôté, on oppose les notions d’agent et d’objet, on les réfère aux catégories

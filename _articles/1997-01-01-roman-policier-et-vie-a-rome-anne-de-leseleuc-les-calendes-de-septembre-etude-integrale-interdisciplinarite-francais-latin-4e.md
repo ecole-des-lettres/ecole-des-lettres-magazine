@@ -1,6 +1,6 @@
 ---
 id: 2628
-title: Roman policier et vie à Rome. Anne de Leseleuc : « Les Calendes de septembre ».
+title: Roman policier et vie à Rome. Anne de Leseleuc – « Les Calendes de septembre ».
   Étude intégrale 
 rubrique: Interdisciplinarité français, latin [4e]
 annee: 1997

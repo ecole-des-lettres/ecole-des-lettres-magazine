@@ -1,6 +1,6 @@
 ---
 id: 2097
-title: Chrétien de Troyes : « Le Conte du Graal ». Étude littéraire : la rencontre
+title: Chrétien de Troyes – « Le Conte du Graal ». Étude littéraire – la rencontre
   de Perceval et des chevaliers 
 rubrique: Grands modèles littéraires [Tle]
 annee: 1995
@@ -16,7 +16,7 @@ description: Contrastant avec le prologue, à la tonalité sérieuse et aux enje
   ne réside-t-il pas finalement dans la profondeur symbolique qu’il a su conférer
   à son texte ?
 article_pdf: 2097.pdf
-magazine_special: Chrétien de Troyes : Le Conte du Graal
+magazine_special: Chrétien de Troyes – Le Conte du Graal
 revue: L’école des lettres des lycées
 auteurs:
 - Lydie Louison

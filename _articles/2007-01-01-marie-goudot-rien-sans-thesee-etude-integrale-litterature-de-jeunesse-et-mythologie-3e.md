@@ -1,6 +1,6 @@
 ---
 id: 11598
-title: Marie Goudot : « Rien sans Thésée ». Étude intégrale
+title: Marie Goudot – « Rien sans Thésée ». Étude intégrale
 rubrique: Littérature de jeunesse et mythologie [3e]
 annee: 2007
 magazine: n°2 2007-2008
@@ -10,7 +10,7 @@ description: Thésée, nous croyons tous le connaître, et, pour une fois, il de
   de préférence le roman de Marie Goudot. En sixième, ils ont abordé en principe,
   en français et en histoire, les principaux mythes de l’Antiquité gréco-latine, et
   il devrait leur rester au moins certaines images en tête… Le Labyrinthe, le Minotaure,
-  le fil déroulé, le retour avec la voile noire… Quelques expressions peut-être :
+  le fil déroulé, le retour avec la voile noire… Quelques expressions peut-être – 
   un fil d’Ariane, un dédale… Oui, mais avant ? Et après ? Marie Goudot ne se limite
   pas à cet épisode central de la vie de Thésée, même si elle y consacre le temps
   nécessaire, mais nous le fait découvrir enfant et le conduit jusqu’à la vieillesse,

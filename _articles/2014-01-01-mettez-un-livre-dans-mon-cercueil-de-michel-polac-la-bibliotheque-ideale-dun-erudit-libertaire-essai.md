@@ -6,7 +6,7 @@ rubrique: Essai
 annee: 2014
 magazine: n°4
 pages: 12
-description: L’injonction du titre semble sans appel : même après sa mort, Michel
+description: L’injonction du titre semble sans appel – même après sa mort, Michel
   Polac continuerait-il donc à lire ? Certes, celui qui fut l’une des figures marquantes
   du paysage médiatique français, à la fois critique, journaliste, cinéaste et romancier,
   a toujours aimé les livres, mais il leur a trouvé des vertus plus grandes encore

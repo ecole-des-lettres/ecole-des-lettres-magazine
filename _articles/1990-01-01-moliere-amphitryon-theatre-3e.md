@@ -1,6 +1,6 @@
 ---
 id: 191
-title: Molière : « Amphitryon » 
+title: Molière – « Amphitryon » 
 rubrique: Théâtre [3e]
 annee: 1990
 magazine: n°11 1er mai 1991

@@ -1,6 +1,6 @@
 ---
 id: 2375
-title: Jean de La Fontaine : « Le Cochon, la Chèvre et le Mouton ». Commentaire composé 
+title: Jean de La Fontaine – « Le Cochon, la Chèvre et le Mouton ». Commentaire composé 
 rubrique: L’argumentation [1re]
 annee: 1996
 magazine: n°2 15 septembre 1996
@@ -13,9 +13,9 @@ description:
   – l’allégorie animalière
   2. Commentaire composé
   – introduction
-  – la fabrique de la fable : le fonctionnement allégorique ; la construction de la fable ; la polyphonie de la fable
-  – la méditation sur la mort : la leçon explicite de la fable ; l’interprétation janséniste ; l’héritage matérialiste
-  – le plaisir de la sagesse : le banquet ; un genre mêlé ; le plaisir de l’évidence
+  – la fabrique de la fable – le fonctionnement allégorique ; la construction de la fable ; la polyphonie de la fable
+  – la méditation sur la mort – la leçon explicite de la fable ; l’interprétation janséniste ; l’héritage matérialiste
+  – le plaisir de la sagesse – le banquet ; un genre mêlé ; le plaisir de l’évidence
 article_pdf: 2375.pdf
 revue: L’école des lettres des lycées
 auteurs:

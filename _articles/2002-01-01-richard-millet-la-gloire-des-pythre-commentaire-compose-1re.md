@@ -1,6 +1,6 @@
 ---
 id: 4987
-title: Richard Millet : « La Gloire des Pythre » 
+title: Richard Millet – « La Gloire des Pythre » 
 rubrique: Commentaire composé [1re]
 annee: 2002
 magazine: n°12 mai 2003

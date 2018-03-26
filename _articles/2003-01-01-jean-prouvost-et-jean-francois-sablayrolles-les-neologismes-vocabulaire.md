@@ -1,6 +1,6 @@
 ---
 id: 5247
-title: Jean Prouvost et Jean-François Sablayrolles : « Les Néologismes »
+title: Jean Prouvost et Jean-François Sablayrolles – « Les Néologismes »
 rubrique: Vocabulaire
 annee: 2003
 magazine: n°6 1er décembre 2003

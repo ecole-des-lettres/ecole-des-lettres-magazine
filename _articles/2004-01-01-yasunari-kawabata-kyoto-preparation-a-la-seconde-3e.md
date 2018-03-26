@@ -1,6 +1,6 @@
 ---
 id: 11100
-title: Yasunari Kawabata : « Kyôto »
+title: Yasunari Kawabata – « Kyôto »
 rubrique: Préparation à la seconde [3e]
 annee: 2004
 magazine: n°5 janvier 2005

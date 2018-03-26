@@ -1,6 +1,6 @@
 ---
 id: 12432
-title: Art Spiegelman : « Metamaus »
+title: Art Spiegelman – « Metamaus »
 rubrique: Bande dessinée
 annee: 2012
 magazine: février 2012

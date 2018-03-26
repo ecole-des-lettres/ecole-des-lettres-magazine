@@ -1,6 +1,6 @@
 ---
 id: 12067
-title: Découvrir le portrait en CP et CE1. . Un portrait de femme : la marquise de
+title: Découvrir le portrait en CP et CE1. . Un portrait de femme – la marquise de
   Pompadour
 rubrique: Histoire des arts [CP-CE1]
 annee: 2010

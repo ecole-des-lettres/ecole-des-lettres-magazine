@@ -1,7 +1,7 @@
 ---
 id: 4249
 title: Lecture cursive
-rubrique: Évelyne Brisou-Pellen : « Deux ombres sur le pont »
+rubrique: Évelyne Brisou-Pellen – « Deux ombres sur le pont »
 annee: 2001
 magazine: n°12 15 avril 2002
 pages: 7

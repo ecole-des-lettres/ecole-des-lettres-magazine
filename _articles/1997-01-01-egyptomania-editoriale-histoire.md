@@ -12,11 +12,11 @@ description:
   3. L’expédition d’Égypte (1798-1801)
   4. Aux sources du Nil
   5. Le succès des momies
-  6. Sites d’Égypte : Alexandrie, Giza et le sphinx
+  6. Sites d’Égypte – Alexandrie, Giza et le sphinx
   7. La femme dans l’Égypte ancienne
-  8. Figures emblématiques : Aménophis IV, Toutankhamon, Ramsès II
+  8. Figures emblématiques – Aménophis IV, Toutankhamon, Ramsès II
   9. L’Égypte romaine
-  10. Deux sources antiques : Hérodote ; Strabon
+  10. Deux sources antiques – Hérodote ; Strabon
   11. Un récit de Daniel Rondeau
   12. Champollion et l’égyptologie française
   13. L’Égypte à Paris

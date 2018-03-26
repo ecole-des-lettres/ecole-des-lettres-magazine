@@ -1,6 +1,6 @@
 ---
 id: 1278
-title: Rainer Maria Rilke : les « Lettres à un jeune poète » et la question de l’existence
+title: Rainer Maria Rilke – les « Lettres à un jeune poète » et la question de l’existence
   poétique. Étude intégrale
 rubrique: Poésie [1re]
 annee: 1993
@@ -14,7 +14,7 @@ description:
   – Amour et création
   – La solitude
   – L’enfance
-  – Travail du négatif : maladie, mélancolie et mort
+  – Travail du négatif – maladie, mélancolie et mort
   – L’expression et les impressions
   – L’ouvert
 article_pdf: 1278.pdf

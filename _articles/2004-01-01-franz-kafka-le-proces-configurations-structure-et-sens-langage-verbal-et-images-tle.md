@@ -1,6 +1,6 @@
 ---
 id: 11174
-title: Franz Kafka : « Le Procès ». Configurations, structure et sens
+title: Franz Kafka – « Le Procès ». Configurations, structure et sens
 rubrique: Langage verbal et images [Tle]
 annee: 2004
 magazine: n°3 1er novembre 2004

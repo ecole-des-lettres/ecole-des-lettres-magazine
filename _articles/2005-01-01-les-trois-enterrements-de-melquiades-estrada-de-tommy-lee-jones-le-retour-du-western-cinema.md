@@ -1,6 +1,6 @@
 ---
 id: 11337
-title: « Les Trois Enterrements de Melquiades Estrada », de Tommy Lee Jones : le
+title: « Les Trois Enterrements de Melquiades Estrada », de Tommy Lee Jones – le
   retour du western
 rubrique: Cinéma
 annee: 2005

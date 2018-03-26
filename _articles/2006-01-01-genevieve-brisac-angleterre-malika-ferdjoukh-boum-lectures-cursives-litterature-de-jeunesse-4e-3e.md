@@ -1,6 +1,6 @@
 ---
 id: 11460
-title: Geneviève Brisac : « Angleterre » ; Malika Ferdjoukh : « Boum ». Lectures
+title: Geneviève Brisac – « Angleterre » ; Malika Ferdjoukh – « Boum ». Lectures
   cursives
 rubrique: Littérature de jeunesse [4e-3e]
 annee: 2006

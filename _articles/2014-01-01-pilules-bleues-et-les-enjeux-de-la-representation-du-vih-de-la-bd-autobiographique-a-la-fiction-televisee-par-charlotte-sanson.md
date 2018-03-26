@@ -6,7 +6,7 @@ annee: 2014
 magazine: n°3
 pages: 8
 description: CHARLOTTE SANSON. « “Pilules bleues”, de Frederik Peeters, est une BD
-  qui traite avec fraîcheur et légèreté d’un sujet pourtant grave et très actuel :
+  qui traite avec fraîcheur et légèreté d’un sujet pourtant grave et très actuel – 
   le VIH post-trithérapie. La maladie y est vue sous un angle « désensationnalisé »,
   la révolution de la trithérapie permettant aux personnes touchées par le virus d’envisager
   une vie sur le temps long grâce aux traitements. Seulement, ces traitements sont

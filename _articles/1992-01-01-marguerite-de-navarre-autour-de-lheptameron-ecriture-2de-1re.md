@@ -1,6 +1,6 @@
 ---
 id: 980
-title: Marguerite de Navarre : autour de l’« Heptaméron »  
+title: Marguerite de Navarre – autour de l’« Heptaméron »  
 rubrique: Écriture [2de-1re]
 annee: 1992
 magazine: n°4 1er novembre 1992

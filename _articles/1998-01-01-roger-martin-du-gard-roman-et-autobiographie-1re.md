@@ -9,7 +9,7 @@ description:
   – Panorama de la vie et de l’œuvre de l’écrivain
   – Roger Martin du Gard et son « Journal »
   – La correspondance de Martin du Gard
-  – Roger Martin du Gard : un romancier polygraphe
+  – Roger Martin du Gard – un romancier polygraphe
   Ces articles sont suivis d’une bibliographie détaillée et commentée.
 article_pdf: 3069.pdf
 revue: L’école des lettres des lycées

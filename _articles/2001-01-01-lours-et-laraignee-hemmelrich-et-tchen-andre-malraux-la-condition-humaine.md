@@ -1,7 +1,7 @@
 ---
 id: 4482
-title: L’ours et l’araignée : Hemmelrich et Tchen
-rubrique: André Malraux : « La Condition humaine »
+title: L’ours et l’araignée – Hemmelrich et Tchen
+rubrique: André Malraux – « La Condition humaine »
 annee: 2001
 magazine: n°6 15 novembre 2001
 pages: 16

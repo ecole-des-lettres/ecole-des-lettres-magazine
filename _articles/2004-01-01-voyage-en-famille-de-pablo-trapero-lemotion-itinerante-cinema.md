@@ -1,6 +1,6 @@
 ---
 id: 11209
-title: « Voyage en famille », de Pablo Trapero : l’émotion itinérante
+title: « Voyage en famille », de Pablo Trapero – l’émotion itinérante
 rubrique: Cinéma
 annee: 2004
 magazine: n°5 janvier 2005

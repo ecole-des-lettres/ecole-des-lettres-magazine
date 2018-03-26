@@ -1,16 +1,16 @@
 ---
 id: 1538
 title: Vers l’analyse filmique 
-rubrique: Étude de l’image : cinéma [3e]
+rubrique: Étude de l’image – cinéma [3e]
 annee: 1994
 magazine: n°12 15 juin 1995
 pages: 6
 description: 
-  Objectif : apprendre aux élèves à mieux voir et entendre un film en tant que fait de langage avec ses codes spécifiques et fait de culture contemporain.
+  Objectif – apprendre aux élèves à mieux voir et entendre un film en tant que fait de langage avec ses codes spécifiques et fait de culture contemporain.
   1. Tenir compte de la spécificité du film
-  – lecture, audiovision : deux modes d’investigation différents
-  – le film et le texte : deux modes différents de communication des informations
-  – le mot et l’image-son : deux rapports différents avec la réalité
+  – lecture, audiovision – deux modes d’investigation différents
+  – le film et le texte – deux modes différents de communication des informations
+  – le mot et l’image-son – deux rapports différents avec la réalité
   – signes linguistiques et code cinématographique
   – dénotation et connotation
   – temps de la lecture et temps de l’audiovision

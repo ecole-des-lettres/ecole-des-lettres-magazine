@@ -1,6 +1,6 @@
 ---
 id: 1508
-title: Denis Diderot : « Paradoxe sur le comédien » : le corps du comédien 
+title: Denis Diderot – « Paradoxe sur le comédien » – le corps du comédien 
 rubrique: Théâtre/argumentation [1re]
 annee: 1994
 magazine: n°10 15 avril 1995
@@ -11,9 +11,9 @@ description: La question du corps du comédien soulève, dans l’œuvre de Dide
   en perpétuel dialogue avec le texte poétique qu’il a pour charge de manifester et
   d’accompagner. Comment concilier les exigences de la parole avec celles du geste
   ? Enfin, le corps du comédien soulève des questions relatives à l’anthropologie
-  : quels rapports entretient-il avec la volonté dans le modèle du sang-froid ? 
+  – quels rapports entretient-il avec la volonté dans le modèle du sang-froid ? 
 article_pdf: 1508.pdf
-magazine_special: Diderot : Paradoxe sur le comédien
+magazine_special: Diderot – Paradoxe sur le comédien
 revue: L’école des lettres des lycées
 auteurs:
 - Joël Dupas

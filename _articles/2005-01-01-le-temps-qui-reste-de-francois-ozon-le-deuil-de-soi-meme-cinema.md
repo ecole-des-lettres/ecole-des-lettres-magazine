@@ -1,6 +1,6 @@
 ---
 id: 11323
-title: « Le temps qui reste », de François Ozon : le deuil de soi-même
+title: « Le temps qui reste », de François Ozon – le deuil de soi-même
 rubrique: Cinéma
 annee: 2005
 magazine: n°5 décembre 2005

@@ -1,6 +1,6 @@
 ---
 id: 2459
-title: « La Chanson des Nibelungen » : fondements historiques
+title: « La Chanson des Nibelungen » – fondements historiques
 rubrique: Épopée médiévale  [classes préparatoires et concours]
 annee: 1996
 magazine: n°5 1er décembre 1996
@@ -9,7 +9,7 @@ description:
   1. « Siegfried »
   2. La fin des Burgondes
 article_pdf: 2459.pdf
-magazine_special: Nibelungen : chanson des Nibelungen
+magazine_special: Nibelungen – chanson des Nibelungen
 revue: L’école des lettres des collèges
 auteurs:
 - Danielle Buschinger

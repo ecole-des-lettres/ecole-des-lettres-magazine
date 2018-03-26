@@ -1,6 +1,6 @@
 ---
 id: 1580
-title: Georges Darien : littérature et anarchie à l’époque de Georges Darien
+title: Georges Darien – littérature et anarchie à l’époque de Georges Darien
 rubrique: Roman [2de]
 annee: 1994
 magazine: n°13 15 juin 1995

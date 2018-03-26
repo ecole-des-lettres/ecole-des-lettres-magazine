@@ -1,6 +1,6 @@
 ---
 id: 1473
-title: Gustave Flaubert : « Madame Bovary ». Commentaire composé 
+title: Gustave Flaubert – « Madame Bovary ». Commentaire composé 
 rubrique: Roman [2de]
 annee: 1994
 magazine: n°1 15 septembre 1994

@@ -1,6 +1,6 @@
 ---
 id: 482
-title: Eugène Labiche : « La Cagnotte ». Étude intégrale  (1/2).
+title: Eugène Labiche – « La Cagnotte ». Étude intégrale  (1/2).
 rubrique: Théâtre [5e-4e]
 annee: 1991
 magazine: n°10 15 avril 1992
@@ -8,9 +8,9 @@ pages: 10
 description: 
   L’étude de la pièce de Labiche permet une approche moins classique et conventionnelle du théâtre…
 
-  – Identification du texte : actes et scènes, personnages, lieux, titre
-  – acte 1 : familiarisation avec le texte (décor, didascalies, répliques), les personnages, le comique (comique de situation, comique de mots, procédé du leitmotiv), les petites annonces matrimoniales…
-  En lectures complémentaires sont proposés six textes :
+  – Identification du texte – actes et scènes, personnages, lieux, titre
+  – acte 1 – familiarisation avec le texte (décor, didascalies, répliques), les personnages, le comique (comique de situation, comique de mots, procédé du leitmotiv), les petites annonces matrimoniales…
+  En lectures complémentaires sont proposés six textes – 
   – extrait du chapitre 17 de « La Mare au diable », de George Sand
   –  extrait du chapitre 3 de « Madame Bovary », de Flaubert
   –  extrait de « La Demande en mariage », de Tchekhov

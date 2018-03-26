@@ -1,6 +1,6 @@
 ---
 id: 11089
-title: À propos du rapport Durpaire : les politiques documentaires des établissements
+title: À propos du rapport Durpaire – les politiques documentaires des établissements
 rubrique: Documentation
 annee: 2004
 magazine: n°3 1er novembre 2004

@@ -1,6 +1,6 @@
 ---
 id: 2555
-title: Marivaux : production et réception du théâtre de Marivaux
+title: Marivaux – production et réception du théâtre de Marivaux
 rubrique: Théâtre [1re]
 annee: 1996
 magazine: n°8 1er février 1997

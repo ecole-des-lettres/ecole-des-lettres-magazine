@@ -1,12 +1,12 @@
 ---
 id: 12692
-title: Écrire une nouvelle : comment trouver une chute ? – Panique chez les taxons
+title: Écrire une nouvelle – comment trouver une chute ? – Panique chez les taxons
   !
 rubrique: Littérature
 annee: 2013
 magazine: 
 pages: 3
-description: Une nouvelle est un texte court. Le pari de l’auteur : en quelques pages,
+description: Une nouvelle est un texte court. Le pari de l’auteur – en quelques pages,
   créer un monde, avec sa logique interne et sa nécessité. D’où l’importance extrême
   du dénouement, qui prend ici le nom de « chute ». Qu’est-ce qu’un « dénouement »
   ? Une fin qui « dénoue » les nœuds tissés par l’auteur. Or, pas de nœud, ni donc
@@ -14,7 +14,7 @@ description: Une nouvelle est un texte court. Le pari de l’auteur : en quelque
   d’abord de les entremêler, puis de les démêler. Feuilleton, saga, roman… Le dénouement
   vient clore des histoires longues, touffues, dans lesquelles s’entrecroisent des
   destins. Rien de tel dans une nouvelle, dont la fin vous « tombe » dessus. On ne
-  s’attend pas à une « chute » : elle surprend, par définition.
+  s’attend pas à une « chute » – elle surprend, par définition.
 article_pdf: 12692.pdf
 revue: L’école des lettres des lycées
 auteurs:

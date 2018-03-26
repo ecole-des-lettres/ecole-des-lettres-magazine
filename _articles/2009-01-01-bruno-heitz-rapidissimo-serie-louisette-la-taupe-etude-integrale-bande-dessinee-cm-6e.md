@@ -1,6 +1,6 @@
 ---
 id: 12014
-title: Bruno Heitz : « Rapidissimo » (série « Louisette la taupe »).Étude intégrale
+title: Bruno Heitz – « Rapidissimo » (série « Louisette la taupe »).Étude intégrale
 rubrique: Bande dessinée [CM-6e]
 annee: 2009
 magazine: n°7 2009-2010

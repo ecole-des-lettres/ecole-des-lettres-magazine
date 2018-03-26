@@ -1,6 +1,6 @@
 ---
 id: 12951
-title: Pouvoir politique et liberté d’expression : Spinoza à la rescousse
+title: Pouvoir politique et liberté d’expression – Spinoza à la rescousse
 rubrique: Éducation
 annee: 2015
 magazine: janvier 2015

@@ -1,6 +1,6 @@
 ---
 id: 3802
-title: Le français au lycée : préambule
+title: Le français au lycée – préambule
 rubrique: Programme [2de-1re]
 annee: 2000
 magazine: n°1 juillet 2000

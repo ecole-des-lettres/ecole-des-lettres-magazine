@@ -1,6 +1,6 @@
 ---
 id: 496
-title: Pierre Loti : la maison de Pierre Loti 
+title: Pierre Loti – la maison de Pierre Loti 
 rubrique: Autobiographie [1re]
 annee: 1991
 magazine: n°10 15 avril 1992

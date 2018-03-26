@@ -8,8 +8,8 @@ magazine: n°7 1er décembre 1997
 pages: 17
 description: 
   1. Les trois Électre antiques
-  – éléments communs aux trois Électre : l’esclavage, la révolte
-  – les évolutions d’Électre : l’attitude psychologique ; la conduite à propos du meurtre ; le comportement religieux
+  – éléments communs aux trois Électre – l’esclavage, la révolte
+  – les évolutions d’Électre – l’attitude psychologique ; la conduite à propos du meurtre ; le comportement religieux
   2. Trois Électre modernes
   – l’Électre de Giraudoux
   – l’Électre de Sartre

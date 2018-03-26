@@ -1,6 +1,6 @@
 ---
 id: 5270
-title: « Uzak », de Nuri Bilge Ceylan : le piège à souris
+title: « Uzak », de Nuri Bilge Ceylan – le piège à souris
 rubrique: Cinéma
 annee: 2003
 magazine: n°7 1er janvier 2004

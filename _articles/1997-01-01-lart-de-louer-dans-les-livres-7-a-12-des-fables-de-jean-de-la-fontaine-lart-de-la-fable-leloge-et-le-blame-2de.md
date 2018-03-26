@@ -1,7 +1,7 @@
 ---
 id: 2970
 title: L’art de louer dans les livres 7 à 12 des « Fables », de Jean de La Fontaine 
-rubrique: L’art de la fable : l’éloge et le blâme [2de]
+rubrique: L’art de la fable – l’éloge et le blâme [2de]
 annee: 1997
 magazine: n°9 15 janvier 1998
 pages: 8

@@ -1,6 +1,6 @@
 ---
 id: 2727
-title: Léopold Sédar Senghor : rythme, culture et poésie dans « Éthiopiques »
+title: Léopold Sédar Senghor – rythme, culture et poésie dans « Éthiopiques »
 rubrique: Poésie contemporaine [Tle]
 annee: 1997
 magazine: n°12 1er avril 1998
@@ -13,7 +13,7 @@ description: L’inscription au programme de terminale L de l’œuvre de Sengho
   ne sait pas quelle est la culture de référence d’un texte, on ne peut vraiment comprendre
   ce qu’il dit, en particulier ce qu’il veut ou peut vouloir dire…
 article_pdf: 2727.pdf
-magazine_special: Senghor : Éthiopiques
+magazine_special: Senghor – Éthiopiques
 revue: L’école des lettres des lycées
 auteurs:
 - Daniel Delas

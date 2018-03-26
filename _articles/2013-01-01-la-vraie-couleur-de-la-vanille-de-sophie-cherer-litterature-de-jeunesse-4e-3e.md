@@ -13,7 +13,7 @@ description: Ferréol Bellier Beaumont a tout juste trente-sept ans. Il est né 
   riche lignée de propriétaires esclavagistes de l’île, ce vieux garçon éprouve une
   attirance confuse et profonde pour un nouveau-né dont la mère, esclave, est morte
   en couches, et qui a été recueilli dans la maison de sa sœur. La suite du roman
-  tiendra à cette décision singulière de Ferréol : élever ce rejeton d’esclaves comme
+  tiendra à cette décision singulière de Ferréol – élever ce rejeton d’esclaves comme
   son propre fils...
 article_pdf: 12540.pdf
 revue: L’école des lettres des collèges

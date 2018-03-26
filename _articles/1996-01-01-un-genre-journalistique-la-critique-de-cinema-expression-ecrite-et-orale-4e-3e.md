@@ -1,6 +1,6 @@
 ---
 id: 2536
-title: Un genre journalistique : la critique de cinéma
+title: Un genre journalistique – la critique de cinéma
 rubrique: Expression écrite et orale [4e-3e]
 annee: 1996
 magazine: n°8 15 février 1997

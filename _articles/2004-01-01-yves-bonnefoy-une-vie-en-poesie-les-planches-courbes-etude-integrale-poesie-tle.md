@@ -1,6 +1,6 @@
 ---
 id: 11302
-title: Yves Bonnefoy : une vie en poésie. « Les Planches courbes ». Étude intégrale
+title: Yves Bonnefoy – une vie en poésie. « Les Planches courbes ». Étude intégrale
 rubrique: Poésie [Tle]
 annee: 2004
 magazine: 2005

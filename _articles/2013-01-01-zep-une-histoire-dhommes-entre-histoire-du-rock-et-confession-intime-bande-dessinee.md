@@ -1,6 +1,6 @@
 ---
 id: 12236
-title: Zep : « Une histoire d’hommes », entre histoire du rock et confession intime
+title: Zep – « Une histoire d’hommes », entre histoire du rock et confession intime
 rubrique: Bande dessinée
 annee: 2013
 magazine: septembre 2013

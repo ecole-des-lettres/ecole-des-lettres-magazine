@@ -10,12 +10,12 @@ description:
   – Analyse du sujet
   – Problématique
   – Élaboration d’un plan
-  Corrigé de la dissertation :
+  Corrigé de la dissertation – 
   1. La passion menacée par la société
   – l’ordre social
   – l’ordre moral
   – l’ordre culturel
-  2. Les facteurs personnels : le règne de l’illusion
+  2. Les facteurs personnels – le règne de l’illusion
   – la division intérieure
   – l’autre, cet inconnu
   – la représentation, processus autodestructeur

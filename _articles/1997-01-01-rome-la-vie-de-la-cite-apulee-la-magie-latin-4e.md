@@ -1,6 +1,6 @@
 ---
 id: 2887
-title: Rome, la vie de la cité. Apulée : « La Magie » 
+title: Rome, la vie de la cité. Apulée – « La Magie » 
 rubrique: Latin [4e]
 annee: 1997
 magazine: n°5-6 1er-15 novembre 1997

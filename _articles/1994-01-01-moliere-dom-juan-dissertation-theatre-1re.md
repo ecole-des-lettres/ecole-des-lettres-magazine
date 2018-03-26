@@ -1,6 +1,6 @@
 ---
 id: 1643
-title: Molière : « Dom Juan ». Dissertation  
+title: Molière – « Dom Juan ». Dissertation  
 rubrique: Théâtre [1re]
 annee: 1994
 magazine: n°2 1er octobre 1994
@@ -12,7 +12,7 @@ description:
   – qu’est-ce qu’un mythe ?
   – histoire du mythe de don Juan
   – le « Dom Juan » de Molière
-  Corrigé du devoir sur le « Dom Juan » de Molière :
+  Corrigé du devoir sur le « Dom Juan » de Molière – 
   1. Dom Juan et la négation du sens
   – la définition de l’homme absurde selon Camus
   – le personnage de don Juan dans la littérature

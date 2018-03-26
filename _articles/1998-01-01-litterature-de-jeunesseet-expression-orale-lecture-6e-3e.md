@@ -6,7 +6,7 @@ annee: 1998
 magazine: n°9 15 janvier 1999
 pages: 4
 description: 
-  Présentation orale d’un livre par un élève à ses camarades et guides de préparation sur les titres suivants :
+  Présentation orale d’un livre par un élève à ses camarades et guides de préparation sur les titres suivants – 
   1. « La Croix d’Adem », d’Alice Mead (cinquième-quatrième-troisième)
   2. « Virus LIV 3 ou la Mort des livres », de Christian Grenier (cinquième-quatrième)
   3. « Le Boucher sanglant », de Christian Poslaniec (sixième-cinquième)

@@ -1,6 +1,6 @@
 ---
 id: 3281
-title: Alain Corbin et Jean-Marie Mayeur : « La Barricade » ; Philippe Vigier : « 1848,
+title: Alain Corbin et Jean-Marie Mayeur – « La Barricade » ; Philippe Vigier – « 1848,
   les Français et la République »
 rubrique: Histoire
 annee: 1998

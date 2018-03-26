@@ -1,6 +1,6 @@
 ---
 id: 2425
-title: Bertrand Solet : « La Chasse aux enfants ». Lecture cursive
+title: Bertrand Solet – « La Chasse aux enfants ». Lecture cursive
 rubrique: Littérature de jeunesse et monde contemporain [4e-3e]
 annee: 1996
 magazine: n°4 1er novembre 1996

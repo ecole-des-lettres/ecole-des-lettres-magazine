@@ -1,6 +1,6 @@
 ---
 id: 11324
-title: « A History of Violence », de David Cronenberg : le thème du double
+title: « A History of Violence », de David Cronenberg – le thème du double
 rubrique: Cinéma
 annee: 2005
 magazine: n°5 décembre 2005

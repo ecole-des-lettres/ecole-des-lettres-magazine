@@ -1,6 +1,6 @@
 ---
 id: 5098
-title: « Virgile : l’Énéide »
+title: « Virgile – l’Énéide »
 rubrique: 
 annee: 1995
 magazine: n°4 15 novembre 1995
@@ -8,7 +8,7 @@ pages: 160 pages
 description: 
   1. Le portail du temple d’Apollon. Fonctions de l’ekphrasis dans la narration épique
   2. Narration et épopée dans le livre 6 de l’« Énéide »
-  3. Le personnage d’Énée : ses rapports aux autres et au monde
+  3. Le personnage d’Énée – ses rapports aux autres et au monde
 
   4. Temps, histoire et mythe dans le livre 6 de l’« Énéide »
   5. Cosmologie et eschatologie dans le discours d’Anchise
@@ -17,10 +17,10 @@ description:
   8. Dans l’atelier du traducteur
   9. Lire l’épopée latine. Pistes de poétique, de Livius Andronicus à Virgile
   Numéro conçu et coordonné par Anne Videau
-  Ont participé à ce numéro :
+  Ont participé à ce numéro – 
   Clara Auvray-Assayas, Jean-Pierre Chausserie-Laprée, Fernand Delarue, Marc Deramaix, Perrine Galand-Hallyn, Antoinette Novara, Joël Thomas et Anne Videau
 article_pdf: 5098.pdf
-magazine_special: Virgile : l’Énéide
+magazine_special: Virgile – l’Énéide
 revue: L’école des lettres des lycées
 disciplines:
 - langues anciennes

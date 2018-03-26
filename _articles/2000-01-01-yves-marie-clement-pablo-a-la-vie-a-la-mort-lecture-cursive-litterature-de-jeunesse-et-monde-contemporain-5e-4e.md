@@ -1,6 +1,6 @@
 ---
 id: 3856
-title: Yves-Marie Clément : « Pablo à la vie à la mort ». Lecture cursive
+title: Yves-Marie Clément – « Pablo à la vie à la mort ». Lecture cursive
 rubrique: Littérature de jeunesse et monde contemporain [5e-4e]
 annee: 2000
 magazine: n°11 15 mars 2001

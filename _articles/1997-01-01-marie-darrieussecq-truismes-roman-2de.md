@@ -1,6 +1,6 @@
 ---
 id: 2962
-title: Marie Darrieussecq : « Truismes »
+title: Marie Darrieussecq – « Truismes »
 rubrique: Roman [2de]
 annee: 1997
 magazine: n°8 1er janvier 1998

@@ -1,6 +1,6 @@
 ---
 id: 11467
-title:  Monique Charrier : professeur de français en zone d’éducation prioritaire
+title:  Monique Charrier – professeur de français en zone d’éducation prioritaire
 rubrique: Témoignage
 annee: 2006
 magazine: n°2 octobre 2006

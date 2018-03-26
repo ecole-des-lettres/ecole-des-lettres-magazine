@@ -1,6 +1,6 @@
 ---
 id: 12274
-title: C. G. Jung : « Psychologie et Philosophie. Conférences Zofingia (1896-1899)
+title: C. G. Jung – « Psychologie et Philosophie. Conférences Zofingia (1896-1899)
   »
 rubrique: Sciences humaines
 annee: 2013

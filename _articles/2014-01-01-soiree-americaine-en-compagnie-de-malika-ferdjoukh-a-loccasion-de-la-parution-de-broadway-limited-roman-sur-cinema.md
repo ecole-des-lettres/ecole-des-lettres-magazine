@@ -8,7 +8,7 @@ magazine: n°5
 pages: 4
 description: « Pourquoi pas Broadway ? » se dit un jour Malika Ferdjoukh en sortant
   d’une émission de radio. Dans le studio l’animatrice lui répétait sans cesse, comme
-  un leitmotiv : « Vous qui aimez les comédies musicales... » C’est ainsi qu’a germé
+  un leitmotiv – « Vous qui aimez les comédies musicales... » C’est ainsi qu’a germé
   l’idée de « Broadway Limited », un roman qui décrit le monde du spectacle dans un
   New York d’après la Seconde Guerre mondiale plus vrai que nature. En compagnie de
   son éditrice Geneviève Brisac, Malika Ferdjoukh a parlé de ce nouveau livre lundi

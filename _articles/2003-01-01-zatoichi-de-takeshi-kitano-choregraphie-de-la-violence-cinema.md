@@ -1,6 +1,6 @@
 ---
 id: 5251
-title: « Zatoichi », de Takeshi Kitano : chorégraphie de la violence
+title: « Zatoichi », de Takeshi Kitano – chorégraphie de la violence
 rubrique: Cinéma
 annee: 2003
 magazine: n°6 1er décembre 2003

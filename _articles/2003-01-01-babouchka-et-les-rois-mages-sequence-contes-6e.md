@@ -16,7 +16,7 @@ description: Lire un conte en sixième reste pour les élèves une séquence « 
   d’une dizaine d’heures permet à la fois de travailler le genre du conte prévu par
   les instructions officielles et d’introduire une autre partie importante du programme
   de la classe de sixième, les textes bibliques comme textes fondateurs, tout en assurant
-  une grande perméabilité entre l’oral et l’écrit. \nDéroulement de la séquence :
+  une grande perméabilité entre l’oral et l’écrit. \nDéroulement de la séquence – 
   sept séances.
 article_pdf: 5152.pdf
 revue: L’école des lettres des collèges

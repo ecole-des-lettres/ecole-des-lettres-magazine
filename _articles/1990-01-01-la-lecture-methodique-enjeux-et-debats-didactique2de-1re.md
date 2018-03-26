@@ -1,6 +1,6 @@
 ---
 id: 178
-title: La lecture méthodique : enjeux et débats 
+title: La lecture méthodique – enjeux et débats 
 rubrique: Didactique[2de-1re]
 annee: 1990
 magazine: n°11 1er avril 1991

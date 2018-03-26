@@ -1,6 +1,6 @@
 ---
 id: 11883
-title: Yasunari Kawabata : « Kyôto »  
+title: Yasunari Kawabata – « Kyôto »  
 rubrique: Lecture cursive [2de]
 annee: 2004
 magazine: n°5 janvier 2005

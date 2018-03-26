@@ -1,14 +1,14 @@
 ---
 id: 5287
 title: L’écrivain et le pouvoir politique. Une forme de discours argumentatif en
-  seconde : l’épidictique (l’éloge et le blâme). Groupement de textes (séquence)
+  seconde – l’épidictique (l’éloge et le blâme). Groupement de textes (séquence)
 rubrique: Argumentation [2de]
 annee: 2003
 magazine: 2004
 pages: 33
 description: 
-  Cet article propose un sujet de CAPES interne portant sur l’épidictique : « Dans le cadre de l’objet d’étude “l’éloge et le blâme” en classe de seconde, vous entreprendrez l’étude du groupement de textes ci-dessous. Vous définirez votre projet d’ensemble ainsi que ses modalités d’exploitation. »
-  Corpus :
+  Cet article propose un sujet de CAPES interne portant sur l’épidictique – « Dans le cadre de l’objet d’étude “l’éloge et le blâme” en classe de seconde, vous entreprendrez l’étude du groupement de textes ci-dessous. Vous définirez votre projet d’ensemble ainsi que ses modalités d’exploitation. »
+  Corpus – 
   – un extrait de la lettre à M. de Pomponne, de Mme de Sévigné
   – « Les Obsèques de la lionne », de La Fontaine
   – un extrait des « Mémoires d’outre-tombe », de Chateaubriand
@@ -16,7 +16,7 @@ description:
   – un extrait du discours prononcé par Malraux à l’occasion du transfert des cendres de Jean Moulin au Panthéon
   – un portrait de Louis XVI par Hyacinthe Rigaud
   – une caricature de De Gaulle par Moisan
-  Déroulement de la séquence : dix séances.
+  Déroulement de la séquence – dix séances.
 article_pdf: 5287.pdf
 revue: L’école des lettres des lycées
 auteurs:

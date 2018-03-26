@@ -1,6 +1,6 @@
 ---
 id: 4028
-title: Don Juan : de l’image au mythe
+title: Don Juan – de l’image au mythe
 rubrique: Étude de l’image [4e-3e]
 annee: 2000
 magazine: n°5 15 octobre 2000

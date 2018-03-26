@@ -1,6 +1,6 @@
 ---
 id: 5014
-title: Honoré de Balzac : une lecture de « Melmoth réconcilié »
+title: Honoré de Balzac – une lecture de « Melmoth réconcilié »
 rubrique: Nouvelle [2de-1re]
 annee: 2002
 magazine: n°13 juillet 2003

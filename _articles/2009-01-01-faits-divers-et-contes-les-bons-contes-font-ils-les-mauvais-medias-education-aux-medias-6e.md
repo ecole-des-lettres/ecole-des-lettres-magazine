@@ -1,6 +1,6 @@
 ---
 id: 12004
-title: Faits divers et contes : les bons contes font-ils les mauvais médias ?
+title: Faits divers et contes – les bons contes font-ils les mauvais médias ?
 rubrique: Éducation aux médias [6e]
 annee: 2009
 magazine: n°7-8 2008-2009

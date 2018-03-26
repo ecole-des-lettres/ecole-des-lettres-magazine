@@ -1,6 +1,6 @@
 ---
 id: 2257
-title: Chrétien de Troyes : le « Lancelot » en prose et l’évolution du roman arthurien
+title: Chrétien de Troyes – le « Lancelot » en prose et l’évolution du roman arthurien
   au XIIIe siècle
 rubrique: Littérature médiévale [Tle]
 annee: 1996
@@ -13,7 +13,7 @@ description: Jusqu’au XIIIe siècle, la prose était associée à l’idée de
   vernaculaire, en « roman », finit par donner la dénomination la plus générale d’un
   genre qui devait devenir multiforme, le roman.
 article_pdf: 2257.pdf
-magazine_special: Chrétien de Troyes : Lancelot ou le Chevalier de la charrette
+magazine_special: Chrétien de Troyes – Lancelot ou le Chevalier de la charrette
 revue: L’école des lettres des lycées
 auteurs:
 - Marie-Luce Chênerie

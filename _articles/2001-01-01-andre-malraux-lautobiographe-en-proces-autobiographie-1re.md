@@ -1,6 +1,6 @@
 ---
 id: 4475
-title: André Malraux : l’autobiographe en procès
+title: André Malraux – l’autobiographe en procès
 rubrique: Autobiographie [1re]
 annee: 2001
 magazine: n°6 15 novembre 2001

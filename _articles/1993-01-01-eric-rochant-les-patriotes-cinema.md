@@ -1,6 +1,6 @@
 ---
 id: 1248
-title: Éric Rochant : « Les Patriotes »
+title: Éric Rochant – « Les Patriotes »
 rubrique: Cinéma
 annee: 1993
 magazine: n°13-14 juillet 1994

@@ -1,6 +1,6 @@
 ---
 id: 1333
-title: Un mot difficile : « si » 
+title: Un mot difficile – « si » 
 rubrique: Étude de la langue [4e-3e]
 annee: 1993
 magazine: n°5 1er décembre 1993

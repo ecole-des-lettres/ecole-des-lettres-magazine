@@ -6,10 +6,10 @@ annee: 1994
 magazine: n°2 1er octobre 1994
 pages: 6
 description: 
-  – le discours destiné à convaincre : la présence physique des interlocuteurs et son rôle dans l’argumentation ; les moyens de convaincre autrui
+  – le discours destiné à convaincre – la présence physique des interlocuteurs et son rôle dans l’argumentation ; les moyens de convaincre autrui
   – la discussion
   – le monologue
-  Textes choisis : un extrait de « Au Bonheur des dames », d’Émile Zola, un extrait de « La Neige en deuil », d’Henri Troyat, donnés en fin d’article.
+  Textes choisis – un extrait de « Au Bonheur des dames », d’Émile Zola, un extrait de « La Neige en deuil », d’Henri Troyat, donnés en fin d’article.
 article_pdf: 1637.pdf
 revue: L’école des lettres des collèges
 auteurs:

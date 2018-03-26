@@ -1,6 +1,6 @@
 ---
 id: 4216
-title: Victor Hugo : réminiscence d’« Hernani », la perpétuelle bataille
+title: Victor Hugo – réminiscence d’« Hernani », la perpétuelle bataille
 rubrique: Théâtre [4e-classes préparatoires]
 annee: 2001
 magazine: n°11 15 mars 2002
@@ -11,7 +11,7 @@ description: Le 25 février 1830, la salle Richelieu fut le lieu de la bataille 
   ans après ce fameux événement, la Comédie-Française et « L’École des lettres » ont
   imaginé de réunir salle Richelieu près de deux cents élèves, provenant de l’ensemble
   du territoire national. Séparés en deux groupes, les Anciens et les Modernes confrontent
-  leurs arguments autour de trois thèmes : le héros, le parler et l’amour.
+  leurs arguments autour de trois thèmes – le héros, le parler et l’amour.
 article_pdf: 4216.pdf
 revue: L’école des lettres des lycées
 disciplines:

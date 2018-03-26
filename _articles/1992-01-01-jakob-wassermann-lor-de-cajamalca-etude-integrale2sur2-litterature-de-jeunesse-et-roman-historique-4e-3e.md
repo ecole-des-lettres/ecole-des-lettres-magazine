@@ -1,6 +1,6 @@
 ---
 id: 1017
-title: Jakob Wassermann : « L’Or de Cajamalca ». Étude intégrale(2/2) 
+title: Jakob Wassermann – « L’Or de Cajamalca ». Étude intégrale(2/2) 
 rubrique: Littérature de jeunesse et roman historique [4e-3e] 
 annee: 1992
 magazine: n°6 15 décembre 1992
@@ -8,7 +8,7 @@ pages: 12
 description: 
   5. Étude détaillée de la troisième partie (chapitres 12 à 16)
   – une trahison annoncée (lecture individuelle avec questionnaire-guide, trahison et fatalité)
-  – la relation des événements et le statut du narrateur (étude collective : les commentaires du narrateur ; le personnage de l’Inca)
+  – la relation des événements et le statut du narrateur (étude collective – les commentaires du narrateur ; le personnage de l’Inca)
   – études thématiques (l’or, ses représentations et ses significations ; les Blancs vus par les Indiens autour de deux textes sur la conquête de l’Amérique du Nord, l’un extrait de « De mémoire indienne », de Ushte et Erdoes, et l’autre de « Petit arbre », de Forrest Carter)
   6. Le procès et la condamnation de l’Inca (chapitres 17 à 20)
   – la préméditation

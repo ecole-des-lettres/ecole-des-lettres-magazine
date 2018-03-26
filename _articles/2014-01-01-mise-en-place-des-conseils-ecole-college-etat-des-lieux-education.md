@@ -1,6 +1,6 @@
 ---
 id: 12884
-title: Mise en place des conseils école-collège : état des lieux
+title: Mise en place des conseils école-collège – état des lieux
 rubrique: Éducation
 annee: 2014
 magazine: août 2014

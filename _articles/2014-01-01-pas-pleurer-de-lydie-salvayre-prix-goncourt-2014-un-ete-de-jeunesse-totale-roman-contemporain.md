@@ -1,12 +1,12 @@
 ---
 id: 12934
-title: « Pas pleurer », de Lydie Salvayre, prix Goncourt 2014 : un été de jeunesse
+title: « Pas pleurer », de Lydie Salvayre, prix Goncourt 2014 – un été de jeunesse
   totale
 rubrique: Roman contemporain
 annee: 2014
 magazine: octobre 2014
 pages: 2
-description: Deux voix se croisent : celle de Montsé, une « mauvaise pauvre », mère
+description: Deux voix se croisent – celle de Montsé, une « mauvaise pauvre », mère
   de la narratrice, et celle de Georges Bernanos, installé à Palma de Majorque en
   cet été 1936. Pour l’une, ce sera l’été du plus grand bonheur, pour l’autre, celui
   du désespoir le plus profond. Lidia, la narratrice, recueille le récit de sa mère

@@ -1,6 +1,6 @@
 ---
 id: 1578
-title: Franz Kafka : « Le Château », fantasmagorie bureaucratique
+title: Franz Kafka – « Le Château », fantasmagorie bureaucratique
 rubrique: Roman [agrégation]
 annee: 1994
 magazine: n°13 15 juin 1995

@@ -1,6 +1,6 @@
 ---
 id: 2489
-title: André Malraux : « L’Espoir ». Commentaire composé et lecture méthodique 
+title: André Malraux – « L’Espoir ». Commentaire composé et lecture méthodique 
 rubrique: Roman [1re]
 annee: 1996
 magazine: n°6 15 décembre 1996

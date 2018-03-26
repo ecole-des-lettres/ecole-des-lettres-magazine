@@ -1,6 +1,6 @@
 ---
 id: 12071
-title: Au détour des jardins... : parcours d’écriture à travers la peinture et la
+title: Au détour des jardins... – parcours d’écriture à travers la peinture et la
   littérature 
 rubrique: Histoire des arts [4e] 
 annee: 2010

@@ -1,6 +1,6 @@
 ---
 id: 12516
-title: Laurent Mauvignier : « Ce que j’appelle l’oubli »
+title: Laurent Mauvignier – « Ce que j’appelle l’oubli »
 rubrique: Roman contemporain
 annee: 2011
 magazine: mars 2011

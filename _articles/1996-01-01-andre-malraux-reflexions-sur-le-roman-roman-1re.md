@@ -1,6 +1,6 @@
 ---
 id: 2291
-title: André Malraux : réflexions sur le roman
+title: André Malraux – réflexions sur le roman
 rubrique: Roman [1re]
 annee: 1996
 magazine: n°12 15 avril 1997

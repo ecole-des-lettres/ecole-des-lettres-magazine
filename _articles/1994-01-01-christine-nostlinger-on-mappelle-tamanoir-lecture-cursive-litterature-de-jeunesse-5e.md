@@ -1,6 +1,6 @@
 ---
 id: 1662
-title: Christine Nöstlinger : « On m’appelle Tamanoir ». Lecture cursive 
+title: Christine Nöstlinger – « On m’appelle Tamanoir ». Lecture cursive 
 rubrique: Littérature de jeunesse [5e]
 annee: 1994
 magazine: n°3 15 octobre 1994

@@ -1,6 +1,6 @@
 ---
 id: 2061
-title: Charles Juliet : « Lambeaux »
+title: Charles Juliet – « Lambeaux »
 rubrique: Journal intime
 annee: 1995
 magazine: n°5 15 décembre 1995

@@ -6,7 +6,7 @@ annee: 1991
 magazine: n°10 15 avril 1992
 pages: 8
 description: 
-  L’inspiration du poète au XVIe siècle est étudiée à partir d’un extrait de l’« Abrégé de l’art poétique français », de Ronsard :
+  L’inspiration du poète au XVIe siècle est étudiée à partir d’un extrait de l’« Abrégé de l’art poétique français », de Ronsard – 
   1. Première injonction
   – la poésie divine des anciens Grecs
   – la poésie humaine des Latins

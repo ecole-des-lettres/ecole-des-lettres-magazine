@@ -5,7 +5,7 @@ rubrique: Étude de la langue [6e-3e]
 annee: 2008
 magazine: n°2 2008-2009
 pages: 6
-description: L’idée à l’origine de cet exercice d’écriture est simple : on teste
+description: L’idée à l’origine de cet exercice d’écriture est simple – on teste
   le pouvoir de désignation d’un verbe à l’infinitif au choix, de préférence un verbe
   concret dont les effets de sens suggèrent diverses situations, on fait un arrêt
   sur image pour donner présence et vie à quelques lieux et moments privilégiés, puis

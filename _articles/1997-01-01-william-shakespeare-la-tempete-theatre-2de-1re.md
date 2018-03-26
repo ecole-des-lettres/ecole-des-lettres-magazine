@@ -1,6 +1,6 @@
 ---
 id: 2695
-title: William Shakespeare : « La Tempête »
+title: William Shakespeare – « La Tempête »
 rubrique: Théâtre [2de-1re]
 annee: 1997
 magazine: n°11 15 mars 1998
@@ -18,7 +18,7 @@ description:
   – le témoignage d’une actrice, Véronique Vella
   – l’accueil des critiques
 article_pdf: 2695.pdf
-magazine_special: Théâtre : Corneille, Molière, Shakespeare, Strindberg
+magazine_special: Théâtre – Corneille, Molière, Shakespeare, Strindberg
 revue: L’école des lettres des lycées
 auteurs:
 - Alain Beretta

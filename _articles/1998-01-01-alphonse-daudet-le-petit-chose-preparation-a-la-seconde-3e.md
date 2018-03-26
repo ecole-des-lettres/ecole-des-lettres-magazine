@@ -1,6 +1,6 @@
 ---
 id: 3247
-title: Alphonse Daudet : « Le Petit Chose » 
+title: Alphonse Daudet – « Le Petit Chose » 
 rubrique: Préparation à la seconde [3e]
 annee: 1998
 magazine: n°4 1er octobre 1998

@@ -1,6 +1,6 @@
 ---
 id: 11708
-title: Colas Gutman : « Mon frère est un singe ». Lecture cursive 
+title: Colas Gutman – « Mon frère est un singe ». Lecture cursive 
 rubrique: Littérature de jeunesse [6e-5e]
 annee: 2006
 magazine: 2007

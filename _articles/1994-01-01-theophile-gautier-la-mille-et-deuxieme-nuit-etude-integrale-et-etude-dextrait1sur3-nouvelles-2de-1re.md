@@ -1,6 +1,6 @@
 ---
 id: 1472
-title: Théophile Gautier : « La Mille et Deuxième Nuit ». Étude intégrale et étude
+title: Théophile Gautier – « La Mille et Deuxième Nuit ». Étude intégrale et étude
   d’extrait (1/3) 
 rubrique: Nouvelles [2de-1re]
 annee: 1994
@@ -10,7 +10,7 @@ description:
   1. « Le Chevalier double », une nouvelle de la dualité
   – redoublements et dédoublements
   – un univers romanesque éclaté
-  – lecture méthodique d’un extrait : un épisode épique ; effets de miroir et signification symbolique du combat
+  – lecture méthodique d’un extrait – un épisode épique ; effets de miroir et signification symbolique du combat
 article_pdf: 1472.pdf
 revue: L’école des lettres des lycées
 auteurs:

@@ -1,7 +1,7 @@
 ---
 id: 3134
 title: De l’improvisation à l’organisation
-rubrique: Honoré de Balzac : « Maître Cornélius »
+rubrique: Honoré de Balzac – « Maître Cornélius »
 annee: 1998
 magazine: n°13 1er mai 1999
 pages: 8

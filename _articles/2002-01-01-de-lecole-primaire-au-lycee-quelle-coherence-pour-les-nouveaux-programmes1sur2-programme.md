@@ -7,7 +7,7 @@ magazine: n°1 juillet-septembre 2002
 pages: 11
 description: 
   1. Bref retour sur les programmes du collège
-  – le discours : notion fédératrice
+  – le discours – notion fédératrice
   – pratiques discursives et genres
   2. Les nouveaux programmes de l’école primaire
   – au cycle des apprentissages fondamentaux

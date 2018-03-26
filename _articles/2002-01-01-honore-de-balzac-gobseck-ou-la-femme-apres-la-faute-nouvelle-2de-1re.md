@@ -1,6 +1,6 @@
 ---
 id: 5010
-title: Honoré de Balzac : « Gobseck » ou la femme après la faute
+title: Honoré de Balzac – « Gobseck » ou la femme après la faute
 rubrique: Nouvelle [2de-1re]
 annee: 2002
 magazine: n°13 juillet 2003

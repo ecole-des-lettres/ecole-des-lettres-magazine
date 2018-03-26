@@ -11,7 +11,7 @@ description:
   3. L’école et les « droits imprescriptibles du lecteur »
   4. Le mythe de l’élève-auteur
 article_pdf: 1095.pdf
-magazine_special: Français : les enjeux de la didactique du français
+magazine_special: Français – les enjeux de la didactique du français
 revue: L’école des lettres des lycées
 auteurs:
 - Jean-Claude Larrat

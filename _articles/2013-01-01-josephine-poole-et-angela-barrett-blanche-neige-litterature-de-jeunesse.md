@@ -1,6 +1,6 @@
 ---
 id: 12227
-title: Josephine Poole et Angela Barrett : « Blanche-Neige »
+title: Josephine Poole et Angela Barrett – « Blanche-Neige »
 rubrique: Littérature de jeunesse
 annee: 2013
 magazine: octobre 2013

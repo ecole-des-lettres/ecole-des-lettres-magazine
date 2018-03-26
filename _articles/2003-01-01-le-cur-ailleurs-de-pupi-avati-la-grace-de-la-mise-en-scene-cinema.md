@@ -1,6 +1,6 @@
 ---
 id: 5271
-title: « Le Cœur ailleurs », de Pupi Avati : la grâce de la mise en scène
+title: « Le Cœur ailleurs », de Pupi Avati – la grâce de la mise en scène
 rubrique: Cinéma
 annee: 2003
 magazine: n°7 1er janvier 2004

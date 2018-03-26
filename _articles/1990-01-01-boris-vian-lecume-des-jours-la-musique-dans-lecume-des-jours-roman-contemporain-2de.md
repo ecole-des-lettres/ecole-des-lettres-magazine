@@ -1,6 +1,6 @@
 ---
 id: 264
-title: Boris Vian : « L’Écume des jours ». La musique dans « L’Écume des jours » 
+title: Boris Vian – « L’Écume des jours ». La musique dans « L’Écume des jours » 
 rubrique: Roman contemporain [2de]
 annee: 1990
 magazine: n°2 1er octobre 1990

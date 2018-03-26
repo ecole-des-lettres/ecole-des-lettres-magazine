@@ -1,6 +1,6 @@
 ---
 id: 11489
-title: « Jacquou le Croquant », de Laurent Boutonnat : une épopée à la française 
+title: « Jacquou le Croquant », de Laurent Boutonnat – une épopée à la française 
 rubrique: Étude de l’image et récit du XIXe siècle [4e]
 annee: 2006
 magazine: n°4 décembre 2006

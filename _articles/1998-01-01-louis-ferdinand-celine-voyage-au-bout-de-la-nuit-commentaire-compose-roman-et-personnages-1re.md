@@ -1,6 +1,6 @@
 ---
 id: 3086
-title: Louis-Ferdinand Céline : « Voyage au bout de la nuit ». Commentaire composé 
+title: Louis-Ferdinand Céline – « Voyage au bout de la nuit ». Commentaire composé 
 rubrique: Roman et personnages [1re]
 annee: 1998
 magazine: n°12 1er avril 1999

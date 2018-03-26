@@ -1,6 +1,6 @@
 ---
 id: 4068
-title: Italo Calvino : « Le Baron perché »
+title: Italo Calvino – « Le Baron perché »
 rubrique: Préparation à la seconde [3e]
 annee: 2000
 magazine: n°7 1er décembre 2000

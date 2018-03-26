@@ -1,6 +1,6 @@
 ---
 id: 12527
-title: Pierre Jourde : « C’est la culture qu’on assassine »
+title: Pierre Jourde – « C’est la culture qu’on assassine »
 rubrique: Essai
 annee: 2011
 magazine: mars 2011

@@ -1,7 +1,7 @@
 ---
 id: 5253
 title: « Souviens-toi de moi », de Gabriele Muccino et « Le bonheur ne coûte rien »,
-  de Mimmo Calopresti : le nouveau cinéma italien
+  de Mimmo Calopresti – le nouveau cinéma italien
 rubrique: Cinéma
 annee: 2003
 magazine: n°6 1er décembre 2003

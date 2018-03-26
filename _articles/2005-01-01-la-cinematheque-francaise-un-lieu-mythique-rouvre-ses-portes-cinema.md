@@ -1,6 +1,6 @@
 ---
 id: 11745
-title: La Cinémathèque française : un lieu mythique rouvre ses portes
+title: La Cinémathèque française – un lieu mythique rouvre ses portes
 rubrique: Cinéma
 annee: 2005
 magazine: octobre 2005

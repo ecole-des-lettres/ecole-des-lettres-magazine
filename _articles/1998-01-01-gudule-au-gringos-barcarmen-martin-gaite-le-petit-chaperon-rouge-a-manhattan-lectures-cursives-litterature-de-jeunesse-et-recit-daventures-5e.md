@@ -1,6 +1,6 @@
 ---
 id: 3320
-title: Gudule : « Au Gringo’s Bar » ;Carmen Martin Gaite : « Le Petit Chaperon rouge
+title: Gudule – « Au Gringo’s Bar » ;Carmen Martin Gaite – « Le Petit Chaperon rouge
   à Manhattan ». Lectures cursives 
 rubrique: Littérature de jeunesse et récit d’aventures [5e]
 annee: 1998

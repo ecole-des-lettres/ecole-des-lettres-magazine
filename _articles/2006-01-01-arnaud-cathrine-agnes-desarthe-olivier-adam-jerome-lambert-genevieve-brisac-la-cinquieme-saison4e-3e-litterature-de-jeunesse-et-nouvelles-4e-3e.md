@@ -1,6 +1,6 @@
 ---
 id: 11468
-title: Arnaud Cathrine, Agnès Desarthe, Olivier Adam, Jérôme Lambert, Geneviève Brisac :
+title: Arnaud Cathrine, Agnès Desarthe, Olivier Adam, Jérôme Lambert, Geneviève Brisac – 
   « La Cinquième Saison »(4e-3e)
 rubrique: Littérature de jeunesse et nouvelles [4e-3e]
 annee: 2006

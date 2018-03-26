@@ -1,6 +1,6 @@
 ---
 id: 12041
-title: Olivier Adam : « Ni vu ni connu ». Lecture cursive 
+title: Olivier Adam – « Ni vu ni connu ». Lecture cursive 
 rubrique: Littérature de jeunesse [4e-3e]
 annee: 2010
 magazine: n°1 2010-2011

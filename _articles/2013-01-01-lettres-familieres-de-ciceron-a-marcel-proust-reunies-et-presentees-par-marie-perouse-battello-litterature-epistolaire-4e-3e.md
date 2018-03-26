@@ -10,7 +10,7 @@ description: Avec ce recueil de lettres familières, Marie Pérouse-Battello pro
   une anthologie de la correspondance privée rigoureusement composée et qui pourra
   se révéler utile dans bien des progressions didactiques pour le cours de français,
   que ce soit au collège ou au lycée. La préface précise l’orientation du recueil
-  : il s’agit moins d’envisager la lettre dans une perspective formelle que sous l’angle
+  – il s’agit moins d’envisager la lettre dans une perspective formelle que sous l’angle
   de sa dimension autobiographique. La lettre fictive est donc ici écartée au profit
   de la lettre d’auteur qui peut permettre d’« entrer dans l’univers de l’écrivain
   ». Et il est vrai que le recueil offre de piquantes occasions d’aborder les œuvres

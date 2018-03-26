@@ -1,6 +1,6 @@
 ---
 id: 4524
-title: Joëlle Pagès-Pindon : « Marguerite Duras »
+title: Joëlle Pagès-Pindon – « Marguerite Duras »
 rubrique: 
 annee: 2001
 magazine: n°7 1er décembre 2001

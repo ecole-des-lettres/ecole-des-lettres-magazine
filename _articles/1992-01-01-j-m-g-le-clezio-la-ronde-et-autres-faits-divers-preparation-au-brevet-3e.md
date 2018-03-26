@@ -1,6 +1,6 @@
 ---
 id: 1009
-title: J. M. G. Le Clézio : « La Ronde et autres faits divers » 
+title: J. M. G. Le Clézio – « La Ronde et autres faits divers » 
 rubrique: Préparation au brevet [3e]
 annee: 1992
 magazine: n°5 1er décembre 1992

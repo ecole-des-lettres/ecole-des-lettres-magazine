@@ -1,6 +1,6 @@
 ---
 id: 2877
-title: Albert Camus : « La Chute ». Le symbole du cercle
+title: Albert Camus – « La Chute ». Le symbole du cercle
 rubrique: Roman contemporain [1re-Tle]
 annee: 1997
 magazine: n°5 1er novembre 1997
@@ -11,7 +11,7 @@ description:
   – le « royaume » et ses symboles
   – l’inversion de ces symboles au temps de l’« exil »
   – le cercle et la construction d’un univers moral
-  2. Le cadre spatio-temporel de « La Chute » : une construction éthique
+  2. Le cadre spatio-temporel de « La Chute » – une construction éthique
   – le cercle spatial dans « La Chute »
   – le cercle temporel dans « La Chute »
   3. Le cercle du discours et des mots

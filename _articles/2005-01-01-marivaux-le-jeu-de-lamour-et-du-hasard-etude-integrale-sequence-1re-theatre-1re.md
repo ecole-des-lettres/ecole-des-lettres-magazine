@@ -1,6 +1,6 @@
 ---
 id: 11357
-title: Marivaux : « Le jeu de l’amour et du hasard ». Étude intégrale (séquence [1re]
+title: Marivaux – « Le jeu de l’amour et du hasard ». Étude intégrale (séquence [1re]
   )
 rubrique: Théâtre [1re]
 annee: 2005

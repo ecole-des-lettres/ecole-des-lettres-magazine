@@ -8,7 +8,7 @@ pages: 4
 description: En Angleterre, l’étude de l’Antiquité classique passe aussi par des cours
   d’histoire ancienne et de civilisation…
 article_pdf: 1162.pdf
-magazine_special: Langues anciennes : didactique
+magazine_special: Langues anciennes – didactique
 revue: L’école des lettres des lycées
 auteurs:
 - James Roy

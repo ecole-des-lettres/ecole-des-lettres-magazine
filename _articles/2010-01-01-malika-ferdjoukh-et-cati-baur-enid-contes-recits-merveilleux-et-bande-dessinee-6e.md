@@ -1,6 +1,6 @@
 ---
 id: 12093
-title: Malika Ferdjoukh et Cati Baur : « Enid » 
+title: Malika Ferdjoukh et Cati Baur – « Enid » 
 rubrique: Contes, récits merveilleux et bande dessinée [6e]
 annee: 2010
 magazine: n°7-8 2010-2011

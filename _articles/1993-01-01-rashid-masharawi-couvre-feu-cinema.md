@@ -1,6 +1,6 @@
 ---
 id: 1249
-title: Rashid Masharawi : « Couvre-feu »
+title: Rashid Masharawi – « Couvre-feu »
 rubrique: Cinéma
 annee: 1993
 magazine: n°13-14 juillet 1994

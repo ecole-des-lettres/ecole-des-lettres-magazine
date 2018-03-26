@@ -1,6 +1,6 @@
 ---
 id: 12112
-title: Le concours des Dix mots 2011-2012 : « Dis-moi dix mots qui te racontent »
+title: Le concours des Dix mots 2011-2012 – « Dis-moi dix mots qui te racontent »
 rubrique: Concours des dix mots
 annee: 2011
 magazine: n°1 2011-2012

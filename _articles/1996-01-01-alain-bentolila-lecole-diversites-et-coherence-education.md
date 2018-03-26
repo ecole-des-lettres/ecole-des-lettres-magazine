@@ -1,6 +1,6 @@
 ---
 id: 2493
-title: Alain Bentolila : « L’École : diversités et cohérence »
+title: Alain Bentolila – « L’École – diversités et cohérence »
 rubrique: Éducation
 annee: 1996
 magazine: n°6 15 décembre 1996

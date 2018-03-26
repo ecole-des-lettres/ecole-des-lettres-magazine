@@ -6,7 +6,7 @@ annee: 2013
 magazine: octobre 2013
 pages: 4
 description: Il est des personnages littéraires qui parviennent à acquérir une telle
-  notoriété qu’on peut les considérer comme réels : ainsi pour Hamlet, Harpagon, Goriot,
+  notoriété qu’on peut les considérer comme réels – ainsi pour Hamlet, Harpagon, Goriot,
   Bardamu et… Swann, l’un des personnages du monumental ouvrage de Proust, « À la
   recherche du temps perdu ». Si ces héros littéraires ne vieillissent pas, les œuvres
   où ils apparaissent sont soumises, elles, à l’écoulement du temps et permettent

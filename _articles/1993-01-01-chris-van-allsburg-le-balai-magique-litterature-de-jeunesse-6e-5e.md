@@ -1,6 +1,6 @@
 ---
 id: 1117
-title: Chris Van Allsburg : « Le Balai magique » 
+title: Chris Van Allsburg – « Le Balai magique » 
 rubrique: Littérature de jeunesse [6e-5e]
 annee: 1993
 magazine: n°1 7 septembre 1993

@@ -7,7 +7,7 @@ magazine: n°7 1er décembre 1999
 pages: 10
 description: Instructions officielles.
 article_pdf: 3740.pdf
-magazine_special: Français (seconde) : nouveaux programmes de 1999 / 2000
+magazine_special: Français (seconde) – nouveaux programmes de 1999 / 2000
 revue: L’école des lettres des lycées
 disciplines:
 - lettres

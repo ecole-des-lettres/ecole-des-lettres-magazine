@@ -1,6 +1,6 @@
 ---
 id: 3319
-title: Francis Ponge : « 14 Juillet ». Commentaire de texte
+title: Francis Ponge – « 14 Juillet ». Commentaire de texte
 rubrique: Poésie et argumentation [2de-1re]
 annee: 1998
 magazine: n°7 1er décembre 1998

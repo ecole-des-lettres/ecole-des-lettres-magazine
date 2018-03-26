@@ -1,6 +1,6 @@
 ---
 id: 240
-title: Roman contemporain  [3e]/ Yehuda Nir : « Une enfance perdue »
+title: Roman contemporain  [3e]/ Yehuda Nir – « Une enfance perdue »
 rubrique: 
 annee: 1990
 magazine: n°14 15 juillet 1991

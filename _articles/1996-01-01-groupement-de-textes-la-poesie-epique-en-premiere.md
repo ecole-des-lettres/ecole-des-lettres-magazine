@@ -6,7 +6,7 @@ annee: 1996
 magazine: n°1 1er septembre 1996
 pages: 23
 description: 
-  Proposition d’étude de la poésie épique avec une classe de première, à partir du groupement de textes suivant :
+  Proposition d’étude de la poésie épique avec une classe de première, à partir du groupement de textes suivant – 
   – Agrippa d’Aubigné, « Ce que le monde a veu… », in « Les Tragiques », livre VII
   – Racine, « Andromaque », acte 3, scène 8
   – Hugo, « La vision d’où est sorti ce livre », in « La Légende des siècles »

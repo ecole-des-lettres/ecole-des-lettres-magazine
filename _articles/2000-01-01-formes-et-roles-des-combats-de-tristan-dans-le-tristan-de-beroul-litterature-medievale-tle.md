@@ -13,8 +13,8 @@ description:
   – les combats défensifs contre les félons
   2. Un chevalier privé de combats
   – une cause que Tristan ne peut défendre par les armes
-  – en filigrane : un chevalier courtois
-  – le destin de l’homme blessé : triste Tristan
+  – en filigrane – un chevalier courtois
+  – le destin de l’homme blessé – triste Tristan
 article_pdf: 3929.pdf
 revue: L’école des lettres des lycées
 auteurs:

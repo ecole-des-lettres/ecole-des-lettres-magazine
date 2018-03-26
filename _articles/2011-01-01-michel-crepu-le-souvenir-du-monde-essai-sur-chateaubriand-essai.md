@@ -1,6 +1,6 @@
 ---
 id: 12471
-title: Michel Crépu : « Le Souvenir du monde. Essai sur Chateaubriand »
+title: Michel Crépu – « Le Souvenir du monde. Essai sur Chateaubriand »
 rubrique: Essai
 annee: 2011
 magazine: septembre 2011

@@ -1,6 +1,6 @@
 ---
 id: 3580
-title: Victor Hugo : « Les Châtiments », « Chanson »
+title: Victor Hugo – « Les Châtiments », « Chanson »
 rubrique: Poésie [1re]
 annee: 1999
 magazine: n°2 août 1999

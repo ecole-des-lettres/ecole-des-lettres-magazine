@@ -11,7 +11,7 @@ description: Le rapport que les grands écrivains ont avec la terre ne relève p
   dans ce recueil une rêverie politique et une rêverie érotique toutes deux sous-tendues
   par une imagination de la terre.
 article_pdf: 2724.pdf
-magazine_special: Senghor : Éthiopiques
+magazine_special: Senghor – Éthiopiques
 revue: L’école des lettres des lycées
 auteurs:
 - Marie Miguet-Ollagnier

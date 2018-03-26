@@ -1,3 +1,3 @@
 ---
-title: 'Anthologie : La Dimension fantastique'
+title: 'Anthologie – La Dimension fantastique'
 ---

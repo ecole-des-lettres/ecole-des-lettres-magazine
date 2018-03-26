@@ -1,6 +1,6 @@
 ---
 id: 11709
-title: Héléna Villovitch : « Mona Lisa et moi ». Lecture cursive 
+title: Héléna Villovitch – « Mona Lisa et moi ». Lecture cursive 
 rubrique: Littérature de jeunesse et humour [6e-5e]
 annee: 2006
 magazine: 2007

@@ -1,6 +1,6 @@
 ---
 id: 11315
-title: « Je ne suis pas là pour être aimé », de Stéphane Brizé : portrait d’un psycho-rigide
+title: « Je ne suis pas là pour être aimé », de Stéphane Brizé – portrait d’un psycho-rigide
 rubrique: Cinéma
 annee: 2005
 magazine: n°4 1er novembre 2005

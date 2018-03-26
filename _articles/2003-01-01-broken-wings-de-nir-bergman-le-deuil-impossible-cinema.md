@@ -1,6 +1,6 @@
 ---
 id: 5310
-title: « Broken Wings », de Nir Bergman : le deuil impossible
+title: « Broken Wings », de Nir Bergman – le deuil impossible
 rubrique: Cinéma
 annee: 2003
 magazine: n°11 1er mai 2004

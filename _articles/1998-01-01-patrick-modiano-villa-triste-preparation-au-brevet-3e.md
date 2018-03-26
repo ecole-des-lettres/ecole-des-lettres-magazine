@@ -1,6 +1,6 @@
 ---
 id: 3388
-title: Patrick Modiano : « Villa triste » 
+title: Patrick Modiano – « Villa triste » 
 rubrique: Préparation au brevet [3e]
 annee: 1998
 magazine: n°9 15 janvier 1999

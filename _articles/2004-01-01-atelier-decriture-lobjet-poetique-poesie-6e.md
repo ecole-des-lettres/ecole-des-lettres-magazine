@@ -1,6 +1,6 @@
 ---
 id: 11108
-title: Atelier d’écriture : l’objet poétique
+title: Atelier d’écriture – l’objet poétique
 rubrique: Poésie [6e]
 annee: 2004
 magazine: n°6 février 2005

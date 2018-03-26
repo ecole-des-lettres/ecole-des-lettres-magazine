@@ -1,6 +1,6 @@
 ---
 id: 5293
-title: « Greenfingers », de Joel Hershman : le paradis retrouvé
+title: « Greenfingers », de Joel Hershman – le paradis retrouvé
 rubrique: Cinéma
 annee: 2003
 magazine: n°9 15 mars 2004

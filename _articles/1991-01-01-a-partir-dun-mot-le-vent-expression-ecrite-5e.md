@@ -1,12 +1,12 @@
 ---
 id: 544
-title: À partir d’un mot : le « vent » 
+title: À partir d’un mot – le « vent » 
 rubrique: Expression écrite [5e]
 annee: 1991
 magazine: n°12-13 1er juin 1992
 pages: 4
 description: 
-  Exercice d’expression écrite à partir du mot « vent » en trois phases successives : recherche et enrichissement au niveau lexical, réflexion à partir de quelques textes, création centrée essentiellement sur la description…
+  Exercice d’expression écrite à partir du mot « vent » en trois phases successives – recherche et enrichissement au niveau lexical, réflexion à partir de quelques textes, création centrée essentiellement sur la description…
   – Définition du mot
   – Un mot riche en synonymes
   – Expressions et proverbes

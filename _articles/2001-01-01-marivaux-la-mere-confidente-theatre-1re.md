@@ -1,6 +1,6 @@
 ---
 id: 4187
-title: Marivaux : « La Mère confidente »
+title: Marivaux – « La Mère confidente »
 rubrique: Théâtre [1re]
 annee: 2001
 magazine: n°1 juillet 2001

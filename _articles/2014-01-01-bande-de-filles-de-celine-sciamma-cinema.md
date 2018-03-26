@@ -6,7 +6,7 @@ annee: 2014
 magazine: novembre 2014
 pages: 6
 description: Le titre est trompeur. Il y a bien une bande de filles que filme Céline
-  Sciamma : elle est constituée par trois adolescentes, Lady qui en est le centre,
+  Sciamma – elle est constituée par trois adolescentes, Lady qui en est le centre,
   Fily et Adiatou. Lorsque Marieme se retrouve seule, désœuvrée, en butte contre l’institution
   scolaire, elle se décide à les rejoindre. En même temps qu’un nouveau prénom (Vic),
   elle s’efforce d’acquérir confiance en soi, agressivité, aisance, féminité. Lady

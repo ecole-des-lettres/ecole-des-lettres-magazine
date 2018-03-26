@@ -1,13 +1,13 @@
 ---
 id: 12286
 title: Pièces de théâtre, romans, contes, albums sélectionnés par le ministère de
-  l’Éducation nationale : tous les titres de l’école des loisirs
+  l’Éducation nationale – tous les titres de l’école des loisirs
 rubrique: Lectures pour les collégiens
 annee: 2012
 magazine: n°2 2012-2013
 pages: 96
 description: 
-  – La littérature de jeunesse revient dans les programmes : un événement attendu, par Norbert Czarny
+  – La littérature de jeunesse revient dans les programmes – un événement attendu, par Norbert Czarny
   – « Lectures pour les collégiens »
   Entretien avec Brigitte Réauté (Bureau des collèges, Direction générale de l’enseignement scolaire)
   – Le théâtre contemporain au collège. Enfin !

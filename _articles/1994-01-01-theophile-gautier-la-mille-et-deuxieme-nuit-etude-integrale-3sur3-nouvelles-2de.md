@@ -1,6 +1,6 @@
 ---
 id: 1675
-title: Théophile Gautier : « La Mille et Deuxième Nuit ». Étude intégrale (3/3)
+title: Théophile Gautier – « La Mille et Deuxième Nuit ». Étude intégrale (3/3)
 rubrique: Nouvelles [2de]
 annee: 1994
 magazine: n°3 1er novembre 1994

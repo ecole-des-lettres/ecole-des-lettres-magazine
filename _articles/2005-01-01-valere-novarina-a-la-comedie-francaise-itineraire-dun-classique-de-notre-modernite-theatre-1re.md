@@ -1,6 +1,6 @@
 ---
 id: 11322
-title: Valère Novarina à la Comédie-Française : itinéraire d’un « classique de notre
+title: Valère Novarina à la Comédie-Française – itinéraire d’un « classique de notre
   modernité »
 rubrique: Théâtre [1re]
 annee: 2005

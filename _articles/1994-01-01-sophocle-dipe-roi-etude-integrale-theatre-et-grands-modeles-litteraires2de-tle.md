@@ -1,19 +1,19 @@
 ---
 id: 1474
-title: Sophocle : « Œdipe Roi ». Étude intégrale 
+title: Sophocle – « Œdipe Roi ». Étude intégrale 
 rubrique: Théâtre et grands modèles littéraires[2de-Tle]
 annee: 1994
 magazine: n°1 15 septembre 1994
 pages: 15
 description: 
   Du héros mythique au héros tragique…
-  1. Du mythe à la tragédie : l’évolution de la pensée grecque
+  1. Du mythe à la tragédie – l’évolution de la pensée grecque
   2. La structure de la pièce
   3. Le héros triomphant
   – la figure épique et mythique
-  – la figure royale : le « turannos »
-  – les dérives du pouvoir tyrannique : l’« hybris »
-  4. Le héros tragique : un homme divisé
+  – la figure royale – le « turannos »
+  – les dérives du pouvoir tyrannique – l’« hybris »
+  4. Le héros tragique – un homme divisé
   – l’ironie tragique
   – le revirement d’Œdipe face à Tirésias
   – vérité humaine et vérité divine

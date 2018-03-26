@@ -1,6 +1,6 @@
 ---
 id: 5295
-title: « Anatomie de l’enfer », de Catherine Breillat : une métaphysique de la femme
+title: « Anatomie de l’enfer », de Catherine Breillat – une métaphysique de la femme
 rubrique: Cinéma
 annee: 2003
 magazine: n°9 15 mars 2004

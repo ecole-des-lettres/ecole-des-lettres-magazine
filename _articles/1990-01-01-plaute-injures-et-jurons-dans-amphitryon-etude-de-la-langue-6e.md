@@ -1,6 +1,6 @@
 ---
 id: 190
-title: Plaute : injures et jurons dans « Amphitryon » 
+title: Plaute – injures et jurons dans « Amphitryon » 
 rubrique: Étude de la langue [6e]
 annee: 1990
 magazine: n°11 1er mai 1991

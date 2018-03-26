@@ -1,6 +1,6 @@
 ---
 id: 12257
-title: Walter Isaacson : « Steve Jobs »
+title: Walter Isaacson – « Steve Jobs »
 rubrique: Sciences humaines
 annee: 2013
 magazine: août 2013

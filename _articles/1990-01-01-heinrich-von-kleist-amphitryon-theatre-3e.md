@@ -1,6 +1,6 @@
 ---
 id: 192
-title: Heinrich von Kleist : « Amphitryon » 
+title: Heinrich von Kleist – « Amphitryon » 
 rubrique: Théâtre [3e]
 annee: 1990
 magazine: n°11 1er mai 1991

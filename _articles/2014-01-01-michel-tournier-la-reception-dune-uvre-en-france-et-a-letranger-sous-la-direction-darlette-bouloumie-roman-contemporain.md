@@ -1,6 +1,6 @@
 ---
 id: 12630
-title: Michel Tournier : « La Réception d’une œuvre en France et à l’étranger »,
+title: Michel Tournier – « La Réception d’une œuvre en France et à l’étranger »,
   sous la direction d’Arlette Bouloumié
 rubrique: Roman contemporain
 annee: 2014

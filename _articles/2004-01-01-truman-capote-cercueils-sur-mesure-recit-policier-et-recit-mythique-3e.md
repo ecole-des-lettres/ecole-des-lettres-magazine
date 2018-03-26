@@ -1,6 +1,6 @@
 ---
 id: 11107
-title: Truman Capote : « Cercueils sur mesure »
+title: Truman Capote – « Cercueils sur mesure »
 rubrique: Récit policier et récit mythique [3e]
 annee: 2004
 magazine: n°6 février 2005

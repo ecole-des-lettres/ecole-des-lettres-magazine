@@ -7,7 +7,7 @@ magazine: n°4 15 novembre 1994
 pages: 4
 description: 
   – le « brainstorming »
-  – la règle des cinq W (what ? who ? when ? where ? why ?) : description ; exemple
+  – la règle des cinq W (what ? who ? when ? where ? why ?) – description ; exemple
   – le changement de point de vue
 article_pdf: 1691.pdf
 revue: L’école des lettres des collèges

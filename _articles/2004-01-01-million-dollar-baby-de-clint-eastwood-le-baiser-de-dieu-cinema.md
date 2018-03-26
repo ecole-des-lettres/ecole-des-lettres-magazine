@@ -1,6 +1,6 @@
 ---
 id: 11244
-title: « Million Dollar Baby », de Clint Eastwood : le baiser de Dieu
+title: « Million Dollar Baby », de Clint Eastwood – le baiser de Dieu
 rubrique: Cinéma
 annee: 2004
 magazine: n°8 avril 2005

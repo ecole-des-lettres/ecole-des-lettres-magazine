@@ -8,7 +8,7 @@ pages: 18
 description: La première partie du programme d’éducation civique de troisième, « Le
   citoyen, la République, la démocratie », nous invite à étudier la question de la
   citoyenneté définie à cette occasion comme « l’appartenance à une communauté politique
-  et par l’allégeance à un État ». Plus loin, il est expliqué que : « Dans chaque
+  et par l’allégeance à un État ». Plus loin, il est expliqué que – « Dans chaque
   État, la loi détermine les conditions qui définissent le statut de citoyen. » On
   trouve d’ailleurs la loi sur la nationalité du 17 mars 1998 dans les documents de
   référence du programme. L’histoire du droit de la citoyenneté est complexe, y consacrer
@@ -19,7 +19,7 @@ description: La première partie du programme d’éducation civique de troisiè
   avec certains aspects essentiels du programme d’histoire-géographie de troisième
   (analyse du régime de Vichy et croissance économique de 1945 à nos jours) et montrera
   qu’en ce domaine rien n’est jamais fixe, le droit évoluant en fonction des faits
-  extérieurs : histoire politique ou démographique du pays.
+  extérieurs – histoire politique ou démographique du pays.
 article_pdf: 4576.pdf
 revue: L’école des lettres des collèges
 auteurs:

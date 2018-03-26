@@ -1,6 +1,6 @@
 ---
 id: 12733
-title: « Calpurnia », de Jacqueline Kelly. Prix Sorcières 2014 « Romans ado » : un
+title: « Calpurnia », de Jacqueline Kelly. Prix Sorcières 2014 « Romans ado » – un
   roman de formation sur les traces de Darwin
 rubrique: Roman de formation
 annee: 2014

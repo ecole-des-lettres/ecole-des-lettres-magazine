@@ -1,6 +1,6 @@
 ---
 id: 11113
-title: Antoine Fuqua : « Le Roi Arthur »
+title: Antoine Fuqua – « Le Roi Arthur »
 rubrique: Cinéma
 annee: 2004
 magazine: n°7 mars 2005

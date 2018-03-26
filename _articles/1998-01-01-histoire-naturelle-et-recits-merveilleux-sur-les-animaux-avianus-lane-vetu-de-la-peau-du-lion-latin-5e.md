@@ -1,6 +1,6 @@
 ---
 id: 3204
-title: Histoire naturelle et récits merveilleux sur les animaux. Avianus : « L’Âne
+title: Histoire naturelle et récits merveilleux sur les animaux. Avianus – « L’Âne
   vêtu de la peau du lion » 
 rubrique: Latin [5e]
 annee: 1998

@@ -1,6 +1,6 @@
 ---
 id: 12531
-title: Georges Feydeau : « Un fil à la patte »
+title: Georges Feydeau – « Un fil à la patte »
 rubrique: Théâtre
 annee: 2011
 magazine: janvier 2011

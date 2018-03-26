@@ -1,6 +1,6 @@
 ---
 id: 11711
-title: Jean-François Chabas : « Le Tsar ». Lecture cursive
+title: Jean-François Chabas – « Le Tsar ». Lecture cursive
 rubrique: Littérature de jeunesse et récit d’aventures [5e-3e]
 annee: 2006
 magazine: 2007

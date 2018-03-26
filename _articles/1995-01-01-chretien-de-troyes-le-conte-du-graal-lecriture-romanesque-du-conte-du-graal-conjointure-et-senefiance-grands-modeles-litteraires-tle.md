@@ -1,7 +1,7 @@
 ---
 id: 2104
-title: Chrétien de Troyes : « Le Conte du Graal ». L’écriture romanesque du « Conte
-  du Graal » : « conjointure » et « senefiance » 
+title: Chrétien de Troyes – « Le Conte du Graal ». L’écriture romanesque du « Conte
+  du Graal » – « conjointure » et « senefiance » 
 rubrique: Grands modèles littéraires [Tle]
 annee: 1995
 magazine: n°6 15 janvier 1996
@@ -13,7 +13,7 @@ description:
   – Les jeux d’échos
   – Les deux héros
 article_pdf: 2104.pdf
-magazine_special: Chrétien de Troyes : Le Conte du Graal
+magazine_special: Chrétien de Troyes – Le Conte du Graal
 revue: L’école des lettres des lycées
 auteurs:
 - Jacques Ribard

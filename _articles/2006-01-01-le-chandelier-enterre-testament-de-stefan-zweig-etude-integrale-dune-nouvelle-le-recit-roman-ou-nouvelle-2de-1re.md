@@ -14,7 +14,7 @@ description: Stefan Zweig présente l’avantage d’écrire dans une langue à 
   cinq ans avant le suicide de son auteur, constitue l’une des plus parfaites réussites
   de Zweig. Il constitue un bon moyen de faire s’interroger les élèves sur la place
   historique du judaïsme. Il est également intéressant, de concert avec le professeur
-  de latin, d’échafauder une séquence en interdisciplinarité : en effet, Zweig excelle
+  de latin, d’échafauder une séquence en interdisciplinarité – en effet, Zweig excelle
   à décrire le monde romain à l’heure de son déclin. Enfin, la nouvelle de Zweig débouche
   sur une réflexion de type narratologique. S’agit-il d’une nouvelle ? N’est-ce pas
   plutôt un petit roman ? Ou bien un conte un peu développé ? Qu’est-ce en réalité

@@ -1,6 +1,6 @@
 ---
 id: 3444
-title: Jean Rouaud : « Des hommes illustres »
+title: Jean Rouaud – « Des hommes illustres »
 rubrique: Préparation au brevet [3e]
 annee: 1999
 magazine: n°10 15 février 2000

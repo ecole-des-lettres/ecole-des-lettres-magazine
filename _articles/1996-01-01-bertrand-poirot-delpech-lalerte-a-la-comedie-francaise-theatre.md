@@ -1,6 +1,6 @@
 ---
 id: 2268
-title: Bertrand Poirot-Delpech : « L’Alerte », à la Comédie-Française
+title: Bertrand Poirot-Delpech – « L’Alerte », à la Comédie-Française
 rubrique: Théâtre
 annee: 1996
 magazine: n°11 15 mars 1997

@@ -6,7 +6,7 @@ annee: 1994
 magazine: n°12 15 juin 1995
 pages: 10
 description: 
-  Un travail sur la mise en mots et la conduite d’un récit à partir d’images de fiction fournies par une séquence de film. Exemple choisi : « L’Ours », de Jean-Jacques Annaud…
+  Un travail sur la mise en mots et la conduite d’un récit à partir d’images de fiction fournies par une séquence de film. Exemple choisi – « L’Ours », de Jean-Jacques Annaud…
   1. Principes
   2. Projection, paraphrase orale, analyse
   – première projection

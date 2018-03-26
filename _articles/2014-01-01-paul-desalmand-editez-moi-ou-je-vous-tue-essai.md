@@ -1,6 +1,6 @@
 ---
 id: 12601
-title: Paul Desalmand : « Éditez-moi ou je vous tue ! »
+title: Paul Desalmand – « Éditez-moi ou je vous tue ! »
 rubrique: Essai
 annee: 2014
 magazine: 

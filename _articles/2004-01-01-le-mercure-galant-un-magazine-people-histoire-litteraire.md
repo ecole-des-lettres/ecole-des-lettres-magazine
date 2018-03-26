@@ -1,6 +1,6 @@
 ---
 id: 11219
-title: « Le Mercure galant » : un magazine « people » ?
+title: « Le Mercure galant » – un magazine « people » ?
 rubrique: Histoire littéraire
 annee: 2004
 magazine: n°7 mars 2005

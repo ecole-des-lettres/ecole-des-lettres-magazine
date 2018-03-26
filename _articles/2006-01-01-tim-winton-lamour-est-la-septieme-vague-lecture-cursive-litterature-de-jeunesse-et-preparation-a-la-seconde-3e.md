@@ -1,6 +1,6 @@
 ---
 id: 11704
-title: Tim Winton : « L’amour est la septième vague ». Lecture cursive
+title: Tim Winton – « L’amour est la septième vague ». Lecture cursive
 rubrique: Littérature de jeunesse et préparation à la seconde [3e]
 annee: 2006
 magazine: 2007

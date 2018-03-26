@@ -7,8 +7,8 @@ magazine: n°5 1er novembre 2003
 pages: 2
 description: 
   Un article qui propose de lire des extraits de romans aux élèves de cinquième-quatrième.
-  – Brigitte Smadja : « Il faut sauver Saïd »
-  – Patrick Delperdange : « Prisonnier dans l’île »
+  – Brigitte Smadja – « Il faut sauver Saïd »
+  – Patrick Delperdange – « Prisonnier dans l’île »
 article_pdf: 5137.pdf
 revue: L’école des lettres des collèges
 auteurs:

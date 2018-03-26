@@ -1,6 +1,6 @@
 ---
 id: 1860
-title: Jean Giono : « Le Hussard sur le toit ». Une épopée du bonheur
+title: Jean Giono – « Le Hussard sur le toit ». Une épopée du bonheur
 rubrique: Roman [2de-1re]
 annee: 1995
 magazine: n°1 1er septembre 1995

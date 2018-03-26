@@ -1,6 +1,6 @@
 ---
 id: 11163
-title: « Inside Job », de Nicolas Refn  : l’aventure d’un récit
+title: « Inside Job », de Nicolas Refn  – l’aventure d’un récit
 rubrique: Cinéma
 annee: 2004
 magazine: n°2 1er octobre 2004

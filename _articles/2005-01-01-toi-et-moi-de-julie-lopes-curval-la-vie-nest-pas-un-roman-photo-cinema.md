@@ -1,6 +1,6 @@
 ---
 id: 11361
-title: « Toi et moi », de Julie Lopes-Curval : la vie n’est pas un roman-photo
+title: « Toi et moi », de Julie Lopes-Curval – la vie n’est pas un roman-photo
 rubrique: Cinéma
 annee: 2005
 magazine: n°9 mars 2006

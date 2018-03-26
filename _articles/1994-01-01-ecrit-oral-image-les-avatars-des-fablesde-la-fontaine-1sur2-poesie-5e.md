@@ -1,6 +1,6 @@
 ---
 id: 1710
-title: Écrit, oral, image : les avatars des « Fables » de La Fontaine  (1/2)
+title: Écrit, oral, image – les avatars des « Fables » de La Fontaine  (1/2)
 rubrique: Poésie [5e]
 annee: 1994
 magazine: n°5 15 décembre 1994
@@ -9,7 +9,7 @@ description:
   Une séquence de travail de six semaines autour des « Fables » de La Fontaine…
   1. Variations autour de « La Cigale et la Fourmi »
   – comparaison entre la fable d’Ésope et celle de La Fontaine ; apport du professeur de biologie
-  – Cigale ou fourmi ? La technique du micro-trottoir : à partir d’un texte de Jacques Lacarrière, « La Cigale et la Fourmi : autoportrait », petite réalisation audiovisuelle des élèves ; le micro-trottoir : technique de la réalisation
+  – Cigale ou fourmi ? La technique du micro-trottoir – à partir d’un texte de Jacques Lacarrière, « La Cigale et la Fourmi – autoportrait », petite réalisation audiovisuelle des élèves ; le micro-trottoir – technique de la réalisation
   – exercices d’écriture
   2. Fables et bande dessinée
   3. Fables et publicité
@@ -25,7 +25,7 @@ niveau_etudes:
 - cinquième
 oeuvres:
 - Fables
-- La Cigale et la Fourmi : autoportrait
+- La Cigale et la Fourmi – autoportrait
 - La Cigale et la Fourmi, trente versions inédites
 - Signé Francis Blanche
 - La Cimaise et la Fraction

@@ -1,6 +1,6 @@
 ---
 id: 849
-title: Chrétien de Troyes : le temps dans « Yvain, le Chevalier au Lion » 
+title: Chrétien de Troyes – le temps dans « Yvain, le Chevalier au Lion » 
 rubrique: Littérature médiévale [5e]
 annee: 1992
 magazine: n°12 15 mai 1993
@@ -10,7 +10,7 @@ description:
   – l’époque
   – les indices temporels
   – trame chronologique et durée de l’action
-  2. Le dédoublement du temps littéraire : temps de l’histoire et temps du récit
+  2. Le dédoublement du temps littéraire – temps de l’histoire et temps du récit
   – linéarité et ruptures
   – le rythme de l’action
   – le temps du narrateur
@@ -19,7 +19,7 @@ description:
   – aspects symbolique et mythique
   – un temps à la mesure de l’homme
 article_pdf: 849.pdf
-magazine_special: Chrétien de Troyes : Yvain, le Chevalier au Lion
+magazine_special: Chrétien de Troyes – Yvain, le Chevalier au Lion
 revue: L’école des lettres des collèges
 auteurs:
 - Didier Verney

@@ -1,6 +1,6 @@
 ---
 id: 12626
-title: Édouard Louis : « En finir avec Eddy Bellegueule »
+title: Édouard Louis – « En finir avec Eddy Bellegueule »
 rubrique: Roman contemporain
 annee: 2014
 magazine: 

@@ -1,6 +1,6 @@
 ---
 id: 5109
-title: « La Fontaine : Adonis, le Songe de Vaux, les Amours de Psyché »
+title: « La Fontaine – Adonis, le Songe de Vaux, les Amours de Psyché »
 rubrique: 
 annee: 1996
 magazine: n°14 15 mai 1997
@@ -11,10 +11,10 @@ description:
   3. Les plaisirs de Vénus et Adonis
   4. Aspects galants du style de La Fontaine dans « Les Amours de Psyché »
   5. « Les Amours de Psyché » et la casuistique amoureuse
-  Ont participé à ce dossier :
+  Ont participé à ce dossier – 
   Thérèse Lassalle, Françoise Lavocat, Olivier Leplâtre, Marine Ricord et Anne Sancier
 article_pdf: 5109.pdf
-magazine_special: La Fontaine : Adonis, le Songe de Vaux, les Amours de Psyché
+magazine_special: La Fontaine – Adonis, le Songe de Vaux, les Amours de Psyché
 revue: L’école des lettres des lycées
 disciplines:
 - lettres

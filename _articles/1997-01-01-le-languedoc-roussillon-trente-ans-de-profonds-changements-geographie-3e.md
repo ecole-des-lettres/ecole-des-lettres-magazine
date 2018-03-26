@@ -1,6 +1,6 @@
 ---
 id: 2759
-title: Le Languedoc-Roussillon : trente ans de profonds changements 
+title: Le Languedoc-Roussillon – trente ans de profonds changements 
 rubrique: Géographie [3e]
 annee: 1997
 magazine: n°14 15 mai 1998

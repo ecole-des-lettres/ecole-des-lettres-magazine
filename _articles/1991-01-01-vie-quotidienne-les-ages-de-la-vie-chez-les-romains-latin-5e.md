@@ -11,7 +11,7 @@ description:
   3. Recherches étymologiques
   4. Vocabulaire français
   5. Élargissements possibles
-  Deux textes sont reproduits et traduits en fin d’article : un extrait de « L’Art poétique », d’Horace, et un extrait du livre 11 des « Étymologies », d’Isidore de Séville.
+  Deux textes sont reproduits et traduits en fin d’article – un extrait de « L’Art poétique », d’Horace, et un extrait du livre 11 des « Étymologies », d’Isidore de Séville.
 article_pdf: 538.pdf
 revue: L’école des lettres des collèges
 auteurs:

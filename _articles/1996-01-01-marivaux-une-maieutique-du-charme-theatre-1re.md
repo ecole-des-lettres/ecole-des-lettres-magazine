@@ -1,6 +1,6 @@
 ---
 id: 2560
-title: Marivaux : une « maïeutique du charme »
+title: Marivaux – une « maïeutique du charme »
 rubrique: Théâtre [1re]
 annee: 1996
 magazine: n°8 1er février 1997

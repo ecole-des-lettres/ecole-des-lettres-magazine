@@ -1,6 +1,6 @@
 ---
 id: 4049
-title: À la rencontre d’un auteur de science-fiction : Ray Bradbury
+title: À la rencontre d’un auteur de science-fiction – Ray Bradbury
 rubrique: Romans de science-fiction [5e-3e]
 annee: 2000
 magazine: n°6 1er novembre 2000

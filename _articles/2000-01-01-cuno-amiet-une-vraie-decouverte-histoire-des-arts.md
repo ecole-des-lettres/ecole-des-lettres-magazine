@@ -1,6 +1,6 @@
 ---
 id: 4128
-title: Cuno Amiet : une vraie découverte
+title: Cuno Amiet – une vraie découverte
 rubrique: Histoire des arts
 annee: 2000
 magazine: n°8 1er janvier 2001

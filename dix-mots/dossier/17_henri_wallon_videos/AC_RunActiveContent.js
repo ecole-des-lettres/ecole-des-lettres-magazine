@@ -2,9 +2,9 @@
 // Flash Player Version Detection
 // Detect Client Browser type
 // Copyright 2005-2007 Adobe Systems Incorporated.  All rights reserved.
-var isIE  = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
-var isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true : false;
-var isOpera = (navigator.userAgent.indexOf("Opera") != -1) ? true : false;
+var isIE  = (navigator.appVersion.indexOf("MSIE") != -1) ? true – false;
+var isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true – false;
+var isOpera = (navigator.userAgent.indexOf("Opera") != -1) ? true – false;
 
 function ControlVersion()
 {
@@ -12,7 +12,7 @@ function ControlVersion()
 	var axo;
 	var e;
 
-	// NOTE : new ActiveXObject(strFoo) throws an exception if strFoo isn't in the registry
+	// NOTE – new ActiveXObject(strFoo) throws an exception if strFoo isn't in the registry
 
 	try {
 		// version will be set for 7.X or greater players
@@ -85,7 +85,7 @@ function GetSwfVer(){
 	
 	if (navigator.plugins != null && navigator.plugins.length > 0) {
 		if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"]) {
-			var swVer2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
+			var swVer2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" – "";
 			var flashDescription = navigator.plugins["Shockwave Flash" + swVer2].description;
 			var descArray = flashDescription.split(" ");
 			var tempArrayMajor = descArray[2].split(".");			

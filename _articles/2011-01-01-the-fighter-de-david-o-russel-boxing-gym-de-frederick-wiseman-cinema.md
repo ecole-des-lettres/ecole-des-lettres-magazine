@@ -5,7 +5,7 @@ rubrique: Cinéma
 annee: 2011
 magazine: mars 2011
 pages: 2
-description: Deux films sur la boxe : « Boxing Gym », de Frederick Wiseman aborde
+description: Deux films sur la boxe – « Boxing Gym », de Frederick Wiseman aborde
   le sujet en le traitant par le documentaire, et « The Fighter », de David O. Russel,
   hommage appuyé à « Raging Bull », qui centre l’intrigue moins sur la boxe que sur
   la vie d’une étrange famille et la rivalité de deux frères…

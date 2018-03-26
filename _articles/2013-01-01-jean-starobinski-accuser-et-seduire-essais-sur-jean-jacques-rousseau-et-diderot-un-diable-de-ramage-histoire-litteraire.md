@@ -1,6 +1,6 @@
 ---
 id: 12328
-title: Jean Starobinski : « Accuser et séduire. Essais sur Jean-Jacques Rousseau
+title: Jean Starobinski – « Accuser et séduire. Essais sur Jean-Jacques Rousseau
   » et « Diderot. Un diable de ramage »
 rubrique: Histoire littéraire
 annee: 2013

@@ -1,6 +1,6 @@
 ---
 id: 3111
-title: Textes documentaires : quelques repères pour une culture commune
+title: Textes documentaires – quelques repères pour une culture commune
 rubrique: Documentation [5e-3e]
 annee: 1998
 magazine: n°12 avril 1999
@@ -17,7 +17,7 @@ description:
   – les connecteurs logiques
   – sur le plan lexical
   – ce que dit la phrase
-  3. Mise en pages, mise en scène : quelques spécificités du discours descriptif
+  3. Mise en pages, mise en scène – quelques spécificités du discours descriptif
 article_pdf: 3111.pdf
 magazine_special: Documentaires au collège
 revue: L’école des lettres des collèges

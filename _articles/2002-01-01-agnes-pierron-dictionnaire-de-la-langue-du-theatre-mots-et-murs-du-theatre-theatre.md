@@ -1,6 +1,6 @@
 ---
 id: 4990
-title: Agnès Pierron : « Dictionnaire de la langue du théâtre. Mots et mœurs du théâtre »
+title: Agnès Pierron – « Dictionnaire de la langue du théâtre. Mots et mœurs du théâtre »
 rubrique: Théâtre
 annee: 2002
 magazine: n°12 mai 2003

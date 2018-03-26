@@ -1,6 +1,6 @@
 ---
 id: 1980
-title: Paul Verlaine : « Kaléidoscope ». Logiques de l’aléatoire
+title: Paul Verlaine – « Kaléidoscope ». Logiques de l’aléatoire
 rubrique: Poésie [classes préparatoires et concours]
 annee: 1995
 magazine: n°14 juillet 1996

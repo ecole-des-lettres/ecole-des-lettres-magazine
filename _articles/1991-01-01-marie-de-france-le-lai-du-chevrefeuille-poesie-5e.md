@@ -1,6 +1,6 @@
 ---
 id: 724
-title: Marie de France : « Le Lai du Chèvrefeuille »
+title: Marie de France – « Le Lai du Chèvrefeuille »
 rubrique: Poésie [5e]
 annee: 1991
 magazine: n°8 15 février 1992

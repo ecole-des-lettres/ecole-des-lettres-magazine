@@ -1,6 +1,6 @@
 ---
 id: 12242
-title: Jean Hatzfeld : « Robert Mitchum ne revient pas »
+title: Jean Hatzfeld – « Robert Mitchum ne revient pas »
 rubrique: Roman contemporain
 annee: 2013
 magazine: septembre 2013

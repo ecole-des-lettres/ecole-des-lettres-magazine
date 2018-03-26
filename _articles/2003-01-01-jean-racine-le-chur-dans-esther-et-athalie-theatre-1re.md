@@ -1,6 +1,6 @@
 ---
 id: 5258
-title: Jean Racine : le chœur dans « Esther » et « Athalie »
+title: Jean Racine – le chœur dans « Esther » et « Athalie »
 rubrique: Théâtre [1re]
 annee: 2003
 magazine: n°7 1er janvier 2004
@@ -8,7 +8,7 @@ pages: 20
 description: Dans le contexte de production et de réception des deux œuvres, cet
   article se propose d’étudier comment le projet éducatif initial de Mme de Maintenon
   permet à Racine d’écrire sa pièce la plus prométhéenne, notamment grâce à la présence
-  du chœur. Afin d’éclairer cette réflexion, il pose les questions suivantes : pourquoi
+  du chœur. Afin d’éclairer cette réflexion, il pose les questions suivantes – pourquoi
   et comment le chœur, élément constitutif de la tragédie antique, est-il réapproprié
   par la tradition classique pour faire jouer les pensionnaires de Saint-Cyr ? Cet
   emprunt à la tragédie grecque est-il à lire comme une affirmation de la position

@@ -9,17 +9,17 @@ description:
   Étude de l’adaptation de Joseph Bédier…
   1. « Tristan et Iseut », chapitres 1 à 3. Préparation
   – Questions posées aux élèves
-  – Commentaire : les personnages, les mensonges de Tristan, la formation du jeune seigneur, épisode du Morholt, l’oubli de l’épée, prouver par bataille, deuil
+  – Commentaire – les personnages, les mensonges de Tristan, la formation du jeune seigneur, épisode du Morholt, l’oubli de l’épée, prouver par bataille, deuil
   2. « Tristan et Iseut », chapitre 4. Analyse en classe
   3. « Tristan et Iseut », chapitres 5 à 9. Préparation
   – Questions posées aux élèves
-  – Commentaire : savourer le poison, le rêve d’Iseut, le mensonge des chemises
+  – Commentaire – savourer le poison, le rêve d’Iseut, le mensonge des chemises
   4. « Tristan et Iseut », chapitre 12. Devoir
   – Questions sur un extrait (le pèlerin)
-  – Commentaire : les données des chapitres 10 à 12, l’identité du pèlerin, la chute du pèlerin, le dépouillement, le serment
+  – Commentaire – les données des chapitres 10 à 12, l’identité du pèlerin, la chute du pèlerin, le dépouillement, le serment
   5. « Tristan et Iseut », chapitres 13 à 19. Préparation
   – Questions posées aux élèves
-  – Commentaire : les obstacles à l’amour, étude des portraits de femmes, la folie de Tristan
+  – Commentaire – les obstacles à l’amour, étude des portraits de femmes, la folie de Tristan
 article_pdf: 716.pdf
 magazine_special: Tristan et Iseut
 revue: L’école des lettres des collèges

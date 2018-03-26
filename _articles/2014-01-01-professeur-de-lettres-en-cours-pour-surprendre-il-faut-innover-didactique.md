@@ -1,6 +1,6 @@
 ---
 id: 12953
-title: Professeur de lettres : en cours, pour surprendre, il faut innover
+title: Professeur de lettres – en cours, pour surprendre, il faut innover
 rubrique: Didactique
 annee: 2014
 magazine: octobre 2014
@@ -12,7 +12,7 @@ description: Jeune retraitée de l’Éducation nationale, Claude Arditty exerce
   en IUT à Orsay, dans un établissement spécialisé pour de jeunes adultes handicapés
   à Palaiseau, mais aussi en milieu carcéral et à l’hôpital. La diversité est pour
   elle l’une des clés du plaisir que procure le métier de professeur. Elle a accepté
-  d’évoquer pêle-mêle des bribes de sa carrière : une éclaircie salutaire pour tous
+  d’évoquer pêle-mêle des bribes de sa carrière – une éclaircie salutaire pour tous
   les enseignants ayant le désir de puiser à la source du bonheur d’enseigner...
 article_pdf: 12953.pdf
 revue: L’école des lettres des collèges

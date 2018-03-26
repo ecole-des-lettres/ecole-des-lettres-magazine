@@ -1,6 +1,6 @@
 ---
 id: 12149
-title: Yvan Pommaux : «Troie, la guerre toujours recommencée » (6e)
+title: Yvan Pommaux – «Troie, la guerre toujours recommencée » (6e)
 rubrique: Littérature de jeunesse [6e]
 annee: 2012
 magazine: n°1 2012-2013

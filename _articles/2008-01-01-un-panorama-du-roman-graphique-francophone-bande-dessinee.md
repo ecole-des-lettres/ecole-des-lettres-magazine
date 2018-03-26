@@ -12,7 +12,7 @@ description: La bande dessinée et, plus spécifiquement, les « romans graphiqu
   Delisle, l’Afghanistan de Didier Lefèvre... sont autant de pistes possibles pour
   des professeurs de français désireux de sensibiliser leurs élèves à la dimension
   interculturelle. Cet article propose un florilège d’albums sélectionnés selon deux
-  axes : regards de francophones en voyage, regards de francophones sur leur propre
+  axes – regards de francophones en voyage, regards de francophones sur leur propre
   pays. Pour chacun de ces livres, il procède à Présentation des thématiques ou problématiques
   majeures et indique des axes d’étude. Indispensable dans le cadre des cours de langue,
   l’éducation interculturelle vise à dépasser les tendances ethnocentriques  et à
@@ -46,7 +46,7 @@ oeuvres:
 - Le Photographe
 - Aya de Yopougon
 - Chroniques birmanes
-- Couleur de peau : miel
+- Couleur de peau – miel
 - Paul (série)
 - Pyongyang
 - Shenzhen

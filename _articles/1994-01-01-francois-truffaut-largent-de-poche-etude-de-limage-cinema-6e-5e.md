@@ -1,7 +1,7 @@
 ---
 id: 1515
-title: François Truffaut : « L’Argent de poche » 
-rubrique: Étude de l’image : cinéma [6e-5e]
+title: François Truffaut – « L’Argent de poche » 
+rubrique: Étude de l’image – cinéma [6e-5e]
 annee: 1994
 magazine: n°11 15 mai 1995
 pages: 9

@@ -10,7 +10,7 @@ description:
   2. Propositions pour une démarche d’apprentissage
   3. Quels sont les critères d’évaluation d’un devoir de synthèse ?
 article_pdf: 567.pdf
-magazine_special: BTS : enseignement du français en BTS
+magazine_special: BTS – enseignement du français en BTS
 revue: L’école des lettres des lycées
 auteurs:
 - Anne Spicher

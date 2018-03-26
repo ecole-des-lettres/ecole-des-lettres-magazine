@@ -1,6 +1,6 @@
 ---
 id: 12048
-title: David Kushner : « Les Maîtres du jeu vidéo ». Lecture cursive 
+title: David Kushner – « Les Maîtres du jeu vidéo ». Lecture cursive 
 rubrique: Littérature de jeunesse et monde contemporain [3e]
 annee: 2010
 magazine: n°1 2010-2011

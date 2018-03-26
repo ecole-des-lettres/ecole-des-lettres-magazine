@@ -1,6 +1,6 @@
 ---
 id: 4954
-title: Carlos Fuentes, Erika Billeter, et alii : « Le Mexique de Juan Rulfo »
+title: Carlos Fuentes, Erika Billeter, et alii – « Le Mexique de Juan Rulfo »
 rubrique: Histoire littéraire
 annee: 2002
 magazine: n°9 1er février 2003

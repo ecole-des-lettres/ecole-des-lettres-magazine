@@ -1,6 +1,6 @@
 ---
 id: 335
-title: Textes fondateurs et civilisation grecque. Homère : l’« Iliade » ou l’histoire-fiction 
+title: Textes fondateurs et civilisation grecque. Homère – l’« Iliade » ou l’histoire-fiction 
 rubrique: Interdisciplinarité français, histoire [6e-5e]
 annee: 1990
 magazine: n°5 15 novembre 1990

@@ -15,7 +15,7 @@ description:
   – Apostrophes
   – Poèmes en papillotes
 article_pdf: 100.pdf
-magazine_special: Littérature pour la jeunesse : le roman
+magazine_special: Littérature pour la jeunesse – le roman
 revue: L’école des lettres des collèges
 auteurs:
 - Robert Boudet

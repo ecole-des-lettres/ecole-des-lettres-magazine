@@ -1,6 +1,6 @@
 ---
 id: 4814
-title: Gérard Herzhaft : « Tupac Amaru. La révolte des Incas ». Lecture cursive
+title: Gérard Herzhaft – « Tupac Amaru. La révolte des Incas ». Lecture cursive
 rubrique: Littérature de jeunesse et récit d’aventures [5e-4e] 
 annee: 2002
 magazine: n°10 1er mars 2003

@@ -1,6 +1,6 @@
 ---
 id: 12809
-title: Concours des dix mots, Concours de l’imagier des dix mots 2014-2015 : modalités
+title: Concours des dix mots, Concours de l’imagier des dix mots 2014-2015 – modalités
   de participation et calendrier
 rubrique: Concours
 annee: 2014

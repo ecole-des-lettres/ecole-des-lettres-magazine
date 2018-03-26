@@ -1,6 +1,6 @@
 ---
 id: 1987
-title: Honoré de Balzac : « Illusions perdues » ou le triomphe de l’illusion romanesque 
+title: Honoré de Balzac – « Illusions perdues » ou le triomphe de l’illusion romanesque 
 rubrique: Roman d’éducation [1re]
 annee: 1995
 magazine: n°2 1er octobre 1995

@@ -1,6 +1,6 @@
 ---
 id: 1855
-title: Mythe et histoire. Jules César : « La Guerre des Gaules »
+title: Mythe et histoire. Jules César – « La Guerre des Gaules »
 rubrique: Latin [5e]
 annee: 1995
 magazine: n°1 1er septembre 1995

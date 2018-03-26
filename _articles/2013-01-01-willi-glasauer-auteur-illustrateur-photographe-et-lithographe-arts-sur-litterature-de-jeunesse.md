@@ -1,6 +1,6 @@
 ---
 id: 12673
-title: Willi Glasauer : auteur, illustrateur, photographe et lithographe
+title: Willi Glasauer – auteur, illustrateur, photographe et lithographe
 rubrique: Arts / Littérature de jeunesse
 annee: 2013
 magazine: 

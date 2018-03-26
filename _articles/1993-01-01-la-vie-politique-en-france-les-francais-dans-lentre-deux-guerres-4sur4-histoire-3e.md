@@ -11,7 +11,7 @@ description:
   – les pièges du pacifisme
   – le mythe de l’empire
   – la tentation du racisme et de la xénophobie
-  En annexes : des extraits de textes sur le pacifisme, l’œuvre coloniale de la France en Indochine, la xénophobie et le racisme, l’antisémitisme.
+  En annexes – des extraits de textes sur le pacifisme, l’œuvre coloniale de la France en Indochine, la xénophobie et le racisme, l’antisémitisme.
 article_pdf: 1364.pdf
 revue: L’école des lettres des collèges
 auteurs:

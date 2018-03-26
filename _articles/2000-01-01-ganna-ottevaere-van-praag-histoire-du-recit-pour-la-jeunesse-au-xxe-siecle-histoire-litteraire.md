@@ -1,6 +1,6 @@
 ---
 id: 3955
-title: Ganna Ottevaere Van Praag : « Histoire du récit pour la jeunesse au XXe siècle »
+title: Ganna Ottevaere Van Praag – « Histoire du récit pour la jeunesse au XXe siècle »
 rubrique: Histoire littéraire
 annee: 2000
 magazine: n°2 août 2000

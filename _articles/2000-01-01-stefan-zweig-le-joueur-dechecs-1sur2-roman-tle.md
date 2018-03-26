@@ -1,20 +1,20 @@
 ---
 id: 4041
-title: Stefan Zweig : « Le Joueur d’échecs » (1/2)
+title: Stefan Zweig – « Le Joueur d’échecs » (1/2)
 rubrique: Roman [Tle]
 annee: 2000
 magazine: 2000
 pages: 53
 description: 
-  1. L’Autriche : un passé pas simple
+  1. L’Autriche – un passé pas simple
   – Vienne, ville à remonter le temps
-  – Le retour des spectres : de Hitler à Haider
+  – Le retour des spectres – de Hitler à Haider
   – « Sérénité »
   – « Résistance »
   – Le rapport des Trois Sages
   – L’Autriche, berceau du national-socialisme
   – La banalisation du passé nazi
-  2. L’empire austro-hongrois : entre rêve et réalité
+  2. L’empire austro-hongrois – entre rêve et réalité
   – Un empire sur lequel « le soleil ne se couche jamais »
   – Parlez-vous « habsbourgeois » ?
   – Immobilisme

@@ -1,12 +1,12 @@
 ---
 id: 940
-title: Alfred de Musset : « Il ne faut jurer de rien ». Étude intégrale  (2/3)
+title: Alfred de Musset – « Il ne faut jurer de rien ». Étude intégrale  (2/3)
 rubrique: Théâtre [4e-3e]
 annee: 1992
 magazine: n°2 1er octobre 1992
 pages: 10
 description: 
-  Séquence 2 : Le proverbe
+  Séquence 2 – Le proverbe
   – le proverbe comme comédie de caractères
   – le proverbe comme comédie de mœurs
   – éducation et mariage des jeunes filles du monde au XIXe siècle

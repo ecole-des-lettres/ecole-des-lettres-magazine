@@ -1,6 +1,6 @@
 ---
 id: 5045
-title: « Diderot : Paradoxe sur le comédien »
+title: « Diderot – Paradoxe sur le comédien »
 rubrique: 
 annee: 1994
 magazine: n°10 15 avril 1995
@@ -14,7 +14,7 @@ description:
   6. Le comédien et l’acteur de cinéma
   Dossier réalisé par Joël Dupas
 article_pdf: 5045.pdf
-magazine_special: Diderot : Paradoxe sur le comédien
+magazine_special: Diderot – Paradoxe sur le comédien
 revue: L’école des lettres des lycées
 disciplines:
 - lettres

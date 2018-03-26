@@ -6,7 +6,7 @@ annee: 2001
 magazine: n°13 mai 2002
 pages: 11
 description: Comment Molière jouait-il ? Vieille question dont la réponse demeure
-  problématique : nous disposons de peu de documents, leur caractère est le plus souvent
+  problématique – nous disposons de peu de documents, leur caractère est le plus souvent
   polémique, et la vivacité de la tradition hagiographique forgée dès la mort du poète
   et revitalisée par la IIIe République, a jeté une sorte de chape de plomb sur certains
   aspects importants de la vie et de l’œuvre de Molière. Cependant, des éléments nouveaux

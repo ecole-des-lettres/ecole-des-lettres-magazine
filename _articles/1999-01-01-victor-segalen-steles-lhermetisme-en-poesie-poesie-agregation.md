@@ -1,6 +1,6 @@
 ---
 id: 3554
-title: Victor Segalen : « Stèles ». L’hermétisme en poésie
+title: Victor Segalen – « Stèles ». L’hermétisme en poésie
 rubrique: Poésie [agrégation]
 annee: 1999
 magazine: n°14 juin 2000

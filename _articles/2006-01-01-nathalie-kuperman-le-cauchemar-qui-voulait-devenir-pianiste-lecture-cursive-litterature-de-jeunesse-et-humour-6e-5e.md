@@ -1,6 +1,6 @@
 ---
 id: 11697
-title: Nathalie Kuperman : « Le cauchemar qui voulait devenir pianiste ». Lecture
+title: Nathalie Kuperman – « Le cauchemar qui voulait devenir pianiste ». Lecture
   cursive
 rubrique: Littérature de jeunesse et humour [6e-5e]
 annee: 2006

@@ -1,6 +1,6 @@
 ---
 id: 11127
-title: Un poète contemporain : Paul Vincensini
+title: Un poète contemporain – Paul Vincensini
 rubrique: Autobiographie et poésie [3e]
 annee: 2004
 magazine: n°10 juin 2005

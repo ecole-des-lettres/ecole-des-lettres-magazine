@@ -1,6 +1,6 @@
 ---
 id: 11882
-title: Hervé Bazin : « Vipère au poing » 
+title: Hervé Bazin – « Vipère au poing » 
 rubrique: Lecture cursive [2de]
 annee: 2004
 magazine: n°4 décembre 2004

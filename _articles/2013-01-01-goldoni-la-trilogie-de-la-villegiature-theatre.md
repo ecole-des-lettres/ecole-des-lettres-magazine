@@ -1,6 +1,6 @@
 ---
 id: 12248
-title: Goldoni : « La Trilogie de la villégiature »
+title: Goldoni – « La Trilogie de la villégiature »
 rubrique: Théâtre
 annee: 2013
 magazine: septembre 2013

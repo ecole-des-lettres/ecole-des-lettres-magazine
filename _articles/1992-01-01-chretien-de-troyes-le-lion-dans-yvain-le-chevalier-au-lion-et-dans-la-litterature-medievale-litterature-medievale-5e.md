@@ -1,6 +1,6 @@
 ---
 id: 858
-title: Chrétien de Troyes : le lion dans « Yvain, le Chevalier au Lion » et dans
+title: Chrétien de Troyes – le lion dans « Yvain, le Chevalier au Lion » et dans
   la littérature médiévale 
 rubrique: Littérature médiévale [5e]
 annee: 1992
@@ -24,7 +24,7 @@ description:
   – le lion figure positive (le lion d’Androclès, à la source de l’épisode du lion dans « Yvain » ; le combat contre le serpent ; le lion, parangon des vertus de la noblesse)
   – le lion, figure négative (la férocité ; l’orgueil ; le lion démoniaque)
 article_pdf: 858.pdf
-magazine_special: Chrétien de Troyes : Yvain, le Chevalier au Lion
+magazine_special: Chrétien de Troyes – Yvain, le Chevalier au Lion
 revue: L’école des lettres des collèges
 auteurs:
 - Pierre Servet

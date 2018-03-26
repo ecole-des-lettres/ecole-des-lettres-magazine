@@ -1,12 +1,12 @@
 ---
 id: 12499
-title: Aharon Appelfeld : « Le garçon qui voulait dormir »
+title: Aharon Appelfeld – « Le garçon qui voulait dormir »
 rubrique: Roman contemporain
 annee: 2011
 magazine: juin 2011
 pages: 2
 description: Tout au long de son dernier roman, Erwin le narrateur parle des rencontres
-  qu’il fait avec des êtres qui ressemblent à d’autres : le passé et le présent s’unissent
+  qu’il fait avec des êtres qui ressemblent à d’autres – le passé et le présent s’unissent
   ainsi ; on ne rompt tous les liens que l’Histoire et le malheur se sont chargé de
   briser. Mais ce livre est aussi l’histoire d’Erwin qui deviendra Aharon en changeant
   de pays et de langue…

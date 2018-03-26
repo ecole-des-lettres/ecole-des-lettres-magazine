@@ -6,7 +6,7 @@ annee: 1992
 magazine: n°9 1er mars 1993
 pages: 6
 description: 
-  Compte rendu d’une expérience pédagogique en classe de sixième : faire écrire un roman aux élèves…
+  Compte rendu d’une expérience pédagogique en classe de sixième – faire écrire un roman aux élèves…
   1. L’organisation du travail
   2. Progression pédagogique
   3. Un exemple de séance

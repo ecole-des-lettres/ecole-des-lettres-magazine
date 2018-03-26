@@ -1,12 +1,12 @@
 ---
 id: 640
-title: Michel Tournier : « Le Vent Paraclet »
+title: Michel Tournier – « Le Vent Paraclet »
 rubrique: Préparation au brevet [3e] 
 annee: 1991
 magazine: n°5 15 novembre 1991
 pages: 5
 description: Préparation au brevet des collèges à partir d’un texte de Michel Tournier
-  extrait du « Vent Paraclet » : compréhension du texte, vocabulaire, maniement et
+  extrait du « Vent Paraclet » – compréhension du texte, vocabulaire, maniement et
   connaissance de la langue, rédaction à partir d’un extrait de Carson Mac Cullers,
   « Le cœur est un chasseur solitaire ».
 article_pdf: 640.pdf

@@ -5,10 +5,10 @@ rubrique: Littérature de jeunesse
 annee: 1988
 magazine: n°11 1er mai 1989
 pages: 3
-description: Lecture de savoir et lecture de bien-être : la part du scolaire et du
+description: Lecture de savoir et lecture de bien-être – la part du scolaire et du
   loisir dans la lecture…
 article_pdf: 98.pdf
-magazine_special: Littérature pour la jeunesse : le roman
+magazine_special: Littérature pour la jeunesse – le roman
 revue: L’école des lettres des collèges
 auteurs:
 - Jean Fabre

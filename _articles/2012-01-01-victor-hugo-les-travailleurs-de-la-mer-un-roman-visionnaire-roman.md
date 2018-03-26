@@ -1,6 +1,6 @@
 ---
 id: 12181
-title: Victor Hugo : « Les Travailleurs de la mer », un roman visionnaire
+title: Victor Hugo – « Les Travailleurs de la mer », un roman visionnaire
 rubrique: Roman
 annee: 2012
 magazine: n°5 2012-2013

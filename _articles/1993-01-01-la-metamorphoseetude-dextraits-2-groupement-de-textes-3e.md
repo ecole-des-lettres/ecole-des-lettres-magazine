@@ -6,18 +6,18 @@ annee: 1993
 magazine: n°10 1er avril 1994
 pages: 20
 description: 
-  Suite du groupement de textes sur la métamorphose dont la première partie a été publiée dans le numéro spécial « Théophile Gautier ».  Objectif : guider les élèves de troisième vers l’écriture de la dissertation littéraire…
+  Suite du groupement de textes sur la métamorphose dont la première partie a été publiée dans le numéro spécial « Théophile Gautier ».  Objectif – guider les élèves de troisième vers l’écriture de la dissertation littéraire…
   3. Contes et récits fantastiques
-  – Nicolas Gogol : « Le Nez »
-  – Guy de Maupassant : « Le Horla »
-  – Franz Kafka : « La Métamorphose »
-  – Eugène Ionesco : « Rhinocéros »
-  – Julio Cortazar : « Axolotl »
+  – Nicolas Gogol – « Le Nez »
+  – Guy de Maupassant – « Le Horla »
+  – Franz Kafka – « La Métamorphose »
+  – Eugène Ionesco – « Rhinocéros »
+  – Julio Cortazar – « Axolotl »
   4. Science-fiction (cinéma)
-  – David Cronenberg : « La Mouche »
+  – David Cronenberg – « La Mouche »
   5. Récit réaliste
-  – André Kedros : « Le Voleur » (nouvelle publiée dans « Le Monde diplomatique » en mars 1992  et donnée en annexe)
-  7. Conclusion : de la comparaison à la métaphore, de la métaphore à la métamorphose
+  – André Kedros – « Le Voleur » (nouvelle publiée dans « Le Monde diplomatique » en mars 1992  et donnée en annexe)
+  7. Conclusion – de la comparaison à la métaphore, de la métaphore à la métamorphose
   8. Sujet de dissertation
   L’article est suivi d’un questionnaire sur chaque texte étudié.
 article_pdf: 1142.pdf

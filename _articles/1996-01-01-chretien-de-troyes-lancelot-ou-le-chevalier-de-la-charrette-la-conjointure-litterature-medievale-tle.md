@@ -1,6 +1,6 @@
 ---
 id: 2241
-title: Chrétien de Troyes : « Lancelot ou le Chevalier de la charrette » : la « conjointure »
+title: Chrétien de Troyes – « Lancelot ou le Chevalier de la charrette » – la « conjointure »
 rubrique: Littérature médiévale [Tle]
 annee: 1996
 magazine: n°10 1er mars 1997
@@ -17,7 +17,7 @@ description: Chrétien de Troyes a particulièrement travaillé la composition d
   romanesque, par l’utilisation de techniques variées, qui permettent d’appréhender
   le sens profond du récit.
 article_pdf: 2241.pdf
-magazine_special: Chrétien de Troyes : Lancelot ou le Chevalier de la charrette
+magazine_special: Chrétien de Troyes – Lancelot ou le Chevalier de la charrette
 revue: L’école des lettres des lycées
 auteurs:
 - Corinne Pierreville

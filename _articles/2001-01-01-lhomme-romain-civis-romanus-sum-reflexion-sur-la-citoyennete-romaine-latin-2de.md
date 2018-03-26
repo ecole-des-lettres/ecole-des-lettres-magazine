@@ -1,6 +1,6 @@
 ---
 id: 4355
-title: L’homme romain. « Civis romanus sum » : réflexion sur la citoyenneté romaine 
+title: L’homme romain. « Civis romanus sum » – réflexion sur la citoyenneté romaine 
 rubrique: Latin [2de]
 annee: 2001
 magazine: 2001

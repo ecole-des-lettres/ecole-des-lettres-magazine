@@ -1,7 +1,7 @@
 ---
 id: 4309
 title: La célébration de l’illusion
-rubrique: Molière : « Le Bourgeois gentilhomme »
+rubrique: Molière – « Le Bourgeois gentilhomme »
 annee: 2001
 magazine: n°13 mai 2002
 pages: 11

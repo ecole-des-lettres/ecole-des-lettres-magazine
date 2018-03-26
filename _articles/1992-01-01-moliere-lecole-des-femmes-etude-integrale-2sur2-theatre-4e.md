@@ -1,6 +1,6 @@
 ---
 id: 924
-title: Molière : « L’École des femmes ». Étude intégrale  (2/2)
+title: Molière – « L’École des femmes ». Étude intégrale  (2/2)
 rubrique: Théâtre [4e]
 annee: 1992
 magazine: n°14 15 juin 1993
@@ -28,7 +28,7 @@ description:
   – Arnolphe (Arnolphe et le discours amoureux ; la violence)
   – le ressort de l’intrigue
   – le dénouement
-  6.  « L’École des femmes », grammaire et stylistique : la lettre d’Agnès
+  6.  « L’École des femmes », grammaire et stylistique – la lettre d’Agnès
 article_pdf: 924.pdf
 revue: L’école des lettres des collèges
 auteurs:

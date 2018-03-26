@@ -1,6 +1,6 @@
 ---
 id: 1765
-title: Jean de La Fontaine : « Les Obsèques de la lionne » 
+title: Jean de La Fontaine – « Les Obsèques de la lionne » 
 rubrique: L’argumentation [1re]
 annee: 1994
 magazine: n°7 15 février 1995

@@ -1,6 +1,6 @@
 ---
 id: 5357
-title: L’action tragique et l’action politique impossibles : la « Sophonisbe », de
+title: L’action tragique et l’action politique impossibles – la « Sophonisbe », de
   Montreux (1601)
 rubrique: Théâtre et argumentation [2de-1re]
 annee: 2003

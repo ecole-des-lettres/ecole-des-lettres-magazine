@@ -13,7 +13,7 @@ description:
   4. Scènes primitives
   5. « L’homme de Rouen pourrait oser, par vengeance, me poursuivre ici »
 article_pdf: 1195.pdf
-magazine_special: Maupassant : autour du Horla 
+magazine_special: Maupassant – autour du Horla 
 revue: L’école des lettres des lycées
 auteurs:
 - Francis Marcoin

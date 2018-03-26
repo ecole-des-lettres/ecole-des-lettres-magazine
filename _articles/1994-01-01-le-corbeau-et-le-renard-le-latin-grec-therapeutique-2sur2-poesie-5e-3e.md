@@ -7,16 +7,16 @@ magazine: n°4 15 novembre 1994
 pages: 10
 description: 
   Compte rendu d’une expérience pédagogique
-  Objectif : aider des élèves en difficulté à progresser en français en leur donnant une formation linguistique théorique leur apportant les structures nécessaires à l’apprentissage de n’importe quelle langue
+  Objectif – aider des élèves en difficulté à progresser en français en leur donnant une formation linguistique théorique leur apportant les structures nécessaires à l’apprentissage de n’importe quelle langue
   * Séance 1. Lecture et explication de la fable de La Fontaine 
   – caractéristiques de la fable
   – observation des fables de Phèdre et d’Ésope
-  – lecture de la fable de Phèdre : la prononciation
+  – lecture de la fable de Phèdre – la prononciation
   * Séance 2. La fable latine
   – parcours étymologique ; formulation d’hypothèses
   * Séance 3. Repérage et définition ; exercices
   * Séance 4. Contrôle des acquisitions
-  * Séance 5. La fable grecque : lecture 
+  * Séance 5. La fable grecque – lecture 
   – étymologie
   – déclinaison
   – contrôle des acquisitions

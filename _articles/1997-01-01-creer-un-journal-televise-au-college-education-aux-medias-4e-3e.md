@@ -9,7 +9,7 @@ description: Au collège René-Cassin, depuis avril 1993, le club vidéo animé 
   élèves et deux enseignantes, présente chaque semaine ou presque un journal télévisé,
   afin de développer une vraie communication au sein de l’établissement scolaire.
   Mais cette entreprise, en tentant de résoudre un problème, en a soulevé un autre,
-  de taille : comment éduquer la communauté éducative aux médias et dans quel but
+  de taille – comment éduquer la communauté éducative aux médias et dans quel but
   ?
 article_pdf: 2668.pdf
 magazine_special: Image au collège

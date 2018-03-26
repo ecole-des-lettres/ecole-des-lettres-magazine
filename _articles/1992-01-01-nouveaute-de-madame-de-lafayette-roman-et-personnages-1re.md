@@ -17,7 +17,7 @@ description:
   – la tonalité tragique
   – la dimension morale
 article_pdf: 945.pdf
-magazine_special: Lafayette : La Princesse de Clèves
+magazine_special: Lafayette – La Princesse de Clèves
 revue: L’école des lettres des lycées
 auteurs:
 - François-Marie Mourad

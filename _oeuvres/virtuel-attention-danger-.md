@@ -1,3 +1,3 @@
 ---
-title: 'Virtuel : attention danger !'
+title: 'Virtuel – attention danger !'
 ---

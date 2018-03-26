@@ -1,6 +1,6 @@
 ---
 id: 11998
-title: Pierre Bailly, Vincent Mathy et Denis Lapière : « Tranches de quartier » (série
+title: Pierre Bailly, Vincent Mathy et Denis Lapière – « Tranches de quartier » (série
   « Ludo »). Étude intégrale
 rubrique: Bande dessinée [CM-6e]
 annee: 2009

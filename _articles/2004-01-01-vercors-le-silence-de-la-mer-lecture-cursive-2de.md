@@ -1,6 +1,6 @@
 ---
 id: 11881
-title: Vercors : « Le Silence de la mer »
+title: Vercors – « Le Silence de la mer »
 rubrique:  Lecture cursive [2de]
 annee: 2004
 magazine: n°3 1er novembre 2004

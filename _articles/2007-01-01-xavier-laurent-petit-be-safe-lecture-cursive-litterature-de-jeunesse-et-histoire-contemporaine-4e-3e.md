@@ -1,6 +1,6 @@
 ---
 id: 11822
-title: Xavier-Laurent Petit : « Be safe ». Lecture cursive 
+title: Xavier-Laurent Petit – « Be safe ». Lecture cursive 
 rubrique: Littérature de jeunesse et histoire contemporaine [4e-3e]
 annee: 2007
 magazine: n°1 2008-2009

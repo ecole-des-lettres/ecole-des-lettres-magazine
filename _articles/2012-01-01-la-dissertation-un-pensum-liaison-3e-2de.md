@@ -1,6 +1,6 @@
 ---
 id: 12154
-title: La dissertation : un pensum ?
+title: La dissertation – un pensum ?
 rubrique: Liaison [3e-2de]
 annee: 2012
 magazine: n°1 2012-2013

@@ -1,6 +1,6 @@
 ---
 id: 1246
-title: Patrice Chéreau : « La Reine Margot »
+title: Patrice Chéreau – « La Reine Margot »
 rubrique: Cinéma
 annee: 1993
 magazine: n°13-14 juillet 1994

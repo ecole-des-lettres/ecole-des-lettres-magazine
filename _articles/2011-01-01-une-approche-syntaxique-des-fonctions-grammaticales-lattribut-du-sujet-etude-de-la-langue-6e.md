@@ -1,6 +1,6 @@
 ---
 id: 12137
-title: Une approche syntaxique des fonctions grammaticales : l’attribut du sujet
+title: Une approche syntaxique des fonctions grammaticales – l’attribut du sujet
 rubrique: Étude de la langue [6e]
 annee: 2011
 magazine: n°6

@@ -1,6 +1,6 @@
 ---
 id: 12919
-title: « Le Misanthrope » à la Comédie-Française : « le défaut d’être un peu plus
+title: « Le Misanthrope » à la Comédie-Française – « le défaut d’être un peu plus
   sincère »
 rubrique: Théâtre
 annee: 2015

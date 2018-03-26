@@ -1,12 +1,12 @@
 ---
 id: 5333
-title: L’écriture littéraire : une combinaison de stéréotypes
+title: L’écriture littéraire – une combinaison de stéréotypes
 rubrique: Lexpression écrite au collège[6e-3e]
 annee: 2003
 magazine: n°13 juin 2004
 pages: 16
 description: 
-  1. Les stéréotypes : définitions et exemples
+  1. Les stéréotypes – définitions et exemples
   2. Comment l’élève peut-il exploiter des stéréotypes ?
   3. Pourquoi se baser sur les stéréotypes pour (faire) écrire ?
   4. Que proposer aux élèves ? Une boîte à outils pour le collège

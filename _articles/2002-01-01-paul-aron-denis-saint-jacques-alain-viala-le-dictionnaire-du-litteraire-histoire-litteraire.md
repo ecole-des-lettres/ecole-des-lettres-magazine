@@ -1,6 +1,6 @@
 ---
 id: 4643
-title: Paul Aron, Denis Saint-Jacques, Alain Viala : « Le Dictionnaire du littéraire »
+title: Paul Aron, Denis Saint-Jacques, Alain Viala – « Le Dictionnaire du littéraire »
 rubrique: Histoire littéraire
 annee: 2002
 magazine: n°2 août 2002

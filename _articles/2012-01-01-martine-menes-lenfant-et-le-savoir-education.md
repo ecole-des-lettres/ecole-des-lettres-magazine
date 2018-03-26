@@ -1,6 +1,6 @@
 ---
 id: 12384
-title: Martine Menès : « L’Enfant et le savoir »
+title: Martine Menès – « L’Enfant et le savoir »
 rubrique: Éducation
 annee: 2012
 magazine: septembre 2012

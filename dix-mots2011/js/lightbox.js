@@ -84,13 +84,13 @@ Lightbox.prototype = {
         if (LightboxOptions.resizeSpeed > 10) LightboxOptions.resizeSpeed = 10;
         if (LightboxOptions.resizeSpeed < 1)  LightboxOptions.resizeSpeed = 1;
 
-	    this.resizeDuration = LightboxOptions.animate ? ((11 - LightboxOptions.resizeSpeed) * 0.15) : 0;
-	    this.overlayDuration = LightboxOptions.animate ? 0.2 : 0;  // shadow fade in/out duration
+	    this.resizeDuration = LightboxOptions.animate ? ((11 - LightboxOptions.resizeSpeed) * 0.15) – 0;
+	    this.overlayDuration = LightboxOptions.animate ? 0.2 – 0;  // shadow fade in/out duration
 
         // When Lightbox starts it will resize itself from 250 by 250 to the current image dimension.
         // If animations are turned off, it will be hidden as to prevent a flicker of a
         // white 250 by 250 box.
-        var size = (LightboxOptions.animate ? 250 : 1) + 'px';
+        var size = (LightboxOptions.animate ? 250 – 1) + 'px';
         
 
         // Code inserts html at the bottom of the page that looks similar to this:

@@ -1,6 +1,6 @@
 ---
 id: 1701
-title: Fénelon : la morale du prince dans « Les Aventures de Télémaque »
+title: Fénelon – la morale du prince dans « Les Aventures de Télémaque »
 rubrique: Roman [agrégation]
 annee: 1994
 magazine: n°4 15 novembre 1994
@@ -16,7 +16,7 @@ description:
   – la formation de la souffrance
   – le ressassement en vue d’une lente assimilation
 article_pdf: 1701.pdf
-magazine_special: Fénelon : Les Aventures de Télémaque
+magazine_special: Fénelon – Les Aventures de Télémaque
 revue: L’école des lettres des lycées
 auteurs:
 - Marine Ricord

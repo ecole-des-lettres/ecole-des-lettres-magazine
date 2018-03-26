@@ -1,6 +1,6 @@
 ---
 id: 11259
-title: Franz Kafka : « Le Procès ». Le thème du rêve
+title: Franz Kafka – « Le Procès ». Le thème du rêve
 rubrique: Langage verbal et images [Tle]
 annee: 2004
 magazine: n°10 juin 2005

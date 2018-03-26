@@ -1,6 +1,6 @@
 ---
 id: 2700
-title: Claude Simon : « La Route des Flandres ». Commentaire composé
+title: Claude Simon – « La Route des Flandres ». Commentaire composé
 rubrique: Roman contemporain [agrégation]
 annee: 1997
 magazine: n°11 15 mars 1998
@@ -16,7 +16,7 @@ description:
   – une vision épique
   – le pouvoir des mots
 article_pdf: 2700.pdf
-magazine_special: Théâtre : Corneille, Molière, Shakespeare, Strindberg
+magazine_special: Théâtre – Corneille, Molière, Shakespeare, Strindberg
 revue: L’école des lettres des lycées
 auteurs:
 - Jacqueline Gojard

@@ -6,8 +6,8 @@ annee: 2005
 magazine: n°11 mai 2006
 pages: 26
 description: 
-  Cette séquence se propose de rendre accessible un travail sur l’œuvre de Rabelais en cinquième. En effet, celle-ci s’inscrit parfaitement dans le programme de cette classe : elle appartient au patrimoine français des textes du XVIe siècle, permet d’aborder le récit romanesque, fait partie des grands « textes de dérision critique » et se rattache, par son ampleur narrative, aux romans de chevalerie et aux récits de voyage.
-  Déroulement de la séquence : neuf séances.
+  Cette séquence se propose de rendre accessible un travail sur l’œuvre de Rabelais en cinquième. En effet, celle-ci s’inscrit parfaitement dans le programme de cette classe – elle appartient au patrimoine français des textes du XVIe siècle, permet d’aborder le récit romanesque, fait partie des grands « textes de dérision critique » et se rattache, par son ampleur narrative, aux romans de chevalerie et aux récits de voyage.
+  Déroulement de la séquence – neuf séances.
 article_pdf: 11542.pdf
 revue: L’école des lettres des collèges
 auteurs:

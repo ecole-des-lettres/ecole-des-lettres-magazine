@@ -6,7 +6,7 @@ annee: 2013
 magazine: n°2
 pages: 4
 description: 
-  Présentation des participants à une journée d’étude autour du scénario :
+  Présentation des participants à une journée d’étude autour du scénario – 
   • Samantha Bailly, auteur de romans de fantasy, de romans contemporains et de thrillers.
   • Régis Hautière, scénariste de bandes dessinées.
   • Wilfrid Lupano, scénariste de bandes dessinées.

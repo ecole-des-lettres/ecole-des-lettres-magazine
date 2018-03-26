@@ -1,6 +1,6 @@
 ---
 id: 12276
-title: Daša Drndić : « Sonnenschein ». Dans la spirale de l’Histoire
+title: Daša Drndić – « Sonnenschein ». Dans la spirale de l’Histoire
 rubrique: Roman contemporain / Histoire
 annee: 2013
 magazine: mai 2013

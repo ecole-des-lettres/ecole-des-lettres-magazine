@@ -1,6 +1,6 @@
 ---
 id: 1216
-title: Contre les idées reçues : un entretien avec Geneviève Brisac
+title: Contre les idées reçues – un entretien avec Geneviève Brisac
 rubrique: Littérature de jeunesse
 annee: 1993
 magazine: n°12-13 1er juin 1994

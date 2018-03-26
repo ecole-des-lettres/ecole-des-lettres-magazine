@@ -1,7 +1,7 @@
 ---
 id: 3238
-title: Mythes et légendes du Moyen Âge dans le théâtre contemporain. Jean Giraudoux :
-  « Ondine » ;Julien Gracq : « Le Roi pêcheur » 
+title: Mythes et légendes du Moyen Âge dans le théâtre contemporain. Jean Giraudoux – 
+  « Ondine » ;Julien Gracq – « Le Roi pêcheur » 
 rubrique: Théâtre et réécritures [1re]
 annee: 1998
 magazine: 1998

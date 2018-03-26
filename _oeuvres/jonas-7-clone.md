@@ -1,3 +1,3 @@
 ---
-title: 'Jonas 7 : clone'
+title: 'Jonas 7 – clone'
 ---

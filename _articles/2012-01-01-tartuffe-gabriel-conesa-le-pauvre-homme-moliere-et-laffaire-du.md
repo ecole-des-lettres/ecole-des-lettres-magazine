@@ -1,7 +1,7 @@
 ---
 id: 12349
 title: Tartuffe »
-rubrique: Gabriel Conesa : « Le Pauvre homme ! – Molière et l’affaire du
+rubrique: Gabriel Conesa – « Le Pauvre homme ! – Molière et l’affaire du
 annee: 2012
 magazine: décembre 2012
 pages: 2

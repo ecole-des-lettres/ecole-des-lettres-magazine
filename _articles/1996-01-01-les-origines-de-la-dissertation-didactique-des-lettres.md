@@ -9,8 +9,8 @@ description:
   Rétrospective historique de l’évolution de cet exercice aux XVIIIe et XIXe siècles…
   1. La dissertation hors l’école
   2. La dissertation dans le cursus des études au XIXe siècle
-  3. Du discours à la dissertation : une lente métamorphose
-  4. Illustration : une composition française primée en 1884
+  3. Du discours à la dissertation – une lente métamorphose
+  4. Illustration – une composition française primée en 1884
 article_pdf: 2411.pdf
 revue: L’école des lettres des lycées
 auteurs:

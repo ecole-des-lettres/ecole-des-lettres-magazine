@@ -1,6 +1,6 @@
 ---
 id: 728
-title: « Tristan et Iseut » : bibliographie sélective
+title: « Tristan et Iseut » – bibliographie sélective
 rubrique: Littérature médiévale [5e]
 annee: 1991
 magazine: n°8 15 février 1992

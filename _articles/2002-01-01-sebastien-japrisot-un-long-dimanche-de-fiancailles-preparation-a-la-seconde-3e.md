@@ -1,6 +1,6 @@
 ---
 id: 4707
-title: Sébastien Japrisot : « Un long dimanche de fiançailles »
+title: Sébastien Japrisot – « Un long dimanche de fiançailles »
 rubrique: Préparation à la seconde [3e]
 annee: 2002
 magazine: n°4 1er octobre 2002

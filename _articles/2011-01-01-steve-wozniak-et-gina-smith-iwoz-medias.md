@@ -1,6 +1,6 @@
 ---
 id: 12454
-title: Steve Wozniak et Gina Smith : « iWoz »
+title: Steve Wozniak et Gina Smith – « iWoz »
 rubrique: Médias
 annee: 2011
 magazine: novembre 2011

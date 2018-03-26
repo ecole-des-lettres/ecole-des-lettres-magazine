@@ -1,6 +1,6 @@
 ---
 id: 11386
-title: Luc Fraisse : « L’histoire littéraire à l’aube du XXIe siècle »
+title: Luc Fraisse – « L’histoire littéraire à l’aube du XXIe siècle »
 rubrique: Histoire littéraire
 annee: 2005
 magazine: n°11-12 septembre 2006

@@ -12,7 +12,7 @@ description:
   4. La représentation théâtrale
   5. La vie des comédiens
 article_pdf: 34.pdf
-magazine_special: Molière : farces et comédies
+magazine_special: Molière – farces et comédies
 revue: L’école des lettres des collèges
 auteurs:
 - François Gay

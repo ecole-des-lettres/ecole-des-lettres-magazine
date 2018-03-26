@@ -1,6 +1,6 @@
 ---
 id: 688
-title: Italo Calvino : « Les Villes invisibles »(1/2)  
+title: Italo Calvino – « Les Villes invisibles »(1/2)  
 rubrique: Récits du XXe siècle [3e]
 annee: 1991
 magazine: n°7 15 janvier 1992

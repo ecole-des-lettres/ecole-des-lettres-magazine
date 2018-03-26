@@ -1,6 +1,6 @@
 ---
 id: 2475
-title: Jean-Claude Moscovici : « Voyage à Pitchipoï ». Étude intégrale
+title: Jean-Claude Moscovici – « Voyage à Pitchipoï ». Étude intégrale
 rubrique: Littérature de jeunesse et autobiographie [3e]
 annee: 1996
 magazine: n°6 15 décembre 1996
@@ -10,7 +10,7 @@ description: « Voyage à Pitchipoï » est le premier roman de Jean-Claude Mo
   larmoiements, il mêle souvenirs du petit garçon et regard de l’adulte. Le texte
   s’organise autour de la vie du narrateur, ne retenant que les événements clés de
   cette enfance déchirée par la séparation d’avec les siens et l’enfermement dans
-  un camp, Drancy : aucune scène violente, mais une brutalité quotidienne dans les
+  un camp, Drancy – aucune scène violente, mais une brutalité quotidienne dans les
   comportements de la population.
 article_pdf: 2475.pdf
 revue: L’école des lettres des collèges

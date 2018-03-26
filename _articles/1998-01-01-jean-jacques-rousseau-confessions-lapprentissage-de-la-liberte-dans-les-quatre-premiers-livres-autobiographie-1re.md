@@ -1,6 +1,6 @@
 ---
 id: 3309
-title: Jean-Jacques Rousseau : « Confessions ». L’apprentissage de la liberté dans
+title: Jean-Jacques Rousseau – « Confessions ». L’apprentissage de la liberté dans
   les quatre premiers livres 
 rubrique: Autobiographie [1re]
 annee: 1998

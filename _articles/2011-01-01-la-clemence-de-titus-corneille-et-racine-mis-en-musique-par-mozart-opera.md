@@ -1,6 +1,6 @@
 ---
 id: 12472
-title: « La Clémence de Titus » : Corneille et Racine mis en musique par Mozart
+title: « La Clémence de Titus » – Corneille et Racine mis en musique par Mozart
 rubrique: Opéra
 annee: 2011
 magazine: septembre 2011

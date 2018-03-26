@@ -1,8 +1,8 @@
 ---
 id: 11525
-title: Marguerite Abouet et Clément Oubrerie : « Aya de Yopougon », une chronique
+title: Marguerite Abouet et Clément Oubrerie – « Aya de Yopougon », une chronique
   adolescente africaine. Lecture cursive [5e] -3e
-rubrique: Étude de l’image : bande dessinée [5e-3e]
+rubrique: Étude de l’image – bande dessinée [5e-3e]
 annee: 2006
 magazine: n°8 juin 2007
 pages: 5

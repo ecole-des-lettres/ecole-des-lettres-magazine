@@ -1,6 +1,6 @@
 ---
 id: 11880
-title:  Raymond Radiguet : « Le Diable au corps » 
+title:  Raymond Radiguet – « Le Diable au corps » 
 rubrique: Lecture cursive [2de]
 annee: 2003
 magazine: n°10 15 mars 2004

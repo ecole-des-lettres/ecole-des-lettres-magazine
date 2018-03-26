@@ -1,6 +1,6 @@
 ---
 id: 4142
-title: « Aucassin et Nicolette » : réminiscences lyriques
+title: « Aucassin et Nicolette » – réminiscences lyriques
 rubrique: Littérature médiévale [5e]
 annee: 2000
 magazine: n°9 15 janvier 2001

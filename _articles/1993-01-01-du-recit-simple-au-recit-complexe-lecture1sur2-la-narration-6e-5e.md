@@ -1,6 +1,6 @@
 ---
 id: 1268
-title: Du récit simple au récit complexe : lecture (1/2)
+title: Du récit simple au récit complexe – lecture (1/2)
 rubrique: La narration [6e-5e]
 annee: 1993
 magazine: n°2 1er octobre 1993

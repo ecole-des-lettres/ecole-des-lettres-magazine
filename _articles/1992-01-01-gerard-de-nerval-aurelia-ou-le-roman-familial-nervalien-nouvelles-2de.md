@@ -1,6 +1,6 @@
 ---
 id: 979
-title: Gérard de Nerval : « Aurélia » ou le roman familial nervalien 
+title: Gérard de Nerval – « Aurélia » ou le roman familial nervalien 
 rubrique: Nouvelles [2de]
 annee: 1992
 magazine: n°4 1er novembre 1992

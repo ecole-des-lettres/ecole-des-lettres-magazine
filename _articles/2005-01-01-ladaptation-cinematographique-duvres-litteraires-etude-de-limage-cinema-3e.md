@@ -1,7 +1,7 @@
 ---
 id: 11434
 title: L’adaptation cinématographique d’œuvres littéraires
-rubrique: Étude de l’image : cinéma [3e]
+rubrique: Étude de l’image – cinéma [3e]
 annee: 2005
 magazine: n°5 15 décembre 2005
 pages: 15

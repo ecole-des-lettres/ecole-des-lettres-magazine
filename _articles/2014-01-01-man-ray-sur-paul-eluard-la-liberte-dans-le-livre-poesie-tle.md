@@ -1,6 +1,6 @@
 ---
 id: 12975
-title: Man Ray / Paul Eluard : la liberté dans le livre
+title: Man Ray / Paul Eluard – la liberté dans le livre
 rubrique: Poésie [Tle]
 annee: 2014
 magazine: 2014

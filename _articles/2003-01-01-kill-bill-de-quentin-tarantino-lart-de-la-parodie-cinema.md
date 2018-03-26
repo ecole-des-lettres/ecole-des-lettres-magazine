@@ -1,6 +1,6 @@
 ---
 id: 5239
-title: « Kill Bill », de Quentin Tarantino : l’art de la parodie
+title: « Kill Bill », de Quentin Tarantino – l’art de la parodie
 rubrique: Cinéma
 annee: 2003
 magazine: n°5 1er novembre 2003

@@ -1,7 +1,7 @@
 ---
 id: 11420
 title: Accompagner le film « Promesses » 
-rubrique: Étude de l’image : cinéma [4e-3e]
+rubrique: Étude de l’image – cinéma [4e-3e]
 annee: 2005
 magazine: n°3 1er octobre 2005
 pages: 8

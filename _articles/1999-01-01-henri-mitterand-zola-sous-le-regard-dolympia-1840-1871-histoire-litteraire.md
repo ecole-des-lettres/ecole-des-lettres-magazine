@@ -1,6 +1,6 @@
 ---
 id: 3751
-title: Henri Mitterand : « Zola, sous le regard d’Olympia 1840-1871 »
+title: Henri Mitterand – « Zola, sous le regard d’Olympia 1840-1871 »
 rubrique: Histoire littéraire
 annee: 1999
 magazine: n°8 31 décembre 1999

@@ -1,6 +1,6 @@
 ---
 id: 2790
-title: En lisant, en misant : vers une nouvelle économie de la lecture
+title: En lisant, en misant – vers une nouvelle économie de la lecture
 rubrique: Lecture [classes préparatoires et concours]
 annee: 1997
 magazine: n°14 juillet 1998
@@ -13,7 +13,7 @@ description: Dans la grande tradition critique,l’auteur est privilégié et l�
   des plus importantes, le désir de lire a été moins étudié, et l’activité – et le
   plaisir – du lecteur restent encore à définir…
 article_pdf: 2790.pdf
-magazine_special: Lecture : le génie du lecteur, colloque de Cerisy
+magazine_special: Lecture – le génie du lecteur, colloque de Cerisy
 revue: L’école des lettres des lycées
 auteurs:
 - Michael Worton

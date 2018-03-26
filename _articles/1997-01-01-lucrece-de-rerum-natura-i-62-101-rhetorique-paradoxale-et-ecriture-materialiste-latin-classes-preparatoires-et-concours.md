@@ -1,6 +1,6 @@
 ---
 id: 2859
-title: Lucrèce : « De rerum natura », I, 62-101. Rhétorique paradoxale et écriture
+title: Lucrèce – « De rerum natura », I, 62-101. Rhétorique paradoxale et écriture
   matérialiste 
 rubrique: Latin [Classes préparatoires et concours]
 annee: 1997

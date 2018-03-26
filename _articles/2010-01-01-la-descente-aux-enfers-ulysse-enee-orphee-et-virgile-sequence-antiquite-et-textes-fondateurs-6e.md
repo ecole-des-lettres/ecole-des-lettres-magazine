@@ -1,6 +1,6 @@
 ---
 id: 12055
-title: La descente aux Enfers : Ulysse, Énée, Orphée et Virgile. Séquence 
+title: La descente aux Enfers – Ulysse, Énée, Orphée et Virgile. Séquence 
 rubrique: Antiquité et textes fondateurs [6e]
 annee: 2010
 magazine: n°2 2010-2011

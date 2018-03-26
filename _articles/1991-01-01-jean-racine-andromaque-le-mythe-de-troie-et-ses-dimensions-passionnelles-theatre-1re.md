@@ -1,6 +1,6 @@
 ---
 id: 700
-title: Jean Racine : « Andromaque ». Le mythe de Troie et ses dimensions passionnelles 
+title: Jean Racine – « Andromaque ». Le mythe de Troie et ses dimensions passionnelles 
 rubrique: Théâtre [1re]
 annee: 1991
 magazine: n°7 1er février 1992

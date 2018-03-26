@@ -1,6 +1,6 @@
 ---
 id: 5158
-title: Utilisation de l’outil informatique au collège: mythologie et TIC
+title: Utilisation de l’outil informatique au collège – mythologie et TIC
 rubrique: Latin [5e-3e]
 annee: 2003
 magazine: n°8 15 janvier 2004

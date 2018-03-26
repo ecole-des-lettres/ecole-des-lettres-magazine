@@ -1,6 +1,6 @@
 ---
 id: 12974
-title: Une utopie : « Nous étions l’avenir », de Yaël Neeman
+title: Une utopie – « Nous étions l’avenir », de Yaël Neeman
 rubrique: Roman contemporain
 annee: 2015
 magazine: mai 2015

@@ -1,6 +1,6 @@
 ---
 id: 4523
-title: Louis Aragon : la population romanesque dans « Les Voyageurs de l’impériale »
+title: Louis Aragon – la population romanesque dans « Les Voyageurs de l’impériale »
 rubrique: Roman [agrégation]
 annee: 2001
 magazine: n°7 1er décembre 2001

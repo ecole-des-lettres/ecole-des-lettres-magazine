@@ -1,6 +1,6 @@
 ---
 id: 11125
-title: L’image du père : vérité et artifices
+title: L’image du père – vérité et artifices
 rubrique: Autobiographie [3e]
 annee: 2004
 magazine: n°10 juin 2005

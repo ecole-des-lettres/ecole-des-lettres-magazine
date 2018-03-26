@@ -1,6 +1,6 @@
 ---
 id: 12358
-title: Charline Bourdin : « Louisa May Alcott ou la véritable histoire de Josephine
+title: Charline Bourdin – « Louisa May Alcott ou la véritable histoire de Josephine
   March »
 rubrique: Essai
 annee: 2012

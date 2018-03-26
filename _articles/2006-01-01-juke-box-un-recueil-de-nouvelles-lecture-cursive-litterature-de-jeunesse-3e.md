@@ -1,11 +1,11 @@
 ---
 id: 11807
-title: « Juke-box » : un recueil de nouvelles (lecture cursive)
+title: « Juke-box » – un recueil de nouvelles (lecture cursive)
 rubrique: Littérature de jeunesse [3e]
 annee: 2006
 magazine: n°6 2007-2008
 pages: 15
-description: Musique et adolescence : ce recueil plutôt destiné à des élèves de troisième
+description: Musique et adolescence – ce recueil plutôt destiné à des élèves de troisième
   paraît tout à fait approprié pour une lecture cursive. Les élèves sont amateurs
   de musique, de chansons et d’émissions télévisées consacrées à ce moyen d’expression.
   La diversité des univers musicaux et la variété des rapports qu’ils entretiennent

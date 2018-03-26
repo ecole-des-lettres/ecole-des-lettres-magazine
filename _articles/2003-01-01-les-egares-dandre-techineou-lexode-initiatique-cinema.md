@@ -5,7 +5,7 @@ rubrique: Cinéma
 annee: 2003
 magazine: n°3 1er octobre 2003
 pages: 1
-description: Compte rendu du film d’André Téchiné adaptant le roman de Gilles Perrault :
+description: Compte rendu du film d’André Téchiné adaptant le roman de Gilles Perrault – 
   « Le Garçon aux cheveux gris »
 article_pdf: 5211.pdf
 revue: L’école des lettres des lycées

@@ -1,7 +1,7 @@
 ---
 id: 4545
-title: Un personnage problématique : le pasteur Ebenezer Caudray
-rubrique: Victor Hugo : « Les Travailleurs de la mer »
+title: Un personnage problématique – le pasteur Ebenezer Caudray
+rubrique: Victor Hugo – « Les Travailleurs de la mer »
 annee: 2001
 magazine: n°8 1er janvier 2002
 pages: 8

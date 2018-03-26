@@ -1,7 +1,7 @@
 ---
 id: 2183
 title: Étude intégrale 
-rubrique: Derib : « Buddy Longway » (4) – « Seul »
+rubrique: Derib – « Buddy Longway » (4) – « Seul »
 annee: 1995
 magazine: n°9 1er avril 1996
 pages: 23

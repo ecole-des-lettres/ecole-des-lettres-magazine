@@ -6,7 +6,7 @@ annee: 1995
 magazine: n°6 1er janvier 1996
 pages: 4
 description: 
-  Présentation orale d’un livre par un élève à ses camarades et guides de préparation sur les deux titres suivants :
+  Présentation orale d’un livre par un élève à ses camarades et guides de préparation sur les deux titres suivants – 
   1. « Tout ce qu’on ne dit pas », d’Agnès Desarthe (sixième)
   2. « L’assassin est un fantôme », de François Charles (quatrième)
 article_pdf: 2123.pdf

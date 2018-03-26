@@ -1,6 +1,6 @@
 ---
 id: 813
-title: Jacques Cazotte : « Le Diable amoureux » lu par Gérard de Nerval
+title: Jacques Cazotte – « Le Diable amoureux » lu par Gérard de Nerval
 rubrique: Littérature fantastique [classes préparatoires]
 annee: 1992
 magazine: n°10 15 mars 1993
@@ -19,7 +19,7 @@ description:
   – l’art du commentaire et l’écriture d’un initié
   – l’entreprise thérapeutique de l’écriture biographique
 article_pdf: 813.pdf
-magazine_special: Cazotte : Le Diable amoureux
+magazine_special: Cazotte – Le Diable amoureux
 revue: L’école des lettres des lycées
 auteurs:
 - Sylvie Ducas-Spaës

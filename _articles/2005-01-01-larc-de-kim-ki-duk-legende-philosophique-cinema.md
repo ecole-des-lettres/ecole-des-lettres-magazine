@@ -1,6 +1,6 @@
 ---
 id: 11295
-title: « L’Arc », de Kim Ki-Duk : légende philosophique
+title: « L’Arc », de Kim Ki-Duk – légende philosophique
 rubrique: Cinéma
 annee: 2005
 magazine: n°2 15 septembre 2005

@@ -1,6 +1,6 @@
 ---
 id: 1714
-title: Guy de Maupassant : « Coco ». Étude intégrale 
+title: Guy de Maupassant – « Coco ». Étude intégrale 
 rubrique: Préparation à la seconde[3e]
 annee: 1994
 magazine: n°5 15 décembre 1994

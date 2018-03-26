@@ -1,6 +1,6 @@
 ---
 id: 3028
-title: Antoine de Saint-Exupéry : « Pilote de guerre » 
+title: Antoine de Saint-Exupéry – « Pilote de guerre » 
 rubrique: Préparation à la seconde [3e]
 annee: 1998
 magazine: n°10 15 février 1999

@@ -7,7 +7,7 @@ annee: 2014
 magazine: août 2014
 pages: 2
 description: L’important, dans le titre comme dans le contenu, est l’adjectif qui
-  sert à qualifier les expressions retenues pour ce savoureux livre : « truculent ».
+  sert à qualifier les expressions retenues pour ce savoureux livre – « truculent ».
   La richesse de la matière, l’enjouement du style n’empêchent pas la rigueur dans
   les explications, ni le souci pédagogique dans la présentation matérielle...
 article_pdf: 12815.pdf

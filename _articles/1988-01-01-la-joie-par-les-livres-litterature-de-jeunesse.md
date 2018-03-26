@@ -7,7 +7,7 @@ magazine: n°11 1er mai 1989
 pages: 2
 description: Présentation des activités et de l’histoire de « La Joie par les livres »…
 article_pdf: 104.pdf
-magazine_special: Littérature pour la jeunesse : le roman
+magazine_special: Littérature pour la jeunesse – le roman
 revue: L’école des lettres des collèges
 auteurs:
 - Claude Hubert-Ganiayre

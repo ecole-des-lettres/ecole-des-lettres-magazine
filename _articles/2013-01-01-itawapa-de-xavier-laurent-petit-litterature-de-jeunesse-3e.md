@@ -5,7 +5,7 @@ rubrique: Littérature de jeunesse [3e]
 annee: 2013
 magazine: n°1
 pages: 7
-description: La lecture d’« Itawapa » trouvera sa place dans les programmes de troisième :
+description: La lecture d’« Itawapa » trouvera sa place dans les programmes de troisième – 
   ce texte permet, en effet, de réfléchir à des situations qui se développent dans
   un pays sous les feux de l’actualité, le Brésil. Il éclairera ou complètera une
   séquence consacrée aux « romans et nouvelles porteurs d’un regard sur l’histoire

@@ -8,7 +8,7 @@ pages: 16
 description: Le cours de français est un des lieux privilégiés pour utiliser les
   nouveaux moyens d’accès au savoir. Culture littéraire et culture de l’information
   vont désormais de pair. Ainsi, l’outil informatique peut devenir l’occasion d’aborder
-  autrement les grands classiques de la littérature grâce à deux supports : le cédérom
+  autrement les grands classiques de la littérature grâce à deux supports – le cédérom
   et la banque de données télématiques. Cet article propose d’intégrer trois séances,
   recourant aux technologies de l’information et de la communication, à une séquence
   plus large – dont il n’est donné ici qu’un extrait – consacrée à un groupement de

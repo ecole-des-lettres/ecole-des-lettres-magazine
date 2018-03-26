@@ -1,6 +1,6 @@
 ---
 id: 2566
-title: Marivaux : « Le Jeu de l’amour et du hasard ». La donne des femmes dans le
+title: Marivaux – « Le Jeu de l’amour et du hasard ». La donne des femmes dans le
   jeu de l’amour et du mariage
 rubrique: Théâtre [1re]
 annee: 1996

@@ -1,12 +1,12 @@
 ---
 id: 919
-title: Georges Brassens : « La Non-Demande en mariage »
+title: Georges Brassens – « La Non-Demande en mariage »
 rubrique: Chanson [3e]
 annee: 1992
 magazine: n°14 15 juin 1993
 pages: 8
 description: 
-  Une étude lexicométrique de la chanson de Brassens à présenter aux élèves sous la forme d’une devinette : de quelle chanson s’agit-il ?
+  Une étude lexicométrique de la chanson de Brassens à présenter aux élèves sous la forme d’une devinette – de quelle chanson s’agit-il ?
   1. Approche lexicométrique
   – observation des données chiffrées
   – observation générale des formes

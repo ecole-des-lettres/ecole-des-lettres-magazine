@@ -1,6 +1,6 @@
 ---
 id: 1866
-title: Malika Ferdjoukh : « Les Joues roses ». Lecture cursive 
+title: Malika Ferdjoukh – « Les Joues roses ». Lecture cursive 
 rubrique: Littérature de jeunesse [6e-5e]
 annee: 1995
 magazine: n°1 1er septembre 1995

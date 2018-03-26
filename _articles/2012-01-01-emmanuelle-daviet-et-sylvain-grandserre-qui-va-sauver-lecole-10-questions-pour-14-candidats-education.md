@@ -1,6 +1,6 @@
 ---
 id: 12418
-title: Emmanuelle Daviet et Sylvain Grandserre : « Qui va sauver l’école ? 10 questions
+title: Emmanuelle Daviet et Sylvain Grandserre – « Qui va sauver l’école ? 10 questions
   pour 14 candidats »
 rubrique: Éducation
 annee: 2012

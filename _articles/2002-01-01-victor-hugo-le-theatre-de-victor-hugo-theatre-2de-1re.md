@@ -1,12 +1,12 @@
 ---
 id: 5180
-title: Victor Hugo : le théâtre de Victor Hugo
+title: Victor Hugo – le théâtre de Victor Hugo
 rubrique: Théâtre [2de-1re]
 annee: 2002
 magazine: n°14 juin 2003
 pages: 20
 description: 
-  Un article qui étudie de manière détaillée toutes les représentations du théâtre hugolien auxquelles ont donné lieu les célébrations du bicentenaire de sa naissance :
+  Un article qui étudie de manière détaillée toutes les représentations du théâtre hugolien auxquelles ont donné lieu les célébrations du bicentenaire de sa naissance – 
   – « Ruy-Blas », mis en scène par Brigitte Jaques à la Comédie-Française
   – « Hernani », mise en scène par Anne Delbée
   – « Un jour de légende », lecture de larges extraits de « La Légende des siècles » à la Comédie-Française

@@ -9,7 +9,7 @@ description:
   1. Quelques définitions de base sur les verbes en « -mi »
   2. Le redoublement dans le verbe
   3. Classement (au présent actif) des verbes en « -mi »
-  4. La flexion de « eimi » : « je suis »
+  4. La flexion de « eimi » – « je suis »
   5. Les désinences de la conjugaison athématique
 article_pdf: 414.pdf
 revue: L’école des lettres des collèges

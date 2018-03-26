@@ -1,6 +1,6 @@
 ---
 id: 5086
-title: « Maupassant : romans et nouvelles »
+title: « Maupassant – romans et nouvelles »
 rubrique: 
 annee: 1992
 magazine: n°13 1er juin 1993
@@ -21,10 +21,10 @@ description:
   12. Maupassant et la peinture
   13. Entretien avec Louis Forestier
   14. Bibliographie et filmographie
-  Ont participé à ce numéro :
+  Ont participé à ce numéro – 
   Anne-Marie Baron, Pierre-Yves Bourdil, Alain Boureau, Louis Forestier, Denise Le Dantec, Jacques Le Marinel, Marianne Mabille, Francis Marcoin, Dominique Millet-Gérard, Yves Stalloni, Fabrice Thumerel, Thérèse Thumerel et Pierre Tranouez
 article_pdf: 5086.pdf
-magazine_special: Maupassant : romans et nouvelles
+magazine_special: Maupassant – romans et nouvelles
 revue: L’école des lettres des lycées
 disciplines:
 - lettres

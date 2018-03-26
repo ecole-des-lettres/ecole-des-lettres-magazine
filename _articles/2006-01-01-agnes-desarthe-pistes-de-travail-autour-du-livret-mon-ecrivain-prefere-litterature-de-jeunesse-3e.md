@@ -1,6 +1,6 @@
 ---
 id: 11448
-title: Agnès Desarthe : pistes de travail autour du livret « Mon écrivain préféré » 
+title: Agnès Desarthe – pistes de travail autour du livret « Mon écrivain préféré » 
 rubrique: Littérature de jeunesse [3e]
 annee: 2006
 magazine: n°1 août-septembre 2006

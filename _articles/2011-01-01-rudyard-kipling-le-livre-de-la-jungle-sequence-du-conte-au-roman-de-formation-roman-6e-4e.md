@@ -1,6 +1,6 @@
 ---
 id: 12107
-title: Rudyard Kipling : « Le Livre de la jungle ». Séquence : du conte au roman
+title: Rudyard Kipling – « Le Livre de la jungle ». Séquence – du conte au roman
   de formation 
 rubrique: Roman [6e-4e]
 annee: 2011

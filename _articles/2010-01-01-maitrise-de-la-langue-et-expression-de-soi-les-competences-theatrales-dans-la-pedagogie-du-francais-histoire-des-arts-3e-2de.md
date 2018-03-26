@@ -1,6 +1,6 @@
 ---
 id: 12075
-title: Maîtrise de la langue et expression de soi : les compétences théâtrales dans
+title: Maîtrise de la langue et expression de soi – les compétences théâtrales dans
   la pédagogie du français 
 rubrique: Histoire des arts [3e-2de]
 annee: 2010

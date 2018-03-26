@@ -1,6 +1,6 @@
 ---
 id: 337
-title: Antonio Skarmeta : « T’es pas mort ! ». Étude intégrale (3/3)
+title: Antonio Skarmeta – « T’es pas mort ! ». Étude intégrale (3/3)
 rubrique: Histoire et monde contemporains [5e-3e]
 annee: 1990
 magazine: n°5 15 novembre 1990

@@ -1,6 +1,6 @@
 ---
 id: 12300
-title: Marcel Aymé : « La Tête des autres »
+title: Marcel Aymé – « La Tête des autres »
 rubrique: Théâtre
 annee: 2013
 magazine: avril 2013

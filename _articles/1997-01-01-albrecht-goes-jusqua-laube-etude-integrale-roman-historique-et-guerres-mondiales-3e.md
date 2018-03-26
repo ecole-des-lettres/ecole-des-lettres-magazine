@@ -1,6 +1,6 @@
 ---
 id: 2757
-title: Albrecht Goes : « Jusqu’à l’aube ». Étude intégrale 
+title: Albrecht Goes – « Jusqu’à l’aube ». Étude intégrale 
 rubrique: Roman historique et guerres mondiales [3e]
 annee: 1997
 magazine: n°14 15 mai 1998

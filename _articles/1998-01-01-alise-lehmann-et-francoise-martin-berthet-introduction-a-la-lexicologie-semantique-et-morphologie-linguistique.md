@@ -1,6 +1,6 @@
 ---
 id: 3094
-title: Alise Lehmann et Françoise Martin-Berthet : « Introduction à la lexicologie.
+title: Alise Lehmann et Françoise Martin-Berthet – « Introduction à la lexicologie.
   Sémantique et morphologie »
 rubrique: Linguistique
 annee: 1998

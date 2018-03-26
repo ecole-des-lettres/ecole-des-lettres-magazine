@@ -1,6 +1,6 @@
 ---
 id: 641
-title: Brigitte Peskine : « La télé c’est pas la vie ». Lecture cursive 
+title: Brigitte Peskine – « La télé c’est pas la vie ». Lecture cursive 
 rubrique: Littérature de jeunesse [6e-5e]
 annee: 1991
 magazine: n°5 15 novembre 1991

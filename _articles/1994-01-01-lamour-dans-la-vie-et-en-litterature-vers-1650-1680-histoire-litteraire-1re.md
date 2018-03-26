@@ -8,7 +8,7 @@ pages: 17
 description: 
   – L’assujettissement
   – Des couples sans amour
-  – La vie parallèle : passion et plaisir
+  – La vie parallèle – passion et plaisir
   – La condition des femmes
   – La domination socioculturelle des femmes
   – Le mouvement féministe
@@ -19,7 +19,7 @@ description:
   – L’amour égocentrique, volonté de puissance de l’amour de soi
   – Le donjuanisme
   – La passion tragique
-  – L’amour heureux : un cruel mirage
+  – L’amour heureux – un cruel mirage
 article_pdf: 1528.pdf
 revue: L’école des lettres des lycées
 auteurs:

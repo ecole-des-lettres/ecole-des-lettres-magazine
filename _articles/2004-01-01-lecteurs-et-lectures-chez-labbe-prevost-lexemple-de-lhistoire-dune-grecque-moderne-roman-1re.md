@@ -12,7 +12,7 @@ description: Chez Prévost, il n’y a pas de récits innocents. Au XVIe-XVIIe 
   des auditeurs importaient peu, on se trouvait ensemble plus ou moins par hasard,
   mais le principal demeurait l’histoire, la nouvelle, curieuse, véritable, comique,
   tragique ou édifiante. Avec Prévost, l’histoire reste centrale, bien sûr – que l’on
-  songe aux titres mêmes de ses romans : « Histoire du chevalier des Grieux », « Histoire
+  songe aux titres mêmes de ses romans – « Histoire du chevalier des Grieux », « Histoire
   d’une Grecque moderne » –, mais ce qui émerge de ces histoires, c’est un intérêt
   nouveau pour ce qu’on pourrait nommer la « pragmatique du récit », c’est-à-dire
   ses motivations, ses finalités, ses effets escomptés sur l’auditeur ou le lecteur.

@@ -1,6 +1,6 @@
 ---
 id: 12410
-title: Jules Verne : « Les Enfants du capitaine Grant »
+title: Jules Verne – « Les Enfants du capitaine Grant »
 rubrique: Roman daventures
 annee: 2012
 magazine: avril 2012

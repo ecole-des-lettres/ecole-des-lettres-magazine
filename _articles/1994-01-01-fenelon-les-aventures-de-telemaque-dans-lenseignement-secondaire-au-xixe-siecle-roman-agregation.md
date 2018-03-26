@@ -1,6 +1,6 @@
 ---
 id: 1702
-title: Fénelon : « Les Aventures de Télémaque » dans l’enseignement secondaire au
+title: Fénelon – « Les Aventures de Télémaque » dans l’enseignement secondaire au
   XIXe siècle
 rubrique: Roman [agrégation]
 annee: 1994
@@ -12,7 +12,7 @@ description:
   3. « Télémaque » dans les histoires de la littérature
   En annexe, un classement des extraits de « Télémaque » les plus souvent cités.
 article_pdf: 1702.pdf
-magazine_special: Fénelon : Les Aventures de Télémaque
+magazine_special: Fénelon – Les Aventures de Télémaque
 revue: L’école des lettres des lycées
 auteurs:
 - Pascal Caglar

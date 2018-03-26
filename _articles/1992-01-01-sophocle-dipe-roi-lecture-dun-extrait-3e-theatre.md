@@ -1,6 +1,6 @@
 ---
 id: 988
-title: Sophocle : « Œdipe roi ». Lecture d’un extrait [3e] 
+title: Sophocle – « Œdipe roi ». Lecture d’un extrait [3e] 
 rubrique: Théâtre
 annee: 1992
 magazine: n°4 1er novembre 1992

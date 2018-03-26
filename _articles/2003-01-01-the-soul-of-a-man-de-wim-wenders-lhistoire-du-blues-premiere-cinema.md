@@ -1,6 +1,6 @@
 ---
 id: 5266
-title: « The Soul of a Man », de Wim Wenders : l’histoire du blues, première
+title: « The Soul of a Man », de Wim Wenders – l’histoire du blues, première
 rubrique: Cinéma
 annee: 2003
 magazine: n°7 1er janvier 2004

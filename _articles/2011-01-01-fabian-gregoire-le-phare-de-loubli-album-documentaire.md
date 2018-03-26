@@ -1,6 +1,6 @@
 ---
 id: 12477
-title: Fabian Grégoire : « Le Phare de l’oubli »
+title: Fabian Grégoire – « Le Phare de l’oubli »
 rubrique: Album documentaire
 annee: 2011
 magazine: septembre 2011

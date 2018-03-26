@@ -1,7 +1,7 @@
 ---
 id: 11257
 title: « La Foire aux vanités », de Mira Nair, adapté du roman de William Thackeray
-  : modernité d’un classique
+  – modernité d’un classique
 rubrique: Cinéma
 annee: 2004
 magazine: n°9 mai 2005

@@ -1,6 +1,6 @@
 ---
 id: 5279
-title: Stefano Zuffi, Gabriele Crepaldi et Franco Lorandi : « Fresques, de Giotto
+title: Stefano Zuffi, Gabriele Crepaldi et Franco Lorandi – « Fresques, de Giotto
   à Michel-Ange »
 rubrique: Histoire des arts 
 annee: 2003

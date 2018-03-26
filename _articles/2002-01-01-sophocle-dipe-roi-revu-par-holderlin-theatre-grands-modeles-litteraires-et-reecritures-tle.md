@@ -1,6 +1,6 @@
 ---
 id: 4962
-title: Sophocle : « Œdipe-Roi » revu par Hölderlin
+title: Sophocle – « Œdipe-Roi » revu par Hölderlin
 rubrique: Théâtre, grands modèles littéraires et réécritures [Tle]
 annee: 2002
 magazine: n°10 1er mars 2003

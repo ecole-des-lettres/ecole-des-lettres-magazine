@@ -1,7 +1,7 @@
 ---
 id: 11462
-title: Stassen et Lapière : « Le Bar du vieux Français »
-rubrique: Étude de l’image : bande dessinée [4e-3e]
+title: Stassen et Lapière – « Le Bar du vieux Français »
+rubrique: Étude de l’image – bande dessinée [4e-3e]
 annee: 2006
 magazine: n°2 octobre 2006
 pages: 4

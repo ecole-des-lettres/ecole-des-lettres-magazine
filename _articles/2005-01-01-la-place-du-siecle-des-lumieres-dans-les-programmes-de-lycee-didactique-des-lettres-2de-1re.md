@@ -12,7 +12,7 @@ description: Les nouveaux programmes de lycée ont changé l’organisation des 
   les contenus. En d’autres termes, la littérature enseignée est-elle la même, ou
   assiste-t-on à une véritable révolution ? Cette question a été posée en février
   2005 par la Société française d’étude du XVIIIe siècle (SFÉDS) lors d’une table
-  ronde. Cette rencontre avait pour but de répondre à la question : « Qu’est devenu
+  ronde. Cette rencontre avait pour but de répondre à la question – « Qu’est devenu
   le XVIIIe siècle avec les nouveaux programmes ? ». Présentation de la philosophie
   des programmes et de la place qu’ils donnent au XVIIIe siècle ouvre la question,
   puis un examen de la place du XVIIIe siècle dans les manuels propose une entrée
@@ -20,8 +20,8 @@ description: Les nouveaux programmes de lycée ont changé l’organisation des 
   bien sûr), et d’autres sur celle des principaux genres. Enfin, une analyse critique
   de ces programmes et de leurs effets, menée par un enseignant de lettres du second
   degré, est suivie de la présentation des résultats d’une enquête rigoureuse menée
-  sur des listes de bac et des entretiens avec des ex-lycéens : celle-ci pourrait
-  donner la vraie – et inquiétante – réponse à cette question : « Que reste-t-il du
+  sur des listes de bac et des entretiens avec des ex-lycéens – celle-ci pourrait
+  donner la vraie – et inquiétante – réponse à cette question – « Que reste-t-il du
   XVIIIe siècle ? ».
 article_pdf: 11356.pdf
 revue: L’école des lettres des lycées

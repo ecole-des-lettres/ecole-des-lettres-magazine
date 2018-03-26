@@ -6,8 +6,8 @@ annee: 1996
 magazine: 1996
 pages: 67
 description: 
-  Dans les programmes de sixième, la grammaire, le lexique et l’orthographe sont considérés comme des « outils de la langue pour la lecture, l’écriture et la pratique de l’oral ». En général, les tentatives pour lier la grammaire et la lecture aboutissent à un simple placage : on choisit un texte pour illustrer un point de grammaire particulier, au lieu d’étudier un texte grâce à la grammaire. Cette séquence propose une autre approche grâce à des exercices d’expression orale et écrite autour d’extraits de « Topaze », de Marcel Pagnol, de « Tintin et les Picaros », d’Hergé, et du « Médecin malgré lui », de Molière, etc.
-  Déroulement de la séquence : sept séances.
+  Dans les programmes de sixième, la grammaire, le lexique et l’orthographe sont considérés comme des « outils de la langue pour la lecture, l’écriture et la pratique de l’oral ». En général, les tentatives pour lier la grammaire et la lecture aboutissent à un simple placage – on choisit un texte pour illustrer un point de grammaire particulier, au lieu d’étudier un texte grâce à la grammaire. Cette séquence propose une autre approche grâce à des exercices d’expression orale et écrite autour d’extraits de « Topaze », de Marcel Pagnol, de « Tintin et les Picaros », d’Hergé, et du « Médecin malgré lui », de Molière, etc.
+  Déroulement de la séquence – sept séances.
 article_pdf: 2414.pdf
 revue: L’école des lettres des collèges
 auteurs:

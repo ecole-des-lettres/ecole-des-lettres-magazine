@@ -11,7 +11,7 @@ description: L’enseignant et le linguiste qui s’intéressent à l’orthogra
   part, que sa rationalité, sa cohérence n’apparaissent qu’à la condition de prendre
   en compte ses trois dimensions, le plurisystème décrit par Nina Catach. Ainsi, fonder
   les apprentissages sur une analyse des spécificités de l’orthographe française,
-  c’est développer les mots clés suivants : « plurisystème », « fréquence » et « méthode ».
+  c’est développer les mots clés suivants – « plurisystème », « fréquence » et « méthode ».
 article_pdf: 11753.pdf
 revue: L’école des lettres des collèges
 auteurs:

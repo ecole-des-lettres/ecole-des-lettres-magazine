@@ -1,6 +1,6 @@
 ---
 id: 2307
-title: Martial : un exemple de littérature satirique 
+title: Martial – un exemple de littérature satirique 
 rubrique: Latin [3e]
 annee: 1996
 magazine: n°12 1er mai 1997

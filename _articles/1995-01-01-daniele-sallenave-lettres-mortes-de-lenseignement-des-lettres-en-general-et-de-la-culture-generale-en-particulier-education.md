@@ -1,6 +1,6 @@
 ---
 id: 1939
-title: Danièle Sallenave : « Lettres mortes. De l’enseignement des lettres en général
+title: Danièle Sallenave – « Lettres mortes. De l’enseignement des lettres en général
   et de la culture générale en particulier »
 rubrique: Éducation
 annee: 1995

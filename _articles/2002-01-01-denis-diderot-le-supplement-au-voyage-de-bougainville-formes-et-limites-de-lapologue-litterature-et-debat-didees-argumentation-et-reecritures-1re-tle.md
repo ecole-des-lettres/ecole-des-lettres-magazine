@@ -1,13 +1,13 @@
 ---
 id: 4606
-title: Denis Diderot : le « Supplément au voyage de Bougainville » : formes et limites
+title: Denis Diderot – le « Supplément au voyage de Bougainville » – formes et limites
   de l’apologue 
 rubrique: Littérature et débat d’idées. Argumentation et réécritures [1re-Tle]
 annee: 2002
 magazine: 2002
 pages: 41
 description: 
-  Le « Supplément au voyage de Bougainville » est une œuvre complexe et attachante, qui peut intéresser aussi bien le professeur de français de première que celui de « littérature » en terminale. Sa relative brièveté la rend abordable dans beaucoup de classes, d’autant que son étude permet de croiser trois objets d’étude du programme de première :
+  Le « Supplément au voyage de Bougainville » est une œuvre complexe et attachante, qui peut intéresser aussi bien le professeur de français de première que celui de « littérature » en terminale. Sa relative brièveté la rend abordable dans beaucoup de classes, d’autant que son étude permet de croiser trois objets d’étude du programme de première – 
   – un mouvement littéraire et culturel français et européen du XVIe au XVIIIe siècle (les Lumières) ;
   – formes et fonctions de l’essai, du dialogue et de l’apologue ;
   – et, pour la série L, les réécritures, dans la perspective d’une réflexion sur l’intertextualité et la singularité des textes.

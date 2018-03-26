@@ -1,6 +1,6 @@
 ---
 id: 11328
-title: « Et si c’était vrai », de Mark Waters adapté du livre de Marc Lévy : du best-seller
+title: « Et si c’était vrai », de Mark Waters adapté du livre de Marc Lévy – du best-seller
   à l’écran
 rubrique: Cinéma
 annee: 2005

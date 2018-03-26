@@ -8,15 +8,15 @@ pages: 16
 description: 
   Comment faire entrer les collections pour adolescents dans le système scolaire ?
   1. Des livres qui parlent de l’adolescence
-  – roman d’adolescence : roman d’initiation ?
+  – roman d’adolescence – roman d’initiation ?
   – vrais ou faux romans d’initiation
-  – du mal de vivre à l’insertion dans la société : le témoignage des romans : « Mal dans sa peau », de Renate Welsch ; « Un pacte avec le diable », de Thierry Lenain ; « La Fugue de Diane », de Caroline Crane ; « Ganesh », de Malcolm Bosse ; « La Dernière Chance », de Robert Newton Peck ; « La Tue-mouche », de Jean-Hugues Malineau
+  – du mal de vivre à l’insertion dans la société – le témoignage des romans – « Mal dans sa peau », de Renate Welsch ; « Un pacte avec le diable », de Thierry Lenain ; « La Fugue de Diane », de Caroline Crane ; « Ganesh », de Malcolm Bosse ; « La Dernière Chance », de Robert Newton Peck ; « La Tue-mouche », de Jean-Hugues Malineau
   – des constantes ?
   2. Démarches d’entrée dans les livres
   – le choix des livres
   – restitution et travail de tri
   – dernière lecture sous consigne
-  L’article est suivi d’un questionnaire : « C’est quoi l’adolescence? »
+  L’article est suivi d’un questionnaire – « C’est quoi l’adolescence? »
 article_pdf: 875.pdf
 revue: L’école des lettres des collèges
 auteurs:

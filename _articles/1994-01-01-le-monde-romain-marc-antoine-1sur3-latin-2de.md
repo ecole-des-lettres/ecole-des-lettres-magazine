@@ -23,7 +23,7 @@ disciplines:
 niveau_etudes:
 - seconde
 programmes:
-- latin - le monde romain : mare nostrum
+- latin - le monde romain – mare nostrum
 siecles:
 - Antiquité
 ---

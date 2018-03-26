@@ -1,6 +1,6 @@
 ---
 id: 1114
-title: Marie-Aude Murail : « Ils n’ont pas la lecture »
+title: Marie-Aude Murail – « Ils n’ont pas la lecture »
 rubrique: Littérature de jeunesse [CM-3e]
 annee: 1993
 magazine: n°1 7 septembre 1993

@@ -1,6 +1,6 @@
 ---
 id: 12326
-title: Jean-Pierre Martin : « L’autre vie d’Orwell »
+title: Jean-Pierre Martin – « L’autre vie d’Orwell »
 rubrique: Histoire littéraire
 annee: 2013
 magazine: février 2013

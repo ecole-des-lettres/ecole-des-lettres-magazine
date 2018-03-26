@@ -1,6 +1,6 @@
 ---
 id: 11750
-title: Denis Diderot : « Jacques le Fataliste »
+title: Denis Diderot – « Jacques le Fataliste »
 rubrique: Littérature et débat d’idées [Tle]
 annee: 1989
 magazine: 

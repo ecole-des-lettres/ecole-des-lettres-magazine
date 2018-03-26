@@ -1,6 +1,6 @@
 ---
 id: 21
-title: Jean-Paul Sartre : Les « Carnets de la drôle de guerre »
+title: Jean-Paul Sartre – Les « Carnets de la drôle de guerre »
 rubrique: Autobiographie [1re]
 annee: 1985
 magazine: n°11 15 mars 1986

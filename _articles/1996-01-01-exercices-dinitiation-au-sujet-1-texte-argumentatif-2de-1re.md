@@ -6,7 +6,7 @@ annee: 1996
 magazine: 1996
 pages: 49
 description: Cette première série d’exercices convient tout particulièrement aux
-  élèves de seconde, voire de première en difficulté : à partir de textes accessibles,
+  élèves de seconde, voire de première en difficulté – à partir de textes accessibles,
   qu’ils soient littéraires ou non, il s’agit d’exercer et de développer leur faculté
   de compréhension, leur compétence linguistique, leurs connaissances stylistiques
   ou théoriques, leur capacité d’élaborer une argumentation en quelques paragraphes

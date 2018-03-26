@@ -1,6 +1,6 @@
 ---
 id: 12413
-title: John Williams : « Stoner », traduit de l’américain par Anna Gavalda
+title: John Williams – « Stoner », traduit de l’américain par Anna Gavalda
 rubrique: Roman contemporain
 annee: 2012
 magazine: avril 2012

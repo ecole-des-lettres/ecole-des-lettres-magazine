@@ -1,6 +1,6 @@
 ---
 id: 1303
-title: Une expérience : le club d’actualité
+title: Une expérience – le club d’actualité
 rubrique: Histoire [1re-Tle]
 annee: 1993
 magazine: n°3 15 octobre 1993

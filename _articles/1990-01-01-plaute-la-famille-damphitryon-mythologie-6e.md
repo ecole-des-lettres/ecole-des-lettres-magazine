@@ -1,6 +1,6 @@
 ---
 id: 187
-title: Plaute : la famille d’Amphitryon 
+title: Plaute – la famille d’Amphitryon 
 rubrique: Mythologie [6e]
 annee: 1990
 magazine: n°11 1er mai 1991

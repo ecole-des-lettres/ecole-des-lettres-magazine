@@ -1,6 +1,6 @@
 ---
 id: 11358
-title: Voltaire : « Lettres philosophiques »
+title: Voltaire – « Lettres philosophiques »
 rubrique: Dissertation [1re]
 annee: 2005
 magazine: n°9 mars 2006

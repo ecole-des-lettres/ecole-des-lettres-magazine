@@ -1,6 +1,6 @@
 ---
 id: 70
-title: Paul Claudel : « Connaissance de l’Est »
+title: Paul Claudel – « Connaissance de l’Est »
 rubrique: Poésie [1re-Tle] 
 annee: 1987
 magazine: n°12 15 avril 1988

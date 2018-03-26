@@ -1,6 +1,6 @@
 ---
 id: 11220
-title: Poésie et réalité : commentaires et dissertation
+title: Poésie et réalité – commentaires et dissertation
 rubrique: Poésie [1re]
 annee: 2004
 magazine: n°7 mars 2005

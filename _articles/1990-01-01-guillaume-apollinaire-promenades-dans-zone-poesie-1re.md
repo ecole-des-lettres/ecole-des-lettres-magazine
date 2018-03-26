@@ -1,6 +1,6 @@
 ---
 id: 330
-title: Guillaume Apollinaire : promenades dans « Zone »
+title: Guillaume Apollinaire – promenades dans « Zone »
 rubrique: Poésie [1re]
 annee: 1990
 magazine: n°5 15 novembre 1990

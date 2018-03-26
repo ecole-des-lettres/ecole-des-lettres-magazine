@@ -1,6 +1,6 @@
 ---
 id: 3308
-title: Victor Hugo : le bestiaire des « Châtiments » 
+title: Victor Hugo – le bestiaire des « Châtiments » 
 rubrique: Poésie [1re]
 annee: 1998
 magazine: n°6 1er novembre 1998

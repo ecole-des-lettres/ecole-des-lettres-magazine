@@ -1,6 +1,6 @@
 ---
 id: 5081
-title: « Littérature pour la jeunesse : le roman »
+title: « Littérature pour la jeunesse – le roman »
 rubrique: 
 annee: 1988
 magazine: n°11 1er mai 1989
@@ -28,10 +28,10 @@ description:
   – le rôle du CDI 
   – la « Joie par les livres »
   5. Bibliographie
-  Ont participé à ce numéro :
+  Ont participé à ce numéro – 
   Robert Boudet, Arlette Bouloumié, Geneviève Brisac, Georges Cesbron, Christiane Étévé, Jean Fabre, Claude Hubert, Arthur Hubschmid, Jean Joubert, André Labarrère, Denise Laboureau, Odile Lambert, Christian Loock, Francine de Martinoir, Susie Morgenstern, Marie-Aude Murail, Jean Perrot et Christian Poslaniec
 article_pdf: 5081.pdf
-magazine_special: Littérature pour la jeunesse : le roman
+magazine_special: Littérature pour la jeunesse – le roman
 revue: L’école des lettres des collèges
 disciplines:
 - documentation

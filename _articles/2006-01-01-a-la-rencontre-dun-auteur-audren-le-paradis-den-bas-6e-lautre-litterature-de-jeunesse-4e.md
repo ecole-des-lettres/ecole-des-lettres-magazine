@@ -1,6 +1,6 @@
 ---
 id: 11712
-title: À la rencontre d’un auteur : Audren. « Le Paradis d’en bas » (6e); « L’autre
+title: À la rencontre d’un auteur – Audren. « Le Paradis d’en bas » (6e); « L’autre
   »
 rubrique: Littérature de jeunesse [4e]
 annee: 2006

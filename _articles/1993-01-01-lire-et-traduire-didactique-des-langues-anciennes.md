@@ -10,7 +10,7 @@ description:
   2. Méthode de traduction
   3. Comment entraîner à la compréhension ?
 article_pdf: 1167.pdf
-magazine_special: Langues anciennes : didactique
+magazine_special: Langues anciennes – didactique
 revue: L’école des lettres des lycées
 auteurs:
 - Klaus Sallmann

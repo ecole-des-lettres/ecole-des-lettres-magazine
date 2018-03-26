@@ -7,20 +7,20 @@ magazine: n°12-13 1er juin 1994
 pages: 8
 description: 
   1. Le contexte historique
-  – « Capitaine Sabre » : l’histoire au service de l’aventure
-  – « Corto Maltese » : l’aventure au service de l’histoire
+  – « Capitaine Sabre » – l’histoire au service de l’aventure
+  – « Corto Maltese » – l’aventure au service de l’histoire
   2. Le contexte géographique
-  – Sabre : prisonnier de l’Asie du Sud-Est
-  – Corto : un marin sans port d’attache
-  – Sabre : le surnaturel pour servir l’action
-  – Corto : le surnaturel comme pratique initiatique et comme identité
+  – Sabre – prisonnier de l’Asie du Sud-Est
+  – Corto – un marin sans port d’attache
+  – Sabre – le surnaturel pour servir l’action
+  – Corto – le surnaturel comme pratique initiatique et comme identité
   – de l’utilisation de lieux imaginaires
   3. La personnalité de l’aventurier
-  – Sabre : le héros modèle
-  – Corto : la quête d’un monde perdu
+  – Sabre – le héros modèle
+  – Corto – la quête d’un monde perdu
   – des personnages secondaires au service de Sabre
-  – Corto : un aventurier entouré de figures symboliques
-  – Sabre : le démon de l’aventure
+  – Corto – un aventurier entouré de figures symboliques
+  – Sabre – le démon de l’aventure
   – l’aventure spirituelle de Corto
   4. Sabre, Corto, deux lectures complémentaires
   L’article est suivi d’une bibliographie.

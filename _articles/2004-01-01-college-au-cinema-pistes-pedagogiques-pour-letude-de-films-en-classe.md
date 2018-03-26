@@ -1,6 +1,6 @@
 ---
 id: 11072
-title: « Collège au cinéma » : pistes pédagogiques pour l’étude de films en classe
+title: « Collège au cinéma » – pistes pédagogiques pour l’étude de films en classe
 rubrique: 
 annee: 2004
 magazine: n°1 août-septembre 2004

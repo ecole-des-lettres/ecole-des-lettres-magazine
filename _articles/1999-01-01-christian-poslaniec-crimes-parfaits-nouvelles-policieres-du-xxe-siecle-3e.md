@@ -1,6 +1,6 @@
 ---
 id: 3597
-title: Christian Poslaniec : « Crimes parfaits »
+title: Christian Poslaniec – « Crimes parfaits »
 rubrique: Nouvelles policières du XXe siècle [3e]
 annee: 1999
 magazine: 1999

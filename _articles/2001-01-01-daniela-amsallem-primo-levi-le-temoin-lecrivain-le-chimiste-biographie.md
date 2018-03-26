@@ -1,6 +1,6 @@
 ---
 id: 4551
-title: Daniela Amsallem : « Primo Levi, le témoin, l’écrivain, le chimiste »
+title: Daniela Amsallem – « Primo Levi, le témoin, l’écrivain, le chimiste »
 rubrique: Biographie
 annee: 2001
 magazine: n°8 1er janvier 2002

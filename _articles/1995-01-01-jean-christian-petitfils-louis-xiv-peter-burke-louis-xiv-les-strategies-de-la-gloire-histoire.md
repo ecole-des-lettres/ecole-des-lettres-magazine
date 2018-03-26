@@ -1,6 +1,6 @@
 ---
 id: 2092
-title: Jean-Christian Petitfils : « Louis XIV ». Peter Burke : « Louis XIV, les stratégies
+title: Jean-Christian Petitfils – « Louis XIV ». Peter Burke – « Louis XIV, les stratégies
   de la gloire »
 rubrique: Histoire
 annee: 1995

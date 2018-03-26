@@ -1,6 +1,6 @@
 ---
 id: 4476
-title: André Malraux : la question de l’exactitude des faits dans « Le Miroir des
+title: André Malraux – la question de l’exactitude des faits dans « Le Miroir des
   limbes »
 rubrique: Autobiographie [1re]
 annee: 2001

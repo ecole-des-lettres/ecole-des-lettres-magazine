@@ -13,7 +13,7 @@ description:
   – étude des représentations figurées
   Le texte tiré du manuel, le texte d’Ovide et le vocabulaire sont donnés en annexe.
 article_pdf: 1173.pdf
-magazine_special: Langues anciennes : didactique
+magazine_special: Langues anciennes – didactique
 revue: L’école des lettres des lycées
 auteurs:
 - Marguerite Minonzio

@@ -9,7 +9,7 @@ description: « L’Île des esclaves », qui fut jouée pour la première foi
   au Théâtre des Italiens, connut d’emblée un succès considérable, et la critique
   de l’époque reçut cette pièce comme une comédie morale. En plaçant les serviteurs
   dans les conditions réelles de la pratique du pouvoir, Marivaux met en scène une
-  situation inédite qui problématise la construction psychologique de la pièce : les
+  situation inédite qui problématise la construction psychologique de la pièce – les
   serviteurs, fascinés par leurs anciens maîtres, n’ont en fait qu’un seul désir,
   celui d’exercer à leur tour une souveraineté oppressive. Cet article se propose
   d’analyser la logique fantasmatique propre à l’esclave qui détermine le sens de

@@ -1,6 +1,6 @@
 ---
 id: 11666
-title: Jean-François Chabas : « L’Eau verte ». Lecture cursive 
+title: Jean-François Chabas – « L’Eau verte ». Lecture cursive 
 rubrique: Littérature de jeunesse et fantastique [6e-5e]
 annee: 2006
 magazine: 

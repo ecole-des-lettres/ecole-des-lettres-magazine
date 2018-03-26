@@ -1,6 +1,6 @@
 ---
 id: 11155
-title: La Bruyère : « Caractères ». Excès et juste milieu
+title: La Bruyère – « Caractères ». Excès et juste milieu
 rubrique: Littérature et débat d’idées [Tle]
 annee: 2003
 magazine: 2004

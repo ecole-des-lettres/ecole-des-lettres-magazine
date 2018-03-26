@@ -1,6 +1,6 @@
 ---
 id: 11698
-title: Colas Gutman : « Les Chaussettes de l’archiduchesse ». Lecture cursive autour
+title: Colas Gutman – « Les Chaussettes de l’archiduchesse ». Lecture cursive autour
   des contes
 rubrique: Littérature de jeunesse [CM-6e] 
 annee: 2006

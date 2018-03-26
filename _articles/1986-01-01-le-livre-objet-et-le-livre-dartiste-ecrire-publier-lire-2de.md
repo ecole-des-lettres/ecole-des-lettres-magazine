@@ -13,7 +13,7 @@ description:
   5. L’écriture artiste
   L’article est suivi d’une bibliographie.
 article_pdf: 55.pdf
-magazine_special: Livre : le livre entre l’imaginaire et le réel
+magazine_special: Livre – le livre entre l’imaginaire et le réel
 revue: L’école des lettres des lycées
 auteurs:
 - Michel Erman

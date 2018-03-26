@@ -1,6 +1,6 @@
 ---
 id: 11283
-title: « Peindre ou faire l’amour », d’Arnaud et Jean-Marie Larrieu : sur les traces
+title: « Peindre ou faire l’amour », d’Arnaud et Jean-Marie Larrieu – sur les traces
   de Resnais et de Pasolini
 rubrique: Cinéma
 annee: 2005

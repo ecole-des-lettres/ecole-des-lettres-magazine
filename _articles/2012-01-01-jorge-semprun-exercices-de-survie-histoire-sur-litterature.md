@@ -1,6 +1,6 @@
 ---
 id: 12356
-title: Jorge Semprun : « Exercices de survie »
+title: Jorge Semprun – « Exercices de survie »
 rubrique: Histoire / Littérature
 annee: 2012
 magazine: décembre 2012

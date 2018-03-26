@@ -1,6 +1,6 @@
 ---
 id: 12243
-title: Arnaud Cathrine : « Je ne retrouve personne »
+title: Arnaud Cathrine – « Je ne retrouve personne »
 rubrique: Roman contemporain
 annee: 2013
 magazine: septembre 2013

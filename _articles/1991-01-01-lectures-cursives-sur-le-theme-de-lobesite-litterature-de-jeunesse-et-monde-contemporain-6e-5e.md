@@ -6,7 +6,7 @@ annee: 1991
 magazine: n°11 1er mai 1992
 pages: 4
 description: 
-  Un article sur l’image du « gros » dans la littérature jeunesse à travers une sélection de titres :
+  Un article sur l’image du « gros » dans la littérature jeunesse à travers une sélection de titres – 
   – « Arthur chez les Indiens d’Amazonie », de Philippe de Baleine
   – « Un été dans la tourmente », de Suzanne Sens
   – « Le Trésor de mon père », de Marie-Aude Murail

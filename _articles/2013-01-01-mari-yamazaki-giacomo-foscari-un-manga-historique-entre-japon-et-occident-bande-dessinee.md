@@ -1,6 +1,6 @@
 ---
 id: 12241
-title: Mari Yamazaki : « Giacomo Foscari », un manga historique entre Japon et Occident
+title: Mari Yamazaki – « Giacomo Foscari », un manga historique entre Japon et Occident
 rubrique: Bande dessinée
 annee: 2013
 magazine: septembre 2013

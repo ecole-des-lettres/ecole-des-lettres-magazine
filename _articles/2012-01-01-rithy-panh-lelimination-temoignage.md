@@ -1,6 +1,6 @@
 ---
 id: 12417
-title: Rithy Panh : « L’Élimination »
+title: Rithy Panh – « L’Élimination »
 rubrique: Témoignage
 annee: 2012
 magazine: mars 2012

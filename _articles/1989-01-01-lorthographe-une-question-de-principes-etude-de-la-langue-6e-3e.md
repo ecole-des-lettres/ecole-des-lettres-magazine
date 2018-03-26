@@ -6,7 +6,7 @@ annee: 1989
 magazine: n°12 1989-1990
 pages: 7
 description: La forme graphique d’un mot, son orthographe, est la résultante de nombreux
-  facteurs : linguistiques (par l’histoire de ce mot et le « système » actuel), mais
+  facteurs – linguistiques (par l’histoire de ce mot et le « système » actuel), mais
   aussi sociaux (du fait des décisions prises par diverses institutions au cours des
   siècles) et idéologiques (la représentation que les usagers, et tout d’abord les
   enseignants, se font de leur écriture influant largement sur les possibilités d’évolution

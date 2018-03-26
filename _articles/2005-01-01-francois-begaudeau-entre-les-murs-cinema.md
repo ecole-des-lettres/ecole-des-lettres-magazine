@@ -1,6 +1,6 @@
 ---
 id: 11548
-title: François Bégaudeau : « Entre les murs »
+title: François Bégaudeau – « Entre les murs »
 rubrique: Cinéma
 annee: 2005
 magazine: n°11 mai 2006

@@ -1,6 +1,6 @@
 ---
 id: 5351
-title: Théorie et pratique du théâtre au XVIIe siècle : étude de la réception du
+title: Théorie et pratique du théâtre au XVIIe siècle – étude de la réception du
   personnage de Polyxène
 rubrique: Théâtre [2de-1re]
 annee: 2003

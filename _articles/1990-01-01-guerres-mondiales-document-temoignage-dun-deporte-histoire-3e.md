@@ -1,6 +1,6 @@
 ---
 id: 412
-title: Guerres mondiales. Document : témoignage d’un déporté 
+title: Guerres mondiales. Document – témoignage d’un déporté 
 rubrique: Histoire [3e]
 annee: 1990
 magazine: n°8 1er février 1991
@@ -10,7 +10,7 @@ description:
   – de Compiègne à Buchenwald
   – le camp de Buchenwald
   – comment survivre ? bombardements
-  – avril 1945 : la marche de la mort
+  – avril 1945 – la marche de la mort
   – la Libération
 article_pdf: 412.pdf
 revue: L’école des lettres des collèges

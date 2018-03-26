@@ -1,6 +1,6 @@
 ---
 id: 3052
-title: Jean-Jacques Greif : « Moi, Marilyn ». Lecture cursive 
+title: Jean-Jacques Greif – « Moi, Marilyn ». Lecture cursive 
 rubrique: Littérature de jeunesse et biographie [3e]
 annee: 1998
 magazine: n°11 15 mars 1999

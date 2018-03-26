@@ -1,13 +1,13 @@
 ---
 id: 3623
-title: L’autobiographie : apprendre à « s’écrire » soi-même. Séquence 
+title: L’autobiographie – apprendre à « s’écrire » soi-même. Séquence 
 rubrique: De la lecture à l’expression de soi [3e]
 annee: 1999
 magazine: n°4 1er octobre 1999
 pages: 47
 description: 
   Les programmes invitent à faire travailler les élèves sur « l’expression de soi, [celle-ci pouvant] se manifester dans le récit ou l’argumentation » et à « mettre l’accent sur l’implication et l’engagement (opinion, conviction, émotion), ou au contraire la distanciation et le détachement (objectivité, distance critique, humour) ». C’est ce que propose cette séquence, qui s’accompagne d’une ouverture vers la peinture. Parallèlement, on pourra demander aux élèves d’écrire quelques textes sur eux-mêmes qui seront affichés en classe ou qui feront l’objet d’une lecture à voix haute. Les textes, illustrés de photographies ou de collages, pourront être l’objet d’un travail en commun avec le professeur d’arts plastiques.
-  Déroulement de la séquence : neuf séances.
+  Déroulement de la séquence – neuf séances.
 article_pdf: 3623.pdf
 revue: L’école des lettres des collèges
 auteurs:

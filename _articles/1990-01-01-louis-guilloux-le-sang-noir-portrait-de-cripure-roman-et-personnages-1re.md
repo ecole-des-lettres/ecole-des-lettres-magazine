@@ -1,6 +1,6 @@
 ---
 id: 179
-title: Louis Guilloux : « Le Sang noir ». Portrait de Cripure 
+title: Louis Guilloux – « Le Sang noir ». Portrait de Cripure 
 rubrique: Roman et personnages [1re]
 annee: 1990
 magazine: n°11 1er avril 1991

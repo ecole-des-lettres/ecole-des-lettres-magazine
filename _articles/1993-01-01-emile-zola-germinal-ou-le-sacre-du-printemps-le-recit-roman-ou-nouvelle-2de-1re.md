@@ -1,6 +1,6 @@
 ---
 id: 1326
-title: Émile Zola : « Germinal » ou le sacre du printemps 
+title: Émile Zola – « Germinal » ou le sacre du printemps 
 rubrique: Le récit (roman ou nouvelle) [2de-1re]
 annee: 1993
 magazine: n°4 1er novembre 1993
@@ -12,7 +12,7 @@ description:
   4. Étienne, « turannos » et « pharmakos » de la mine
   5. La souillure
 article_pdf: 1326.pdf
-magazine_special: Zola : Germinal
+magazine_special: Zola – Germinal
 revue: L’école des lettres des lycées
 auteurs:
 - Béatrice Desgranges

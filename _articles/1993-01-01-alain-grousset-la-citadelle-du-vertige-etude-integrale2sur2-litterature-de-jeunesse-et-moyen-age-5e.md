@@ -1,6 +1,6 @@
 ---
 id: 1311
-title: Alain Grousset : « La Citadelle du vertige ». Étude intégrale (2/2)
+title: Alain Grousset – « La Citadelle du vertige ». Étude intégrale (2/2)
 rubrique: Littérature de jeunesse et Moyen Âge [5e]
 annee: 1993
 magazine: n°4 1er novembre 1993

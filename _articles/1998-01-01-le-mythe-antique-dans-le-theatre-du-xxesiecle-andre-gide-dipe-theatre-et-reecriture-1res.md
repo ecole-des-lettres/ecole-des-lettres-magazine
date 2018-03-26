@@ -1,6 +1,6 @@
 ---
 id: 3326
-title: Le mythe antique dans le théâtre du XXe siècle. André Gide : « Œdipe » 
+title: Le mythe antique dans le théâtre du XXe siècle. André Gide – « Œdipe » 
 rubrique: Théâtre et réécriture [1re]s
 annee: 1998
 magazine: n°7 1er décembre 1998

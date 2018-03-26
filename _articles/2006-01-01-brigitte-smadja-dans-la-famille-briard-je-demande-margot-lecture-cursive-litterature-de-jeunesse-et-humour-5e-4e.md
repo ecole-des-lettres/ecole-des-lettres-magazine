@@ -1,6 +1,6 @@
 ---
 id: 11723
-title: Brigitte Smadja : « Dans la famille Briard, je demande… Margot ». Lecture
+title: Brigitte Smadja – « Dans la famille Briard, je demande… Margot ». Lecture
   cursive 
 rubrique: Littérature de jeunesse et humour [5e-4e]
 annee: 2006

@@ -1,6 +1,6 @@
 ---
 id: 4156
-title: Honoré de Balzac : secret et dissimulation dans « L’Interdiction »
+title: Honoré de Balzac – secret et dissimulation dans « L’Interdiction »
 rubrique: Nouvelles [2de]
 annee: 2000
 magazine: n°9 15 janvier 2001

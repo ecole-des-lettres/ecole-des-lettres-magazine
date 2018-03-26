@@ -1,6 +1,6 @@
 ---
 id: 2437
-title: André Malraux : « L’Espoir ». Étude intégrale (1/2)
+title: André Malraux – « L’Espoir ». Étude intégrale (1/2)
 rubrique: Roman [1re]
 annee: 1996
 magazine: n°4 1er novembre 1996

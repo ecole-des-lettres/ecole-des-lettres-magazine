@@ -1,6 +1,6 @@
 ---
 id: 2406
-title: Béatrix Beck : « L’Île dans une bassine d’eau ». Lecture cursive 
+title: Béatrix Beck – « L’Île dans une bassine d’eau ». Lecture cursive 
 rubrique: Littérature de jeunesse et contes [6e]
 annee: 1996
 magazine: n°3 15 octobre 1996

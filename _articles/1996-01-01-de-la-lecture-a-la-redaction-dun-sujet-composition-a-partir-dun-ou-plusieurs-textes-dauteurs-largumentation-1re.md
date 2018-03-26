@@ -1,6 +1,6 @@
 ---
 id: 2263
-title: De la lecture à la rédaction d’un sujet : composition à partir d’un ou plusieurs
+title: De la lecture à la rédaction d’un sujet – composition à partir d’un ou plusieurs
   textes d’auteurs 
 rubrique: L’argumentation [1re]
 annee: 1996
@@ -8,7 +8,7 @@ magazine: n°11 15 mars 1997
 pages: 26
 description: 
   Préparation à l’agrégation interne en liaison avec le programme de première.
-  L’argumentation chez :
+  L’argumentation chez – 
   – Montesquieu, « Lettres persanes »
   – Diderot, « Lettre sur les aveugles à l’usage de ceux qui voient »
   – Rousseau, « Discours sur les sciences et les arts »

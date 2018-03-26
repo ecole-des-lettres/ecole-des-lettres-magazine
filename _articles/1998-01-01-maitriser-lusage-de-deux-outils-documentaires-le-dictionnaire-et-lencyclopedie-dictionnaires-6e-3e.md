@@ -1,6 +1,6 @@
 ---
 id: 3108
-title: Maîtriser l’usage de deux outils documentaires : le dictionnaire et l’encyclopédie
+title: Maîtriser l’usage de deux outils documentaires – le dictionnaire et l’encyclopédie
 rubrique: Dictionnaires [6e-3e]
 annee: 1998
 magazine: n°12 avril 1999

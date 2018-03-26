@@ -1,6 +1,6 @@
 ---
 id: 11282
-title: « Paradise now », de Hany Abu-Assad : comment on devient « kamikaze »
+title: « Paradise now », de Hany Abu-Assad – comment on devient « kamikaze »
 rubrique: Cinéma
 annee: 2005
 magazine: n°1 août-septembre 2005

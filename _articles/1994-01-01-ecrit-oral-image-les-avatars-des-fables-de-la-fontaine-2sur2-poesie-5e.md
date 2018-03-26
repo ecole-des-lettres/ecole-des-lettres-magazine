@@ -1,13 +1,13 @@
 ---
 id: 1758
-title: Écrit, oral, image : les avatars des « Fables » de La Fontaine (2/2)
+title: Écrit, oral, image – les avatars des « Fables » de La Fontaine (2/2)
 rubrique: Poésie [5e]
 annee: 1994
 magazine: n°6 1er janvier 1995
 pages: 9
 description: 
   Une séquence de travail de six semaines autour des « Fables » de La Fontaine…
-  4. Analyse de l’audiovisuel : une fable géométrique (autour de la cassette « Les Fables géométriques », éditions René Château)
+  4. Analyse de l’audiovisuel – une fable géométrique (autour de la cassette « Les Fables géométriques », éditions René Château)
   – découverte de la fable
   – un message audiovisuel
   – ce que racontent les images…

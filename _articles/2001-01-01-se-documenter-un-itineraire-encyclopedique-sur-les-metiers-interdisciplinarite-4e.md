@@ -1,6 +1,6 @@
 ---
 id: 4244
-title: Se documenter : un itinéraire encyclopédique sur les métiers 
+title: Se documenter – un itinéraire encyclopédique sur les métiers 
 rubrique: Interdisciplinarité [4e]
 annee: 2001
 magazine: n°11 mars 2002
@@ -8,15 +8,15 @@ pages: 13
 description: Les travaux croisés, prémices des travaux personnels encadrés au lycée,
   accordent une large place à la recherche documentaire et à la réalisation de dossiers
   de ce type. Au seuil du cycle d’orientation, appeler l’attention des élèves sur
-  les métiers d’art, constitue une entrée intéressante dans le monde professionnel :
+  les métiers d’art, constitue une entrée intéressante dans le monde professionnel – 
   l’élève construit lui-même sa documentation sur des métiers qui, plus que les autres,
   naissent, changent, disparaissent. L’« Encyclopédie » de Diderot et d’Alembert,
   publiée sur cédérom avec ses deux mille huit cents planches, est particulièrement
   bien adaptée à cette réflexion. Selon l’ampleur que l’on veut donner au dossier
-  documentaire, le thème peut mobiliser nombre de disciplines et de partenaires :
+  documentaire, le thème peut mobiliser nombre de disciplines et de partenaires – 
   histoire, français, arts visuels et technologie, éducation musicale, documentaliste,
   conseillère d’orientation, artisans ou artistes. L’objectif de ce travail croisé
-  est double : renouveler, par le recours à la version numérisée de l’« Encyclopédie »,
+  est double – renouveler, par le recours à la version numérisée de l’« Encyclopédie »,
   le rapport aux activités documentaires (la prise et le traitement de l’information,
   l’exercice du jugement critique), initier aux arts, composants de la culture. Les
   professeurs disciplinaires et les documentalistes ne doivent pas moins y sensibiliser

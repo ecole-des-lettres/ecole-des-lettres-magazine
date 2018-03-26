@@ -1,11 +1,11 @@
 ---
 id: 12781
-title: « Exodus : Gods and Kings », de Ridley Scott
+title: « Exodus – Gods and Kings », de Ridley Scott
 rubrique: Cinéma
 annee: 2014
 magazine: décembre 2014
 pages: 5
-description: « Exodus : Gods and Kings » s’inscrit donc dans une veine épique contemporaine,
+description: « Exodus – Gods and Kings » s’inscrit donc dans une veine épique contemporaine,
   biblique, retraçant les péripéties légendaires de l’Exode. Ridley Scott y a une
   vision humaine de Moïse. Profitant du caractère mystérieux de sa vie qui comporte
   bien des zones d’ombre dans l’Écriture, il le représente délibérément comme un homme,
@@ -35,7 +35,7 @@ niveau_etudes:
 - CAPES
 oeuvres:
 - Bible
-- Exodus : Gods and Kings
+- Exodus – Gods and Kings
 realisateurs:
 - Scott Ridley
 ---

@@ -16,7 +16,7 @@ description:
   7. Faut-il harmoniser les épreuves de français et des disciplines voisines ?
   8. L’oral
 article_pdf: 4047.pdf
-magazine_special: Français : cinq cents avis sur le bac de français
+magazine_special: Français – cinq cents avis sur le bac de français
 revue: L’école des lettres des lycées
 auteurs:
 - Jacques Vassevière

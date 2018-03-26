@@ -1,6 +1,6 @@
 ---
 id: 2197
-title: P. M. Doran : « Conversations avec Cézanne »
+title: P. M. Doran – « Conversations avec Cézanne »
 rubrique: Histoire des arts
 annee: 1995
 magazine: n°9 1er avril 1996

@@ -6,7 +6,7 @@ annee: 1996
 magazine: n°7 15 janvier 1997
 pages: 4
 description: 
-  Note de lecture sur des ouvrages consacrés au théâtre :
+  Note de lecture sur des ouvrages consacrés au théâtre – 
   – « Lire le théâtre », « L’École du spectateur », « Le Dialogue de théâtre », d’Anne Ubersfeld 
   – « Dictionnaire du théâtre », de Patrice Pavis 
   – « Les Procédés comiques au théâtre », de Pierre Bornecque 

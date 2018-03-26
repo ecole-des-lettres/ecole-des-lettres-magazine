@@ -1,6 +1,6 @@
 ---
 id: 1863
-title: Joachim du Bellay : « Les Regrets ». De la lecture à la rédaction d’un sujet
+title: Joachim du Bellay – « Les Regrets ». De la lecture à la rédaction d’un sujet
 rubrique: Poésie [1re / agrégation]
 annee: 1995
 magazine: n°1 1er septembre 1995

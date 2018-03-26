@@ -6,7 +6,7 @@ annee: 1998
 magazine: n°13 1er mai 1999
 pages: 4
 description: 
-  Comment mettre en place un atelier d’écriture de type littéraire : typologie des ateliers d’écriture au collège…
+  Comment mettre en place un atelier d’écriture de type littéraire – typologie des ateliers d’écriture au collège…
   1. Des types d’ateliers variés
   2. À qui revient l’initiative ?
   3. Les modalités de  choix (horaire, lieu, destination des écrits)

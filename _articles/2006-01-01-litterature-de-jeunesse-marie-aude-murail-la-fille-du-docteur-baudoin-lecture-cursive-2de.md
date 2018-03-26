@@ -1,6 +1,6 @@
 ---
 id: 11904
-title:  Littérature de jeunesse. Marie-Aude Murail : « La Fille du docteur Baudoin ».
+title:  Littérature de jeunesse. Marie-Aude Murail – « La Fille du docteur Baudoin ».
 rubrique:  Lecture cursive [2de]
 annee: 2006
 magazine: 

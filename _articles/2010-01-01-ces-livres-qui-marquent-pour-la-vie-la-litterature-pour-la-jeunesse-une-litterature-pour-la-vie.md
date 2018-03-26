@@ -6,7 +6,7 @@ annee: 2010
 magazine: n°6 2010-2011
 pages: 14
 description: 
-  Une sélection de huit titres pour la jeunesse inoubliables, présentés par Marie Saint-Dizier :
+  Une sélection de huit titres pour la jeunesse inoubliables, présentés par Marie Saint-Dizier – 
   – « Peter Pan », de James Matthew Barrie ;
   – « Les Contes du chat perché», de Marcel Aymé ;
   – « Fifi Brindacier », d’Astrid Lindgren ;

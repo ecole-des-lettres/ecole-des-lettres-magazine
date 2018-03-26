@@ -1,6 +1,6 @@
 ---
 id: 1366
-title: Joachim Du Bellay. Le petit Liré : mythe ou réalité ? 
+title: Joachim Du Bellay. Le petit Liré – mythe ou réalité ? 
 rubrique: Poésie [1re]
 annee: 1993
 magazine: n°6 1er janvier 1994

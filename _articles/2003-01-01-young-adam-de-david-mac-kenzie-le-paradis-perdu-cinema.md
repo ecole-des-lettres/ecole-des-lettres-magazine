@@ -1,6 +1,6 @@
 ---
 id: 5317
-title: « Young Adam », de David Mac Kenzie : le paradis perdu
+title: « Young Adam », de David Mac Kenzie – le paradis perdu
 rubrique: Cinéma
 annee: 2003
 magazine: n°11 1er mai 2004

@@ -1,6 +1,6 @@
 ---
 id: 4889
-title: Jean-Jacques Greif : « Nine Eleven ». Lecture cursive
+title: Jean-Jacques Greif – « Nine Eleven ». Lecture cursive
 rubrique: Retour sur le 11 septembre 2001 [3e]
 annee: 2003
 magazine: n°1 juillet-septembre 2003

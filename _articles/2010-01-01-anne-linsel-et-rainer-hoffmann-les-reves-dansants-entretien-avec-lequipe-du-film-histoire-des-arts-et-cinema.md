@@ -1,6 +1,6 @@
 ---
 id: 12076
-title: Anne Linsel et Rainer Hoffmann : « Les Rêves dansants ». Entretien avec l’équipe
+title: Anne Linsel et Rainer Hoffmann – « Les Rêves dansants ». Entretien avec l’équipe
   du film
 rubrique: Histoire des arts et cinéma
 annee: 2010

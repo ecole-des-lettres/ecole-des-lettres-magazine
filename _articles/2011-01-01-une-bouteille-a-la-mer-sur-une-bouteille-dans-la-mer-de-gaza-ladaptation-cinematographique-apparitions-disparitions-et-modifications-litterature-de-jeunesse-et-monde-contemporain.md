@@ -1,7 +1,7 @@
 ---
 id: 12126
 title: « Une bouteille à la mer » / « Une bouteille dans la mer de Gaza ». L’adaptation
-  cinématographique : apparitions, disparitions et modifications
+  cinématographique – apparitions, disparitions et modifications
 rubrique: Littérature de jeunesse et monde contemporain
 annee: 2011
 magazine: n°4

@@ -1,6 +1,6 @@
 ---
 id: 1951
-title: Albrecht Dürer : l’œuvre gravé
+title: Albrecht Dürer – l’œuvre gravé
 rubrique: Histoire des arts
 annee: 1995
 magazine: n°13 15 juin 1996

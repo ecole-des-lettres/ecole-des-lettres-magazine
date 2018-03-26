@@ -1,6 +1,6 @@
 ---
 id: 862
-title: Chrétien de Troyes : « Yvain, le chevalier au lion » : bibliographie sélective
+title: Chrétien de Troyes – « Yvain, le chevalier au lion » – bibliographie sélective
 rubrique: Littérature médiévale [5e]
 annee: 1992
 magazine: n°12 15 mai 1993
@@ -14,7 +14,7 @@ description:
   – Littératures
   – Ouvrages généraux sur la littérature médiévale
 article_pdf: 862.pdf
-magazine_special: Chrétien de Troyes : Yvain, le Chevalier au Lion
+magazine_special: Chrétien de Troyes – Yvain, le Chevalier au Lion
 revue: L’école des lettres des collèges
 auteurs:
 - Claude Lachet

@@ -1,7 +1,7 @@
 ---
 id: 4635
 title: La mort d’Héraclès dans « Les Trachiniennes », de Sophocle
-rubrique: Grands modèles littéraires : modèles littéraires antiques [Tle]
+rubrique: Grands modèles littéraires – modèles littéraires antiques [Tle]
 annee: 2002
 magazine: 2002
 pages: 20

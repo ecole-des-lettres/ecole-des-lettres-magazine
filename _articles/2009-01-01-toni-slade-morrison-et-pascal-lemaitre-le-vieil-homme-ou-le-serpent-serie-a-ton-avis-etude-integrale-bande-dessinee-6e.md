@@ -1,6 +1,6 @@
 ---
 id: 12019
-title: Toni & Slade Morrison et Pascal Lemaître : « Le Vieil Homme ou le Serpent
+title: Toni & Slade Morrison et Pascal Lemaître – « Le Vieil Homme ou le Serpent
   ? » (série « À ton avis... »). Étude intégrale
 rubrique: Bande dessinée [6e]
 annee: 2009

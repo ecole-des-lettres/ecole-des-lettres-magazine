@@ -1,6 +1,6 @@
 ---
 id: 2079
-title: Franck Oz : « L’Indien du placard » 
+title: Franck Oz – « L’Indien du placard » 
 rubrique: Littérature de jeunesse et cinéma [6e]
 annee: 1995
 magazine: n°5 1er décembre 1995

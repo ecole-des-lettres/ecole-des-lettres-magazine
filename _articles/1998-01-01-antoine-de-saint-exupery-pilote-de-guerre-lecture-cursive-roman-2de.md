@@ -1,6 +1,6 @@
 ---
 id: 11843
-title: Antoine de Saint-Exupéry : « Pilote de guerre ». Lecture cursive
+title: Antoine de Saint-Exupéry – « Pilote de guerre ». Lecture cursive
 rubrique: Roman [2de ]
 annee: 1998
 magazine: n°10 15 février 1999

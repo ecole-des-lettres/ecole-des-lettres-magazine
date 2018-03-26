@@ -1,6 +1,6 @@
 ---
 id: 1861
-title: Claude Berri : « Le Vieil Homme et l’enfant » 
+title: Claude Berri – « Le Vieil Homme et l’enfant » 
 rubrique: Étude de l’image [6e-5e]
 annee: 1995
 magazine: n°1 1er septembre 1995

@@ -1,6 +1,6 @@
 ---
 id: 11304
-title: « Keane », de Lodge Kerrigan : le cinéma intérieur
+title: « Keane », de Lodge Kerrigan – le cinéma intérieur
 rubrique: Cinéma
 annee: 2005
 magazine: n°3 1er octobre 2005

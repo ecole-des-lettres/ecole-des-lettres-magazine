@@ -1,6 +1,6 @@
 ---
 id: 2108
-title: Chrétien de Troyes : « Le Conte du Graal ». Le Roi Pêcheur 
+title: Chrétien de Troyes – « Le Conte du Graal ». Le Roi Pêcheur 
 rubrique: Grands modèles littéraires [Tle]
 annee: 1995
 magazine: n°6 15 janvier 1996
@@ -22,7 +22,7 @@ description:
   – le Roi Pêcheur et l’inceste
   – le Roi Pêcheur et le schéma trifonctionnel indo-européen
 article_pdf: 2108.pdf
-magazine_special: Chrétien de Troyes : Le Conte du Graal
+magazine_special: Chrétien de Troyes – Le Conte du Graal
 revue: L’école des lettres des lycées
 auteurs:
 - Pierre Servet

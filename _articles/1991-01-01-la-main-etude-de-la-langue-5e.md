@@ -6,7 +6,7 @@ annee: 1991
 magazine: n°7 15 janvier 1992
 pages: 3
 description: Sensibilisation à la fécondité des racines latines dans notre langue
-  à partir du radical latin : « manu ».
+  à partir du radical latin – « manu ».
 article_pdf: 691.pdf
 revue: L’école des lettres des collèges
 auteurs:

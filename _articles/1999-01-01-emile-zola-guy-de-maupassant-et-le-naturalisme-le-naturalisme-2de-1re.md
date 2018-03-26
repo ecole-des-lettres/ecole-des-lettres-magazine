@@ -11,7 +11,7 @@ description:
   3. « Le mouvement même de l’intelligence moderne »
   4. « Ce terrible mot de “naturalisme” »
   5. Contestation et élargissement du naturalisme zolien
-  6. Mouvement d’humeur : quelques lieux communs
+  6. Mouvement d’humeur – quelques lieux communs
   7. Les prises de position littéraires de Maupassant
 article_pdf: 3422.pdf
 revue: L’école des lettres des lycées

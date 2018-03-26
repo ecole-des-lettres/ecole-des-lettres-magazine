@@ -1,6 +1,6 @@
 ---
 id: 12875
-title: L’improvisation théâtrale dans les établissements scolaires : et pourquoi
+title: L’improvisation théâtrale dans les établissements scolaires – et pourquoi
   pas une option ?
 rubrique: Théâtre
 annee: 2014

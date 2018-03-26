@@ -8,8 +8,8 @@ pages: 8
 description: 
   – « Qu’est-ce que la citoyenneté ? », de Dominique Schnapper (Gallimard, 2000)
   – « La Citoyenneté au risque de la nationalité », de Dominique Colas, in « La Démocratie, France », de Marc Sadoun (Gallimard, 2000)
-  – « La Démocratie au XXe siècle : Europe de l’Ouest et États-Unis », de Marie-Anne Matard-Bonucci (Atlande, 2000)
-  – « Cœur de banlieue : codes, rites et langages », de David Lepoutre (Odile Jacob, 1997)
+  – « La Démocratie au XXe siècle – Europe de l’Ouest et États-Unis », de Marie-Anne Matard-Bonucci (Atlande, 2000)
+  – « Cœur de banlieue – codes, rites et langages », de David Lepoutre (Odile Jacob, 1997)
   – « La Société d’hospitalité », de Sebastian Roché (Seuil, 2000)
 article_pdf: 4126.pdf
 revue: L’école des lettres des lycées

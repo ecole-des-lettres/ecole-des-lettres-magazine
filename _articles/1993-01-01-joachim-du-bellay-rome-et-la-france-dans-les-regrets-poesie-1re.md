@@ -1,6 +1,6 @@
 ---
 id: 1370
-title: Joachim Du Bellay : Rome et la France dans « Les Regrets »
+title: Joachim Du Bellay – Rome et la France dans « Les Regrets »
 rubrique: Poésie [1re]
 annee: 1993
 magazine: n°6 1er janvier 1994

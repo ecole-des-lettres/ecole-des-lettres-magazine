@@ -12,7 +12,7 @@ description: Dans un contexte de « crise des vocations » manifeste depuis plus
   site un espace de dialogue à l’usage des candidats potentiels aux concours de recrutement.
   Des réponses lapidaires sont données aux questions les plus fréquemment posées par
   ceux qui envisagent une carrière d’enseignant. L’une de celles-ci a particulièrement
-  retenu l’attention de « L’École des lettres » : Une passion pour la littérature
+  retenu l’attention de « L’École des lettres » – Une passion pour la littérature
   suffit-elle pour être professeur de français ?
 article_pdf: 12333.pdf
 revue: L’école des lettres des collèges

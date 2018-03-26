@@ -1,6 +1,6 @@
 ---
 id: 2008
-title: Paul Scarron : « Le Roman comique » 
+title: Paul Scarron – « Le Roman comique » 
 rubrique: Roman [1re]
 annee: 1995
 magazine: n°3 15 octobre 1995

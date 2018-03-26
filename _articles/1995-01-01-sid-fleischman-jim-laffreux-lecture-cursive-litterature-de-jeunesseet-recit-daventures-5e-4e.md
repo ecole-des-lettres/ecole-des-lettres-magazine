@@ -1,6 +1,6 @@
 ---
 id: 2084
-title: Sid Fleischman : « Jim l’Affreux ». Lecture cursive 
+title: Sid Fleischman – « Jim l’Affreux ». Lecture cursive 
 rubrique: Littérature de jeunesse et récit d’aventures [5e-4e]
 annee: 1995
 magazine: n°5 1er décembre 1995

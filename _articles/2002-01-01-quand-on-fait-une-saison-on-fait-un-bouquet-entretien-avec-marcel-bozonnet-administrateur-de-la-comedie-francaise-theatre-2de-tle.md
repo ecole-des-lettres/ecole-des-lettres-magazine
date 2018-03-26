@@ -1,6 +1,6 @@
 ---
 id: 4641
-title: « Quand on fait une saison, on fait un bouquet » : entretien avec Marcel Bozonnet,
+title: « Quand on fait une saison, on fait un bouquet » – entretien avec Marcel Bozonnet,
   administrateur de la Comédie-Française
 rubrique: Théâtre [2de-Tle]
 annee: 2002

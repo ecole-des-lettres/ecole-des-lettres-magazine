@@ -10,8 +10,8 @@ description:
   1. Pourquoi cette collection ?
   2. Des journaux très différents
   – l’absence des fanzines
-  – les techniques de fabrication : machine à encre et photocopieuse ; BD et PAO
-  – au sommaire des journaux : monde proche, monde lointain ; écrire pour informer, écrire pour s’exprimer
+  – les techniques de fabrication – machine à encre et photocopieuse ; BD et PAO
+  – au sommaire des journaux – monde proche, monde lointain ; écrire pour informer, écrire pour s’exprimer
 article_pdf: 2543.pdf
 magazine_special: Presse écrite au collège
 revue: L’école des lettres des collèges

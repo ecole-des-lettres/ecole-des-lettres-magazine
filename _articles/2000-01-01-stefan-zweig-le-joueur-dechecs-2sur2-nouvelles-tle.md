@@ -1,6 +1,6 @@
 ---
 id: 3826
-title: Stefan Zweig : « Le Joueur d’échecs » (2/2)
+title: Stefan Zweig – « Le Joueur d’échecs » (2/2)
 rubrique: Nouvelles [Tle]
 annee: 2000
 magazine: 2001
@@ -8,7 +8,7 @@ pages: 36
 description: 
   3. Survie et identité
   – La survie à tout prix
-  – Moi et moi : deux frères ennemis
+  – Moi et moi – deux frères ennemis
   – Un texte saturé
   – Un monde où tout résonne
   4. Les fuites esthétiques de Zweig

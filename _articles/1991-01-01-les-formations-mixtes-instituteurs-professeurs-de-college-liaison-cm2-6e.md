@@ -1,6 +1,6 @@
 ---
 id: 670
-title: Les formations mixtes : instituteurs-professeurs de collège
+title: Les formations mixtes – instituteurs-professeurs de collège
 rubrique: Liaison CM2-6e
 annee: 1991
 magazine: n°6 1er janvier 1992

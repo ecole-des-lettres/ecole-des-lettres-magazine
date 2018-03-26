@@ -13,7 +13,7 @@ description: Le découpage texte / grammaire / civilisation ne donne pas toujour
   L’idée essentielle est de réhabiliter le jeu, l’imaginaire, dans le cours de latin ;
   mais, pour que l’invention soit compatible avec les données de la civilisation,
   il faudra vérifier son information par le biais de recherches et par le recours
-  aux écrits de différentes natures. Un nouveau lieu-thème est créé : la cité gallo-romaine…
+  aux écrits de différentes natures. Un nouveau lieu-thème est créé – la cité gallo-romaine…
 article_pdf: 11444.pdf
 revue: L’école des lettres des collèges
 auteurs:

@@ -13,8 +13,8 @@ description:
   – le valet devient un personnage à part entière
   – les rapports deviennent ouvertement conflictuels
   – l’intrusion de la « disconvenance sociale »
-  3. La résolution du conflit : formes et ambiguïtés
-  – la résolution théâtrale : une image idéalisée
+  3. La résolution du conflit – formes et ambiguïtés
+  – la résolution théâtrale – une image idéalisée
   – la résolution éthique et utopique de Marivaux
   – la solution politique de Beaumarchais
   L’article est suivi d’une bibliographie.

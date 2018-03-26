@@ -1,6 +1,6 @@
 ---
 id: 12622
-title: Philippe Jaccottet dans la « Bibliothèque de la Pléiade » : lumineux et simple
+title: Philippe Jaccottet dans la « Bibliothèque de la Pléiade » – lumineux et simple
 rubrique: Poésie
 annee: 2014
 magazine: 

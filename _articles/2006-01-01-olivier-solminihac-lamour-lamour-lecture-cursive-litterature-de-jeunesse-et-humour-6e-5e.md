@@ -1,6 +1,6 @@
 ---
 id: 11740
-title: Olivier Solminihac : « L’Amour, l’amour ». Lecture cursive 
+title: Olivier Solminihac – « L’Amour, l’amour ». Lecture cursive 
 rubrique: Littérature de jeunesse et humour [6e-5e]
 annee: 2006
 magazine: 2007

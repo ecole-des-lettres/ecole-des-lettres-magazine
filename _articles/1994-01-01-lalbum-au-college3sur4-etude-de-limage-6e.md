@@ -7,7 +7,7 @@ magazine: n°9 15 mars 1995
 pages: 4
 description: 
   Utilisation de l’album en sixième. Mise en évidence de structures littéraires que soulignent les illustrations. Travail sur la connotation et l’intertextualité.
-  Dans ce numéro, un travail plus particulier sur l’espace et le temps dans la fiction :
+  Dans ce numéro, un travail plus particulier sur l’espace et le temps dans la fiction – 
   4. « Le Monsieur de la rue d’à côté », d’Alice Dumas et Martine Laffon
   – résumé
   – activités

@@ -6,7 +6,7 @@ annee: 1999
 magazine: n°9 15 janvier 2000
 pages: 6
 description: 
-  Présentation de quatre ouvrages de littérature jeunesse permettant de travailler l’expression orale :
+  Présentation de quatre ouvrages de littérature jeunesse permettant de travailler l’expression orale – 
   – « Himalaya. L’Enfance d’un chef », d’Évelyne Brisou-Pellen
   – « Les Volets clos »,  de Marie-Sophie Vermot
   – « Ma Vie pour une étoile », d’Aimé Jacquet

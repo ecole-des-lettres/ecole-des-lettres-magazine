@@ -1,6 +1,6 @@
 ---
 id: 4186
-title: Travaux personnels encadrés : « Représenter la guerre »
+title: Travaux personnels encadrés – « Représenter la guerre »
 rubrique: Interdisciplinarité lettres, histoire [1re] 
 annee: 2001
 magazine: 2001

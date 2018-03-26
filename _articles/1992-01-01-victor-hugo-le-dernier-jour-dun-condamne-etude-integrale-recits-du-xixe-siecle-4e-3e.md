@@ -1,6 +1,6 @@
 ---
 id: 1054
-title: Victor Hugo : « Le Dernier Jour d’un condamné ». Étude intégrale 
+title: Victor Hugo – « Le Dernier Jour d’un condamné ». Étude intégrale 
 rubrique: Récits du XIXe siècle [4e-3e]
 annee: 1992
 magazine: n°8 1er février 1993
@@ -25,7 +25,7 @@ description:
   – portrait du condamné
   – un mort vivant
   6. Les autres
-  – lecture suivie du chapitre 13 : le ferrement des forçats
+  – lecture suivie du chapitre 13 – le ferrement des forçats
   7. La peine de mort
   8. L’adaptation de Jean-Christophe Averty
   L’article est suivi d’une bibliographie sur le même thème, ainsi que d’un tableau synthétisant l’étude du temps dans l’ouvrage.

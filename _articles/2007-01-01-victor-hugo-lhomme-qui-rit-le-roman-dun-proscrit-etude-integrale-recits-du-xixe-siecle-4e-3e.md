@@ -1,6 +1,6 @@
 ---
 id: 11823
-title: Victor Hugo : « L’homme qui rit », le roman dun proscrit. Étude intégrale 
+title: Victor Hugo – « L’homme qui rit », le roman dun proscrit. Étude intégrale 
 rubrique: Récits du XIXe siècle [4e-3e]
 annee: 2007
 magazine: n°1-2 2008-2009
@@ -14,7 +14,7 @@ description: De l’œuvre romanesque de Victor Hugo, les élèves connaissent, 
   parcours d’un orphelin défiguré, à l’identité usurpée, jusqu’à sa réintégration
   à la Chambre des pairs d’Angleterre, où il se fait le porte-parole des miséreux.
   Le projet proposé ici se divise en deux séquences que l’on peut travailler successivement
-  ou isolément : la première est centrée sur l’étude de la narration et sur la manière
+  ou isolément – la première est centrée sur l’étude de la narration et sur la manière
   dont le discours de Victor Hugo s’insère dans le récit ; la seconde est consacrée
   à l’étude de la harangue de Gwynplaine comme œuvre argumentative à part entière.
   Quatre questionnaires balisent la lecture des élèves. Les notions de langue abordées

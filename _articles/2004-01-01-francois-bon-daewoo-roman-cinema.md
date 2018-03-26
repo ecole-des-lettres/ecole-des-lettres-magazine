@@ -1,6 +1,6 @@
 ---
 id: 11169
-title: François Bon : « Daewoo »
+title: François Bon – « Daewoo »
 rubrique: Roman Cinéma
 annee: 2004
 magazine: n°3 1er novembre 2004

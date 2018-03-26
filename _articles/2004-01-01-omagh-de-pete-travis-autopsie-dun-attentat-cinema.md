@@ -1,6 +1,6 @@
 ---
 id: 11232
-title: « Omagh », de Pete Travis : autopsie d’un attentat
+title: « Omagh », de Pete Travis – autopsie d’un attentat
 rubrique: Cinéma
 annee: 2004
 magazine: n°7 mars 2005

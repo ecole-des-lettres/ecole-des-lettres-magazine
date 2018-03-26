@@ -1,6 +1,6 @@
 ---
 id: 1280
-title: Rainer Maria Rilke : « Lettres sur Cézanne ». Étude intégrale 
+title: Rainer Maria Rilke – « Lettres sur Cézanne ». Étude intégrale 
 rubrique: Histoire des arts [1re]
 annee: 1993
 magazine: n°2 1er octobre 1993

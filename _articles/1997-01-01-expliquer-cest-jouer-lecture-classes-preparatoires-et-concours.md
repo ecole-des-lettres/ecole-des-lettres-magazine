@@ -11,7 +11,7 @@ description:
   2. Les plaisirs de l’explication textuelle
   3. Le créateur en lecteur
 article_pdf: 2787.pdf
-magazine_special: Lecture : le génie du lecteur, colloque de Cerisy
+magazine_special: Lecture – le génie du lecteur, colloque de Cerisy
 revue: L’école des lettres des lycées
 auteurs:
 - Serge Koster

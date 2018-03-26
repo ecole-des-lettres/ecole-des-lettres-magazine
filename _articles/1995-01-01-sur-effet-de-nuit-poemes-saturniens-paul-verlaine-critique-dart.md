@@ -9,7 +9,7 @@ description:
   1. L’écriture artiste
   – la parole enjambée
   – la parole déliée
-  – la parole liée : liaison ; actualisation ; inclusion et emboîtement
+  – la parole liée – liaison ; actualisation ; inclusion et emboîtement
   2. La transfiguration hallucinatoire
   – la prosodie
   – le rythme
