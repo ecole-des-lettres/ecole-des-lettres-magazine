@@ -68,6 +68,7 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Articles"
         name: "articles"
         widget: "list"
+        required: false
         fields:
           - label: "Article"
             name: "article"
