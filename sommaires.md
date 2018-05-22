@@ -18,7 +18,9 @@ permalink: sommaires/index.html
 </div>
 
 {%- assign sommaires = site.sommaires | sort: 'annee', 'first' -%}
-{%- for sommaire in sommaires limit:1 -%}
+{%- for sommaire in sommaires reversed -%}
+{%- if forloop.index0 == 0 -%}
  <h1 class="summary-title">{{sommaire.title}}</h1>
  {{sommaire.content}}
+ {%- endif -%}
 {%- endfor -%}
