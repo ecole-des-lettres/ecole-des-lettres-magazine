@@ -26,7 +26,6 @@ defaults:
       layout: "default"
   - scope:
       path: "_sommaires/"
-      type: "sommaires"
     values:
       permalink: sommaires/:year/:title.html
       layout: "default"
