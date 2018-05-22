@@ -78,7 +78,7 @@ collections: # A list of collections the CMS should be able to edit
             valueField: "title"
           - {label: Image, name: image, widget: image, required: false}
           - {label: "Contenu", name: "content", widget: "markdown"}
-      - {label: "Contenu", name: "body", widget: "markdown"}
+          - {label: "Contenu", name: "body", widget: "markdown"}
 
   - name: "zoomsur" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Billets - Zoom Sur" # Used in the UI, ie.: "New Post"
