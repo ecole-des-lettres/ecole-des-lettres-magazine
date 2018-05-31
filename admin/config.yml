@@ -54,7 +54,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Titre", name: "title", widget: "string"}
       - {label: "Numéro", name: "numero", widget: "number"}
       - {label: "Année", name: "annee", widget: "string"}
-      - {label: "Contenu", name: "content", widget: "markdown"}
+      - {label: "Contenu", name: "body", widget: "markdown", required: false}
       - {label: Image, name: image, widget: image, required: false}
       - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
       # - name: article
