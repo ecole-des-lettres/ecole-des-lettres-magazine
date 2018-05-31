@@ -2,16 +2,6 @@
 title: Sommaire exemple
 numero: '18'
 annee: '2020'
-content: >-
-  Vestibulum ullamcorper massa eu augue ornare ullamcorper. Phasellus vitae
-  malesuada orci. Nulla volutpat bibendum interdum. Ut ac turpis porta magna
-  varius pharetra eu eu tortor. Nulla facilisi. Aliquam placerat metus sed metus
-  pellentesque sodales. Nulla at erat et lacus suscipit viverra. In hac
-  habitasse platea dictumst. Vestibulum at quam non dolor sodales condimentum.
-  Sed quis imperdiet nulla. Integer sit amet semper libero. Sed ex nisi,
-  tristique eget aliquet eu, mollis ut tortor. Sed vitae placerat neque.
-  Vestibulum vel sapien nulla. Curabitur pharetra mi ex, sit amet cursus leo
-  egestas eget. Nulla non tempor mi, nec posuere urna.
 layout: default
 articles:
   - article: "Les débuts du christianisme. Les chrétiens dans l’Empire romain au IIe\_siècle  (1/2)"
@@ -41,3 +31,14 @@ articles:
     pdf: oh-la-la.pdf
 ---
 
+## Titre 
+
+Vestibulum ullamcorper massa eu augue ornare ullamcorper. Phasellus vitae
+malesuada orci. Nulla volutpat bibendum interdum. Ut ac turpis porta magna
+varius pharetra eu eu tortor. Nulla facilisi. Aliquam placerat metus sed metus
+pellentesque sodales. Nulla at erat et lacus suscipit viverra. In hac
+habitasse platea dictumst. Vestibulum at quam non dolor sodales condimentum.
+Sed quis imperdiet nulla. Integer sit amet semper libero. Sed ex nisi,
+tristique eget aliquet eu, mollis ut tortor. Sed vitae placerat neque.
+Vestibulum vel sapien nulla. Curabitur pharetra mi ex, sit amet cursus leo
+egestas eget. Nulla non tempor mi, nec posuere urna.
