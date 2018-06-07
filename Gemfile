@@ -14,5 +14,6 @@ group :jekyll_plugins do
     gem 'jekyll-feed'
     gem "jekyll-seo-tag"
     gem 'jekyll-tidy'
+    gem "jekyll-default-layout"
     gem "autoprefixer-rails"
 end

@@ -41,3 +41,14 @@ defaults:
     values:
       permalink: documentalistes/:year/:title.html
       layout: "default"
+
+# Plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-default-layout
+
+titles_from_headings:
+  enabled:     true
+  strip_title: true
