@@ -1,5 +1,6 @@
 ---
 title: Mentions légales
+permalink: /mentions-legales
 ---
 
 ## Présentation

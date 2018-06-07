@@ -1,5 +1,6 @@
 ---
 title: Contacts
+permalink: /contacts
 ---
 
 ## Contacter la rédaction de l'École des lettres

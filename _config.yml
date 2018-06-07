@@ -25,6 +25,11 @@ defaults:
     values:
       layout: "default"
   - scope:
+      path: "pages/"
+      type: pages
+    values:
+      permalink: "/:title.html"
+  - scope:
       path: "_sommaires/"
     values:
       permalink: sommaires/:year/:title.html

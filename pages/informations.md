@@ -1,5 +1,6 @@
 ---
 title: Conditions d’utilisation
+permalink: /conditions-utilisations
 ---
 
 ## Conditions générales de vente

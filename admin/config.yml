@@ -9,6 +9,13 @@ backend:
 media_folder: "images/" # Folder where user uploaded files should go
 
 collections: # A list of collections the CMS should be able to edit
+  - label: "Pages"
+    name: "pages"
+    folder: "pages/"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "articles" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Billets - Articles" # Used in the UI, ie.: "New Post"
     folder: "_articles/"
