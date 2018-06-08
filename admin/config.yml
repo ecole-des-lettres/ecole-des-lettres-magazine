@@ -9,7 +9,7 @@ backend:
 media_folder: "images/" # Folder where user uploaded files should go
 
 collections: # A list of collections the CMS should be able to edit
-  - label: "Pages"
+  - label: "Pages - footer"
     name: "pages"
     folder: "pages/"
     create: true
@@ -97,19 +97,18 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Contenu", name: "body", widget: "markdown"}
-      - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
-      - label: "Articles"
-        name: "articles"
-        widget: "list"
-        fields:
-          - label: "Article"
-            name: "article"
-            widget: "relation"
-            collection: "articles"
-            searchFields: ["title", "rubrique"]
-            valueField: "title"
-          - {label: Image, name: image, widget: image, required: false}
-          - {label: "Contenu", name: "content", widget: "markdown"}
+      # - label: "Articles"
+      #   name: "articles"
+      #   widget: "list"
+      #   fields:
+      #     - label: "Article"
+      #       name: "article"
+      #       widget: "relation"
+      #       collection: "articles"
+      #       searchFields: ["title", "rubrique"]
+      #       valueField: "title"
+      #     - {label: Image, name: image, widget: image, required: false}
+      #     - {label: "Contenu", name: "content", widget: "markdown"}
 
   - name: "documentalistes" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Billets - Documentalistes" # Used in the UI, ie.: "New Post"
@@ -119,24 +118,18 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Contenu", name: "body", widget: "markdown"}
-      - {label: "Année", name: "annee", widget: "string"}
-      - {label: "Pages", name: "pages", widget: "number"}
-      - {label: "Rubrique", name: "rubrique", widget: "string"}
-      - {label: "Revue", name: "revue", widget: "string"}
-      #- {label: "PDF", name: "article_pdf", widget: "string"}
-      - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
-      - label: "Articles"
-        name: "articles"
-        widget: "list"
-        fields:
-          - label: "Article"
-            name: "article"
-            widget: "relation"
-            collection: "articles"
-            searchFields: ["title", "rubrique"]
-            valueField: "title"
-          - {label: Image, name: image, widget: image, required: false}
-          - {label: "Contenu", name: "content", widget: "markdown"}
+      # - label: "Articles"
+      #   name: "articles"
+      #   widget: "list"
+      #   fields:
+      #     - label: "Article"
+      #       name: "article"
+      #       widget: "relation"
+      #       collection: "articles"
+      #       searchFields: ["title", "rubrique"]
+      #       valueField: "title"
+      #     - {label: Image, name: image, widget: image, required: false}
+      #     - {label: "Contenu", name: "content", widget: "markdown"}
 
   # - name: "auteurs"
   #   label: "Meta - Auteurs"
