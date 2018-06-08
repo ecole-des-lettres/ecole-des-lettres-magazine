@@ -1,6 +1,7 @@
-
+url: 'http://www.ecoledeslettres.fr'
 baseurl: '/pages'
 permalink: :year/:title.html
+lang: fr
 
 exclude:
   - vendor
@@ -21,6 +22,10 @@ collections:
 defaults:
   - scope:
       path: ""
+    values:
+      layout: "default"
+  - scope:
+      path: ""
       type: posts
     values:
       layout: "default"
@@ -33,19 +38,19 @@ defaults:
       path: "_sommaires/"
     values:
       permalink: sommaires/:year/:title.html
-      layout: "default"
+      type: "pages"
   - scope:
       path: "_zoomsur/"
       type: "zoomsur"
     values:
       permalink: zoomsur/:year/:title.html
-      layout: "default"
+      type: "pages"
   - scope:
       path: "_documentalistes/"
       type: "documentalistes"
     values:
       permalink: documentalistes/:year/:title.html
-      layout: "default"
+      type: "pages"
 
 # Plugins
 plugins:

@@ -1,294 +1,282 @@
-@charset "utf-8";
+@charset 'utf-8';
 body {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: 12px;
-	padding: 0px;
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 20px;
-	margin-left: 0px;
-	background: #eee;
+  margin-top: 0;
+  margin-right: 0;
+  margin-bottom: 20px;
+  margin-left: 0;
+  padding: 0;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  background: #eee;
 }
 #page {
-	width: 700px;
-	padding: 0px;
-	overflow: hidden;
-	background: #FFF;
-	margin: 0px auto;
+  overflow: hidden;
+  margin: 0 auto;
+  padding: 0;
+  width: 700px;
+  background: #fff;
 }
 
 img {
-	padding: 0px;
-	margin: 0px;
+  margin: 0;
+  padding: 0;
 }
 .bandeau {
-	font-size: 24px;
-	height: 230px;
-	background: #e2277a url(dix-mots-2011.jpg) no-repeat;
-	margin: 0px;
-	padding: 0px 10px 0px 0px;
+  margin: 0;
+  padding: 0 10px 0 0;
+  height: 230px;
+  font-size: 24px;
+  background: #e2277a url(dix-mots-2011.jpg) no-repeat;
 }
 .bandeau h1 {
-	font-size: 20px;
-	margin-left: 190px;
-	margin-top: 0px;
-	color: #FFF;
-	padding-top: 30px;
-	font-weight: bold;
-	text-align: center;
+  margin-top: 0;
+  margin-left: 190px;
+  padding-top: 30px;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  color: #fff;
 }
 .bandeau h3 {
-	text-align: center;
-	color: #FFF;
-	background: #e2277a;
-	font-weight: normal;
-	margin: 0px 0px 0px 190px;
-	padding: 15px 0px 0px;
+  margin: 0 0 0 190px;
+  padding: 15px 0 0;
+  font-weight: normal;
+  text-align: center;
+  color: #fff;
+  background: #e2277a;
 }
 .bandeau p {
-	font-size: 14px;
-	color: #FFF;
-	margin-left: 190px;
-	text-align: center;
+  margin-left: 190px;
+  font-size: 14px;
+  text-align: center;
+  color: #fff;
 }
 .texte_sup p {
-	padding: 5px;
-	line-height: 17px;
+  padding: 5px;
+  line-height: 17px;
 }
 
 #header {
-	overflow: hidden;
-	padding-right: 30px;
-	padding-top: 30px;
-	padding-left: 30px;
+  overflow: hidden;
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-left: 30px;
 }
-#header img  {
-	float: left;
-	margin-right: 30px;
+#header img {
+  float: left;
+  margin-right: 30px;
 }
 #header h3 {
-	background: #FFF;
-	text-align: left;
-	margin: 0px 20px 20px;
-	font-size: 13px;
-	padding: 0px;
-	color: #666;
+  margin: 0 20px 20px;
+  padding: 0;
+  font-size: 13px;
+  text-align: left;
+  color: #666;
+  background: #fff;
 }
 #header h1 {
-	font-size: 20px;
-	font-style: italic;
-	margin: 20px 20px 30px;
-	text-align: center;
-	color: #000;
+  margin: 20px 20px 30px;
+  font-size: 20px;
+  font-style: italic;
+  text-align: center;
+  color: #000;
 }
 #header p {
-	line-height: 17px;
+  line-height: 17px;
 }
 #header .mots {
-	font-size: 14px;
-	text-align: center;
+  font-size: 14px;
+  text-align: center;
 }
-
-
-
 
 #contenu_video {
-	margin-top: 50px;
-	margin-left: 190px;
-	padding-bottom: 30px;
+  margin: 1em 3em;
+  padding-bottom: 1em;
 }
-
-
-
 
 .article {
-	margin-bottom: 20px;
-	border-bottom: 1px solid #CCC;
-	padding-left: 5px;
-	padding-bottom: 5px;
-	overflow: hidden;
-/*	border-left: 1px solid #CCC;*/
+  overflow: hidden;
+  margin-bottom: 20px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  border-bottom: 1px solid #ccc;
+  /*	border-left: 1px solid #CCC;*/
 }
 .clear {
-	clear: both;
+  clear: both;
 }
 
 .footer {
-	font-weight: normal;
-	margin: 0px;
-	padding: 10px 0px;
+  margin: 0;
+  padding: 10px 0;
+  font-weight: normal;
 }
 
 
 .dessous {
-	clear: both;
-	float: left;
-	margin-top: 5px;
-	margin-right: 10px;
-	margin-bottom: 20px;
+  float: left;
+  clear: both;
+  margin-top: 5px;
+  margin-right: 10px;
+  margin-bottom: 20px;
 }
 .titre-projet {
-	font-style: italic;
-	font-weight: bold;
+  font-weight: bold;
+  font-style: italic;
 }
 
 
 
 
 .image {
-	float: left;
-	margin-right: 10px;
-	margin-bottom: 0px;
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 0;
 }
 .centrer {
-	text-align: center;
-	font-weight: bold;
+  font-weight: bold;
+  text-align: center;
 }
 
 
 .casque {
-	padding: 0px;
-	float: left;
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-	margin-left: 121px;
+  float: left;
+  margin-top: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-left: 121px;
+  padding: 0;
 }
 .aligner {
-	margin-left: 121px;
-	margin-bottom: 20px;
+  margin-bottom: 20px;
+  margin-left: 121px;
 }
 .dessous_centre {
-	margin-top: 5px;
-	margin-right: 10px;
-	margin-bottom: 20px;
-	text-align: center;
-	clear: both;
+  clear: both;
+  margin-top: 5px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  text-align: center;
 }
 .marge_dessous {
-	margin-bottom: 110px;
+  margin-bottom: 110px;
 }
 .esp_dessous {
-	margin-bottom: 10px;
+  margin-bottom: 10px;
 }
 .separateur {
-	color: #FFF;
-	margin-right: 30px;
-	margin-left: 30px;
+  margin-right: 30px;
+  margin-left: 30px;
+  color: #fff;
 }
 .fleche {
-	background-position: 0px 0px;
+  background-position: 0 0;
 }
 .fleche_esp_dessous {
-	background-position: 0px 0px;
-	margin-bottom: 10px;
+  margin-bottom: 10px;
+  background-position: 0 0;
 }
 .logo_pdf {
-	text-decoration: none;
-	border-top-style: none;
-	border-right-style: none;
-	border-bottom-style: none;
-	border-left-style: none;
-	margin: 0px;
-	padding: 0px;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
 }
 .gras_droit {
-	font-style: normal;
-	font-weight: bold;
+  font-weight: bold;
+  font-style: normal;
 }
 
 .centre {
-	text-align: center;
+  text-align: center;
 }
 .maigre {
-	font-weight: normal;
+  font-weight: normal;
 }
 
 
 
 
 h1 {
-	margin: 0px;
-	padding: 0px;
-	color: #e2277a;
-	font-size: 12px;
+  margin: 0;
+  padding: 0;
+  font-size: 12px;
+  color: #e2277a;
 }
 h2 {
-	font-size: 17px;
-	text-align: left;
-	margin-bottom: 35px;
-	margin-left: 0px;
+  margin-bottom: 35px;
+  margin-left: 0;
+  font-size: 17px;
+  text-align: left;
 }
 h3 {
-	text-align: center;
-	font-size: 16px;
-	margin-top: 40px;
-	margin-bottom: 20px;
-	background: #CCC;
-	padding: 5px;
-	color: #333;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  padding: 5px;
+  font-size: 16px;
+  text-align: center;
+  color: #333;
+  background: #ccc;
 }
 h4 {
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 4px;
-	margin-left: 120px;
-	padding-top: 0px;
-	padding-right: 0px;
-	padding-bottom: 0px;
-	padding-left: 20px;
-	color: #006699;
-	font-style: italic;
-	font-size: 11px;
-	font-weight: normal;
-	background: url(arrow_bleu.jpg) no-repeat 2px 10px;
-	line-height: 18px;
+  margin-top: 0;
+  margin-right: 0;
+  margin-bottom: 4px;
+  margin: 1em 1em;
+  padding-left: 20px;
+  line-height: 18px;
+  font-size: 11px;
+  font-weight: normal;
+  font-style: italic;
+  color: #006699;
+  background: url(arrow_bleu.jpg) no-repeat 2px 4px;
 }
 h5 {
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 40px;
-	margin-left: 120px;
-	padding-top: 0px;
-	padding-right: 0px;
-	padding-bottom: 0px;
-	padding-left: 20px;
-	color: #006699;
-	font-style: italic;
-	font-size: 11px;
-	font-weight: normal;
-	background: url(arrow_bleu.jpg) no-repeat 2px 0px;
+  margin-top: 0;
+  margin-right: 0;
+  margin-bottom: 40px;
+  margin-left: 120px;
+  padding-top: 0;
+  padding-right: 0;
+  padding-bottom: 0;
+  padding-left: 20px;
+  font-size: 11px;
+  font-weight: normal;
+  font-style: italic;
+  color: #006699;
+  background: url(arrow_bleu.jpg) no-repeat 2px 0;
 }
 
-
 .bleu {
-	color: #003478;
+  color: #003478;
 }
 
 a:link {
-	font-weight: bold;
-	color: #006699;
-	text-decoration: none;
-	margin: 0px;
-	padding: 0px;
-	border-top-style: none;
-	border-right-style: none;
-	border-bottom-style: none;
-	border-left-style: none;
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+  text-decoration: none;
+  color: #006699;
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
 }
 
 a:visited {
-	font-weight: bold;
-	text-decoration: none;
-	color: #006699;
+  font-weight: bold;
+  text-decoration: none;
+  color: #006699;
 }
 a:focus {
-	outline:0;
+  outline: 0;
 }
 #clear {
-	clear: both;
+  clear: both;
 }
 #video2 {
-	margin-left: 90px;
-	margin-bottom: 30px;
+  margin: 1em 3em;
 }

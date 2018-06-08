@@ -5,6 +5,9 @@
   <meta charset="utf-8" />
   <link href="http://gmpg.org/xfn/11" rel="profile">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  {% seo %}
+
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="preload" href="https://fonts.googleapis.com/css?family=Merriweather:300,400,400i,700|Open+Sans" as="style">
   <link href="https://fonts.googleapis.com/css?family=Merriweather:300,400,400i,700|Open+Sans" rel="stylesheet">
@@ -166,6 +169,12 @@
   </header>
 
   <div class="wrapper">
+    {%- if page.path contains "zoomsur" and page.dir == nil -%}
+      < <a href="/pages/zoomsur/">Revenir à la liste</a>
+    {%- endif -%}
+    {%- if page.path contains "documentalistes" and page.dir == nil -%}
+      < <a href="/pages/documentalistes/">Revenir à la liste</a>
+    {%- endif -%}
     <h1 style="text-align: center; margin-bottom: 2rem">{{ page.title }}</h1>
     <div class="content--index">
       {{ content }}
