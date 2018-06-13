@@ -1,13 +1,13 @@
 ---
-id: 5236
-title: « Anything else », de Woody Allen – la vie à bâtons rompus
-rubrique: Cinéma
-annee: 2003
-magazine: n°5 1er novembre 2003
-pages: 1
-description: Compte rendu du film de Woody Allen.
-article_pdf: 5236.pdf
-revue: L’école des lettres des lycées
+id: '5236'
+title: '« Anything else », de Woody Allen : la vie à bâtons rompus'
+rubrique: 'Cinéma'
+annee: '2003'
+magazine: 'n°5 1er novembre 2003'
+pages: '1'
+description: 'Compte rendu du film de Woody Allen.'
+article_pdf: '5236.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Victoria Attal
 niveau_etudes:

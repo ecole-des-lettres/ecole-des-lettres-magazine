@@ -1,13 +1,13 @@
 ---
-id: 3523
-title: Beaumarchais – « Le Mariage de Figaro ». Étude d’extrait – acte III, scène
-  5
-rubrique: Théâtre [1re]
-annee: 1999
-magazine: n°12 mai 2000
-pages: 12
-description: 
-  1. La joute verbale
+id: '3523'
+title: 'Beaumarchais : « Le Mariage de Figaro ». Étude d’extrait : acte III, scène
+  5'
+rubrique: 'Théâtre [1re]'
+annee: '1999'
+magazine: 'n°12 mai 2000'
+pages: '12'
+description: |-
+  '1. La joute verbale
   – composition du passage
   – la maîtrise du discours
   2. La société en procès
@@ -17,10 +17,10 @@ description:
   3. Un théâtre en liberté
   – une émancipation générique ?
   – l’intertextualité
-  – liberté d’un théâtre qui se joue de lui-même
-article_pdf: 3523.pdf
+  – liberté d’un théâtre qui se joue de lui-même'
+article_pdf: '3523.pdf'
 magazine_special: Maîtres et valets dans la comédie du XVIIIe siècle
-revue: L’école des lettres des lycées
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Isabelle Degauque
 disciplines:

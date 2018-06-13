@@ -1,11 +1,11 @@
 ---
-id: 2580
-title: Victor Hugo – « Les Misérables ». Étude intégrale
-rubrique: Roman [4e-3e] 
-annee: 1996
-magazine: 1997
-pages: 44
-description: Initier de jeunes élèves à la lecture d’un grand roman du XIXe siècle,
+id: '2580'
+title: 'Victor Hugo : « Les Misérables ». Étude intégrale'
+rubrique: 'Roman [4e-3e] '
+annee: '1996'
+magazine: '1997'
+pages: '44'
+description: 'Initier de jeunes élèves à la lecture d’un grand roman du XIXe siècle,
   les rendre sensibles à l’écriture de Victor Hugo, leur montrer l’actualité toujours
   présente de la pauvreté matérielle et morale, tels sont les objectifs d’une étude
   des « Misérables » en quatrième. L’œuvre, qui figure parmi les rares romans expressément
@@ -16,9 +16,9 @@ description: Initier de jeunes élèves à la lecture d’un grand roman du XIXe
   l’étude envisage ce roman. L’édition choisie est celle publiée à l’école des loisirs
   dans la collection « Classiques abrégés ». Elle présente l’avantage de ne contenir
   aucun résumé ni texte de liaison, et ce qu’on lit est donc exclusivement ce qu’a
-  écrit Hugo.
-article_pdf: 2580.pdf
-revue: L’école des lettres des collèges
+  écrit Hugo.'
+article_pdf: '2580.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Norbert Czarny
 disciplines:

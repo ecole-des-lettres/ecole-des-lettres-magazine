@@ -1,12 +1,12 @@
 ---
-id: 860
-title: Le lion dans la littérature française postmédiévale 
-rubrique: Littérature médiévale [5e]
-annee: 1992
-magazine: n°12 15 mai 1993
-pages: 15
-description: 
-  1. De la tradition à la fable
+id: '860'
+title: 'Le lion dans la littérature française postmédiévale '
+rubrique: 'Littérature médiévale [5e]'
+annee: '1992'
+magazine: 'n°12 15 mai 1993'
+pages: '15'
+description: |-
+  '1. De la tradition à la fable
   – tradition ancienne
   – tradition religieuse
   – la fable et le mythe
@@ -17,10 +17,10 @@ description:
   – du lion au monstre par le mot
   – ruptures phrastiques
   – de la rupture comique à une quête de vérité
-  L’article est suivi d’une liste des fables de La Fontaine portant sur le lion.
-article_pdf: 860.pdf
-magazine_special: Chrétien de Troyes – Yvain, le Chevalier au Lion
-revue: L’école des lettres des collèges
+  L’article est suivi d’une liste des fables de La Fontaine portant sur le lion.'
+article_pdf: '860.pdf'
+magazine_special: 'Chrétien de Troyes : Yvain, le Chevalier au Lion'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Guy Lavorel
 disciplines:

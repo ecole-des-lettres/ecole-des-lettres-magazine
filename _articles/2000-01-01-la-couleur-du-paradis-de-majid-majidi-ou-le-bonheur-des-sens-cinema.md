@@ -1,13 +1,13 @@
 ---
-id: 3833
-title: « La Couleur du paradis », de Majid Majidi, ou le bonheur des sens
-rubrique: Cinéma
-annee: 2000
-magazine: n°10 15 février 2001
-pages: 1
-description: Compte rendu du film de Majid Majidi.
-article_pdf: 3833.pdf
-revue: L’école des lettres des lycées
+id: '3833'
+title: '« La Couleur du paradis », de Majid Majidi, ou le bonheur des sens'
+rubrique: 'Cinéma'
+annee: '2000'
+magazine: 'n°10 15 février 2001'
+pages: '1'
+description: 'Compte rendu du film de Majid Majidi.'
+article_pdf: '3833.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Victoria Attal
 niveau_etudes:

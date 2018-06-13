@@ -1,12 +1,12 @@
 ---
-id: 12736
-title: « Mettez un livre dans mon cercueil », de Michel Polac. La bibliothèque idéale
-  d’un érudit libertaire
-rubrique: Essai
-annee: 2014
-magazine: n°4
-pages: 12
-description: L’injonction du titre semble sans appel – même après sa mort, Michel
+id: '12736'
+title: '« Mettez un livre dans mon cercueil », de Michel Polac. La bibliothèque idéale
+  d’un érudit libertaire'
+rubrique: 'Essai'
+annee: '2014'
+magazine: 'n°4'
+pages: '12'
+description: 'L’injonction du titre semble sans appel : même après sa mort, Michel
   Polac continuerait-il donc à lire ? Certes, celui qui fut l’une des figures marquantes
   du paysage médiatique français, à la fois critique, journaliste, cinéaste et romancier,
   a toujours aimé les livres, mais il leur a trouvé des vertus plus grandes encore
@@ -18,9 +18,9 @@ description: L’injonction du titre semble sans appel – même après sa mort,
   pendant vingt ans (1989-2009) dans « L’Événement du jeudi » puis « Charlie Hebdo »,
   qui, après un choix effectué par sa femme, Nadia Polac, se trouvent réunies, à l’initiative
   de cette dernière et d’un grand ami de l’auteur, le philosophe Clément Rosset, dans
-  cet ouvrage paru aux PUF...
-article_pdf: 12736.pdf
-revue: L’école des lettres des collèges
+  cet ouvrage paru aux PUF...'
+article_pdf: '12736.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Alain Beretta
 niveau_etudes:

@@ -1,17 +1,17 @@
 ---
-id: 11672
-title: L’évocation de la guerre d’Algérie dans la littérature de jeunesse – lectures
-  cursives  
-rubrique: Histoire/littérature de jeunesse[6e-3e]
-annee: 2006
-magazine: 2007
-pages: 23
-description: La sélection de titres proposée dans cet article n’a pas la prétention
+id: '11672'
+title: 'L’évocation de la guerre d’Algérie dans la littérature de jeunesse : lectures
+  cursives  '
+rubrique: 'Histoire/littérature de jeunesse[6e-3e]'
+annee: '2006'
+magazine: '2007'
+pages: '23'
+description: 'La sélection de titres proposée dans cet article n’a pas la prétention
   d’être exhaustive. Il s’agit d’un choix d’ouvrages de littérature jeunesse évoquant
   la guerre d’Algérie qui, par sa diversité, se voudrait significatif. Tous sont abordables
-  par des élèves de collège.
-article_pdf: 11672.pdf
-revue: L’école des lettres des collèges
+  par des élèves de collège.'
+article_pdf: '11672.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Jean-Pierre Tusseau
 auteur_jeunesse:

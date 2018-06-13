@@ -1,11 +1,11 @@
 ---
-id: 11107
-title: Truman Capote – « Cercueils sur mesure »
-rubrique: Récit policier et récit mythique [3e]
-annee: 2004
-magazine: n°6 février 2005
-pages: 9
-description: Il peut être intéressant, à partir de l’étude de cette nouvelle policière
+id: '11107'
+title: 'Truman Capote : « Cercueils sur mesure »'
+rubrique: 'Récit policier et récit mythique [3e]'
+annee: '2004'
+magazine: 'n°6 février 2005'
+pages: '9'
+description: 'Il peut être intéressant, à partir de l’étude de cette nouvelle policière
   de Truman Capote, de montrer comment un récit de type moderne et « objectif » –
   il s’agit d’un fait « véridique » – peut venir s’inscrire dans un cadre mythique
   préalable complexe. Le romancier moderne, notamment dans le registre policier, rend
@@ -17,9 +17,9 @@ description: Il peut être intéressant, à partir de l’étude de cette nouvel
   temps, mener une analyse « classique » de la nouvelle (étapes du récit, repères
   spatio-temporels, systèmes des personnages, etc.), pour donner ensuite un aperçu
   de l’arrière-plan symbolique, en évoquant la mythologie gréco-romaine puis les références
-  bibliques.
-article_pdf: 11107.pdf
-revue: L’école des lettres des collèges
+  bibliques.'
+article_pdf: '11107.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Thierry Ozwald
 disciplines:

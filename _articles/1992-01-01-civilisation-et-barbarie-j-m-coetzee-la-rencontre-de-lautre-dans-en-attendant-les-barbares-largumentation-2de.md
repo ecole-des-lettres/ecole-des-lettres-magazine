@@ -1,13 +1,13 @@
 ---
-id: 916
-title: Civilisation et barbarie. J. M. Coetzee – la rencontre de l’autre dans « En
-  attendant les barbares »
-rubrique: L’argumentation [2de]
-annee: 1992
-magazine: n°14 15 juin 1993
-pages: 27
-description: 
-  1. « En attendant les barbares »
+id: '916'
+title: 'Civilisation et barbarie. J. M. Coetzee : la rencontre de l’autre dans «
+  En attendant les barbares »'
+rubrique: 'L’argumentation [2de]'
+annee: '1992'
+magazine: 'n°14 15 juin 1993'
+pages: '27'
+description: |-
+  '1. « En attendant les barbares »
   – l’histoire
   – le titre
   2. Un récit symbolique
@@ -29,9 +29,9 @@ description:
   – expérience de l’impuissance
   – éros et thanatos
   – la torture
-  6. Le discours sur soi
-article_pdf: 916.pdf
-revue: L’école des lettres des lycées
+  6. Le discours sur soi'
+article_pdf: '916.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Dominique Viart
 disciplines:

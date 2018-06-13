@@ -1,13 +1,13 @@
 ---
-id: 3011
-title: Yves Stalloni – « Les Nuages de Magellan »
-rubrique: Roman contemporain
-annee: 1998
-magazine: n°1 15 juillet 1998
+id: '3011'
+title: 'Yves Stalloni : « Les Nuages de Magellan »'
+rubrique: 'Roman contemporain'
+annee: '1998'
+magazine: 'n°1 15 juillet 1998'
 pages: p. 77
-description: Note de lecture sur ce roman publié (L’Harmattan, 1998).
-article_pdf: 3011.pdf
-revue: L’école des lettres des lycées
+description: 'Note de lecture sur ce roman publié (L’Harmattan, 1998).'
+article_pdf: '3011.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - François-Marie Mourad
 disciplines:

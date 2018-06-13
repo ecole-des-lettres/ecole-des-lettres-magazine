@@ -1,15 +1,15 @@
 ---
-id: 2260
-title: Georges Duby – « Dames du XIIe siècle, le souvenir des aïeules » ; Michel
-  Balard et Alain Ducellier – « Coloniser au Moyen Âge »
-rubrique: Littérature médiévale [Tle]
-annee: 1996
-magazine: n°10 1er mars 1997
-pages: 5
-description: Note de lecture sur ces ouvrages (Gallimard et Armand Colin, 1995).
-article_pdf: 2260.pdf
-magazine_special: Chrétien de Troyes – Lancelot ou le Chevalier de la charrette
-revue: L’école des lettres des lycées
+id: '2260'
+title: 'Georges Duby : « Dames du XIIe siècle, le souvenir des aïeules » ; Michel
+  Balard et Alain Ducellier : « Coloniser au Moyen Âge »'
+rubrique: 'Littérature médiévale [Tle]'
+annee: '1996'
+magazine: 'n°10 1er mars 1997'
+pages: '5'
+description: 'Note de lecture sur ces ouvrages (Gallimard et Armand Colin, 1995).'
+article_pdf: '2260.pdf'
+magazine_special: 'Chrétien de Troyes : Lancelot ou le Chevalier de la charrette'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Michel Marbeau
 disciplines:

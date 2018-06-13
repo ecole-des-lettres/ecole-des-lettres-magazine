@@ -1,13 +1,13 @@
 ---
-id: 3904
-title: « Liam », de Stephen Frears, ou la conscience enfantine
-rubrique: Cinéma
-annee: 2000
-magazine: n°13 15 mai 2001
-pages: 1
-description: Compte rendu du film de Stephen Frears.
-article_pdf: 3904.pdf
-revue: L’école des lettres des lycées
+id: '3904'
+title: '« Liam », de Stephen Frears, ou la conscience enfantine'
+rubrique: 'Cinéma'
+annee: '2000'
+magazine: 'n°13 15 mai 2001'
+pages: '1'
+description: 'Compte rendu du film de Stephen Frears.'
+article_pdf: '3904.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Victoria Attal
 niveau_etudes:

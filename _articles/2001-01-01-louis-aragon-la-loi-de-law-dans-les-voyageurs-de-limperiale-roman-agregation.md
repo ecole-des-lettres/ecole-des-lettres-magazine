@@ -1,12 +1,12 @@
 ---
-id: 4547
-title: Louis Aragon – la loi de Law dans « Les Voyageurs de l’impériale »
-rubrique: Roman [agrégation]
-annee: 2001
-magazine: n°8 1er janvier 2002
-pages: 23
-description: 
-  1. Les héritages de Pierre Mercadier
+id: '4547'
+title: 'Louis Aragon : la loi de Law dans « Les Voyageurs de l’impériale »'
+rubrique: 'Roman [agrégation]'
+annee: '2001'
+magazine: 'n°8 1er janvier 2002'
+pages: '23'
+description: |-
+  '1. Les héritages de Pierre Mercadier
   2. John Law et Johnny
   – l’homme
   – le financier
@@ -19,9 +19,9 @@ description:
   5. Les chiffres de la misère
   – la famille Meyer
   – la famille Mercadier
-  – la famille Méré
-article_pdf: 4547.pdf
-revue: L’école des lettres des lycées
+  – la famille Méré'
+article_pdf: '4547.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Yves Ansel
 disciplines:

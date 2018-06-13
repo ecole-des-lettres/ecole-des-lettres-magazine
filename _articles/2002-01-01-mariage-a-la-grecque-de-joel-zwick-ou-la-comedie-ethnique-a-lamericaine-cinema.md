@@ -1,13 +1,13 @@
 ---
-id: 4976
-title: « Mariage à la grecque », de Joel Zwick, ou la comédie ethnique à l’américaine
-rubrique: Cinéma
-annee: 2002
-magazine: n°10 1er mars 2003
-pages: 1
-description: Compte rendu du film de Joel Zwick.
-article_pdf: 4976.pdf
-revue: L’école des lettres des lycées
+id: '4976'
+title: '« Mariage à la grecque », de Joel Zwick, ou la comédie ethnique à l’américaine'
+rubrique: 'Cinéma'
+annee: '2002'
+magazine: 'n°10 1er mars 2003'
+pages: '1'
+description: 'Compte rendu du film de Joel Zwick.'
+article_pdf: '4976.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Victoria Attal
 niveau_etudes:

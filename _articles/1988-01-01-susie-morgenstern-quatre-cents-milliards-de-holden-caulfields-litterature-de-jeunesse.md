@@ -1,14 +1,15 @@
 ---
-id: 96
-title: Susie Morgenstern – quatre cents milliards de Holden Caulfields
-rubrique: Littérature de jeunesse
-annee: 1988
-magazine: n°11 1er mai 1989
-pages: 5
-description: Quelques réflexions de Susie Morgenstern sur la littérature pour la jeunesse…
-article_pdf: 96.pdf
-magazine_special: Littérature pour la jeunesse – le roman
-revue: L’école des lettres des collèges
+id: '96'
+title: 'Susie Morgenstern : quatre cents milliards de Holden Caulfields'
+rubrique: 'Littérature de jeunesse'
+annee: '1988'
+magazine: 'n°11 1er mai 1989'
+pages: '5'
+description: 'Quelques réflexions de Susie Morgenstern sur la littérature pour la
+  jeunesse…'
+article_pdf: '96.pdf'
+magazine_special: 'Littérature pour la jeunesse : le roman'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Susie Morgenstern
 auteur_jeunesse:

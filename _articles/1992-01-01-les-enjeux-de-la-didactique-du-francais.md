@@ -1,12 +1,12 @@
 ---
-id: 5076
-title: « Les enjeux de la didactique du français »
-rubrique: 
-annee: 1992
-magazine: n°9 1er mars 1993
+id: '5076'
+title: '« Les enjeux de la didactique du français »'
+rubrique: ''
+annee: '1992'
+magazine: 'n°9 1er mars 1993'
 pages: 162 pages
-description: 
-  1. Les domaines de la didactique du français 
+description: |-
+  '1. Les domaines de la didactique du français 
   – perspectives actuelles en didactique du français langue maternelle 
   – français, langue maternelle, langue étrangère, une double culture ? 
   – la formation des enseignants en didactique des lettres
@@ -25,11 +25,11 @@ description:
   – didactique du texte littéraire et niveaux de lecture 
   – didactique du texte poétique 
   – la sémiotique et le texte
-  Ont participé à ce numéro – 
-  Denis Bertrand, Jacqueline Biard, Annick Bouillaguet, Colette Camelin, Françoise Cordier, Frédérique Denis, Hiltraud Dupuy, Jean-Claude Larrat, Michel Massacret, Michel Mathias, Alain Pagès, Sylvie Plane, Michel Tamine et Martine Valdinoci-Carret
-article_pdf: 5076.pdf
-magazine_special: Français – les enjeux de la didactique du français
-revue: L’école des lettres des lycées
+  Ont participé à ce numéro :
+  Denis Bertrand, Jacqueline Biard, Annick Bouillaguet, Colette Camelin, Françoise Cordier, Frédérique Denis, Hiltraud Dupuy, Jean-Claude Larrat, Michel Massacret, Michel Mathias, Alain Pagès, Sylvie Plane, Michel Tamine et Martine Valdinoci-Carret'
+article_pdf: '5076.pdf'
+magazine_special: 'Français : les enjeux de la didactique du français'
+revue: 'L’école des lettres des lycées'
 disciplines:
 - lettres
 niveau_etudes:

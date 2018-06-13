@@ -1,12 +1,12 @@
 ---
-id: 11738
-title: Comment parler d’amour du CM2 à la troisième ?
-rubrique: Littérature de jeunesse et lectures cursives [CM-3e]
-annee: 2006
-magazine: 2007
-pages: 13
-description: Les amours enfantines ou adolescentes sont l’un des thèmes abordés par
-  la littérature de jeunesse. Cet article propose aux élèves des romans qui parlent
+id: '11738'
+title: 'Comment parler d’amour du CM2 à la troisième ?'
+rubrique: 'Littérature de jeunesse et lectures cursives [CM-3e]'
+annee: '2006'
+magazine: '2007'
+pages: '13'
+description: 'Les amours enfantines ou adolescentes sont l’un des thèmes abordés
+  par la littérature de jeunesse. Cet article propose aux élèves des romans qui parlent
   de ce qu’ils vivent ou pourraient vivre, de ce qu’ils sont ou pourraient être. À
   cette époque de leur vie où ils sont en recherche d’identité, se questionnent, se
   construisent, leur permettre de se retrouver dans des personnages qui leur ressemblent
@@ -16,9 +16,9 @@ description: Les amours enfantines ou adolescentes sont l’un des thèmes abord
   publiés à l’école des loisirs), un résumé et une critique succincte de chacun d’entre
   eux, des propositions d’activités et des pistes de lecture. Quels que soient la
   thématique ou le groupement envisagés, ces différentes étapes sont nécessaires pour
-  aboutir à un travail satisfaisant.
-article_pdf: 11738.pdf
-revue: L’école des lettres des collèges
+  aboutir à un travail satisfaisant.'
+article_pdf: '11738.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Marie-Claire Jahier
 auteur_jeunesse:

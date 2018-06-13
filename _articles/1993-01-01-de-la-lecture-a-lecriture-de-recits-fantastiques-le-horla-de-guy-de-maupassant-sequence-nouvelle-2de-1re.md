@@ -1,13 +1,13 @@
 ---
-id: 1200
-title: De la lecture à l’écriture de récits fantastiques – « Le Horla », de Guy de
-  Maupassant. Séquence 
-rubrique: Nouvelle [2de-1re]
-annee: 1993
-magazine: n°12 15 juin 1994
-pages: 30
-description: 
-  Objectif – franchir le cap du mimétisme pour progresser vers la rédaction d’un texte personnel…
+id: '1200'
+title: 'De la lecture à l’écriture de récits fantastiques : « Le Horla », de Guy
+  de Maupassant. Séquence '
+rubrique: 'Nouvelle [2de-1re]'
+annee: '1993'
+magazine: 'n°12 15 juin 1994'
+pages: '30'
+description: |-
+  'Objectif : franchir le cap du mimétisme pour progresser vers la rédaction d’un texte personnel…
   Progression en dix séances, avec pour support « Le Horla »
   * Séance 1
   – le genre fantastique et le contexte littéraire 
@@ -33,10 +33,10 @@ description:
   * Séance 9
   – corriger, améliorer l’état initial
   * Séance 10
-  – lecture orale des nouvelles produites par les élèves
-article_pdf: 1200.pdf
-magazine_special: Maupassant – autour du Horla 
-revue: L’école des lettres des lycées
+  – lecture orale des nouvelles produites par les élèves'
+article_pdf: '1200.pdf'
+magazine_special: 'Maupassant : autour du Horla '
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Sylvie Ducas-Spaës
 disciplines:

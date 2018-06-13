@@ -1,21 +1,21 @@
 ---
-id: 614
-title: Pierre Choderlos de Laclos – « Les Liaisons dangereuses ». Étude intégrale
-  (1/3) 
-rubrique: Langage verbal et images [Tle]
-annee: 1991
-magazine: n°4 1er novembre 1991
-pages: 8
-description: 
-  1. Un roman d’aujourd’hui
+id: '614'
+title: 'Pierre Choderlos de Laclos : « Les Liaisons dangereuses ». Étude intégrale
+  (1/3) '
+rubrique: 'Langage verbal et images [Tle]'
+annee: '1991'
+magazine: 'n°4 1er novembre 1991'
+pages: '8'
+description: |-
+  '1. Un roman d’aujourd’hui
   2. L’auteur et son roman
   – une vie de militaire
   – de la vie à l’œuvre
   – naissance du roman
   – l’héritage littéraire
-  – la construction du livre
-article_pdf: 614.pdf
-revue: L’école des lettres des lycées
+  – la construction du livre'
+article_pdf: '614.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Yves Stalloni
 disciplines:

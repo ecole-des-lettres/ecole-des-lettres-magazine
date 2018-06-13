@@ -1,13 +1,13 @@
 ---
-id: 2423
-title: Christiane Moatti – « L’Espoir, de Malraux »
-rubrique: 
-annee: 1996
-magazine: n°4 1er novembre 1996
-pages: 1
-description: Note de lecture sur cet ouvrage (Hatier, 1996)
-article_pdf: 2423.pdf
-revue: L’école des lettres des lycées
+id: '2423'
+title: 'Christiane Moatti : « L’Espoir, de Malraux »'
+rubrique: ''
+annee: '1996'
+magazine: 'n°4 1er novembre 1996'
+pages: '1'
+description: 'Note de lecture sur cet ouvrage (Hatier, 1996)'
+article_pdf: '2423.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Évelyne Lantonnet
 disciplines:

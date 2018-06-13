@@ -1,13 +1,13 @@
 ---
-id: 5297
-title: « Company », de Robert Altman – la danse-passion
-rubrique: Cinéma
-annee: 2003
-magazine: n°9 15 mars 2004
-pages: 1
-description: Compte rendu du film de Robert Altman.
-article_pdf: 5297.pdf
-revue: L’école des lettres des lycées
+id: '5297'
+title: '« Company », de Robert Altman : la danse-passion'
+rubrique: 'Cinéma'
+annee: '2003'
+magazine: 'n°9 15 mars 2004'
+pages: '1'
+description: 'Compte rendu du film de Robert Altman.'
+article_pdf: '5297.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Victoria Attal
 niveau_etudes:

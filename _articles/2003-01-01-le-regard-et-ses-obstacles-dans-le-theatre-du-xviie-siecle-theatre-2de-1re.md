@@ -1,11 +1,11 @@
 ---
-id: 5347
-title: Le regard et ses obstacles dans le théâtre du XVIIe siècle
-rubrique: Théâtre [2de-1re]
-annee: 2003
-magazine: n°10 15 mars 2004
-pages: 9
-description: Comprendre quels sont les « obstacles au regard » dans le théâtre du
+id: '5347'
+title: 'Le regard et ses obstacles dans le théâtre du XVIIe siècle'
+rubrique: 'Théâtre [2de-1re]'
+annee: '2003'
+magazine: 'n°10 15 mars 2004'
+pages: '9'
+description: 'Comprendre quels sont les « obstacles au regard » dans le théâtre du
   XVIIe siècle, c’est d’abord comprendre comment ce regard se pose sur le spectacle ;
   étudier le regard, c’est réfléchir à un instant fugace, imperceptible, changeant.
   Quand le spectateur observe le comédien, il le fait depuis un point précis ; il
@@ -15,10 +15,10 @@ description: Comprendre quels sont les « obstacles au regard » dans le thé�
   met en cause le regard du spectateur au 21e siècle ; combien plus grandes devaient-elles
   être au XVIIe siècle ! Car le public d’alors est radicalement différent, plus varié,
   plus indiscipliné, plus bruyant. Il faut d’abord comprendre cette réalité avant
-  d’examiner, sur scène, les autres éléments qui peuvent faire obstacle au regard.
-article_pdf: 5347.pdf
+  d’examiner, sur scène, les autres éléments qui peuvent faire obstacle au regard.'
+article_pdf: '5347.pdf'
 magazine_special: Théâtre à l’âge classique
-revue: L’école des lettres des lycées
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Gaël Le Chevalier
 disciplines:

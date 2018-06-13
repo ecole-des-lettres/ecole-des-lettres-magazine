@@ -1,14 +1,14 @@
 ---
-id: 3458
-title: « Belles à mourir », de Michael Patrick Jann, ou le syndrome du succès à tout
-  prix
-rubrique: Cinéma
-annee: 1999
-magazine: n°10 15 février 2000
-pages: 1
-description: Compte rendu du film de Michael Patrick Jann.
-article_pdf: 3458.pdf
-revue: L’école des lettres des lycées
+id: '3458'
+title: '« Belles à mourir », de Michael Patrick Jann, ou le syndrome du succès à
+  tout prix'
+rubrique: 'Cinéma'
+annee: '1999'
+magazine: 'n°10 15 février 2000'
+pages: '1'
+description: 'Compte rendu du film de Michael Patrick Jann.'
+article_pdf: '3458.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Victoria Attal
 niveau_etudes:

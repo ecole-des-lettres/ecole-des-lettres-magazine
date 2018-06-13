@@ -1,14 +1,14 @@
 ---
-id: 5281
-title: « Entre liberté, République et France. Les représentations de Marianne de
-  1792 à nos jours »
-rubrique: Histoire
-annee: 2003
-magazine: n°8 15 février 2004
-pages: 4
-description: Note de lecture sur cet ouvrage (RMN, 2003).
-article_pdf: 5281.pdf
-revue: L’école des lettres des lycées
+id: '5281'
+title: '« Entre liberté, République et France. Les représentations de Marianne de
+  1792 à nos jours »'
+rubrique: 'Histoire'
+annee: '2003'
+magazine: 'n°8 15 février 2004'
+pages: '4'
+description: 'Note de lecture sur cet ouvrage (RMN, 2003).'
+article_pdf: '5281.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Michel Marbeau
 disciplines:

@@ -1,12 +1,12 @@
 ---
-id: 967
-title: Paul Eluard – « Capitale de la douleur ». Poésie, peinture et musique à travers
-  trois poèmes
-rubrique: Poésie et surréalisme [1re]
-annee: 1992
-magazine: n°3 15 octobre 1992
-pages: 13
-description: Au XIXe siècle déjà, les romantiques puis les symbolistes ont été sensibles
+id: '967'
+title: 'Paul Eluard : « Capitale de la douleur ». Poésie, peinture et musique à travers
+  trois poèmes'
+rubrique: 'Poésie et surréalisme [1re]'
+annee: '1992'
+magazine: 'n°3 15 octobre 1992'
+pages: '13'
+description: 'Au XIXe siècle déjà, les romantiques puis les symbolistes ont été sensibles
   aux correspondances entre les arts et ont rêvé de supprimer les barrières que des
   siècles de tradition avaient érigées entre les diverses formes d’expression. Les
   surréalistes sont allés plus loin. Refusant les catégories et les classifications
@@ -17,9 +17,9 @@ description: Au XIXe siècle déjà, les romantiques puis les symbolistes ont é
   ambition. D’où l’intérêt des poèmes qu’Eluard a consacrés à Klee, Braque et Miró
   dans « Capitale de la douleur », et que Poulenc a mis en musique dans « Le Travail
   du peintre ». À travers les toiles, les mots et les notes s’exprime le même hymne
-  à l’activité créatrice, qui est tout entière vie et liberté.
-article_pdf: 967.pdf
-revue: L’école des lettres des lycées
+  à l’activité créatrice, qui est tout entière vie et liberté.'
+article_pdf: '967.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Philippe Terrier
 disciplines:

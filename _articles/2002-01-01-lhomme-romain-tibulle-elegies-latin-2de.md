@@ -1,12 +1,12 @@
 ---
-id: 4610
-title: L’homme romain. Tibulle – « Élégies »
-rubrique: Latin [2de]
-annee: 2002
-magazine: 2002
-pages: 81
-description: 
-  1. Commentaire de la deuxième élégie du livre 1
+id: '4610'
+title: 'L’homme romain. Tibulle : « Élégies »'
+rubrique: 'Latin [2de]'
+annee: '2002'
+magazine: '2002'
+pages: '81'
+description: |-
+  '1. Commentaire de la deuxième élégie du livre 1
   2. Commentaire de la troisième élégie du livre 1
   3. Commentaire de la première élégie du livre 1
   4. Commentaire de la cinquième élégie du livre 1
@@ -17,9 +17,9 @@ description:
   – les tourments de la passion
   – un art de vivre fondé sur des valeurs essentielles
   – l’homme et le sacré
-  – une réflexion sur le destin et la mort
-article_pdf: 4610.pdf
-revue: L’école des lettres des lycées
+  – une réflexion sur le destin et la mort'
+article_pdf: '4610.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Jean-Marie Haillant
 disciplines:

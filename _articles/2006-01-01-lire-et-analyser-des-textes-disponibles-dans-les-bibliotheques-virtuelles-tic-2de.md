@@ -1,12 +1,12 @@
 ---
-id: 11899
-title: lire et analyser des textes disponibles dans les bibliothèques virtuelles
-rubrique: TIC  [2de]
-annee: 2006
-magazine: 
-pages: 6
-description: L’objectif de cet article est d’évaluer les savoirs de lecture des élèves,
-  notamment en grammaire de texte et du discours, et de déterminer leurs capacités
+id: '11899'
+title: 'lire et analyser des textes disponibles dans les bibliothèques virtuelles'
+rubrique: 'TIC  [2de]'
+annee: '2006'
+magazine: ''
+pages: '6'
+description: 'L’objectif de cet article est d’évaluer les savoirs de lecture des
+  élèves, notamment en grammaire de texte et du discours, et de déterminer leurs capacités
   à interpréter le récit grâce à un travail effectué sur deux contes d’Alphonse Daudet.
   Tout s’oppose dans ces deux récits écrits à moins d’un an de distance par le même
   auteur, dont on oublie souvent qu’il n’a pas écrit uniquement pour les enfants.
@@ -16,9 +16,9 @@ description: L’objectif de cet article est d’évaluer les savoirs de lecture
   qu’écrire c’est, pour un écrivain, choisir parmi de multiples possibles qui appartiennent
   à des catégories très diverses, qui ne se limitent pas à la seule histoire racontée,
   comme le pensent très souvent les élèves, et que c’est grâce à ses choix qu’il construit
-  du sens.
-article_pdf: 11899.pdf
-revue: L’école des lettres des lycées
+  du sens.'
+article_pdf: '11899.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Patricia Fize
 - Claude Gapaillard

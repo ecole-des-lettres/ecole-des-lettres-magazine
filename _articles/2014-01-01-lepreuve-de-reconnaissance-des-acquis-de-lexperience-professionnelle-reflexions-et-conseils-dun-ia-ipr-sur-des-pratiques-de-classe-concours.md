@@ -1,12 +1,12 @@
 ---
-id: 12744
-title: L’épreuve de reconnaissance des acquis de l’expérience professionnelle. Réflexions
-  et conseils d’un IA-IPR sur des pratiques de classe
-rubrique: Concours
-annee: 2014
-magazine: n°4
-pages: 10
-description: Les heures consacrées aux commentaires de textes littéraires correspondent
+id: '12744'
+title: 'L’épreuve de reconnaissance des acquis de l’expérience professionnelle. Réflexions
+  et conseils d’un IA-IPR sur des pratiques de classe'
+rubrique: 'Concours'
+annee: '2014'
+magazine: 'n°4'
+pages: '10'
+description: 'Les heures consacrées aux commentaires de textes littéraires correspondent
   à 70, voire 80% des cours observés par les IA-IPR de lettres au collège et sans
   doute encore davantage au lycée. Cette pratique continue à constituer, aux yeux
   des enseignants de français, la part la plus représentative de leur métier. C’est
@@ -22,9 +22,9 @@ description: Les heures consacrées aux commentaires de textes littéraires corr
   Pour illustrer ces points, poursuivre dans la voie de la réflexivité professionnelle
   engagée avec le premier article paru dans « L’École des lettres » n°1, août-septembre
   2014 et continuer aussi à former au R.A.E.P., cet article s’appuier cette fois sur
-  deux exemples d’études de textes narratifs menées à différents niveaux du collège.
-article_pdf: 12744.pdf
-revue: L’école des lettres des collèges
+  deux exemples d’études de textes narratifs menées à différents niveaux du collège.'
+article_pdf: '12744.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Jean-Philippe Taboulot
 niveau_etudes:

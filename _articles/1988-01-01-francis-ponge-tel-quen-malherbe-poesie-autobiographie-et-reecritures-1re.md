@@ -1,12 +1,12 @@
 ---
-id: 112
-title: Francis Ponge tel qu’en Malherbe
-rubrique: Poésie, autobiographie et réécritures [1re]
-annee: 1988
-magazine: n°8 1er février 1989
-pages: 26
-description: 
-  1. L’autobiographie indirecte
+id: '112'
+title: 'Francis Ponge tel qu’en Malherbe'
+rubrique: 'Poésie, autobiographie et réécritures [1re]'
+annee: '1988'
+magazine: 'n°8 1er février 1989'
+pages: '26'
+description: |-
+  '1. L’autobiographie indirecte
   – l’écriture du « je »
   – le narcissisme scriptural
   – l’impuissance à l’œuvre
@@ -17,10 +17,10 @@ description:
   3. Pour une esthétique de Ponge
   – l’art poétique
   – le « monde muet »
-  – la poétique
-article_pdf: 112.pdf
-magazine_special: Ponge – l’atelier de Francis Ponge
-revue: L’école des lettres des lycées
+  – la poétique'
+article_pdf: '112.pdf'
+magazine_special: 'Ponge : l’atelier de Francis Ponge'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Dominique Viart
 disciplines:

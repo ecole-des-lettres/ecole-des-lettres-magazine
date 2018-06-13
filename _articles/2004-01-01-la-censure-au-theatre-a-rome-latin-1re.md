@@ -1,11 +1,11 @@
 ---
-id: 11268
-title: La censure au théâtre à Rome
-rubrique: Latin [1re]
-annee: 2004
-magazine: n°11-12 août 2005
-pages: 7
-description: Si l’on s’en tient au mot, la censure est une invention des Romains.
+id: '11268'
+title: 'La censure au théâtre à Rome'
+rubrique: 'Latin [1re]'
+annee: '2004'
+magazine: 'n°11-12 août 2005'
+pages: '7'
+description: 'Si l’on s’en tient au mot, la censure est une invention des Romains.
   Non seulement une invention, mais une institution des plus sérieuses, puisque, à
   l’origine, elle portait sur l’argent. Le censeur avait pour fonction initiale d’établir
   les rôles du cens, donc de classer les citoyens, et c’est ainsi que, petit à petit,
@@ -16,9 +16,9 @@ description: Si l’on s’en tient au mot, la censure est une invention des Rom
   Mais, par ailleurs, celui-ci jouissait, aux yeux du peuple comme aux yeux des élites,
   d’un prestige qui faisait de lui un « acteur-roi », et son activité n’était pas
   menacée par son statut. Dans ces conditions, restait-il aux censeurs quelque raison
-  de s’intéresser au théâtre ?
-article_pdf: 11268.pdf
-revue: L’école des lettres des lycées
+  de s’intéresser au théâtre ?'
+article_pdf: '11268.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Pierre Monat
 disciplines:

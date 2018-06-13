@@ -1,13 +1,13 @@
 ---
-id: 4546
-title: Valery Larbaud – « Amants, heureux amants… ». Impossibles romans, romans de
-  l’impossible
-rubrique: Roman [agrégation]
-annee: 2001
-magazine: n°8 1er janvier 2002
-pages: 14
-description: 
-  1. L’échange impossible
+id: '4546'
+title: 'Valery Larbaud : « Amants, heureux amants… ». Impossibles romans, romans
+  de l’impossible'
+rubrique: 'Roman [agrégation]'
+annee: '2001'
+magazine: 'n°8 1er janvier 2002'
+pages: '14'
+description: |-
+  '1. L’échange impossible
   – le rêve de conjugalité
   – la communication douteuse
   – l’impossible romance
@@ -19,9 +19,9 @@ description:
   – une conscience dédoublante
   – une pensée prisonnière d’elle-même
   – l’art comme recours ?
-  L’article est suivi d’un inventaire des citations, allusions, idiolectes et références du recueil.
-article_pdf: 4546.pdf
-revue: L’école des lettres des lycées
+  L’article est suivi d’un inventaire des citations, allusions, idiolectes et références du recueil.'
+article_pdf: '4546.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Pierre Masson
 disciplines:

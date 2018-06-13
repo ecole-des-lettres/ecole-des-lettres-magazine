@@ -1,12 +1,12 @@
 ---
-id: 4074
-title: Marivaux – « L’Île des esclaves ». La revanche linguistique d’Arlequin
-rubrique: Théâtre [1re}
-annee: 2000
-magazine: n°7 1er décembre 2000
-pages: 17
-description: 
-  Commentaire composé d’un extrait de la scène 5…
+id: '4074'
+title: 'Marivaux : « L’Île des esclaves ». La revanche linguistique d’Arlequin'
+rubrique: 'Théâtre [1re}'
+annee: '2000'
+magazine: 'n°7 1er décembre 2000'
+pages: '17'
+description: |-
+  'Commentaire composé d’un extrait de la scène 5…
   1. Le rôle de Trivelin
   – un meneur de jeu
   – la mise à l’épreuve d’Iphicrate
@@ -19,10 +19,10 @@ description:
   – l’attitude ambiguë d’Iphicrate
   – l’humanité d’Arlequin
   – vers une nouvelle relation maître / valet
-  L’article est suivi d’une bibliographie, ainsi que d’une annexe sur les jeux de miroir dans « L’Île des esclaves ».
-article_pdf: 4074.pdf
+  L’article est suivi d’une bibliographie, ainsi que d’une annexe sur les jeux de miroir dans « L’Île des esclaves ».'
+article_pdf: '4074.pdf'
 magazine_special: Maîtres et valets dans l’histoire du théâtre
-revue: L’école des lettres des lycées
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Jacques Guilhembet
 disciplines:

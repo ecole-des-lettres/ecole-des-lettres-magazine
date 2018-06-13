@@ -1,13 +1,13 @@
 ---
-id: 3903
-title: « Intimité », de Patrice Chéreau, ou l’empire des sens
-rubrique: Cinéma
-annee: 2000
-magazine: n°13 15 mai 2001
-pages: 1
-description: Compte rendu du film de Patrice Chéreau.
-article_pdf: 3903.pdf
-revue: L’école des lettres des lycées
+id: '3903'
+title: '« Intimité », de Patrice Chéreau, ou l’empire des sens'
+rubrique: 'Cinéma'
+annee: '2000'
+magazine: 'n°13 15 mai 2001'
+pages: '1'
+description: 'Compte rendu du film de Patrice Chéreau.'
+article_pdf: '3903.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Victoria Attal
 niveau_etudes:

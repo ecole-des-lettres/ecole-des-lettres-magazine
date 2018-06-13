@@ -1,13 +1,13 @@
 ---
-id: 5251
-title: « Zatoichi », de Takeshi Kitano – chorégraphie de la violence
-rubrique: Cinéma
-annee: 2003
-magazine: n°6 1er décembre 2003
-pages: 2
-description: Compte rendu du film de Takeshi Kitano.
-article_pdf: 5251.pdf
-revue: L’école des lettres des lycées
+id: '5251'
+title: '« Zatoichi », de Takeshi Kitano : chorégraphie de la violence'
+rubrique: 'Cinéma'
+annee: '2003'
+magazine: 'n°6 1er décembre 2003'
+pages: '2'
+description: 'Compte rendu du film de Takeshi Kitano.'
+article_pdf: '5251.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Victoria Attal
 niveau_etudes:

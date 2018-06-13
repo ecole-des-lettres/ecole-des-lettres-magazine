@@ -1,13 +1,13 @@
 ---
-id: 11325
-title: « Rencontres à Elizabethtown », de Cameron Crowe – de l’échec comme tremplin
-rubrique: Cinéma
-annee: 2005
-magazine: n°5 décembre 2005
-pages: 1
-description: Présentation du film de Cameron Crowe.
-article_pdf: 11325.pdf
-revue: L’école des lettres des lycées
+id: '11325'
+title: '« Rencontres à Elizabethtown », de Cameron Crowe : de l’échec comme tremplin'
+rubrique: 'Cinéma'
+annee: '2005'
+magazine: 'n°5 décembre 2005'
+pages: '1'
+description: 'Présentation du film de Cameron Crowe.'
+article_pdf: '11325.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Victoria Attal
 niveau_etudes:

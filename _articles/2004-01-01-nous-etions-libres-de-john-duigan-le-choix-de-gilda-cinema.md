@@ -1,13 +1,13 @@
 ---
-id: 11202
-title: « Nous étions libres », de John Duigan – le choix de Gilda
-rubrique: Cinéma
-annee: 2004
-magazine: n°5 janvier 2005
-pages: 1
-description: Compte rendu du film de John Duigan.
-article_pdf: 11202.pdf
-revue: L’école des lettres des lycées
+id: '11202'
+title: '« Nous étions libres », de John Duigan : le choix de Gilda'
+rubrique: 'Cinéma'
+annee: '2004'
+magazine: 'n°5 janvier 2005'
+pages: '1'
+description: 'Compte rendu du film de John Duigan.'
+article_pdf: '11202.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Victoria Attal
 niveau_etudes:

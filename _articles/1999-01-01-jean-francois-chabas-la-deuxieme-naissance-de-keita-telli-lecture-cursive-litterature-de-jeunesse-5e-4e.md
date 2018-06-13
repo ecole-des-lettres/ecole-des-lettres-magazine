@@ -1,11 +1,12 @@
 ---
-id: 3544
-title: Jean-François Chabas – « La Deuxième Naissance de Keita Telli ». Lecture cursive 
-rubrique: Littérature de jeunesse [5e-4e]
-annee: 1999
-magazine: n°14 15 mai 2000
-pages: 6
-description: Ce roman semble a priori plutôt destiné aux garçons ; en réalité, le
+id: '3544'
+title: 'Jean-François Chabas : « La Deuxième Naissance de Keita Telli ». Lecture
+  cursive '
+rubrique: 'Littérature de jeunesse [5e-4e]'
+annee: '1999'
+magazine: 'n°14 15 mai 2000'
+pages: '6'
+description: 'Ce roman semble a priori plutôt destiné aux garçons ; en réalité, le
   sport, ici la boxe, ne prend pas toute la place, aussi le roman peut-il aisément
   être lu par toute une classe. En effet, bien plus que les matchs, la volonté de
   vivre est en jeu. L’histoire est pathétique, sans tomber dans l’invraisemblable
@@ -13,9 +14,9 @@ description: Ce roman semble a priori plutôt destiné aux garçons ; en réali
   de l’argumentation, car le texte amène les élèves à s’interroger et à prendre position
   par rapport à des décisions difficiles. Il utilise, par ailleurs, un langage familier,
   qui permet une étude détaillée des niveaux de langue. Enfin, il peut aussi être
-  l’occasion d’aborder l’écriture journalistique à partir d’événements sportifs marquants.
-article_pdf: 3544.pdf
-revue: L’école des lettres des collèges
+  l’occasion d’aborder l’écriture journalistique à partir d’événements sportifs marquants.'
+article_pdf: '3544.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Virginie Fauvin
 auteur_jeunesse:

@@ -1,14 +1,14 @@
 ---
-id: 3854
-title: Christian Poslaniec et Christine Houyel – « Activités de lecture à partir
-  de la littérature de jeunesse »
-rubrique: Littérature de jeunesse
-annee: 2000
-magazine: n°11 15 mars 2001
+id: '3854'
+title: 'Christian Poslaniec et Christine Houyel : « Activités de lecture à partir
+  de la littérature de jeunesse »'
+rubrique: 'Littérature de jeunesse'
+annee: '2000'
+magazine: 'n°11 15 mars 2001'
 pages: p. 18
-description: Note de lecture sur cet ouvrage (Hachette Éducation, 2000).
-article_pdf: 3854.pdf
-revue: L’école des lettres des collèges
+description: 'Note de lecture sur cet ouvrage (Hachette Éducation, 2000).'
+article_pdf: '3854.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Christian Loock
 disciplines:

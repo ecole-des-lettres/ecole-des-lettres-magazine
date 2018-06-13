@@ -1,13 +1,13 @@
 ---
-id: 11335
-title: « Tout est illuminé », de Liev Schreiber – le pouvoir de la mémoire
-rubrique: Cinéma
-annee: 2005
-magazine: n°6-7 janvier 2006
-pages: 2
-description: Présentation du film de Liev Schreiber.
-article_pdf: 11335.pdf
-revue: L’école des lettres des lycées
+id: '11335'
+title: '« Tout est illuminé », de Liev Schreiber : le pouvoir de la mémoire'
+rubrique: 'Cinéma'
+annee: '2005'
+magazine: 'n°6-7 janvier 2006'
+pages: '2'
+description: 'Présentation du film de Liev Schreiber.'
+article_pdf: '11335.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Victoria Attal
 niveau_etudes:

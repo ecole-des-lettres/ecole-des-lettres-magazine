@@ -1,13 +1,13 @@
 ---
-id: 1850
-title: « Les Misérables », de Claude Lelouch, ou la galerie des glaces
-rubrique: Cinéma
-annee: 1994
-magazine: n°9 15 mars 1995
-pages: 2
-description: Compte rendu du film de Claude Lelouch.
-article_pdf: 1850.pdf
-revue: L’école des lettres des lycées
+id: '1850'
+title: '« Les Misérables », de Claude Lelouch, ou la galerie des glaces'
+rubrique: 'Cinéma'
+annee: '1994'
+magazine: 'n°9 15 mars 1995'
+pages: '2'
+description: 'Compte rendu du film de Claude Lelouch.'
+article_pdf: '1850.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Victoria Attal
 niveau_etudes:

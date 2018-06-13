@@ -1,13 +1,13 @@
 ---
-id: 11160
-title: « Comme une image », d’Agnès Jaoui  – la tyrannie des apparences
-rubrique: Cinéma
-annee: 2004
-magazine: n°2 1er octobre 2004
-pages: 1
-description: Compte rendu du film d’Agnès Jaoui.
-article_pdf: 11160.pdf
-revue: L’école des lettres des lycées
+id: '11160'
+title: '« Comme une image », d’Agnès Jaoui  : la tyrannie des apparences'
+rubrique: 'Cinéma'
+annee: '2004'
+magazine: 'n°2 1er octobre 2004'
+pages: '1'
+description: 'Compte rendu du film d’Agnès Jaoui.'
+article_pdf: '11160.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Victoria Attal
 niveau_etudes:

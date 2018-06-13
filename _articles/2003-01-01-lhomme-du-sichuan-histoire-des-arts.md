@@ -1,14 +1,14 @@
 ---
-id: 5250
-title: L’homme du Sichuan
-rubrique: Histoire des arts
-annee: 2003
-magazine: n°6 1er décembre 2003
-pages: 3
-description: Compte rendu de l’exposition « Chine, l’énigme de l’homme de bronze – 
-  archéologie du Sichuan ».
-article_pdf: 5250.pdf
-revue: L’école des lettres des lycées
+id: '5250'
+title: 'L’homme du Sichuan'
+rubrique: 'Histoire des arts'
+annee: '2003'
+magazine: 'n°6 1er décembre 2003'
+pages: '3'
+description: 'Compte rendu de l’exposition « Chine, l’énigme de l’homme de bronze :
+  archéologie du Sichuan ».'
+article_pdf: '5250.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Michel Marbeau
 disciplines:

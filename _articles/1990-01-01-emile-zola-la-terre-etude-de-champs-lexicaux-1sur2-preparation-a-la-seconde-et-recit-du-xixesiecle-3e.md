@@ -1,15 +1,15 @@
 ---
-id: 291
-title: Émile Zola – « La Terre ». Étude de champs lexicaux  (1/2)
-rubrique: Préparation à la seconde et récit du XIXe siècle [3e]
-annee: 1990
-magazine: n°3 15 octobre 1990
-pages: 6
-description: 
-  Étude des champs lexicaux dans un extrait de « La Terre », d’Émile Zola (troisième partie, I).
-  Présentation générale du roman, situation du passage, définition de la notion de champ lexical, recherche des champs lexicaux dans le texte de Zola (le champ lexical de la terre et du travail de la terre)…
-article_pdf: 291.pdf
-revue: L’école des lettres des collèges
+id: '291'
+title: 'Émile Zola : « La Terre ». Étude de champs lexicaux  (1/2)'
+rubrique: 'Préparation à la seconde et récit du XIXe siècle [3e]'
+annee: '1990'
+magazine: 'n°3 15 octobre 1990'
+pages: '6'
+description: |-
+  'Étude des champs lexicaux dans un extrait de « La Terre », d’Émile Zola (troisième partie, I).
+  Présentation générale du roman, situation du passage, définition de la notion de champ lexical, recherche des champs lexicaux dans le texte de Zola (le champ lexical de la terre et du travail de la terre)…'
+article_pdf: '291.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Isabelle Guégen
 disciplines:

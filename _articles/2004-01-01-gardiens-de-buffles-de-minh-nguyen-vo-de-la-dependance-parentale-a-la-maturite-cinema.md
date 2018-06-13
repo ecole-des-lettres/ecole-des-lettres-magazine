@@ -1,14 +1,14 @@
 ---
-id: 11245
-title: « Gardiens de buffles », de Minh Nguyen-Vô – de la dépendance parentale à
-  la maturité
-rubrique: Cinéma
-annee: 2004
-magazine: n°8 avril 2005
-pages: 1
-description: Compte rendu du film de Minh Nguyen-Vô.
-article_pdf: 11245.pdf
-revue: L’école des lettres des lycées
+id: '11245'
+title: '« Gardiens de buffles », de Minh Nguyen-Vô : de la dépendance parentale à
+  la maturité'
+rubrique: 'Cinéma'
+annee: '2004'
+magazine: 'n°8 avril 2005'
+pages: '1'
+description: 'Compte rendu du film de Minh Nguyen-Vô.'
+article_pdf: '11245.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Victoria Attal
 niveau_etudes:

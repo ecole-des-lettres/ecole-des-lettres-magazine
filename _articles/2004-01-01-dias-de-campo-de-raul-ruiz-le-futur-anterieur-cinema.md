@@ -1,13 +1,13 @@
 ---
-id: 11203
-title: « Dias de campo », de Raul Ruiz – le futur antérieur
-rubrique: Cinéma
-annee: 2004
-magazine: n°5 janvier 2005
-pages: 1
-description: Compte rendu du film de Raul Ruiz.
-article_pdf: 11203.pdf
-revue: L’école des lettres des lycées
+id: '11203'
+title: '« Dias de campo », de Raul Ruiz : le futur antérieur'
+rubrique: 'Cinéma'
+annee: '2004'
+magazine: 'n°5 janvier 2005'
+pages: '1'
+description: 'Compte rendu du film de Raul Ruiz.'
+article_pdf: '11203.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Victoria Attal
 niveau_etudes:

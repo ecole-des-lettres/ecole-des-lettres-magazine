@@ -1,12 +1,12 @@
 ---
-id: 3105
-title: Les documentaires et leur champ de références
-rubrique: Documentaires
-annee: 1998
-magazine: n°12 avril 1999
-pages: 18
-description: 
-  1. Comparaison de documentaires
+id: '3105'
+title: 'Les documentaires et leur champ de références'
+rubrique: 'Documentaires'
+annee: '1998'
+magazine: 'n°12 avril 1999'
+pages: '18'
+description: |-
+  '1. Comparaison de documentaires
   – à propos de Van Gogh
   – les horaires de Louis XIV
   – ce que « science » signifie
@@ -21,10 +21,10 @@ description:
   3. Exercices d’application
   – distinguer fiction et information
   – repérer les commentaires
-  – discerner les champs de références
-article_pdf: 3105.pdf
+  – discerner les champs de références'
+article_pdf: '3105.pdf'
 magazine_special: Documentaires au collège
-revue: L’école des lettres des collèges
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Christian Poslaniec
 disciplines:

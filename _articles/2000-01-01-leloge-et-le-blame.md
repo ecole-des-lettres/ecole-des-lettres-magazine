@@ -1,13 +1,13 @@
 ---
-id: 5052
-title: « L’éloge et le blâme »
-rubrique: 
-annee: 2000
-magazine: n°12 15 avril 2001
+id: '5052'
+title: '« L’éloge et le blâme »'
+rubrique: ''
+annee: '2000'
+magazine: 'n°12 15 avril 2001'
 pages: 112 pages
-description: 
-  1. Éloge de la rhétorique
-  – 1900-2000 – évolution de la rhétorique dans l’enseignement secondaire
+description: |-
+  '1. Éloge de la rhétorique
+  – 1900-2000 : évolution de la rhétorique dans l’enseignement secondaire
   – la rhétorique dans les programmes du lycée
   – éthique de la rhétorique
   2. L’éloge et le blâme dans la littérature grecque antique 
@@ -31,11 +31,11 @@ description:
   – fonctions de la pratique épidictique dans le groupe surréaliste
   6. Références bibliographiques
   Numéro coordonné par Colette Camelin
-  Ont participé à ce numéro – 
-  Michel Briand, Colette Camelin, Fernand Delarue, Alix Tubman-Mary et Jacques Vassevière
-article_pdf: 5052.pdf
+  Ont participé à ce numéro :
+  Michel Briand, Colette Camelin, Fernand Delarue, Alix Tubman-Mary et Jacques Vassevière'
+article_pdf: '5052.pdf'
 magazine_special: L’éloge et le blâme
-revue: L’école des lettres des lycées
+revue: 'L’école des lettres des lycées'
 disciplines:
 - lettres
 niveau_etudes:

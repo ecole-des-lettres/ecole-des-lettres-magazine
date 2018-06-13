@@ -1,12 +1,12 @@
 ---
-id: 5086
-title: « Maupassant – romans et nouvelles »
-rubrique: 
-annee: 1992
-magazine: n°13 1er juin 1993
+id: '5086'
+title: '« Maupassant : romans et nouvelles »'
+rubrique: ''
+annee: '1992'
+magazine: 'n°13 1er juin 1993'
 pages: 234 pages
-description: 
-  1. D’une littérature légère à une littérature de la légèreté
+description: |-
+  '1. D’une littérature légère à une littérature de la légèreté
   2. « Boule de suif » ou la république des ogres
   3. « Boule de suif », la société et la guerre de 1870 en Normandie
 
@@ -21,11 +21,11 @@ description:
   12. Maupassant et la peinture
   13. Entretien avec Louis Forestier
   14. Bibliographie et filmographie
-  Ont participé à ce numéro – 
-  Anne-Marie Baron, Pierre-Yves Bourdil, Alain Boureau, Louis Forestier, Denise Le Dantec, Jacques Le Marinel, Marianne Mabille, Francis Marcoin, Dominique Millet-Gérard, Yves Stalloni, Fabrice Thumerel, Thérèse Thumerel et Pierre Tranouez
-article_pdf: 5086.pdf
-magazine_special: Maupassant – romans et nouvelles
-revue: L’école des lettres des lycées
+  Ont participé à ce numéro :
+  Anne-Marie Baron, Pierre-Yves Bourdil, Alain Boureau, Louis Forestier, Denise Le Dantec, Jacques Le Marinel, Marianne Mabille, Francis Marcoin, Dominique Millet-Gérard, Yves Stalloni, Fabrice Thumerel, Thérèse Thumerel et Pierre Tranouez'
+article_pdf: '5086.pdf'
+magazine_special: 'Maupassant : romans et nouvelles'
+revue: 'L’école des lettres des lycées'
 disciplines:
 - lettres
 niveau_etudes:

@@ -1,15 +1,15 @@
 ---
-id: 1903
-title: « Les Amants du Nouveau Monde », de Roland Joffé, ou la nouvelle « Lettre
-  écarlate »
-rubrique: Cinéma
-annee: 1995
-magazine: n°10-11 15 mai 1996
-pages: 2
-description: Compte rendu du film de Roland Joffé, librement adapté de « La Lettre
-  écarlate » de Nathaniel Hawthorne.
-article_pdf: 1903.pdf
-revue: L’école des lettres des lycées
+id: '1903'
+title: '« Les Amants du Nouveau Monde », de Roland Joffé, ou la nouvelle « Lettre
+  écarlate »'
+rubrique: 'Cinéma'
+annee: '1995'
+magazine: 'n°10-11 15 mai 1996'
+pages: '2'
+description: 'Compte rendu du film de Roland Joffé, librement adapté de « La Lettre
+  écarlate » de Nathaniel Hawthorne.'
+article_pdf: '1903.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Victoria Attal
 niveau_etudes:

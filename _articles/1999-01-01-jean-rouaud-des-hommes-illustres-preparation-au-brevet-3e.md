@@ -1,14 +1,14 @@
 ---
-id: 3444
-title: Jean Rouaud – « Des hommes illustres »
-rubrique: Préparation au brevet [3e]
-annee: 1999
-magazine: n°10 15 février 2000
-pages: 6
-description: Un sujet proposé en juin 1995, revu conformément aux nouvelles instructions
-  pour le brevet 2000.
-article_pdf: 3444.pdf
-revue: L’école des lettres des collèges
+id: '3444'
+title: 'Jean Rouaud : « Des hommes illustres »'
+rubrique: 'Préparation au brevet [3e]'
+annee: '1999'
+magazine: 'n°10 15 février 2000'
+pages: '6'
+description: 'Un sujet proposé en juin 1995, revu conformément aux nouvelles instructions
+  pour le brevet 2000.'
+article_pdf: '3444.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Norbert Czarny
 disciplines:

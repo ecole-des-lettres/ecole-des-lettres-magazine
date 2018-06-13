@@ -1,12 +1,12 @@
 ---
-id: 5037
-title: Seconde Guerre mondiale et littérature
-rubrique: 
-annee: 1990
-magazine: n°14 15 juillet 1991
+id: '5037'
+title: 'Seconde Guerre mondiale et littérature'
+rubrique: ''
+annee: '1990'
+magazine: 'n°14 15 juillet 1991'
 pages: 230 pages
-description: 
-  1. « Un balcon en forêt », de Julien Gracq
+description: |-
+  '1. « Un balcon en forêt », de Julien Gracq
   2. « Le Fidèle Berger », d’Alexandre Vialatte
   3. « Le Silence de la mer », de Vercors
   4. « Les Feuillets d’Hypnos », de René Char
@@ -27,11 +27,11 @@ description:
   18. Le journal « Le Monde » et la Seconde Guerre mondiale
   19. Notes de lecture
   20. Bibliographie
-  Ont participé à ce numéro – 
-  Arlette Bouloumié, Christelle Bécant, Pierre-Yves Bourdil, Georges Cesbron, Norbert Czarny, Anne-Marie Duranton-Crabol, Pierre Hairion, Jean-Jacques Heude, Jacques Le Marinel, Francine de Martinoir, Yves Ménager, Edgar Morin, Yves Pihan, Guy Rabaté, Yves Stalloni et Guy Talon
-article_pdf: 5037.pdf
+  Ont participé à ce numéro :
+  Arlette Bouloumié, Christelle Bécant, Pierre-Yves Bourdil, Georges Cesbron, Norbert Czarny, Anne-Marie Duranton-Crabol, Pierre Hairion, Jean-Jacques Heude, Jacques Le Marinel, Francine de Martinoir, Yves Ménager, Edgar Morin, Yves Pihan, Guy Rabaté, Yves Stalloni et Guy Talon'
+article_pdf: '5037.pdf'
 magazine_special: Seconde Guerre mondiale et littérature
-revue: L’école des lettres des lycées
+revue: 'L’école des lettres des lycées'
 disciplines:
 - lettres
 niveau_etudes:

@@ -1,11 +1,11 @@
 ---
-id: 3496
-title: E. B. White – « Stuart Little ». Lecture cursive
-rubrique: Littérature de jeunesse [6e]
-annee: 1999
-magazine: n°11 (supplément) 15 mars 2000
-pages: 18
-description: La sortie sur grand écran de l’adaptation du court roman de E. B. White
+id: '3496'
+title: 'E. B. White : « Stuart Little ». Lecture cursive'
+rubrique: 'Littérature de jeunesse [6e]'
+annee: '1999'
+magazine: 'n°11 (supplément) 15 mars 2000'
+pages: '18'
+description: 'La sortie sur grand écran de l’adaptation du court roman de E. B. White
   offre l’occasion de lire ou de relire ce livre. La lecture qui en est proposée ici
   est à « dimension variable ». On ne saurait, en effet, envisager une étude exhaustive,
   voire une séquence, de ce roman que des élèves, en milieu de sixième, trouveraient
@@ -17,9 +17,9 @@ description: La sortie sur grand écran de l’adaptation du court roman de E. B
   cet article propose plusieurs axes d’étude et des exercices d’écriture. Un travail
   de comparaison entre l’écrit et l’image est, il va de soi, très recommandé. On pourra
   également confronter quatrième de couverture et synopsis, pour distinguer les procédés
-  de promotion (ou de séduction) dans l’édition et au cinéma.
-article_pdf: 3496.pdf
-revue: L’école des lettres des collèges
+  de promotion (ou de séduction) dans l’édition et au cinéma.'
+article_pdf: '3496.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Norbert Czarny
 auteur_jeunesse:

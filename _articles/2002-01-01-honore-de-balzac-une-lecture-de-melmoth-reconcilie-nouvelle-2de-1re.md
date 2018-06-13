@@ -1,11 +1,11 @@
 ---
-id: 5014
-title: Honoré de Balzac – une lecture de « Melmoth réconcilié »
-rubrique: Nouvelle [2de-1re]
-annee: 2002
-magazine: n°13 juillet 2003
-pages: 17
-description: Balzac est l’un des pionniers du mouvement romantique en France. Dès
+id: '5014'
+title: 'Honoré de Balzac : une lecture de « Melmoth réconcilié »'
+rubrique: 'Nouvelle [2de-1re]'
+annee: '2002'
+magazine: 'n°13 juillet 2003'
+pages: '17'
+description: 'Balzac est l’un des pionniers du mouvement romantique en France. Dès
   1819, il lit non seulement Homère, la Bible, Ossian, Chateaubriand et Mme de Staël,
   mais encore des « romans noirs » anglais. Les œuvres d’Horace Walpole, d’Ann Radcliffe,
   de Matthew Gregory Lewis et de Charles Robert Maturin lui font découvrir un nouvel
@@ -15,10 +15,10 @@ description: Balzac est l’un des pionniers du mouvement romantique en France. 
   lié avec la douleur qui décuple le plaisir des personnages emprisonnés. Alors que
   « Le Château d’Otrante » de Walpole, fondateur du genre, est traduit dès 1767, « Melmoth
   ou l’Homme errant » du révérend Maturin n’est accessible au public français qu’à
-  partir de 1818…
-article_pdf: 5014.pdf
+  partir de 1818…'
+article_pdf: '5014.pdf'
 magazine_special: Balzac et la nouvelle (3)
-revue: L’école des lettres des lycées
+revue: 'L’école des lettres des lycées'
 auteurs:
 - André Lorant
 disciplines:

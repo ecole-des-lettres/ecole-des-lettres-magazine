@@ -1,12 +1,12 @@
 ---
-id: 3246
-title: Écrire une scène romanesque sur le thème de l’entrée en scène du héros. Séquence
-rubrique: Écriture/Lecture [5e]
-annee: 1998
-magazine: n°4 1er octobre 1998
-pages: 20
-description: 
-  La production d’écrit étant indissociable de la lecture, cette séquence s’appuie sur l’étude d’un groupement de textes – 
+id: '3246'
+title: 'Écrire une scène romanesque sur le thème de l’entrée en scène du héros. Séquence'
+rubrique: 'Écriture/Lecture [5e]'
+annee: '1998'
+magazine: 'n°4 1er octobre 1998'
+pages: '20'
+description: |-
+  'La production d’écrit étant indissociable de la lecture, cette séquence s’appuie sur l’étude d’un groupement de textes :
   – « Le Faucon déniché », de Jean-Côme Noguès
   – « Le Lion », de Joseph Kessel
   – « La Mort de la terre », de Rosny André
@@ -23,9 +23,9 @@ description:
   – la textualisation
   3. Dispositif didactique
   – les héros choisis et les raisons d’un choix
-  4. Analyse des scènes choisies
-article_pdf: 3246.pdf
-revue: L’école des lettres des collèges
+  4. Analyse des scènes choisies'
+article_pdf: '3246.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Patricia Fize
 - Claude Gapaillard

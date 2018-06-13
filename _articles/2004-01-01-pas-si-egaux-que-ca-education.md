@@ -1,14 +1,14 @@
 ---
-id: 11182
-title: Pas si égaux que ça…
-rubrique: Éducation 
-annee: 2004
-magazine: n°4 décembre 2004
-pages: 2
-description: Présentation de l’ouvrage de François Dubet, « L’École des chances – 
-  qu’est-ce qu’une école juste ? » (Seuil, 2004).
-article_pdf: 11182.pdf
-revue: L’école des lettres des lycées
+id: '11182'
+title: 'Pas si égaux que ça…'
+rubrique: 'Éducation '
+annee: '2004'
+magazine: 'n°4 décembre 2004'
+pages: '2'
+description: 'Présentation de l’ouvrage de François Dubet, « L’École des chances
+  : qu’est-ce qu’une école juste ? » (Seuil, 2004).'
+article_pdf: '11182.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Yves Stalloni
 disciplines:

@@ -1,20 +1,21 @@
 ---
-id: 416
-title: Fred Uhlman – « L’Ami retrouvé » ; Jacques de Lacretelle – « Silbermann » 
-rubrique: Romans du XXe siècle [3e]
-annee: 1990
-magazine: n°8 1er février 1991
-pages: 8
-description: 
-  1. Premier travail de synthèse – le problème du narrateur et le schéma structurel des deux romans
+id: '416'
+title: 'Fred Uhlman : « L’Ami retrouvé » ; Jacques de Lacretelle : « Silbermann »
+  '
+rubrique: 'Romans du XXe siècle [3e]'
+annee: '1990'
+magazine: 'n°8 1er février 1991'
+pages: '8'
+description: |-
+  '1. Premier travail de synthèse : le problème du narrateur et le schéma structurel des deux romans
   2. Les niveaux de temporalité
   3. L’évocation de l’espace ; lieux, décors
   4. Le rapport au milieu familial
   5. Deux romans d’apprentissage
   6. L’importance de la question juive
-  7. Sémantique et lexique de l’amitié
-article_pdf: 416.pdf
-revue: L’école des lettres des collèges
+  7. Sémantique et lexique de l’amitié'
+article_pdf: '416.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - François-Jean Authier
 disciplines:

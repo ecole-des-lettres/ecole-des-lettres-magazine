@@ -1,13 +1,13 @@
 ---
-id: 3040
-title: Maryse Vassevière – « Aragon, romancier intertextuel, ou les Pas de l’étranger »
-rubrique: Histoire littéraire
-annee: 1998
-magazine: n°10 1er février 1999
-pages: 2
-description: Note de lecture sur cet ouvrage (L’Harmattan, 1998).
-article_pdf: 3040.pdf
-revue: L’école des lettres des lycées
+id: '3040'
+title: 'Maryse Vassevière : « Aragon, romancier intertextuel, ou les Pas de l’étranger »'
+rubrique: 'Histoire littéraire'
+annee: '1998'
+magazine: 'n°10 1er février 1999'
+pages: '2'
+description: 'Note de lecture sur cet ouvrage (L’Harmattan, 1998).'
+article_pdf: '3040.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Yves Stalloni
 disciplines:

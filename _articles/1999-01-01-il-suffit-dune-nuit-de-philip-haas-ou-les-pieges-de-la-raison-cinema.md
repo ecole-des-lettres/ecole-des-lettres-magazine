@@ -1,13 +1,13 @@
 ---
-id: 3564
-title: « Il suffit d’une nuit », de Philip Haas, ou les pièges de la raison
-rubrique: Cinéma
-annee: 1999
-magazine: n°14 juin 2000
-pages: 1
-description: Compte rendu du film de Philip Haas adapté d’un roman de Somerset Maugham.
-article_pdf: 3564.pdf
-revue: L’école des lettres des lycées
+id: '3564'
+title: '« Il suffit d’une nuit », de Philip Haas, ou les pièges de la raison'
+rubrique: 'Cinéma'
+annee: '1999'
+magazine: 'n°14 juin 2000'
+pages: '1'
+description: 'Compte rendu du film de Philip Haas adapté d’un roman de Somerset Maugham.'
+article_pdf: '3564.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Victoria Attal
 niveau_etudes:

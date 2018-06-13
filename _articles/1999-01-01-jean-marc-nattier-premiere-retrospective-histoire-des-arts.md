@@ -1,13 +1,13 @@
 ---
-id: 3779
-title: Jean-Marc Nattier – première rétrospective
-rubrique: Histoire des arts
-annee: 1999
-magazine: n°9 15 janvier 2000
-pages: 2
-description: Compte rendu de l’exposition du portraitiste (1685-1766)…
-article_pdf: 3779.pdf
-revue: L’école des lettres des lycées
+id: '3779'
+title: 'Jean-Marc Nattier : première rétrospective'
+rubrique: 'Histoire des arts'
+annee: '1999'
+magazine: 'n°9 15 janvier 2000'
+pages: '2'
+description: 'Compte rendu de l’exposition du portraitiste (1685-1766)…'
+article_pdf: '3779.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Michel Marbeau
 disciplines:

@@ -1,11 +1,11 @@
 ---
-id: 3827
-title: Stefan Zweig – quelle culture européenne dans « Le Joueur d’échecs » ?
-rubrique: Nouvelles [Tle]
-annee: 2000
-magazine: n°10 15 février 2001
-pages: 14
-description: À quelle culture européenne fait-on référence dans le choix de cette
+id: '3827'
+title: 'Stefan Zweig : quelle culture européenne dans « Le Joueur d’échecs » ?'
+rubrique: 'Nouvelles [Tle]'
+annee: '2000'
+magazine: 'n°10 15 février 2001'
+pages: '14'
+description: 'À quelle culture européenne fait-on référence dans le choix de cette
   nouvelle pour un programme de terminale ? Interroger la culture européenne, c’est
   interroger sa définition en soi, mais aussi et surtout dans le texte. Selon quels
   critères peut-on identifier une culture européenne dans la nouvelle de Zweig ? Quelle
@@ -17,9 +17,9 @@ description: À quelle culture européenne fait-on référence dans le choix de 
   Quelle image des hommes, de leur vie, veut-on donner à travers ce texte et cette
   question qui reste ouverte ? Que cherche-t-on à affirmer quand on défend l’Europe,
   comme l’a fait Zweig, une dernière fois, par le biais de cette fiction et la construction
-  de personnages exemplaires ?
-article_pdf: 3827.pdf
-revue: L’école des lettres des lycées
+  de personnages exemplaires ?'
+article_pdf: '3827.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Romain Lancrey-Javal
 disciplines:

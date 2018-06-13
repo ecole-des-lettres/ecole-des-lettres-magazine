@@ -1,18 +1,18 @@
 ---
-id: 2316
-title: Collections « Neuf » et « Médium » – quoi de neuf ?
-rubrique: Littérature de jeunesse [CM-2de]
-annee: 1996
-magazine: n°13 15 mai 1997
-pages: 4
-description: 
-  Les nouveautés des collections « Neuf » et « Médium » (l’école des loisirs, 1997) – 
+id: '2316'
+title: 'Collections « Neuf » et « Médium » : quoi de neuf ?'
+rubrique: 'Littérature de jeunesse [CM-2de]'
+annee: '1996'
+magazine: 'n°13 15 mai 1997'
+pages: '4'
+description: |-
+  'Les nouveautés des collections « Neuf » et « Médium » (l’école des loisirs, 1997) :
   – « Lettres d’amour de 0 à 10 », de Susie Morgenstern
   – « Tout contre Léo », de Christophe Honoré
   – « No pasaran, le jeu », de Christian Lehmann
-  – « En pleine nuit », de Robert Cormier.
-article_pdf: 2316.pdf
-revue: L’école des lettres des collèges
+  – « En pleine nuit », de Robert Cormier.'
+article_pdf: '2316.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Sylvie Misiurny
 - Anne Maliar

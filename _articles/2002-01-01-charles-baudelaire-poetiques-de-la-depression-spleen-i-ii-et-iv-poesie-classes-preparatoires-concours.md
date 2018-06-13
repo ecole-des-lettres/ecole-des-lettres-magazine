@@ -1,11 +1,11 @@
 ---
-id: 11561
-title: Charles Baudelaire – poétiques de la dépression – « Spleen », I, II, et IV
-rubrique: Poésie [classes préparatoires, concours]
-annee: 2002
-magazine: n°11 mars 2003
-pages: 18
-description: La question se pose des relations entre le spleen et une autre catégorie
+id: '11561'
+title: 'Charles Baudelaire : poétiques de la dépression : « Spleen », I, II, et IV'
+rubrique: 'Poésie [classes préparatoires, concours]'
+annee: '2002'
+magazine: 'n°11 mars 2003'
+pages: '18'
+description: 'La question se pose des relations entre le spleen et une autre catégorie
   dont on peut difficilement exagérer l’importance chez Baudelaire, la mélancolie.
   S’il serait possible de définir le spleen comme une sous-catégorie de la mélancolie,
   il paraît plus utile, compte tenu des termes de cette distinction fournis par « Les
@@ -13,10 +13,10 @@ description: La question se pose des relations entre le spleen et une autre cat�
   certes possible d’invoquer des cas hybrides ou frontaliers, mais dans bien des cas,
   on peut supposer plutôt deux postures existentielles différentes, avec des traitements
   qui le sont tout autant. Cet article se propose d’étudier sous cet angle trois des
-  poèmes intitulés « Spleen ».
-article_pdf: 11561.pdf
-magazine_special: Baudelaire – Les Fleurs du Mal
-revue: L’école des lettres des lycées
+  poèmes intitulés « Spleen ».'
+article_pdf: '11561.pdf'
+magazine_special: 'Baudelaire : Les Fleurs du Mal'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Steve Murphy
 disciplines:

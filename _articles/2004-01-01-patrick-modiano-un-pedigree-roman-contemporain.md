@@ -1,13 +1,13 @@
 ---
-id: 11194
-title: Patrick Modiano – « Un pedigree »
-rubrique: Roman contemporain
-annee: 2004
-magazine: n°5 janvier 2005
-pages: 3
-description: Présentation de l’ouvrage de Patrick Modiano (Gallimard, 2004).
-article_pdf: 11194.pdf
-revue: L’école des lettres des lycées
+id: '11194'
+title: 'Patrick Modiano : « Un pedigree »'
+rubrique: 'Roman contemporain'
+annee: '2004'
+magazine: 'n°5 janvier 2005'
+pages: '3'
+description: 'Présentation de l’ouvrage de Patrick Modiano (Gallimard, 2004).'
+article_pdf: '11194.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Norbert Czarny
 disciplines:

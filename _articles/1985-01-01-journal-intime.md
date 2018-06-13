@@ -1,12 +1,12 @@
 ---
-id: 5070
-title: « Journal intime »
-rubrique: 
-annee: 1985
-magazine: n°11 15 mars 1986
+id: '5070'
+title: '« Journal intime »'
+rubrique: ''
+annee: '1985'
+magazine: 'n°11 15 mars 1986'
 pages: 146 pages
-description: 
-  1. Le journal, miroir de la création, de la critique, de la réflexion philosophique 
+description: |-
+  '1. Le journal, miroir de la création, de la critique, de la réflexion philosophique 
   – le « Journal », d’André Gide 
   – le « Journal », de Charles Du Bos 
   – le « Journal métaphysique », de Gabriel Marcel
@@ -23,11 +23,11 @@ description:
   – « En miroir. Journal sans date », de Pierre Jean Jouve 
   – « Les Sandales de paille », de Pierre-Albert Jourdan 
   – les « Papiers collés », de Georges Perros
-  Ont participé à ce numéro – 
-  Jean Arrouye, Christiane Blot-Labarrère, Pierre-Yves Bourdil, Georges Cesbron, Michel Erman, Véronique Grollier, Yves Leclair, Francine de Martinoir, Pierre Masson, Yves Pihan, Yves Stalloni et Laurence Viglieno
-article_pdf: 5070.pdf
+  Ont participé à ce numéro :
+  Jean Arrouye, Christiane Blot-Labarrère, Pierre-Yves Bourdil, Georges Cesbron, Michel Erman, Véronique Grollier, Yves Leclair, Francine de Martinoir, Pierre Masson, Yves Pihan, Yves Stalloni et Laurence Viglieno'
+article_pdf: '5070.pdf'
 magazine_special: Journal intime
-revue: L’école des lettres des lycées
+revue: 'L’école des lettres des lycées'
 disciplines:
 - lettres
 niveau_etudes:

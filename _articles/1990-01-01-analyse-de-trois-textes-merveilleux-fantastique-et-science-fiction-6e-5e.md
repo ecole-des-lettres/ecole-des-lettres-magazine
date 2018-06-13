@@ -1,15 +1,15 @@
 ---
-id: 357
-title: Analyse de trois textes
-rubrique: Merveilleux, fantastique et science-fiction [6e-5e]
-annee: 1990
-magazine: n°6 15 décembre 1990
-pages: 10
-description: Analyse des trois genres à partir de trois textes représentatifs – « Les
-  Souhaits ridicules », un conte de Perrault ; « La Patte de singe », une nouvelle
-  de Jacobs ; et « Le Château des Carpathes », roman de Jules Verne…
-article_pdf: 357.pdf
-revue: L’école des lettres des collèges
+id: '357'
+title: 'Analyse de trois textes'
+rubrique: 'Merveilleux, fantastique et science-fiction [6e-5e]'
+annee: '1990'
+magazine: 'n°6 15 décembre 1990'
+pages: '10'
+description: 'Analyse des trois genres à partir de trois textes représentatifs :
+  « Les Souhaits ridicules », un conte de Perrault ; « La Patte de singe », une nouvelle
+  de Jacobs ; et « Le Château des Carpathes », roman de Jules Verne…'
+article_pdf: '357.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Philippe Labaune
 auteur_jeunesse:

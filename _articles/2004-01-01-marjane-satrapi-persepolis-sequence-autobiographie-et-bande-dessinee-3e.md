@@ -1,11 +1,11 @@
 ---
-id: 11122
-title: Marjane Satrapi – « Persépolis » (séquence)
-rubrique: Autobiographie et bande dessinée [3e] 
-annee: 2004
-magazine: n°9 mai 2005
-pages: 14
-description: « Persépolis » est une bande dessinée autobiographique en quatre tomes.
+id: '11122'
+title: 'Marjane Satrapi : « Persépolis » (séquence)'
+rubrique: 'Autobiographie et bande dessinée [3e] '
+annee: '2004'
+magazine: 'n°9 mai 2005'
+pages: '14'
+description: '« Persépolis » est une bande dessinée autobiographique en quatre tomes.
   Marjane Satrapi y relate sa jeunesse au rythme des événements politiques qui secouent
   son pays, l’Iran, de 1980 à 1994. Le troisième tome, étudié dans cet article, décrit
   ses années d’exil (1984 à 1988) en Autriche où ses parents l’envoient pour la mettre
@@ -17,9 +17,9 @@ description: « Persépolis » est une bande dessinée autobiographique en qua
   tome s’explique parce que l’auteur y aborde la période difficile d’une jeune fille
   de quatorze à dix-huit ans dont la situation (l’exil) exacerbe les problèmes rencontrés
   à cet âge. Les élèves devraient s’y reconnaître en partie – c’est bien là l’un des
-  enjeux de l’autobiographie…
-article_pdf: 11122.pdf
-revue: L’école des lettres des collèges
+  enjeux de l’autobiographie…'
+article_pdf: '11122.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Laurent Guyon
 auteur_jeunesse:

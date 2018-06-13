@@ -1,21 +1,21 @@
 ---
-id: 1672
-title: Honoré de Balzac – « Le Colonel Chabert » et « L’Interdiction » ou les fantasmes
-  d’un romancier
-rubrique: Récit et réécritures cinématographiques [2de-1re]
-annee: 1994
-magazine: n°3 1er novembre 1994
-pages: 10
-description: 
-  Balzac et ses adaptations cinématographiques…
+id: '1672'
+title: 'Honoré de Balzac : « Le Colonel Chabert » et « L’Interdiction » ou les fantasmes
+  d’un romancier'
+rubrique: 'Récit et réécritures cinématographiques [2de-1re]'
+annee: '1994'
+magazine: 'n°3 1er novembre 1994'
+pages: '10'
+description: |-
+  'Balzac et ses adaptations cinématographiques…
   1. L’observation réaliste
   2. La bureaucratie judiciaire
   3. Le mythe napoléonien
   4. Fantasmes familiaux
   5. Le paradis perdu
-  6. Exclusion et mensonge
-article_pdf: 1672.pdf
-revue: L’école des lettres des lycées
+  6. Exclusion et mensonge'
+article_pdf: '1672.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Anne-Marie Baron
 disciplines:

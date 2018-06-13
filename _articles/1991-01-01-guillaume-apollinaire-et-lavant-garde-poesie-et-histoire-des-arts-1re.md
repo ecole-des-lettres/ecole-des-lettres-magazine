@@ -1,12 +1,12 @@
 ---
-id: 530
-title: Guillaume Apollinaire et l’avant-garde 
-rubrique: Poésie et histoire des arts [1re]
-annee: 1991
-magazine: n°12 1er juin 1992
-pages: 14
-description: 
-  1. Bref rappel historique
+id: '530'
+title: 'Guillaume Apollinaire et l’avant-garde '
+rubrique: 'Poésie et histoire des arts [1re]'
+annee: '1991'
+magazine: 'n°12 1er juin 1992'
+pages: '14'
+description: |-
+  '1. Bref rappel historique
   2. Apollinaire et la peinture
   – Du cubisme au futurisme
   – les revues « Lacerba » et « Der Sturm »
@@ -15,10 +15,10 @@ description:
   – l’analogie et l’image
   – l’esthétique de la surprise
   4. Apollinaire et l’orphisme
-  L’article est suivi d’une bibliographie.
-article_pdf: 530.pdf
+  L’article est suivi d’une bibliographie.'
+article_pdf: '530.pdf'
 magazine_special: Apollinaire. L’œuvre poétique (1)
-revue: L’école des lettres des lycées
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Marie-Hélène Boblet-Viart
 disciplines:

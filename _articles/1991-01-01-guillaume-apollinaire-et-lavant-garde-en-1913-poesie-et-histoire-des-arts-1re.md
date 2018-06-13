@@ -1,14 +1,14 @@
 ---
-id: 532
-title: Guillaume Apollinaire et l’avant-garde en 1913 
-rubrique: Poésie et histoire des arts [1re]
-annee: 1991
-magazine: n°12 1er juin 1992
-pages: 1
-description: Apollinaire et la sculpture…
-article_pdf: 532.pdf
+id: '532'
+title: 'Guillaume Apollinaire et l’avant-garde en 1913 '
+rubrique: 'Poésie et histoire des arts [1re]'
+annee: '1991'
+magazine: 'n°12 1er juin 1992'
+pages: '1'
+description: 'Apollinaire et la sculpture…'
+article_pdf: '532.pdf'
 magazine_special: Apollinaire. L’œuvre poétique (1)
-revue: L’école des lettres des lycées
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Michel Décaudin
 disciplines:

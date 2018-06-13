@@ -1,12 +1,12 @@
 ---
-id: 12749
-title: « Le Roman de Merlin », de Robert de Boron. Une nouvelle traduction pour étudier
-  l’Enchanteur en cinquième
-rubrique: Littérature médiévale
-annee: 2014
-magazine: n°5
-pages: 14
-description: L’étude d’un roman de chevalerie figure au programme de l’enseignement
+id: '12749'
+title: '« Le Roman de Merlin », de Robert de Boron. Une nouvelle traduction pour
+  étudier l’Enchanteur en cinquième'
+rubrique: 'Littérature médiévale'
+annee: '2014'
+magazine: 'n°5'
+pages: '14'
+description: 'L’étude d’un roman de chevalerie figure au programme de l’enseignement
   du français en classe de cinquième. « Le Roman de Merlin » permet d’aborder le sujet
   d’une manière originale. En effet, s’il montre bien l’univers de la chevalerie,
   notamment l’autorité du souverain et les relations de vassalité, il nous entraîne
@@ -19,9 +19,9 @@ description: L’étude d’un roman de chevalerie figure au programme de l’en
   des humains, qui se révèle finalement leur allié bienveillant, non sans s’autoriser
   au passage quelques entorses à la morale. Merlin, qui se montre parfois plus facétieux
   que moralisateur, nous fait souvent sourire. Le personnage et l’œuvre devraient
-  séduire les élèves.
-article_pdf: 12749.pdf
-revue: L’école des lettres des collèges
+  séduire les élèves.'
+article_pdf: '12749.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Jean-Pierre Tusseau
 niveau_etudes:

@@ -1,14 +1,14 @@
 ---
-id: 11394
-title: Rencontre avec Boris Moissard
-rubrique: Littérature de jeunesse
-annee: 2004
-magazine: n°7 mars 2005
-pages: 7
-description: Dans un entretien accordé à « L’École des lettres », le romancier explicite
-  sa démarche et retrace son parcours.
-article_pdf: 11394.pdf
-revue: L’école des lettres des collèges
+id: '11394'
+title: 'Rencontre avec Boris Moissard'
+rubrique: 'Littérature de jeunesse'
+annee: '2004'
+magazine: 'n°7 mars 2005'
+pages: '7'
+description: 'Dans un entretien accordé à « L’École des lettres », le romancier explicite
+  sa démarche et retrace son parcours.'
+article_pdf: '11394.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Yves Lucas
 auteur_jeunesse:

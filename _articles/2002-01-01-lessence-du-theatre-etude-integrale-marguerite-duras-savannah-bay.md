@@ -1,11 +1,11 @@
 ---
-id: 4989
-title: L’essence du théâtre. Étude intégrale
-rubrique: Marguerite Duras – « Savannah Bay »
-annee: 2002
-magazine: n°12 mai 2003
-pages: 11
-description: Avec « Savannah Bay », Duras s’inscrit dans la modernité d’un nouveau
+id: '4989'
+title: 'L’essence du théâtre. Étude intégrale'
+rubrique: 'Marguerite Duras : « Savannah Bay »'
+annee: '2002'
+magazine: 'n°12 mai 2003'
+pages: '11'
+description: 'Avec « Savannah Bay », Duras s’inscrit dans la modernité d’un nouveau
   théâtre (nommé aussi « anti-théâtre ») qui rejette à la fois toute action fondée
   sur la cohérence des caractères et toute illusion de réalité, au profit d’une parole
   témoignant d’un monde miné par le soupçon et par l’absence. « Savannah Bay » explore
@@ -18,9 +18,9 @@ description: Avec « Savannah Bay », Duras s’inscrit dans la modernité d�
   nous sommes au cœur de ce qui fonde le théâtre. Mais la singularité absolue de la
   pièce réside dans le paradoxe d’une écriture qui,t out en s’appliquant à détruire
   la mimesis théâtrale et ses effets de réalité, n’en exploite pas moins les séductions
-  puissantes d’une histoire d’amour et de mort, le mythe éternel d’Éros et Thanatos.
-article_pdf: 4989.pdf
-revue: L’école des lettres des lycées
+  puissantes d’une histoire d’amour et de mort, le mythe éternel d’Éros et Thanatos.'
+article_pdf: '4989.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Joëlle Pagès-Pindon
 disciplines:

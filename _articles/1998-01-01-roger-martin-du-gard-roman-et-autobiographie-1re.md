@@ -1,18 +1,18 @@
 ---
-id: 3069
-title: Roger Martin du Gard 
-rubrique: Roman et autobiographie [1re]
-annee: 1998
-magazine: n°11 1er mars 1999
-pages: 30
-description: 
-  – Panorama de la vie et de l’œuvre de l’écrivain
+id: '3069'
+title: 'Roger Martin du Gard '
+rubrique: 'Roman et autobiographie [1re]'
+annee: '1998'
+magazine: 'n°11 1er mars 1999'
+pages: '30'
+description: |-
+  '– Panorama de la vie et de l’œuvre de l’écrivain
   – Roger Martin du Gard et son « Journal »
   – La correspondance de Martin du Gard
-  – Roger Martin du Gard – un romancier polygraphe
-  Ces articles sont suivis d’une bibliographie détaillée et commentée.
-article_pdf: 3069.pdf
-revue: L’école des lettres des lycées
+  – Roger Martin du Gard : un romancier polygraphe
+  Ces articles sont suivis d’une bibliographie détaillée et commentée.'
+article_pdf: '3069.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Jean-François Massol
 - René Garguilo

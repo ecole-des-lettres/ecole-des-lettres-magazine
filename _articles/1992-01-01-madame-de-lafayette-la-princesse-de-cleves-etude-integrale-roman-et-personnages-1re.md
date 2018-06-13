@@ -1,16 +1,16 @@
 ---
-id: 943
-title: Madame de Lafayette – « La Princesse de Clèves ». Étude intégrale 
-rubrique: Roman et personnages [1re]
-annee: 1992
-magazine: n°2 1er octobre 1992
-pages: 29
-description: Cet article propose une relecture de « La Princesse de Clèves » – effets
+id: '943'
+title: 'Madame de Lafayette : « La Princesse de Clèves ». Étude intégrale '
+rubrique: 'Roman et personnages [1re]'
+annee: '1992'
+magazine: 'n°2 1er octobre 1992'
+pages: '29'
+description: 'Cet article propose une relecture de « La Princesse de Clèves » : effets
   de composition, techniques narratives, dimension historique, roman sentimental,
-  leçon de morale…
-article_pdf: 943.pdf
-magazine_special: Lafayette – La Princesse de Clèves
-revue: L’école des lettres des lycées
+  leçon de morale…'
+article_pdf: '943.pdf'
+magazine_special: 'Lafayette : La Princesse de Clèves'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Yves Stalloni
 disciplines:

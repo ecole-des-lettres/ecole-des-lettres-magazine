@@ -1,12 +1,12 @@
 ---
-id: 12084
-title: Ces livres qui marquent pour la vie
-rubrique: La littérature pour la jeunesse, une littérature pour la vie,
-annee: 2010
-magazine: n°6 2010-2011
-pages: 14
-description: 
-  Une sélection de huit titres pour la jeunesse inoubliables, présentés par Marie Saint-Dizier – 
+id: '12084'
+title: 'Ces livres qui marquent pour la vie'
+rubrique: 'La littérature pour la jeunesse, une littérature pour la vie,'
+annee: '2010'
+magazine: 'n°6 2010-2011'
+pages: '14'
+description: |-
+  'Une sélection de huit titres pour la jeunesse inoubliables, présentés par Marie Saint-Dizier :
   – « Peter Pan », de James Matthew Barrie ;
   – « Les Contes du chat perché», de Marcel Aymé ;
   – « Fifi Brindacier », d’Astrid Lindgren ;
@@ -15,10 +15,10 @@ description:
   – « Sacrées Sorcières », de Roald Dahl ;
   – « Le garçon qui avait perdu la face », de Louis Sachar ;
   – «Une vague d’amour sur un lac d’amitié »,
-  de Marie Desplechin.
-article_pdf: 12084.pdf
+  de Marie Desplechin.'
+article_pdf: '12084.pdf'
 magazine_special: La littérature pour la jeunesse, une littérature pour la vie 
-revue: L’école des lettres des collèges
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Marie Saint Dizier
 auteur_jeunesse:

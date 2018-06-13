@@ -1,11 +1,11 @@
 ---
-id: 11387
-title: Montaigne et Léry – une relecture du chapitre « Des cannibales ». Étude d’extraits
-rubrique: Réécritures [1re]
-annee: 2005
-magazine: n°11-12 septembre 2006
-pages: 7
-description: Pour Montaigne, grand lecteur, la citation est le mode de confrontation
+id: '11387'
+title: 'Montaigne et Léry : une relecture du chapitre « Des cannibales ». Étude d’extraits'
+rubrique: 'Réécritures [1re]'
+annee: '2005'
+magazine: 'n°11-12 septembre 2006'
+pages: '7'
+description: 'Pour Montaigne, grand lecteur, la citation est le mode de confrontation
   de points de vue par excellence. Cependant, lorsque le texte de l’autre est réécrit,
   lorsque ce texte est l’équivalent d’une source pour l’écrivain, on entre dans l’intertextualité,
   dans des phénomènes de reprises, de reformulations, de réinterprétations, bref,
@@ -22,9 +22,9 @@ description: Pour Montaigne, grand lecteur, la citation est le mode de confronta
   valorisation), de même que processus d’appropriation (reconnaissance, assimilation,
   personnalisation) des informations collectées. Montaigne, comme tout lecteur, oscille
   entre fidélité (restant soumis à la pression du texte) et infidélité (soumis à ses
-  propres attentes).
-article_pdf: 11387.pdf
-revue: L’école des lettres des lycées
+  propres attentes).'
+article_pdf: '11387.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Pascal Caglar
 disciplines:

@@ -1,13 +1,13 @@
 ---
-id: 1767
-title: Anne-Marie Baron – « Le Fils prodige ou l’inconscient dans la Comédie humaine »
-rubrique: 
-annee: 1994
-magazine: n°7 15 février 1995
+id: '1767'
+title: 'Anne-Marie Baron : « Le Fils prodige ou l’inconscient dans la Comédie humaine »'
+rubrique: ''
+annee: '1994'
+magazine: 'n°7 15 février 1995'
 pages: p. 56
-description: Note de lecture sur cet ouvrage (Nathan, 1993).
-article_pdf: 1767.pdf
-revue: L’école des lettres des lycées
+description: 'Note de lecture sur cet ouvrage (Nathan, 1993).'
+article_pdf: '1767.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - François-Marie Mourad
 disciplines:

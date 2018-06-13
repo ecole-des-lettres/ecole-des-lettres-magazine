@@ -1,13 +1,13 @@
 ---
-id: 5248
-title: Bernard Vincent – « Le Sentier des larmes. Le grand exil des Indiens Cherokees »
-rubrique: Histoire
-annee: 2003
-magazine: n°6 1er décembre 2003
-pages: 4
-description: Note de lecture très détaillée sur cet ouvrage (Flammarion, 2002).
-article_pdf: 5248.pdf
-revue: L’école des lettres des lycées
+id: '5248'
+title: 'Bernard Vincent : « Le Sentier des larmes. Le grand exil des Indiens Cherokees »'
+rubrique: 'Histoire'
+annee: '2003'
+magazine: 'n°6 1er décembre 2003'
+pages: '4'
+description: 'Note de lecture très détaillée sur cet ouvrage (Flammarion, 2002).'
+article_pdf: '5248.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Michel Marbeau
 disciplines:

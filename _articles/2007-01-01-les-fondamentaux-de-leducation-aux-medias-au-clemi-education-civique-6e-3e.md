@@ -1,11 +1,11 @@
 ---
-id: 11631
-title: Les fondamentaux de l’éducation aux médias au Clemi 
-rubrique: Éducation civique [6e-3e]
-annee: 2007
-magazine: n°1 2007-2008
-pages: 4
-description: Aborder l’éducation aux médias comme champ pédagogique propre, c’est
+id: '11631'
+title: 'Les fondamentaux de l’éducation aux médias au Clemi '
+rubrique: 'Éducation civique [6e-3e]'
+annee: '2007'
+magazine: 'n°1 2007-2008'
+pages: '4'
+description: 'Aborder l’éducation aux médias comme champ pédagogique propre, c’est
   vouloir étudier comment le medium « in-forme » la donnée prétendument « brute »
   qu’il transporte et ne plus le considérer simplement comme le vecteur neutre d’un
   message. Depuis longtemps considérée comme nécessaire champ à explorer avec les
@@ -18,9 +18,9 @@ description: Aborder l’éducation aux médias comme champ pédagogique propre,
   profit humaniste du citoyen, qui éclaire ainsi sa vision du monde, nourrit sa culture
   et fait vivre sa tolérance. Il s’agit également de mettre en œuvre des pratiques
   citoyennes, comme, par exemple, la confection d’un journal (papier, radio, vidéo
-  ou sur Internet) au sein d’un établissement scolaire.
-article_pdf: 11631.pdf
-revue: L’école des lettres des collèges
+  ou sur Internet) au sein d’un établissement scolaire.'
+article_pdf: '11631.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Matthias Cyprien
 disciplines:

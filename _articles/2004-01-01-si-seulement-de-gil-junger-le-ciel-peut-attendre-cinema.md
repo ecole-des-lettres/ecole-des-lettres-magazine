@@ -1,13 +1,13 @@
 ---
-id: 11191
-title: « Si seulement », de Gil Junger – le ciel peut attendre
-rubrique: Cinéma
-annee: 2004
-magazine: n°4 décembre 2004
-pages: 1
-description: Compte rendu du film de Gil Junger.
-article_pdf: 11191.pdf
-revue: L’école des lettres des lycées
+id: '11191'
+title: '« Si seulement », de Gil Junger : le ciel peut attendre'
+rubrique: 'Cinéma'
+annee: '2004'
+magazine: 'n°4 décembre 2004'
+pages: '1'
+description: 'Compte rendu du film de Gil Junger.'
+article_pdf: '11191.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Victoria Attal
 niveau_etudes:

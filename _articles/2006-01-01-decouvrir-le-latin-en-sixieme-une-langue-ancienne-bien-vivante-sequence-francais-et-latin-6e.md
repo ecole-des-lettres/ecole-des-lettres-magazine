@@ -1,11 +1,11 @@
 ---
-id: 11805
-title: Découvrir le latin en sixième – une langue ancienne bien vivante (séquence)
-rubrique: Français et latin [6e]
-annee: 2006
-magazine: n°8 2007-2008
-pages: 6
-description: Si ce n’est déjà décidé dans l’esprit des familles, l’occasion s’offre,
+id: '11805'
+title: 'Découvrir le latin en sixième – une langue ancienne bien vivante (séquence)'
+rubrique: 'Français et latin [6e]'
+annee: '2006'
+magazine: 'n°8 2007-2008'
+pages: '6'
+description: 'Si ce n’est déjà décidé dans l’esprit des familles, l’occasion s’offre,
   en sixième, de réfléchir à l’option latin proposée en cinquième et d’y conduire
   un plus grand nombre d’élèves. Or il apparaît qu’une rapide information, même bien
   argumentée, ne suffit guère à vaincre des réticences liées à une méconnaissance
@@ -17,9 +17,9 @@ description: Si ce n’est déjà décidé dans l’esprit des familles, l’occ
   Elle permet en effet, outre de stimuler leur curiosité, de redécouvrir la présence
   majoritaire et multiforme du latin en français, de retravailler la construction
   des mots et la dérivation, et de revenir (selon ce qui a déjà été abordé ou non)
-  sur les fonctions correspondant aux différents cas.
-article_pdf: 11805.pdf
-revue: L’école des lettres des collèges
+  sur les fonctions correspondant aux différents cas.'
+article_pdf: '11805.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Laurence Bonin-Descurninges
 disciplines:

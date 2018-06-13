@@ -1,17 +1,17 @@
 ---
-id: 61
-title: L’image de l’Orient chez Chateaubriand
-rubrique: Histoire littéraire [2de] 
-annee: 1987
-magazine: n°12 15 avril 1988
-pages: 6
-description: 
-  1. Le dernier pèlerin ou le premier touriste ?
+id: '61'
+title: 'L’image de l’Orient chez Chateaubriand'
+rubrique: 'Histoire littéraire [2de] '
+annee: '1987'
+magazine: 'n°12 15 avril 1988'
+pages: '6'
+description: |-
+  '1. Le dernier pèlerin ou le premier touriste ?
   2. La composition de l’image de l’Orient
-  3. Esthétique
-article_pdf: 61.pdf
+  3. Esthétique'
+article_pdf: '61.pdf'
 magazine_special: Images de l’Orient
-revue: L’école des lettres des lycées
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Patrick Jager
 disciplines:

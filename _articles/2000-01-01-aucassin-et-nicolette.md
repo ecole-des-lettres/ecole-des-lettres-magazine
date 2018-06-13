@@ -1,12 +1,12 @@
 ---
-id: 5036
-title: « Aucassin et Nicolette »
-rubrique: 
-annee: 2000
-magazine: n°9 15 janvier 2001
+id: '5036'
+title: '« Aucassin et Nicolette »'
+rubrique: ''
+annee: '2000'
+magazine: 'n°9 15 janvier 2001'
 pages: 208 pages
-description: 
-  1. « Chantefable » – un terme et un genre à élucider
+description: |-
+  '1. « Chantefable » : un terme et un genre à élucider
   2. Étude séquentielle
   3. L’épisode de Torelore
   4. La chanson de geste
@@ -24,11 +24,11 @@ description:
   16. Images des jongleurs et ménestrels
   17. Bibliographie sélective
   Numéro spécial conçu et coordonné par Claude Lachet.
-  Ont participé à ce numéro – 
-  Marie-Pierre Chaumeny, Marianne Écochard, Valérie Ecuer Boisset, Alban Georges, Nicole Gonthier, Béatrice Graillat-Houdart, Karine Holyst, Claude Lachet, Monique Lagarde-Lachet, Marc Le Person, Lydie Louison, Corinne Pierreville, Jean-Marie Privat, Pierre Servet et Virginie Souvignet-Jacquemont
-article_pdf: 5036.pdf
+  Ont participé à ce numéro :
+  Marie-Pierre Chaumeny, Marianne Écochard, Valérie Ecuer Boisset, Alban Georges, Nicole Gonthier, Béatrice Graillat-Houdart, Karine Holyst, Claude Lachet, Monique Lagarde-Lachet, Marc Le Person, Lydie Louison, Corinne Pierreville, Jean-Marie Privat, Pierre Servet et Virginie Souvignet-Jacquemont'
+article_pdf: '5036.pdf'
 magazine_special: Aucassin et Nicolette
-revue: L’école des lettres des collèges
+revue: 'L’école des lettres des collèges'
 disciplines:
 - lettres
 niveau_etudes:

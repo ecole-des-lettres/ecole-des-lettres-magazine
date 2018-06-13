@@ -1,13 +1,13 @@
 ---
-id: 5254
-title: « Le Monde vivant », dEugène Green – les limites d’une méthode
-rubrique: Cinéma
-annee: 2003
-magazine: n°6 1er décembre 2003
-pages: 1
-description: Compte rendu du film de Eugène Green.
-article_pdf: 5254.pdf
-revue: L’école des lettres des lycées
+id: '5254'
+title: '« Le Monde vivant », d'Eugène Green : les limites d’une méthode'
+rubrique: 'Cinéma'
+annee: '2003'
+magazine: 'n°6 1er décembre 2003'
+pages: '1'
+description: 'Compte rendu du film de Eugène Green.'
+article_pdf: '5254.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Victoria Attal
 niveau_etudes:

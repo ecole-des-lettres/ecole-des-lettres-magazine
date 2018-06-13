@@ -1,13 +1,13 @@
 ---
-id: 2069
-title: « Le Confessionnal », de Robert Lepage, ou la boîte à secrets
-rubrique: Cinéma
-annee: 1995
-magazine: n°5 15 décembre 1995
-pages: 1
-description: Compte rendu du film de Robert Lepage.
-article_pdf: 2069.pdf
-revue: L’école des lettres des lycées
+id: '2069'
+title: '« Le Confessionnal », de Robert Lepage, ou la boîte à secrets'
+rubrique: 'Cinéma'
+annee: '1995'
+magazine: 'n°5 15 décembre 1995'
+pages: '1'
+description: 'Compte rendu du film de Robert Lepage.'
+article_pdf: '2069.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Victoria Attal
 niveau_etudes:

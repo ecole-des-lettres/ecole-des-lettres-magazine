@@ -1,12 +1,12 @@
 ---
-id: 5108
-title: « Mme de Lafayette – La Princesse de Clèves »
-rubrique: 
-annee: 1992
-magazine: n°2 1er octobre 1992
+id: '5108'
+title: '« Mme de Lafayette : La Princesse de Clèves »'
+rubrique: ''
+annee: '1992'
+magazine: 'n°2 1er octobre 1992'
 pages: 44 pages
-description: 
-  1. Dossier, relecture 
+description: |-
+  '1. Dossier, relecture 
   – histoire littéraire 
   – un récit simple et savant 
   – le roman historique 
@@ -18,11 +18,11 @@ description:
   – la naissance du « nouveau roman » 
   – le triomphe de la morale
   Ce numéro comprend également des commentaires de « Candide », de Voltaire, des « Mémoires d’outre-tombe », de Chateaubriand, et de « Déluge », de Le Clézio
-  Ont participé à ce numéro – 
-  François-Marie Mourad et Yves Stalloni
-article_pdf: 5108.pdf
-magazine_special: Lafayette – La Princesse de Clèves
-revue: L’école des lettres des lycées
+  Ont participé à ce numéro :
+  François-Marie Mourad et Yves Stalloni'
+article_pdf: '5108.pdf'
+magazine_special: 'Lafayette : La Princesse de Clèves'
+revue: 'L’école des lettres des lycées'
 disciplines:
 - lettres
 niveau_etudes:

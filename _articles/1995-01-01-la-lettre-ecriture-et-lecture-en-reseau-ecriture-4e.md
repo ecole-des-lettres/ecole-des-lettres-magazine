@@ -1,12 +1,12 @@
 ---
-id: 2014
-title: La lettre. Écriture et lecture en réseau
-rubrique: Écriture [4e]
-annee: 1995
-magazine: n°3 15 octobre 1995
-pages: 27
-description: 
-  C’est d’activités différenciées d’écriture et de lecture en réseau dont il s’agit dans cet article – production de lettres et de leurs réponses, production de nouvelles épistolaires. Pour la réalisation de ces projets, les élèves sont lancés dans des recherches de lecture d’autant plus approfondies qu’elles leur fournissent des éléments empruntés à des auteurs plus experts, grâce à un premier corpus de véritables lettres, puis à un second réseau de romans épistolaires et de romans comportant une (ou plusieurs) lettre(s).
+id: '2014'
+title: 'La lettre. Écriture et lecture en réseau'
+rubrique: 'Écriture [4e]'
+annee: '1995'
+magazine: 'n°3 15 octobre 1995'
+pages: '27'
+description: |-
+  'C’est d’activités différenciées d’écriture et de lecture en réseau dont il s’agit dans cet article : production de lettres et de leurs réponses, production de nouvelles épistolaires. Pour la réalisation de ces projets, les élèves sont lancés dans des recherches de lecture d’autant plus approfondies qu’elles leur fournissent des éléments empruntés à des auteurs plus experts, grâce à un premier corpus de véritables lettres, puis à un second réseau de romans épistolaires et de romans comportant une (ou plusieurs) lettre(s).
   1. Introduction
   – la place de la lettre dans l’enseignement du français
   – le déroulement des activités menées avec les élèves
@@ -26,10 +26,10 @@ description:
   4. Écriture de lettres en réseau
   5. Écriture en réseau de nouvelles épistolaires
   6. Construction du réseau « lettre »
-  L’article est suivi d’une longue bibliographie détaillée autour de la lettre.
-article_pdf: 2014.pdf
+  L’article est suivi d’une longue bibliographie détaillée autour de la lettre.'
+article_pdf: '2014.pdf'
 magazine_special: Lettres et journaux intimes
-revue: L’école des lettres des collèges
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Janine Hugodot
 - Brigitte Hibert

@@ -1,20 +1,20 @@
 ---
-id: 4398
-title: Séquence et lectures cursives – lire et écrire pour s’informer sur le thème
-  de l’environnement 
-rubrique: Littérature de jeunesse et monde contemporain [5e]
-annee: 2001
-magazine: n°4 1er octobre 2001
-pages: 6
-description: Cet article présente des sélections de titres à proposer en lecture
+id: '4398'
+title: 'Séquence et lectures cursives : lire et écrire pour s’informer sur le thème
+  de l’environnement '
+rubrique: 'Littérature de jeunesse et monde contemporain [5e]'
+annee: '2001'
+magazine: 'n°4 1er octobre 2001'
+pages: '6'
+description: 'Cet article présente des sélections de titres à proposer en lecture
   cursive. La première sélection porte sur le thème interdisciplinaire de l’environnement,
   qui peut être traité parallèlement en sciences et vie de la Terre, en physique ou
   en éducation civique. Les problèmes d’environnement font à ce point partie de notre
-  quotidien qu’ils s’intègrent dans des romans de genres très différents – romans
+  quotidien qu’ils s’intègrent dans des romans de genres très différents : romans
   réalistes, romans miroir, romans de science-fiction, romans fantastiques, policiers,
-  et  romans animaliers.
-article_pdf: 4398.pdf
-revue: L’école des lettres des collèges
+  et  romans animaliers.'
+article_pdf: '4398.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Anne Vautravers
 auteur_jeunesse:

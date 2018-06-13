@@ -1,11 +1,11 @@
 ---
-id: 12746
-title: « Broadway Limited », de Malika Ferdjoukh. Talent... unlimited !
-rubrique: Littérature de jeunesse
-annee: 2014
-magazine: n°5
-pages: 3
-description: Premier tome d’un diptyque en devenir intitulé « Broadway Limited »,
+id: '12746'
+title: '« Broadway Limited », de Malika Ferdjoukh. Talent... unlimited !'
+rubrique: 'Littérature de jeunesse'
+annee: '2014'
+magazine: 'n°5'
+pages: '3'
+description: 'Premier tome d’un diptyque en devenir intitulé « Broadway Limited »,
   ce « Dîner avec Cary Grant » est un roman délicieux et envoûtant dans lequel la
   magie opère dès les premières pages. Pour les nostalgiques de l’âge d’or d’Hollywood
   (ou pour quiconque a déjà eu l’occasion de lire, plus jeune, un roman de Malika
@@ -15,9 +15,9 @@ description: Premier tome d’un diptyque en devenir intitulé « Broadway Limi
   a seule le secret. « Broadway Limited » ne déroge pas à la règle. En effet, dès
   le premier chapitre, elle met en place une ambiance ensorcelante, crépitante de
   jazz et saturée de références, qui nous projette avec brio dans le Broadway des
-  années 1940 !
-article_pdf: 12746.pdf
-revue: L’école des lettres des collèges
+  années 1940 !'
+article_pdf: '12746.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Édith Revellat
 auteur_jeunesse:

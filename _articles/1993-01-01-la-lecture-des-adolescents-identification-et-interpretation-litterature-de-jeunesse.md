@@ -1,15 +1,15 @@
 ---
-id: 1209
-title: La lecture des adolescents – identification et interprétation
-rubrique: Littérature de jeunesse
-annee: 1993
-magazine: n°12-13 1er juin 1994
-pages: 4
-description: Article écrit par une sociologue de la littérature sur l’appréhension
-  des fictions romanesques par les adolescents…
-article_pdf: 1209.pdf
+id: '1209'
+title: 'La lecture des adolescents : identification et interprétation'
+rubrique: 'Littérature de jeunesse'
+annee: '1993'
+magazine: 'n°12-13 1er juin 1994'
+pages: '4'
+description: 'Article écrit par une sociologue de la littérature sur l’appréhension
+  des fictions romanesques par les adolescents…'
+article_pdf: '1209.pdf'
 magazine_special: Lire avec les adolescents
-revue: L’école des lettres des collèges
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Martine Burgos
 disciplines:

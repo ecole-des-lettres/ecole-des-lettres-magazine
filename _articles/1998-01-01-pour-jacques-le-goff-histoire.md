@@ -1,15 +1,15 @@
 ---
-id: 3165
-title: Pour Jacques Le Goff
-rubrique: Histoire
-annee: 1998
-magazine: n°14 1er juin 1999
-pages: 3
-description: Présentation de deux ouvrages parus chez Gallimard – Jacques Le Goff,
+id: '3165'
+title: 'Pour Jacques Le Goff'
+rubrique: 'Histoire'
+annee: '1998'
+magazine: 'n°14 1er juin 1999'
+pages: '3'
+description: 'Présentation de deux ouvrages parus chez Gallimard : Jacques Le Goff,
   « Un autre Moyen Âge » et « L’Ogre historien. Autour de Jacques Le Goff », textes
-  rassemblés par Jacques Revel et Jean-Claude Schmitt…
-article_pdf: 3165.pdf
-revue: L’école des lettres des lycées
+  rassemblés par Jacques Revel et Jean-Claude Schmitt…'
+article_pdf: '3165.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Michel Marbeau
 disciplines:

@@ -1,11 +1,11 @@
 ---
-id: 11126
-title: Un atelier d’écriture ou « je » devient autre
-rubrique: Autobiographie et expression écrite [3e]
-annee: 2004
-magazine: n°10 juin 2005
-pages: 14
-description: La démarche autobiographique ne vise pas nécessairement un écrit lui-même
+id: '11126'
+title: 'Un atelier d’écriture ou « je » devient autre'
+rubrique: 'Autobiographie et expression écrite [3e]'
+annee: '2004'
+magazine: 'n°10 juin 2005'
+pages: '14'
+description: 'La démarche autobiographique ne vise pas nécessairement un écrit lui-même
   autobiographique. L’écriture de soi peut, en effet, être la source d’un travail
   collectif qui s’approprie les règles du genre autobiographique et la prise de distance
   qu’il suppose. C’est ainsi que les élèves d’un atelier d’écriture ont d’abord été
@@ -17,9 +17,9 @@ description: La démarche autobiographique ne vise pas nécessairement un écrit
   l’autobiographie que de celui de l’écriture d’un récit. L’expérience a été menée
   en collège dans le cadre d’un atelier d’écriture optionnel, mais peut tout à fait
   être entreprise en lycée, au sein d’un cours de français « ordinaire », si l’on
-  conserve les principes fondamentaux d’un tel travail.
-article_pdf: 11126.pdf
-revue: L’école des lettres des collèges
+  conserve les principes fondamentaux d’un tel travail.'
+article_pdf: '11126.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Christine Duminy-Sauzeau
 disciplines:

@@ -1,11 +1,11 @@
 ---
-id: 2837
-title: Odile Weulersse – « Le Chevalier au bouclier vert ». Étude intégrale 
-rubrique: Littérature de jeunesse et Moyen Âge [5e]
-annee: 1997
-magazine: 1997
-pages: 93
-description: Les programmes de cinquième mettent l’accent sur le Moyen Âge. Le choix,
+id: '2837'
+title: 'Odile Weulersse : « Le Chevalier au bouclier vert ». Étude intégrale '
+rubrique: 'Littérature de jeunesse et Moyen Âge [5e]'
+annee: '1997'
+magazine: '1997'
+pages: '93'
+description: 'Les programmes de cinquième mettent l’accent sur le Moyen Âge. Le choix,
   ici, est d’étudier un roman de chevalerie écrit par un auteur contemporain pour
   la jeunesse. Les élèves aborderont ainsi l’univers médiéval, tout en étudiant sous
   forme de lectures complémentaires des « textes littéraires ». Parallèlement à cette
@@ -16,9 +16,9 @@ description: Les programmes de cinquième mettent l’accent sur le Moyen Âge. 
   sont proposées en fonction des besoins d’écriture. Les professeurs d’histoire-géographie
   et de musique sont sollicités pour un certain nombre de points, faisant de ce travail
   une collaboration interdisciplinaire qui donne aux élèves le sentiment d’une relation
-  entre les différentes matières.
-article_pdf: 2837.pdf
-revue: L’école des lettres des collèges
+  entre les différentes matières.'
+article_pdf: '2837.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Virginie Fauvin
 auteur_jeunesse:

@@ -1,11 +1,11 @@
 ---
-id: 11072
-title: « Collège au cinéma » – pistes pédagogiques pour l’étude de films en classe
-rubrique: 
-annee: 2004
-magazine: n°1 août-septembre 2004
-pages: 3
-description: L’opération « Collège au cinéma » est implantée dans de nombreux départements.
+id: '11072'
+title: '« Collège au cinéma » : pistes pédagogiques pour l’étude de films en classe'
+rubrique: ''
+annee: '2004'
+magazine: 'n°1 août-septembre 2004'
+pages: '3'
+description: 'L’opération « Collège au cinéma » est implantée dans de nombreux départements.
   Financé par les conseils généraux, impliquant la collaboration du Centre national
   de la cinématographie, des exploitants de salles de cinéma et de l’Éducation nationale,
   ce dispositif propose aux classes de collèges de découvrir des œuvres cinématographiques
@@ -15,9 +15,9 @@ description: L’opération « Collège au cinéma » est implantée dans de n
   pour ambition de permettre aux enseignants d’introduire une véritable éducation
   au cinéma dans leurs classes. Les films sont retenus pour leur caractère accessible
   à un public d’enfants et d’adolescents et pour la richesse de leur mise en scène
-  ou l’intérêt des thèmes qu’ils abordent.
-article_pdf: 11072.pdf
-revue: L’école des lettres des collèges
+  ou l’intérêt des thèmes qu’ils abordent.'
+article_pdf: '11072.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Dominique Renard
 disciplines:

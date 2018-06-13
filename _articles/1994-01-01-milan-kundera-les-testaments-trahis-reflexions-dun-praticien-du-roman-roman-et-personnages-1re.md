@@ -1,12 +1,13 @@
 ---
-id: 1742
-title: Milan Kundera – « Les Testaments trahis ». Réflexions d’un praticien du roman 
-rubrique: Roman et personnages [1re]
-annee: 1994
-magazine: n°6 15 janvier 1995
-pages: 10
-description: 
-  1. Un livre ouvert
+id: '1742'
+title: 'Milan Kundera : « Les Testaments trahis ». Réflexions d’un praticien du roman
+  '
+rubrique: 'Roman et personnages [1re]'
+annee: '1994'
+magazine: 'n°6 15 janvier 1995'
+pages: '10'
+description: |-
+  '1. Un livre ouvert
   2. Composition
   3. Roman
   4. Le jeu contre le sérieux
@@ -15,9 +16,9 @@ description:
   7. Le procès
   8. L’éternel retour de Sainte-Beuve
   9. Polémiques
-  L’article est suivi d’une note de lecture sur « La Lenteur », de Milan Kundera.
-article_pdf: 1742.pdf
-revue: L’école des lettres des lycées
+  L’article est suivi d’une note de lecture sur « La Lenteur », de Milan Kundera.'
+article_pdf: '1742.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Norbert Czarny
 disciplines:

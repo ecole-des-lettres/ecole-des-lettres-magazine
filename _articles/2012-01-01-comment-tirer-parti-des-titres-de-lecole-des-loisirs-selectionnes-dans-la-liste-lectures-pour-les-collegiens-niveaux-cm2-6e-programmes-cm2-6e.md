@@ -1,13 +1,13 @@
 ---
-id: 12159
-title: Comment tirer parti des titres de l’école des loisirs sélectionnés dans la
-  liste « Lectures pour les collégiens » (niveaux CM2-6e)
-rubrique: Programmes [CM2-6e]
-annee: 2012
-magazine: n°2 2012-2013
-pages: 24
-description: |
-  Ces fiches proposent Présentation de l’ouvrage, de son auteur et quelques suggestions de pistes pédagogiques pour les titres de la liste « Lectures pour les collégiens » concernant les niveaux CM2 et sixième.
+id: '12159'
+title: 'Comment tirer parti des titres de l’école des loisirs sélectionnés dans la
+  liste « Lectures pour les collégiens » (niveaux CM2-6e)'
+rubrique: 'Programmes [CM2-6e]'
+annee: '2012'
+magazine: 'n°2 2012-2013'
+pages: '24'
+description: |-
+  'Ces fiches proposent Présentation de l’ouvrage, de son auteur et quelques suggestions de pistes pédagogiques pour les titres de la liste « Lectures pour les collégiens » concernant les niveaux CM2 et sixième.
   – Dominique Paquet, « La Consolation de Sophie »
   – Bettina Wegenast, « Être le loup »
   – Sophie Chérer, «L’Ogre maigre et l’Enfant fou »
@@ -27,8 +27,9 @@ description: |
   – Philippe Gauthier, « Chant de mines »
   – Nathalie Papin, « Debout »
   – Olivier Py, « L’Eau de la vie »
-article_pdf: 12159.pdf
-revue: L’école des lettres des collèges
+  '
+article_pdf: '12159.pdf'
+revue: 'L’école des lettres des collèges'
 auteur_jeunesse:
 - Brigitte Smadja
 - Jean Joubert

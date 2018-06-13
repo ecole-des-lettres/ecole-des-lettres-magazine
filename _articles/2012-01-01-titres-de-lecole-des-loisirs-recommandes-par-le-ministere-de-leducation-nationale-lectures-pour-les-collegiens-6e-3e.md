@@ -1,16 +1,16 @@
 ---
-id: 12148
-title: Titres de « l’école des loisirs » recommandés par le ministère de l’Éducation
-  nationale
-rubrique: Lectures pour les collégiens [6e-3e]
-annee: 2012
-magazine: n°1 2012-2013
-pages: 20
-description: 
-  La liste des lectures pour les collégiens établie par le ministère de l’Éducation nationale pour la rentrée 2012 propose une série d’ouvrages destinés à « enrichir l’expérience des élèves et vient compléter les titres de la littérature patrimoniale des programmes du collège ». Cette liste de récits, romans, contes, pièces de théâtre, recueils de poésies, bandes dessinées présente les ouvrages conseillés par niveaux de classe et « s’enrichira, dès la rentrée 2012, en fonction des propositions du comité de lecture et du renouvellement des productions éditoriales ». Ces titres sont, pour la plupart, « des ouvrages récents de littérature de jeunesse ou des ouvrages jugés accessibles à des collégiens et dont la qualité suscite le plaisir de lire ».
-  Cet article reproduit les mini-fiches de lecture qui accompagnent cette sélection sur le site Eduscol.
-article_pdf: 12148.pdf
-revue: L’école des lettres des collèges
+id: '12148'
+title: 'Titres de « l’école des loisirs » recommandés par le ministère de l’Éducation
+  nationale'
+rubrique: 'Lectures pour les collégiens [6e-3e]'
+annee: '2012'
+magazine: 'n°1 2012-2013'
+pages: '20'
+description: |-
+  'La liste des lectures pour les collégiens établie par le ministère de l’Éducation nationale pour la rentrée 2012 propose une série d’ouvrages destinés à « enrichir l’expérience des élèves et vient compléter les titres de la littérature patrimoniale des programmes du collège ». Cette liste de récits, romans, contes, pièces de théâtre, recueils de poésies, bandes dessinées présente les ouvrages conseillés par niveaux de classe et « s’enrichira, dès la rentrée 2012, en fonction des propositions du comité de lecture et du renouvellement des productions éditoriales ». Ces titres sont, pour la plupart, « des ouvrages récents de littérature de jeunesse ou des ouvrages jugés accessibles à des collégiens et dont la qualité suscite le plaisir de lire ».
+  Cet article reproduit les mini-fiches de lecture qui accompagnent cette sélection sur le site Eduscol.'
+article_pdf: '12148.pdf'
+revue: 'L’école des lettres des collèges'
 auteur_jeunesse:
 - Xavier-Laurent Petit
 - Valérie Dayre

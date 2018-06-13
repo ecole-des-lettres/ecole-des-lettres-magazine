@@ -1,14 +1,14 @@
 ---
-id: 1022
-title: L’or et l’autre 
-rubrique: Histoire [5e]
-annee: 1992
-magazine: n°6 15 décembre 1992
-pages: 4
-description: Un article portant sur le roman de Jakob Wassermann, « L’Or de Cajamalca »
-  et « La Controverse de Valladolid », de Jean-Claude Carrière…
-article_pdf: 1022.pdf
-revue: L’école des lettres des collèges
+id: '1022'
+title: 'L’or et l’autre '
+rubrique: 'Histoire [5e]'
+annee: '1992'
+magazine: 'n°6 15 décembre 1992'
+pages: '4'
+description: 'Un article portant sur le roman de Jakob Wassermann, « L’Or de Cajamalca »
+  et « La Controverse de Valladolid », de Jean-Claude Carrière…'
+article_pdf: '1022.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Élise Feller
 auteur_jeunesse:

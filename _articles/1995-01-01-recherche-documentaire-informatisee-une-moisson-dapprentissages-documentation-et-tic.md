@@ -1,11 +1,11 @@
 ---
-id: 1931
-title: Recherche documentaire informatisée – une moisson d’apprentissages…
-rubrique: Documentation et TIC
-annee: 1995
-magazine: n°12 15 juin 1996
-pages: 16
-description: La plupart des CDI sont équipés d’un logiciel documentaire qui automatise
+id: '1931'
+title: 'Recherche documentaire informatisée : une moisson d’apprentissages…'
+rubrique: 'Documentation et TIC'
+annee: '1995'
+magazine: 'n°12 15 juin 1996'
+pages: '16'
+description: 'La plupart des CDI sont équipés d’un logiciel documentaire qui automatise
   les opérations de gestion du fonds (inventaire, traitement de l’information, enregistrement
   des prêts), ainsi que l’opération de recherche documentaire. Si cet outil est maintenant
   bien connu des documentalistes, il n’est pas évident que les enseignants aient pris
@@ -19,10 +19,10 @@ description: La plupart des CDI sont équipés d’un logiciel documentaire qui 
   tout en évoquant le traitement documentaire inhérent à la constitution d’une banque
   de données au CDI. Ce faisant, il propose aux enseignants et aux documentalistes
   quelques pistes visant à aider les élèves à effectuer des recherches pertinentes
-  et à s’approprier le logiciel.
-article_pdf: 1931.pdf
-magazine_special: CDI – quel CDI voulez-vous ?
-revue: L’école des lettres des collèges
+  et à s’approprier le logiciel.'
+article_pdf: '1931.pdf'
+magazine_special: 'CDI : quel CDI voulez-vous ?'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Christine Van Lancker
 - Brigitte Farvacque

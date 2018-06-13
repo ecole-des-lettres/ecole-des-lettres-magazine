@@ -1,13 +1,13 @@
 ---
-id: 5186
-title: « Le Mystère de la chambre jaune », de Bruno Podalydès, ou le mystère filmé
-rubrique: Cinéma
-annee: 2002
-magazine: n°14 juin 2003
-pages: 1
-description: Compte rendu du film de Bruno Podalydès.
-article_pdf: 5186.pdf
-revue: L’école des lettres des lycées
+id: '5186'
+title: '« Le Mystère de la chambre jaune », de Bruno Podalydès, ou le mystère filmé'
+rubrique: 'Cinéma'
+annee: '2002'
+magazine: 'n°14 juin 2003'
+pages: '1'
+description: 'Compte rendu du film de Bruno Podalydès.'
+article_pdf: '5186.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Victoria Attal
 niveau_etudes:

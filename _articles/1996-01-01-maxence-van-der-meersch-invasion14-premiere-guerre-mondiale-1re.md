@@ -1,12 +1,12 @@
 ---
-id: 2334
-title: Maxence Van Der Meersch – « Invasion 14 »
-rubrique: Première guerre mondiale [1re]
-annee: 1996
-magazine: n°13 1er mai 1997
-pages: 10
-description: 
-  Une somme d’informations, un roman personnel…
+id: '2334'
+title: 'Maxence Van Der Meersch : « Invasion 14 »'
+rubrique: 'Première guerre mondiale [1re]'
+annee: '1996'
+magazine: 'n°13 1er mai 1997'
+pages: '10'
+description: |-
+  'Une somme d’informations, un roman personnel…
   1. Un roman-somme
   – le temps
   – l’espace
@@ -18,10 +18,10 @@ description:
   3. Un roman personnel
   – la défense du Nord
   – la communion des saints
-  – un christianisme stoïcien
-article_pdf: 2334.pdf
+  – un christianisme stoïcien'
+article_pdf: '2334.pdf'
 magazine_special: Première Guerre mondiale et littérature  (2) »
-revue: L’école des lettres des lycées
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Paul Renard
 disciplines:

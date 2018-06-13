@@ -1,14 +1,14 @@
 ---
-id: 5369
-title: Berlioz et « Les Troyens » – le romantisme au service de la tragédie
-rubrique: Opéra
-annee: 2003
-magazine: n°12-14 août 2004
-pages: 2
-description: Un compte rendu des « Troyens », d’Hector Berlioz au Théâtre du Châtelet.
-article_pdf: 5369.pdf
+id: '5369'
+title: 'Berlioz et « Les Troyens » : le romantisme au service de la tragédie'
+rubrique: 'Opéra'
+annee: '2003'
+magazine: 'n°12-14 août 2004'
+pages: '2'
+description: 'Un compte rendu des « Troyens », d’Hector Berlioz au Théâtre du Châtelet.'
+article_pdf: '5369.pdf'
 magazine_special: Aspects du romantisme
-revue: L’école des lettres des lycées
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Anne-Marie Baron
 disciplines:

@@ -1,17 +1,17 @@
 ---
-id: 4200
-title: La voix du conteur – textes à dire
-rubrique: Lecture [4e] 
-annee: 2001
-magazine: n°10 15 février 2002
-pages: 2
-description: 
-  Un article qui propose de lire des extraits de romans aux élèves de quatrième.
+id: '4200'
+title: 'La voix du conteur : textes à dire'
+rubrique: 'Lecture [4e] '
+annee: '2001'
+magazine: 'n°10 15 février 2002'
+pages: '2'
+description: |-
+  'Un article qui propose de lire des extraits de romans aux élèves de quatrième.
   – « Le Souffle de la pierre d’Irlande », d’Éric Simard
   –  « En attendant ton retour », de Gérard Pussey
-  – « Les Voyages de Gulliver », de Jonathan Swift, adaptés par Anne Bouin
-article_pdf: 4200.pdf
-revue: L’école des lettres des collèges
+  – « Les Voyages de Gulliver », de Jonathan Swift, adaptés par Anne Bouin'
+article_pdf: '4200.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Yves Lucas
 auteur_jeunesse:

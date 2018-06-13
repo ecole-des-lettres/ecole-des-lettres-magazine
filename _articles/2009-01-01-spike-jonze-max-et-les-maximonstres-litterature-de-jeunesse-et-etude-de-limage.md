@@ -1,11 +1,11 @@
 ---
-id: 12012
-title: Spike Jonze – « Max et les Maximonstres »
-rubrique: Littérature de jeunesse et étude de l’image
-annee: 2009
-magazine: n°3 2009-2010
-pages: 9
-description: Le principal problème qui se présente à qui veut adapter cinématographiquement
+id: '12012'
+title: 'Spike Jonze : « Max et les Maximonstres »'
+rubrique: 'Littérature de jeunesse et étude de l’image'
+annee: '2009'
+magazine: 'n°3 2009-2010'
+pages: '9'
+description: 'Le principal problème qui se présente à qui veut adapter cinématographiquement
   un album est celui de la durée. Non pas le temps psychologique des personnages –
   dans l’imagination de Max son voyage maritime dure « plus d’un an », et autant pour
   le retour –, mais le temps du lecteur ou du spectateur. La lecture d’un album, quand
@@ -14,11 +14,11 @@ description: Le principal problème qui se présente à qui veut adapter cinéma
   durée supplémentaire en multipliant les péripéties. Or, pour ce faire, il est nécessaire
   d’ajouter des personnages. Au bout du compte, on augmente aussi la durée de l’histoire
   narrée. Les trois paramètres réunis dans les adaptations cinématographiques d’albums
-  sont donc les suivants – davantage de péripéties, davantage de personnages, et une
-  histoire qui dure plus longtemps...
-article_pdf: 12012.pdf
+  sont donc les suivants : davantage de péripéties, davantage de personnages, et une
+  histoire qui dure plus longtemps...'
+article_pdf: '12012.pdf'
 magazine_special: Maurice Sendak et ses Maximonstres
-revue: L’école des lettres des collèges
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Christian Poslaniec
 auteur_jeunesse:

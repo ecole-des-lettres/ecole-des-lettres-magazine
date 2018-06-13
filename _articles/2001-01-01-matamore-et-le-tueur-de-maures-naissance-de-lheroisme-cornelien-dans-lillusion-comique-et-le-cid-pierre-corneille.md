@@ -1,13 +1,13 @@
 ---
-id: 4583
-title: Matamore et le tueur de Maures – naissance de l’héroïsme cornélien dans «
-  L’Illusion comique » et « Le Cid »
-rubrique: Pierre Corneille
-annee: 2001
-magazine: n°9 1er février 2002
-pages: 19
-description: 
-  1. Deux genres, deux héros
+id: '4583'
+title: 'Matamore et le tueur de Maures : naissance de l’héroïsme cornélien dans «
+  L’Illusion comique » et « Le Cid »'
+rubrique: 'Pierre Corneille'
+annee: '2001'
+magazine: 'n°9 1er février 2002'
+pages: '19'
+description: |-
+  '1. Deux genres, deux héros
   – Matamore, fanfaron comique
   – Rodrigue, jeune premier tragique
   2. L’outrance de Matamore et la grandeur de Rodrigue
@@ -17,10 +17,10 @@ description:
   3. Le cœur et le verbe
   – l’héroïsme du sacrifice et du dépassement
   – l’héroïsme du verbe
-  – le théâtre des poètes
-article_pdf: 4583.pdf
-magazine_special: Corneille – Le Cid et L’Illusion comique
-revue: L’école des lettres des lycées
+  – le théâtre des poètes'
+article_pdf: '4583.pdf'
+magazine_special: 'Corneille : Le Cid et L’Illusion comique'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Claire Noni
 disciplines:

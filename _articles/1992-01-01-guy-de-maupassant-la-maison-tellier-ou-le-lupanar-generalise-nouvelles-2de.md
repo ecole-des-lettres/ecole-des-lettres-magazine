@@ -1,14 +1,14 @@
 ---
-id: 886
-title: Guy de Maupassant – « La Maison Tellier » ou le lupanar généralisé 
-rubrique: Nouvelles [2de]
-annee: 1992
-magazine: n°13 1er juin 1993
-pages: 16
-description: La Maison Tellier reflet d’une société…
-article_pdf: 886.pdf
-magazine_special: Maupassant – romans et nouvelles
-revue: L’école des lettres des lycées
+id: '886'
+title: 'Guy de Maupassant : « La Maison Tellier » ou le lupanar généralisé '
+rubrique: 'Nouvelles [2de]'
+annee: '1992'
+magazine: 'n°13 1er juin 1993'
+pages: '16'
+description: 'La Maison Tellier reflet d’une société…'
+article_pdf: '886.pdf'
+magazine_special: 'Maupassant : romans et nouvelles'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Pierre Tranouez
 disciplines:

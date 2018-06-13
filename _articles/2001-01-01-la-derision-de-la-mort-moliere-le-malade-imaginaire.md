@@ -1,11 +1,11 @@
 ---
-id: 4310
-title: La dérision de la mort
-rubrique: Molière – « Le Malade imaginaire »
-annee: 2001
-magazine: n°13 mai 2002
-pages: 12
-description: Ultime comédie de Molière, « Le Malade imaginaire » ne peut être envisagé
+id: '4310'
+title: 'La dérision de la mort'
+rubrique: 'Molière : « Le Malade imaginaire »'
+annee: '2001'
+magazine: 'n°13 mai 2002'
+pages: '12'
+description: 'Ultime comédie de Molière, « Le Malade imaginaire » ne peut être envisagé
   sans un arrière-plan tragique, puisque son auteur est mort sur scène en incarnant
   son héros, Argan, dans le divertissement final, lors de la quatrième représentation
   de la pièce, le 17 février 1673. En fait, le malade imaginaire était un malade réel
@@ -15,10 +15,10 @@ description: Ultime comédie de Molière, « Le Malade imaginaire » ne peut �
   à son héros une série de divertissements destinés à lui faire oublier sa maladie.
   C’est cet aspect curatif, constituant un des grands intérêts de la pièce, que cet
   article évoque tout d’abord, avant d’enchaîner naturellement avec ses principales
-  mises en scène, et plus précisément la dernière d’entre elles, présentée à la Comédie-Française.
-article_pdf: 4310.pdf
+  mises en scène, et plus précisément la dernière d’entre elles, présentée à la Comédie-Française.'
+article_pdf: '4310.pdf'
 magazine_special: Molière mis en scène
-revue: L’école des lettres des lycées
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Alain Beretta
 disciplines:

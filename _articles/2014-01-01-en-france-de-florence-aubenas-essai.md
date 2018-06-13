@@ -1,16 +1,16 @@
 ---
-id: 12904
-title: « En France », de Florence Aubenas
-rubrique: Essai
-annee: 2014
-magazine: décembre 2014
-pages: 2
-description: Avec « En France », Florence Aubenas propose une série de courts textes
+id: '12904'
+title: '« En France », de Florence Aubenas'
+rubrique: 'Essai'
+annee: '2014'
+magazine: 'décembre 2014'
+pages: '2'
+description: 'Avec « En France », Florence Aubenas propose une série de courts textes
   centrés sur les laissés-pour-compte de la réussite, les obscurs représentants de
   la « France d’en bas » dont les portraits « finissent par dessiner, en pointillé,
-  un territoire, ou plutôt un pays »...
-article_pdf: 12904.pdf
-revue: L’école des lettres des collèges
+  un territoire, ou plutôt un pays »...'
+article_pdf: '12904.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Yves Stalloni
 niveau_etudes:

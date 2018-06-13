@@ -1,14 +1,14 @@
 ---
-id: 4119
-title: Initiation à la notion d’intertextualité – de « La Chanson de Roland » à « Gargantua »,
-  de Rabelais
-rubrique: Écriture [2de]
-annee: 2000
-magazine: n°8 1er janvier 2001
-pages: 12
-description: Dans le cadre d’une réflexion sur le travail de l’écriture, l’étude de
-  l’intertextualité trouve naturellement sa place ; le renversement parodique, en
-  particulier, permet aussi d’approfondir la notion de registre et d’enrichir l’approche
+id: '4119'
+title: 'Initiation à la notion d’intertextualité : de « La Chanson de Roland » à
+  « Gargantua », de Rabelais'
+rubrique: 'Écriture [2de]'
+annee: '2000'
+magazine: 'n°8 1er janvier 2001'
+pages: '12'
+description: 'Dans le cadre d’une réflexion sur le travail de l’écriture, l’étude
+  de l’intertextualité trouve naturellement sa place ; le renversement parodique,
+  en particulier, permet aussi d’approfondir la notion de registre et d’enrichir l’approche
   de l’histoire littéraire et culturelle. Toute œuvre littéraire – et toute œuvre
   d’art – porte en elle l’évolution d’une société et d’une civilisation, et il n’est
   pas inutile de le rappeler aux élèves. La comparaison de deux textes, un extrait
@@ -20,9 +20,9 @@ description: Dans le cadre d’une réflexion sur le travail de l’écriture, l
   modalité d’énonciation, tonalité, histoire, narration, narrateur, focalisation,
   visée du récit) et de mettre en pratique des méthodes d’observation des textes déjà
   utilisées au collège (schéma narratif, schéma actantiel, caractérisation des personnages,
-  champs lexicaux, observation des temps grammaticaux…).
-article_pdf: 4119.pdf
-revue: L’école des lettres des lycées
+  champs lexicaux, observation des temps grammaticaux…).'
+article_pdf: '4119.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Ève Confais
 disciplines:

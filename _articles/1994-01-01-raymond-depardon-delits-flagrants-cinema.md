@@ -1,13 +1,13 @@
 ---
-id: 1650
-title: Raymond Depardon – « Délits flagrants »
-rubrique: Cinéma
-annee: 1994
-magazine: n°2 1er octobre 1994
-pages: 1
-description: Compte rendu du film.
-article_pdf: 1650.pdf
-revue: L’école des lettres des lycées
+id: '1650'
+title: 'Raymond Depardon : « Délits flagrants »'
+rubrique: 'Cinéma'
+annee: '1994'
+magazine: 'n°2 1er octobre 1994'
+pages: '1'
+description: 'Compte rendu du film.'
+article_pdf: '1650.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Victoria Attal
 niveau_etudes:

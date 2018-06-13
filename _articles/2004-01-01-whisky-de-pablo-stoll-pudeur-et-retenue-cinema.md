@@ -1,13 +1,13 @@
 ---
-id: 11207
-title: « Whisky », de Pablo Stoll – pudeur et retenue
-rubrique: Cinéma
-annee: 2004
-magazine: n°5 janvier 2005
-pages: 1
-description: Compte rendu du film de Pablo Stoll.
-article_pdf: 11207.pdf
-revue: L’école des lettres des lycées
+id: '11207'
+title: '« Whisky », de Pablo Stoll : pudeur et retenue'
+rubrique: 'Cinéma'
+annee: '2004'
+magazine: 'n°5 janvier 2005'
+pages: '1'
+description: 'Compte rendu du film de Pablo Stoll.'
+article_pdf: '11207.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Victoria Attal
 niveau_etudes:

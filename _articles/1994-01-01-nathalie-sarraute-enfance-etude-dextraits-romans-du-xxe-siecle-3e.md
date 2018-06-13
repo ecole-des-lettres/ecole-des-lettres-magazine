@@ -1,12 +1,12 @@
 ---
-id: 1497
-title: Nathalie Sarraute – « Enfance ». Étude d’extraits 
-rubrique: Romans du XXe siècle [3e]
-annee: 1994
-magazine: n°10 15 avril 1995
-pages: 7
-description: 
-  1. Premier contact avec le texte
+id: '1497'
+title: 'Nathalie Sarraute : « Enfance ». Étude d’extraits '
+rubrique: 'Romans du XXe siècle [3e]'
+annee: '1994'
+magazine: 'n°10 15 avril 1995'
+pages: '7'
+description: |-
+  '1. Premier contact avec le texte
   2. Première lecture, premières questions
   – de quoi s’agit-il ?
   – approche du schéma narratif
@@ -18,9 +18,9 @@ description:
   4. Recherches complémentaires
   – les indéfinis
   – la ponctuation
-  – approfondissements
-article_pdf: 1497.pdf
-revue: L’école des lettres des collèges
+  – approfondissements'
+article_pdf: '1497.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Dominique Guerrini
 disciplines:

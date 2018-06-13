@@ -1,13 +1,13 @@
 ---
-id: 1246
-title: Patrice Chéreau – « La Reine Margot »
-rubrique: Cinéma
-annee: 1993
-magazine: n°13-14 juillet 1994
-pages: 2
-description: Compte rendu du film.
-article_pdf: 1246.pdf
-revue: L’école des lettres des lycées
+id: '1246'
+title: 'Patrice Chéreau : « La Reine Margot »'
+rubrique: 'Cinéma'
+annee: '1993'
+magazine: 'n°13-14 juillet 1994'
+pages: '2'
+description: 'Compte rendu du film.'
+article_pdf: '1246.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Victoria Attal
 niveau_etudes:

@@ -1,12 +1,12 @@
 ---
-id: 11124
-title: Enseignement spécialisé – un conte écrit et illustré par les élèves de l’unité
-  pédagogique d’intégration du collège Ariane
-rubrique: Littérature de jeunesse [UPI]
-annee: 2004
-magazine: n°9 mai 2005
-pages: 3
-description: Les « unités pédagogiques d’intégration » sont des classes accueillant
+id: '11124'
+title: 'Enseignement spécialisé : un conte écrit et illustré par les élèves de l’unité
+  pédagogique d’intégration du collège Ariane'
+rubrique: 'Littérature de jeunesse [UPI]'
+annee: '2004'
+magazine: 'n°9 mai 2005'
+pages: '3'
+description: 'Les « unités pédagogiques d’intégration » sont des classes accueillant
   des adolescents de douze à seize ans présentant un handicap. Ces unités sont intégrées
   au sein des collèges. Pour les élèves âgés de plus de seize ans, des UPI se trouvent
   en lycée professionnel. L’UPI du collège Ariane, à Vernon (dans l’Eure), accueille
@@ -20,9 +20,9 @@ description: Les « unités pédagogiques d’intégration » sont des classes
   scolaire, des actions ponctuelles sont menées en concertation avec d’autres classes
   (essentiellement de sixième) en histoire, éducation civique, français. Durant l’année
   scolaire 2003-2004, l’écriture collective d’un conte, son illustration et la réalisation
-  individuelle d’un livre en tant qu’objet d’art ont été menées à bien.
-article_pdf: 11124.pdf
-revue: L’école des lettres des collèges
+  individuelle d’un livre en tant qu’objet d’art ont été menées à bien.'
+article_pdf: '11124.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Nicole Wurtz
 disciplines:

@@ -1,17 +1,17 @@
 ---
-id: 1603
-title: « Mon Dernier Livre pour enfants », de Christophe Donner
-rubrique: Littérature de jeunesse et expression orale [6e-4e]
-annee: 1994
-magazine: n°13-14 30 juin 1995
-pages: 4
-description: 
-  1. « Mon Dernier Livre pour enfants », de Christophe Donner (sixième)
+id: '1603'
+title: '« Mon Dernier Livre pour enfants », de Christophe Donner'
+rubrique: 'Littérature de jeunesse et expression orale [6e-4e]'
+annee: '1994'
+magazine: 'n°13-14 30 juin 1995'
+pages: '4'
+description: |-
+  '1. « Mon Dernier Livre pour enfants », de Christophe Donner (sixième)
   – guide de préparation de l’élève
   2. « Le Cœur des vastes cités », de Boris Moissard (quatrième)
-  – guide de préparation de l’élève
-article_pdf: 1603.pdf
-revue: L’école des lettres des collèges
+  – guide de préparation de l’élève'
+article_pdf: '1603.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Yves Lucas
 auteur_jeunesse:

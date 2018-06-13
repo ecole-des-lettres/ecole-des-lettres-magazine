@@ -1,13 +1,13 @@
 ---
-id: 765
-title: Italo Calvino – « Les Villes invisibles » (2/2) 
-rubrique: Récits du XXe siècle [3e]
-annee: 1991
-magazine: n°9 15 mars 1992
-pages: 5
-description: Suite de l’étude portant sur « Les villes et le regard »…
-article_pdf: 765.pdf
-revue: L’école des lettres des collèges
+id: '765'
+title: 'Italo Calvino : « Les Villes invisibles » (2/2) '
+rubrique: 'Récits du XXe siècle [3e]'
+annee: '1991'
+magazine: 'n°9 15 mars 1992'
+pages: '5'
+description: 'Suite de l’étude portant sur « Les villes et le regard »…'
+article_pdf: '765.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Suzy Guichard
 disciplines:

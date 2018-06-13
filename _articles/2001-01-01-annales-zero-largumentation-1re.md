@@ -1,14 +1,14 @@
 ---
-id: 4258
-title: Annales « zéro » 
-rubrique: L’argumentation [1re]
-annee: 2001
-magazine: n°12 15 avril 2002
-pages: 7
-description: 
-  Proposition de corrigé fourni par le MEN sur – 
+id: '4258'
+title: 'Annales « zéro » '
+rubrique: 'L’argumentation [1re]'
+annee: '2001'
+magazine: 'n°12 15 avril 2002'
+pages: '7'
+description: |-
+  'Proposition de corrigé fourni par le MEN sur :
   Convaincre, persuader et délibérer (fables)
-  Textes retenus – 
+  Textes retenus :
   – « La Cigale et la Fourmi », de La Fontaine
   – « Avertissement hypocrite » et « La Cigale », dans les « Fables », de Jean Anouilh
   – « Fables », d’Italo Svevo
@@ -18,9 +18,9 @@ description:
   – les fables, une entreprise futile
   – les fables, une entreprise funeste
   – les fables, une entreprise utile
-  4. Sujet d’invention
-article_pdf: 4258.pdf
-revue: L’école des lettres des lycées
+  4. Sujet d’invention'
+article_pdf: '4258.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Pascal Caglar
 disciplines:

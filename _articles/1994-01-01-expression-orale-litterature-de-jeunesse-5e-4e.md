@@ -1,17 +1,17 @@
 ---
-id: 1502
-title: Expression orale
-rubrique: Littérature de jeunesse [5e-4e]
-annee: 1994
-magazine: n°10 15 avril 1995
-pages: 4
-description: 
-  1. « Entre-deux », de Marie-Noëlle Blin (cinquième)
+id: '1502'
+title: 'Expression orale'
+rubrique: 'Littérature de jeunesse [5e-4e]'
+annee: '1994'
+magazine: 'n°10 15 avril 1995'
+pages: '4'
+description: |-
+  '1. « Entre-deux », de Marie-Noëlle Blin (cinquième)
   – guide de préparation de l’élève
   2. « Le Défi d’Alfred », de Robert Lipsyte (quatrième)
-  – guide de préparation de l’élève
-article_pdf: 1502.pdf
-revue: L’école des lettres des collèges
+  – guide de préparation de l’élève'
+article_pdf: '1502.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Yves Lucas
 auteur_jeunesse:

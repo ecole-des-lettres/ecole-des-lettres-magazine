@@ -1,13 +1,13 @@
 ---
-id: 11177
-title: « Le Dernier Jour », de Rodolphe Marconi – le secret dévoilé
-rubrique: Cinéma
-annee: 2004
-magazine: n°3 1er novembre 2004
-pages: 1
-description: Compte rendu du film de Rodolphe Marconi.
-article_pdf: 11177.pdf
-revue: L’école des lettres des lycées
+id: '11177'
+title: '« Le Dernier Jour », de Rodolphe Marconi : le secret dévoilé'
+rubrique: 'Cinéma'
+annee: '2004'
+magazine: 'n°3 1er novembre 2004'
+pages: '1'
+description: 'Compte rendu du film de Rodolphe Marconi.'
+article_pdf: '11177.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Victoria Attal
 niveau_etudes:

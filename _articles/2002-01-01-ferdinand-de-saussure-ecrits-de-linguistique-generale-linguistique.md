@@ -1,14 +1,14 @@
 ---
-id: 4943
-title: Ferdinand de Saussure – « Écrits de linguistique générale »
-rubrique: Linguistique
-annee: 2002
-magazine: n°8 1er janvier 2003
-pages: 5
-description: Note de lecture sur les notes manuscrites de Ferdinand de Saussure (Gallimard,
-  2002).
-article_pdf: 4943.pdf
-revue: L’école des lettres des lycées
+id: '4943'
+title: 'Ferdinand de Saussure : « Écrits de linguistique générale »'
+rubrique: 'Linguistique'
+annee: '2002'
+magazine: 'n°8 1er janvier 2003'
+pages: '5'
+description: 'Note de lecture sur les notes manuscrites de Ferdinand de Saussure
+  (Gallimard, 2002).'
+article_pdf: '4943.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Loïc Depecker
 disciplines:

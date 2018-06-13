@@ -1,12 +1,12 @@
 ---
-id: 11080
-title: « La première fois que j’ai eu vingt ans » – de Susie Morgenstern à Lorraine
-  Lévy, l’adaptation, un partage dans la liberté
-rubrique: Littérature de jeunesse et étude de l’image [3e]
-annee: 2004
-magazine: n°2 1er octobre 2004
-pages: 8
-description: Hoch, l’héroïne du livre de Susie Morgenstern (« La première fois que
+id: '11080'
+title: '« La première fois que j’ai eu vingt ans » : de Susie Morgenstern à Lorraine
+  Lévy, l’adaptation, un partage dans la liberté'
+rubrique: 'Littérature de jeunesse et étude de l’image [3e]'
+annee: '2004'
+magazine: 'n°2 1er octobre 2004'
+pages: '8'
+description: 'Hoch, l’héroïne du livre de Susie Morgenstern (« La première fois que
   j’ai eu seize ans », l’école des loisirs), devenue Hannah dans le film de Lorraine
   Lévy (« La première fois que j’ai eu vingt ans ») est une passionnée. Mais elle
   a seize ans, l’année de tous les désirs, de toutes les incertitudes aussi. Maladroite,
@@ -20,9 +20,9 @@ description: Hoch, l’héroïne du livre de Susie Morgenstern (« La première
   l’amitié, de l’amour et finalement celui de la vie. Susie Morgenstern et Lorraine
   Lévy se sont prises de passion pour cette adolescente, mais leur sensibilité n’est
   pas la même. Ainsi nous offrent-elles des voies différentes pour la suivre dans
-  sa quête…
-article_pdf: 11080.pdf
-revue: L’école des lettres des collèges
+  sa quête…'
+article_pdf: '11080.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Dominique Blum
 auteur_jeunesse:

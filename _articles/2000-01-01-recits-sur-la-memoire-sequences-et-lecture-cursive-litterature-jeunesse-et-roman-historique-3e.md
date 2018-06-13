@@ -1,12 +1,12 @@
 ---
-id: 4070
-title: Récits sur la mémoire. Séquences et lecture cursive
-rubrique: Littérature jeunesse et roman historique [3e]
-annee: 2000
-magazine: n°7 1er décembre 2000
-pages: 6
-description: 
-  Cet article propose des récits sur la mémoire à mettre en relation avec le programme d’histoire de la classe de troisième. Dans ces textes, des enfants d’aujourd’hui se penchent sur le passé, sur l’époque de la Seconde Guerre mondiale – 
+id: '4070'
+title: 'Récits sur la mémoire. Séquences et lecture cursive'
+rubrique: 'Littérature jeunesse et roman historique [3e]'
+annee: '2000'
+magazine: 'n°7 1er décembre 2000'
+pages: '6'
+description: |-
+  'Cet article propose des récits sur la mémoire à mettre en relation avec le programme d’histoire de la classe de troisième. Dans ces textes, des enfants d’aujourd’hui se penchent sur le passé, sur l’époque de la Seconde Guerre mondiale :
   – « Une si petite flamme », de Robert Bigot
   – « Un si terrible secret », d’Évelyne Brisou-Pellen
   – « Quand je pense à la Résistance », de Sophie Chérer
@@ -15,9 +15,9 @@ description:
   – « En attendant Éliane », d’Alain Korkos
   – « No pasaran, le jeu », de Christian Lehmann
   – « Le Concerto pour la main gauche », de Claude Raucy
-  – « Un lourd silence », de Murielle Szac
-article_pdf: 4070.pdf
-revue: L’école des lettres des collèges
+  – « Un lourd silence », de Murielle Szac'
+article_pdf: '4070.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Anne Vautravers
 auteur_jeunesse:

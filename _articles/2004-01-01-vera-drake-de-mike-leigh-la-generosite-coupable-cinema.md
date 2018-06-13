@@ -1,13 +1,13 @@
 ---
-id: 11228
-title: « Vera Drake », de Mike Leigh – la générosité coupable
-rubrique: Cinéma
-annee: 2004
-magazine: n°7 mars 2005
-pages: 1
-description: Compte rendu du film de Mike Leigh.
-article_pdf: 11228.pdf
-revue: L’école des lettres des lycées
+id: '11228'
+title: '« Vera Drake », de Mike Leigh : la générosité coupable'
+rubrique: 'Cinéma'
+annee: '2004'
+magazine: 'n°7 mars 2005'
+pages: '1'
+description: 'Compte rendu du film de Mike Leigh.'
+article_pdf: '11228.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Victoria Attal
 niveau_etudes:

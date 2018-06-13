@@ -1,14 +1,14 @@
 ---
-id: 5258
-title: Jean Racine – le chœur dans « Esther » et « Athalie »
-rubrique: Théâtre [1re]
-annee: 2003
-magazine: n°7 1er janvier 2004
-pages: 20
-description: Dans le contexte de production et de réception des deux œuvres, cet
+id: '5258'
+title: 'Jean Racine : le chœur dans « Esther » et « Athalie »'
+rubrique: 'Théâtre [1re]'
+annee: '2003'
+magazine: 'n°7 1er janvier 2004'
+pages: '20'
+description: 'Dans le contexte de production et de réception des deux œuvres, cet
   article se propose d’étudier comment le projet éducatif initial de Mme de Maintenon
   permet à Racine d’écrire sa pièce la plus prométhéenne, notamment grâce à la présence
-  du chœur. Afin d’éclairer cette réflexion, il pose les questions suivantes – pourquoi
+  du chœur. Afin d’éclairer cette réflexion, il pose les questions suivantes : pourquoi
   et comment le chœur, élément constitutif de la tragédie antique, est-il réapproprié
   par la tradition classique pour faire jouer les pensionnaires de Saint-Cyr ? Cet
   emprunt à la tragédie grecque est-il à lire comme une affirmation de la position
@@ -18,9 +18,9 @@ description: Dans le contexte de production et de réception des deux œuvres, c
   affichées et cachées qui justifient l’insertion du chœur dans ces deux tragédies ?
   Quelles fonctions le chœur peut-il remplir du point de vue dramaturgique d’une part,
   du point de vue didactique et religieux d’autre part, et enfin du point de vue poétique
-  et musical ?
-article_pdf: 5258.pdf
-revue: L’école des lettres des lycées
+  et musical ?'
+article_pdf: '5258.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Laurence Ripoche
 disciplines:

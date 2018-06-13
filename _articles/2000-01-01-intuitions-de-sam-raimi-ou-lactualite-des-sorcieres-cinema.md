@@ -1,13 +1,13 @@
 ---
-id: 3902
-title: « Intuitions », de Sam Raimi, ou l’actualité des sorcières
-rubrique: Cinéma
-annee: 2000
-magazine: n°13 15 mai 2001
-pages: 1
-description: Compte rendu du film de Sam Raimi.
-article_pdf: 3902.pdf
-revue: L’école des lettres des lycées
+id: '3902'
+title: '« Intuitions », de Sam Raimi, ou l’actualité des sorcières'
+rubrique: 'Cinéma'
+annee: '2000'
+magazine: 'n°13 15 mai 2001'
+pages: '1'
+description: 'Compte rendu du film de Sam Raimi.'
+article_pdf: '3902.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Victoria Attal
 niveau_etudes:

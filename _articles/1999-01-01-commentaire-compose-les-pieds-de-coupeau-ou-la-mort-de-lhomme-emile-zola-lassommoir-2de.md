@@ -1,12 +1,12 @@
 ---
-id: 3436
-title: Commentaire composé – les pieds de Coupeau ou la mort de l’« homme » 
-rubrique: Émile Zola – « L’Assommoir » [2de]
-annee: 1999
-magazine: n°10 15 février 2000
-pages: 17
-description: 
-  Extrait du chapitre 13
+id: '3436'
+title: 'Commentaire composé : les pieds de Coupeau ou la mort de l’« homme » '
+rubrique: 'Émile Zola : « L’Assommoir » [2de]'
+annee: '1999'
+magazine: 'n°10 15 février 2000'
+pages: '17'
+description: |-
+  'Extrait du chapitre 13
   1. De la scène à l’obscène
   – un cadre narratif
   – une scène spectaculaire et grotesque
@@ -18,9 +18,9 @@ description:
   3. Le retour du refoulé
   – l’« homme physiologique »
   – un homme et un roman qui ont l’« odeur du peuple »
-  – de l’aliénation de Coupeau à la mort de l’« homme »
-article_pdf: 3436.pdf
-revue: L’école des lettres des lycées
+  – de l’aliénation de Coupeau à la mort de l’« homme »'
+article_pdf: '3436.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Joël Loehr
 disciplines:

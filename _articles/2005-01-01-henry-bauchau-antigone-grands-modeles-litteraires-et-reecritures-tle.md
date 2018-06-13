@@ -1,11 +1,11 @@
 ---
-id: 11345
-title: Henry Bauchau – « Antigone »
-rubrique: Grands modèles littéraires et réécritures [Tle]
-annee: 2005
-magazine: n°8 février 2006
-pages: 15
-description: Depuis Sophocle, le mythe d’Antigone a été renouvelé et enrichi grâce
+id: '11345'
+title: 'Henry Bauchau : « Antigone »'
+rubrique: 'Grands modèles littéraires et réécritures [Tle]'
+annee: '2005'
+magazine: 'n°8 février 2006'
+pages: '15'
+description: 'Depuis Sophocle, le mythe d’Antigone a été renouvelé et enrichi grâce
   à ses nombreuses versions, le plus souvent théâtrales. Cet article se propose d’étudier
   une version récente dont l’originalité est d’abord dans le genre choisi, puisqu’il
   s’agit du roman d’Henry Bauchau. Par ce choix de la forme narrative, et plus précisément
@@ -17,9 +17,9 @@ description: Depuis Sophocle, le mythe d’Antigone a été renouvelé et enrich
   le roman creuse plus profond et va aux sources du conflit et de la violence. L’article
   s’intéresse ensuite à la « construction » du personnage qui acquiert une dimension
   supplémentaire dans son rapport aux autres fondé sur l’idée d’échange, ainsi que
-  par son accord profond avec la nature, de l’élémentaire jusqu’au cosmique.
-article_pdf: 11345.pdf
-revue: L’école des lettres des lycées
+  par son accord profond avec la nature, de l’élémentaire jusqu’au cosmique.'
+article_pdf: '11345.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Jacques Le Marinel
 disciplines:

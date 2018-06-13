@@ -1,13 +1,13 @@
 ---
-id: 2921
-title: « En chair et en os », de Pedro Almodovar, ou la jalousie à visage humain
-rubrique: Cinéma
-annee: 1997
-magazine: n°6 15 novembre 1997
-pages: 1
-description: Compte rendu du film de Pedro Almodovar.
-article_pdf: 2921.pdf
-revue: L’école des lettres des lycées
+id: '2921'
+title: '« En chair et en os », de Pedro Almodovar, ou la jalousie à visage humain'
+rubrique: 'Cinéma'
+annee: '1997'
+magazine: 'n°6 15 novembre 1997'
+pages: '1'
+description: 'Compte rendu du film de Pedro Almodovar.'
+article_pdf: '2921.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Victoria Attal
 niveau_etudes:

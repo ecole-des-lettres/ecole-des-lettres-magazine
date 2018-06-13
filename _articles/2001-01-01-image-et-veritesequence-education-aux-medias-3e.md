@@ -1,11 +1,11 @@
 ---
-id: 4560
-title: Image et vérité (séquence)
-rubrique: Éducation aux médias  [3e]
-annee: 2001
-magazine: n°9 15 janvier 2002
-pages: 32
-description: Cet article se propose de donner des éléments pour travailler sur le
+id: '4560'
+title: 'Image et vérité (séquence)'
+rubrique: 'Éducation aux médias  [3e]'
+annee: '2001'
+magazine: 'n°9 15 janvier 2002'
+pages: '32'
+description: 'Cet article se propose de donner des éléments pour travailler sur le
   problème des rapports entre l’image et la réalité. L’impression de réalité qui se
   dégage de l’image nous fait souvent négliger toutes les conventions de la représentation,
   et nous confondons le visible et le réel, la réalité et la vérité. Devant la représentation
@@ -18,9 +18,9 @@ description: Cet article se propose de donner des éléments pour travailler sur
   « Pas vu, pas cru », parue dans Télérama, n°2656, le 6 décembre 2000. La chronique
   permet à la fois d’aborder un texte argumentatif et de réfléchir à notre rapport
   à l’image. On s’intéressera également aux raisons pour lesquelles une image devient
-  une « icône » qui synthétise une réalité.
-article_pdf: 4560.pdf
-revue: L’école des lettres des collèges
+  une « icône » qui synthétise une réalité.'
+article_pdf: '4560.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Daniel Salles
 disciplines:

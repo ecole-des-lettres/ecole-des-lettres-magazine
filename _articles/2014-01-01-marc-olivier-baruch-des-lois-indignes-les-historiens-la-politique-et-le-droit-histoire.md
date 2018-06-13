@@ -1,12 +1,12 @@
 ---
-id: 12629
-title: Marc Olivier Baruch, « Des lois indignes ? Les historiens, la politique et
-  le droit »
-rubrique: Histoire
-annee: 2014
-magazine: 
-pages: 1
-description: Nous aurions presque oublié, alors que la chose fit grand bruit dans
+id: '12629'
+title: 'Marc Olivier Baruch, « Des lois indignes ? Les historiens, la politique et
+  le droit »'
+rubrique: 'Histoire'
+annee: '2014'
+magazine: ''
+pages: '1'
+description: 'Nous aurions presque oublié, alors que la chose fit grand bruit dans
   le landernau universitaire et politique. En décembre 2005, quelques-uns de nos plus
   éminents historiens, dont certains professeurs au Collège de France, des académiciens
   et jusqu’à un ancien ministre apposaient leur signature au bas d’un manifeste collectif
@@ -18,9 +18,9 @@ description: Nous aurions presque oublié, alors que la chose fit grand bruit da
   notamment en Afrique du Nord ». Cette insigne maladresse entraîna une indignation,
   plutôt justifiée, qui, par contrecoup, allait atteindre des décisions politiques
   antérieures moins contestables et même franchement bienvenues, comme le démontre
-  l’auteur…
-article_pdf: 12629.pdf
-revue: L’école des lettres des lycées
+  l’auteur…'
+article_pdf: '12629.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Yves Stalloni
 niveau_etudes:

@@ -1,11 +1,11 @@
 ---
-id: 11308
-title: Lois Lowry – « Le Passeur ». Étude intégrale
-rubrique: Littérature de jeunesse et préparation à la seconde [3e]
-annee: 2004
-magazine: 2005
-pages: 23
-description: « Le Passeur », de Lois Lowry, est un roman que l’on peut qualifier
+id: '11308'
+title: 'Lois Lowry : « Le Passeur ». Étude intégrale'
+rubrique: 'Littérature de jeunesse et préparation à la seconde [3e]'
+annee: '2004'
+magazine: '2005'
+pages: '23'
+description: '« Le Passeur », de Lois Lowry, est un roman que l’on peut qualifier
   « d’apprentissage ». C’est aussi l’un de ces récits que l’on désigne volontiers
   comme « initiatique » ; mais si l’on qualifie ainsi l’ensemble des textes où le
   héros parvient à un nouveau statut au terme d’une série d’épreuves, on en oublie
@@ -22,9 +22,9 @@ description: « Le Passeur », de Lois Lowry, est un roman que l’on peut quali
   qui pourront soit clore une année de troisième, soit entamer une année de seconde,
   soit encore permettre, dans le cadre de la liaison inter-cycles collège-lycée, de
   faire se rencontrer, grâce à la littérature et pour la littérature, des collégiens
-  et des lycéens.
-article_pdf: 11308.pdf
-revue: L’école des lettres des collèges
+  et des lycéens.'
+article_pdf: '11308.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Lorine Grimaud
 auteur_jeunesse:

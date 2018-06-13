@@ -1,14 +1,14 @@
 ---
-id: 746
-title: Émile Zola par Michel Tournier
-rubrique: Le naturalisme
-annee: 1991
-magazine: n°8 1er mars 1992
-pages: 5
-description: Discours prononcé par Michel Tournier à Médan en octobre 1991…
-article_pdf: 746.pdf
+id: '746'
+title: 'Émile Zola par Michel Tournier'
+rubrique: 'Le naturalisme'
+annee: '1991'
+magazine: 'n°8 1er mars 1992'
+pages: '5'
+description: 'Discours prononcé par Michel Tournier à Médan en octobre 1991…'
+article_pdf: '746.pdf'
 magazine_special: Zola et la description naturaliste
-revue: L’école des lettres des lycées
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Michel Tournier
 disciplines:

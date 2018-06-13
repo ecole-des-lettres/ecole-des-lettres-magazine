@@ -1,12 +1,12 @@
 ---
-id: 1315
-title: Le protestantisme français, d’un édit à l’autre (1598-1685) (1/2)
-rubrique: Histoire [5e] 
-annee: 1993
-magazine: n°4 1er novembre 1993
-pages: 10
-description: 
-  1. Les protestants avant 1598
+id: '1315'
+title: 'Le protestantisme français, d’un édit à l’autre (1598-1685) (1/2)'
+rubrique: 'Histoire [5e] '
+annee: '1993'
+magazine: 'n°4 1er novembre 1993'
+pages: '10'
+description: |-
+  '1. Les protestants avant 1598
   – les origines du mouvement
   – composition numérique du protestantisme
   – implantation géographique du mouvement
@@ -22,9 +22,9 @@ description:
   – les protestants, une menace
   – le pouvoir face à la menace protestante
   – les ennemis de la RPR et les religionnaires
-  L’article est suivi de repères chronologiques, de cartes et graphiques, d’extraits de l’édit de Nantes, d’une bibliographie, d’un lexique, etc.
-article_pdf: 1315.pdf
-revue: L’école des lettres des collèges
+  L’article est suivi de repères chronologiques, de cartes et graphiques, d’extraits de l’édit de Nantes, d’une bibliographie, d’un lexique, etc.'
+article_pdf: '1315.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Jean-Louis Pilliat
 disciplines:

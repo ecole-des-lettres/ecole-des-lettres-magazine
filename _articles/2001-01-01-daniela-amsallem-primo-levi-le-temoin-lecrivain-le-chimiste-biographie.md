@@ -1,13 +1,13 @@
 ---
-id: 4551
-title: Daniela Amsallem – « Primo Levi, le témoin, l’écrivain, le chimiste »
-rubrique: Biographie
-annee: 2001
-magazine: n°8 1er janvier 2002
-pages: 3
-description: Note de lecture sur cet ouvrage (Cosmogone, 2001).
-article_pdf: 4551.pdf
-revue: L’école des lettres des lycées
+id: '4551'
+title: 'Daniela Amsallem : « Primo Levi, le témoin, l’écrivain, le chimiste »'
+rubrique: 'Biographie'
+annee: '2001'
+magazine: 'n°8 1er janvier 2002'
+pages: '3'
+description: 'Note de lecture sur cet ouvrage (Cosmogone, 2001).'
+article_pdf: '4551.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Yves Stalloni
 disciplines:

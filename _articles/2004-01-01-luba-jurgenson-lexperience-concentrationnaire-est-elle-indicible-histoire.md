@@ -1,13 +1,13 @@
 ---
-id: 11264
-title: Luba Jurgenson – « L’expérience concentrationnaire est-elle indicible ? »
-rubrique: Histoire
-annee: 2004
-magazine: n°10 juin 2005
-pages: 2
-description: Présentation de l’ouvrage (Verdier, 2003).
-article_pdf: 11264.pdf
-revue: L’école des lettres des lycées
+id: '11264'
+title: 'Luba Jurgenson : « L’expérience concentrationnaire est-elle indicible ? »'
+rubrique: 'Histoire'
+annee: '2004'
+magazine: 'n°10 juin 2005'
+pages: '2'
+description: 'Présentation de l’ouvrage (Verdier, 2003).'
+article_pdf: '11264.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Yves Stalloni
 disciplines:

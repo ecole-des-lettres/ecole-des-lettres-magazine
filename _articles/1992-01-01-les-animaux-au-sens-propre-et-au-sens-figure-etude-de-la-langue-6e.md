@@ -1,12 +1,12 @@
 ---
-id: 961
-title: Les animaux, au sens propre et au sens figuré 
-rubrique: Étude de la langue [6e]
-annee: 1992
-magazine: n°3 15 octobre 1992
-pages: 6
-description: 
-  1. Sensibilisation préalable
+id: '961'
+title: 'Les animaux, au sens propre et au sens figuré '
+rubrique: 'Étude de la langue [6e]'
+annee: '1992'
+magazine: 'n°3 15 octobre 1992'
+pages: '6'
+description: |-
+  '1. Sensibilisation préalable
   – à l’expression métaphorique et figurée
   – à la construction du poème « Monnaie de singe », de Georges-Emmanuel Clancier
   – consignes de travail personnel
@@ -22,9 +22,9 @@ description:
   4. Travaux divers
   – travail avec le dictionnaire
   – les animaux et la publicité
-  Texte annexe – un extrait du « Jacassin », de Pierre Daninos, suivi d’un questionnaire.
-article_pdf: 961.pdf
-revue: L’école des lettres des collèges
+  Texte annexe : un extrait du « Jacassin », de Pierre Daninos, suivi d’un questionnaire.'
+article_pdf: '961.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Élisabeth Bormann
 disciplines:

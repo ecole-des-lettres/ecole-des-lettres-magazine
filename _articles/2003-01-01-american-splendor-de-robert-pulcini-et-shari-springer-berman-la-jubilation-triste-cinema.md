@@ -1,14 +1,14 @@
 ---
-id: 5213
-title: « American Splendor », de Robert Pulcini et Shari Springer Berman – la jubilation
-  triste
-rubrique: Cinéma
-annee: 2003
-magazine: n°3 1er octobre 2003
-pages: 1
-description: Compte rendu du film de Robert Pulcini et Shari Springer Berman.
-article_pdf: 5213.pdf
-revue: L’école des lettres des lycées
+id: '5213'
+title: '« American Splendor », de Robert Pulcini et Shari Springer Berman : la jubilation
+  triste'
+rubrique: 'Cinéma'
+annee: '2003'
+magazine: 'n°3 1er octobre 2003'
+pages: '1'
+description: 'Compte rendu du film de Robert Pulcini et Shari Springer Berman.'
+article_pdf: '5213.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Victoria Attal
 niveau_etudes:

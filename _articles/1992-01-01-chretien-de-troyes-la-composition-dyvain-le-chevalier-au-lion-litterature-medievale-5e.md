@@ -1,12 +1,12 @@
 ---
-id: 851
-title: Chrétien de Troyes – la composition d’« Yvain, le Chevalier au Lion »
-rubrique: Littérature médiévale  [5e]
-annee: 1992
-magazine: n°12 15 mai 1993
-pages: 10
-description: 
-  1. Une structure apparemment lâche
+id: '851'
+title: 'Chrétien de Troyes : la composition d’« Yvain, le Chevalier au Lion »'
+rubrique: 'Littérature médiévale  [5e]'
+annee: '1992'
+magazine: 'n°12 15 mai 1993'
+pages: '10'
+description: |-
+  '1. Une structure apparemment lâche
   – des épisodes indépendants ?
   – des personnages épisodiques ?
   – des facilités de composition
@@ -17,10 +17,10 @@ description:
   3. La signification de la composition
   – une progression symbolique
   – le dédoublement
-  – des renversements narratifs symboliques
-article_pdf: 851.pdf
-magazine_special: Chrétien de Troyes – Yvain, le Chevalier au Lion
-revue: L’école des lettres des collèges
+  – des renversements narratifs symboliques'
+article_pdf: '851.pdf'
+magazine_special: 'Chrétien de Troyes : Yvain, le Chevalier au Lion'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Corinne Pierreville
 disciplines:

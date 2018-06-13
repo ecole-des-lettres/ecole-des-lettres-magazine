@@ -1,11 +1,11 @@
 ---
-id: 4055
-title: Brève étude cartographique des frontières en Europe depuis 1914
-rubrique: Histoire-géographie [3e]
-annee: 2000
-magazine: n°6 1er novembre 2000
-pages: 28
-description: Le programme de troisième croise fréquemment l’histoire et la géographie.
+id: '4055'
+title: 'Brève étude cartographique des frontières en Europe depuis 1914'
+rubrique: 'Histoire-géographie [3e]'
+annee: '2000'
+magazine: 'n°6 1er novembre 2000'
+pages: '28'
+description: 'Le programme de troisième croise fréquemment l’histoire et la géographie.
   Dans cet esprit, cet article propose une leçon de cartographie historique destinée
   à donner aux élèves des repères pour la compréhension de l’histoire de l’Europe
   au XXe siècle. La leçon recoupe plusieurs moments du programme à travers l’étude
@@ -16,9 +16,9 @@ description: Le programme de troisième croise fréquemment l’histoire et la g
   « des crises des années 1930 à partir de l’exemple de l’Allemagne ». La seconde
   partie du programme, « Élaboration et organisation du monde d’aujourd’hui », propose
   « De la guerre froide au monde d’aujourd’hui » et, en géographie, « Géographie politique
-  du monde ». Les deux cartes retenues sont l’Europe en 1948 et l’Europe en 2000.
-article_pdf: 4055.pdf
-revue: L’école des lettres des collèges
+  du monde ». Les deux cartes retenues sont l’Europe en 1948 et l’Europe en 2000.'
+article_pdf: '4055.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - François Colodiet
 disciplines:

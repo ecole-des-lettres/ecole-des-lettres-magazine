@@ -1,28 +1,28 @@
 ---
-id: 11792
-title: Les humanistes et le savoir en question (séquence)
-rubrique: Groupement de textes [1re]
-annee: 2005
-magazine: 2007
-pages: 26
-description: 
-  Cette séquence, basée sur un groupement de textes, se fixe les objectifs suivants – 
+id: '11792'
+title: 'Les humanistes et le savoir en question (séquence)'
+rubrique: 'Groupement de textes [1re]'
+annee: '2005'
+magazine: '2007'
+pages: '26'
+description: |-
+  'Cette séquence, basée sur un groupement de textes, se fixe les objectifs suivants :
   – la vérification des acquis de seconde ;
   – l’acquisition de repères précis dans l’histoire littéraire et culturelle ;
   – la perception du lien entre l’histoire littéraire et l’Histoire ;
   – la prise en compte du contexte pour lire les textes ;
   – la préparation à la première partie de l’épreuve du baccalauréat (questions sur un corpus de textes).
-  Corpus – 
+  Corpus :
   – « Pantagruel », « Gargantua », de Rabelais ;
   – les « Essais », de Montaigne (« De l’expérience ») ;
   – « Les Ambassadeurs », de Holbein ;
   – la « Préface à la paraphrase de saint Matthieu », d’Érasme ;
   – « Défense et illustration de la langue française », de Du Bellay ;
   – « Le Courtisan », de Castiglione.
-  Déroulement de la séquence – dix séances.
-article_pdf: 11792.pdf
+  Déroulement de la séquence : dix séances.'
+article_pdf: '11792.pdf'
 magazine_special: Professeur stagiaire
-revue: L’école des lettres des lycées
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Bénédicte Monat
 disciplines:

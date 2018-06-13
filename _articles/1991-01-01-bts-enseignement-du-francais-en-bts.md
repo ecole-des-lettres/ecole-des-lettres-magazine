@@ -1,12 +1,12 @@
 ---
-id: 5053
-title: « BTS – enseignement du français en BTS »
-rubrique: 
-annee: 1991
-magazine: n°14 1er juillet 1992
+id: '5053'
+title: '« BTS : enseignement du français en BTS »'
+rubrique: ''
+annee: '1991'
+magazine: 'n°14 1er juillet 1992'
 pages: 118 pages
-description: 
-  1. Enjeux et aspects institutionnels 
+description: |-
+  '1. Enjeux et aspects institutionnels 
   – le bulletin officiel
   – horaires et coefficients
   – profils et origines scolaires et sociologiques des étudiants
@@ -27,15 +27,15 @@ description:
   – exploitation des documents non textuels
   6. Des images pour une synthèse, littérature et cinéma
   – objectifs et méthode 
-  – textes et images – « Une partie de campagne » 
+  – textes et images : « Une partie de campagne » 
   – la synthèse de documents 
   – synthèse rédigée
   7. Réalisation et exploitation d’un sondage
-  Ont participé à ce numéro – 
-  Myriam Jacquemier, Pierre Murat et Anne Spicher
-article_pdf: 5053.pdf
-magazine_special: BTS – enseignement du français en BTS
-revue: L’école des lettres des lycées
+  Ont participé à ce numéro :
+  Myriam Jacquemier, Pierre Murat et Anne Spicher'
+article_pdf: '5053.pdf'
+magazine_special: 'BTS : enseignement du français en BTS'
+revue: 'L’école des lettres des lycées'
 disciplines:
 - lettres
 niveau_etudes:

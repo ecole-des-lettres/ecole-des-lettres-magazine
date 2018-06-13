@@ -1,11 +1,11 @@
 ---
-id: 11119
-title: Brigitte Smadja – « Il faut sauver Saïd ». Étude intégrale 
-rubrique: Roman [CM-5e]
-annee: 2004
-magazine: n°9 mai 2005
-pages: 18
-description: Les services académiques et rectoraux mettent de plus en plus l’accent,
+id: '11119'
+title: 'Brigitte Smadja : « Il faut sauver Saïd ». Étude intégrale '
+rubrique: 'Roman [CM-5e]'
+annee: '2004'
+magazine: 'n°9 mai 2005'
+pages: '18'
+description: 'Les services académiques et rectoraux mettent de plus en plus l’accent,
   et à juste titre, sur la liaison inter-cycles. Il est en effet difficile à tout
   âge de réussir un passage, et celui que constitue l’entrée au collège est de taille.
   Dans ces moments un peu compliqués et angoissants de la vie d’élève, la littérature
@@ -22,9 +22,9 @@ description: Les services académiques et rectoraux mettent de plus en plus l’
   premier degré qu’à ceux du second. Chacun, en fonction du niveau de sa classe et
   de celui des élèves, en tenant compte aussi du lieu où il exerce (la ZEP est ici
   l’un des protagonistes du récit) prélèvera ce qui lui est nécessaire pour élaborer
-  son propre travail.
-article_pdf: 11119.pdf
-revue: L’école des lettres des collèges
+  son propre travail.'
+article_pdf: '11119.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Lorine Grimaud
 - Chantal Riou

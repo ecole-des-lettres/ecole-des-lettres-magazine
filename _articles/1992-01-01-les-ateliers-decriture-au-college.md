@@ -1,12 +1,12 @@
 ---
-id: 5035
-title: Les Ateliers d’écriture au collège 
-rubrique: 
-annee: 1992
-magazine: n°9 1er mars 1993
+id: '5035'
+title: 'Les Ateliers d’écriture au collège '
+rubrique: ''
+annee: '1992'
+magazine: 'n°9 1er mars 1993'
 pages: 148 pages
-description: 
-  1. Impromptu à bâtons rompus
+description: |-
+  '1. Impromptu à bâtons rompus
   2. Des ateliers d’écriture menés auprès de jeunes. Comment ? Pourquoi ?
   3. Et si on écrivait un roman ? (sixième)
   4. Contes, mythes et... réalité (sixième)
@@ -21,11 +21,11 @@ description:
   13. Le « Printemps de l’écriture » (concours)
   14.  D’« Une œuvre, un visage » à « l’Ami littéraire »
   15. Les concours littéraires pour les jeunes
-  Ont participé à ce numéro – 
-  Robert Boudet, Nadine Brun-Cosme, Norbert Czarny, Emmanuelle Dagnaud, Danielle Dubois Marcoin, Sylvie Ducas-Spaës, Jacqueline Ernst, Catherine Fauchet, Dominique Galaup-Pertusa, Philippe Labaune, Nicole Lemener, Yves Lucas, Marie-Aude Murail, Claire Roux et Marie-Odette Schmitt-Ardizio
-article_pdf: 5035.pdf
+  Ont participé à ce numéro :
+  Robert Boudet, Nadine Brun-Cosme, Norbert Czarny, Emmanuelle Dagnaud, Danielle Dubois Marcoin, Sylvie Ducas-Spaës, Jacqueline Ernst, Catherine Fauchet, Dominique Galaup-Pertusa, Philippe Labaune, Nicole Lemener, Yves Lucas, Marie-Aude Murail, Claire Roux et Marie-Odette Schmitt-Ardizio'
+article_pdf: '5035.pdf'
 magazine_special: Ateliers d’écriture
-revue: L’école des lettres des collèges
+revue: 'L’école des lettres des collèges'
 disciplines:
 - français
 niveau_etudes:

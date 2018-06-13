@@ -1,13 +1,13 @@
 ---
-id: 5252
-title: « Jellyfish », de Kioshi Kurosawa – la métaphore vive
-rubrique: Cinéma
-annee: 2003
-magazine: n°6 1er décembre 2003
-pages: 1
-description: Compte rendu du film de Kioshi Kurosawa.
-article_pdf: 5252.pdf
-revue: L’école des lettres des lycées
+id: '5252'
+title: '« Jellyfish », de Kioshi Kurosawa : la métaphore vive'
+rubrique: 'Cinéma'
+annee: '2003'
+magazine: 'n°6 1er décembre 2003'
+pages: '1'
+description: 'Compte rendu du film de Kioshi Kurosawa.'
+article_pdf: '5252.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Victoria Attal
 niveau_etudes:

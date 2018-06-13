@@ -1,11 +1,11 @@
 ---
-id: 11115
-title: « Guiron le Courtois » – un regard sur le Moyen Âge. Étude d’extraits
-rubrique: Littérature médiévale [5e]
-annee: 2004
-magazine: n°8 avril 2005
-pages: 9
-description: Les documents d’Accompagnement des programmes du cycle central cinquième-quatrième
+id: '11115'
+title: '« Guiron le Courtois » : un regard sur le Moyen Âge. Étude d’extraits'
+rubrique: 'Littérature médiévale [5e]'
+annee: '2004'
+magazine: 'n°8 avril 2005'
+pages: '9'
+description: 'Les documents d’Accompagnement des programmes du cycle central cinquième-quatrième
   recommandent de « ne pas représenter le système orthographique du français comme
   une réalité intangible ou un absolu intemporel », mais de « faire acquérir aux élèves
   quelques rudiments d’histoire de la langue ». La langue écrite du Moyen Âge est
@@ -18,9 +18,9 @@ description: Les documents d’Accompagnement des programmes du cycle central ci
   cinquième. Pour rattacher le propos au thème de la séquence, un extrait du roman
   « Guiron le Courtois » (ca 1235-1240) a été choisi, au cours duquel le narrateur
   décrit une princesse, la fille du roi de Northumberland. Le point de vue adopté
-  est celui de Febus, chevalier admirable, amoureux de la belle princesse.
-article_pdf: 11115.pdf
-revue: L’école des lettres des collèges
+  est celui de Febus, chevalier admirable, amoureux de la belle princesse.'
+article_pdf: '11115.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Sophie Albert
 disciplines:

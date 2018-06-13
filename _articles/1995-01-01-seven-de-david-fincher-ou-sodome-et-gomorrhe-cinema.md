@@ -1,14 +1,14 @@
 ---
-id: 2138
-title: « Seven », de David Fincher, ou Sodome et Gomorrhe
-rubrique: Cinéma
-annee: 1995
-magazine: n°7 15 février 1996
-pages: 1
-description: Compte rendu du film de David Fincher.
-article_pdf: 2138.pdf
-magazine_special: Racine – Britannicus, Bérénice et Mithridate
-revue: L’école des lettres des lycées
+id: '2138'
+title: '« Seven », de David Fincher, ou Sodome et Gomorrhe'
+rubrique: 'Cinéma'
+annee: '1995'
+magazine: 'n°7 15 février 1996'
+pages: '1'
+description: 'Compte rendu du film de David Fincher.'
+article_pdf: '2138.pdf'
+magazine_special: 'Racine : Britannicus, Bérénice et Mithridate'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Victoria Attal
 niveau_etudes:

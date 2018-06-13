@@ -1,12 +1,12 @@
 ---
-id: 621
-title: La machine dans le roman du XIXe siècle. Groupement de textes 
-rubrique: Roman  [2de]
-annee: 1991
-magazine: n°4 1er novembre 1991
-pages: 20
-description: 
-  Comment les romanciers du XIXe siècle ont-ils intégré la révolution industrielle dans leur  imaginaire ?
+id: '621'
+title: 'La machine dans le roman du XIXe siècle. Groupement de textes '
+rubrique: 'Roman  [2de]'
+annee: '1991'
+magazine: 'n°4 1er novembre 1991'
+pages: '20'
+description: |-
+  'Comment les romanciers du XIXe siècle ont-ils intégré la révolution industrielle dans leur  imaginaire ?
   1. Présentation du thème
   – la machine au XIXe siècle
   – le problème du thème
@@ -22,9 +22,9 @@ description:
   3. Étude comparée des textes proposés
   – la place de la machine
   – machine montrée et machine cachée
-  – ambiguïté de la machine
-article_pdf: 621.pdf
-revue: L’école des lettres des lycées
+  – ambiguïté de la machine'
+article_pdf: '621.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Isabelle De Lisle
 disciplines:

@@ -1,11 +1,11 @@
 ---
-id: 11320
-title: Fables françaises du Moyen Âge (séquence)
-rubrique: Argumentation [2de-1re]
-annee: 2005
-magazine: n°5 décembre 2005
-pages: 19
-description: Les fables françaises du Moyen Âge constituent une précieuse ressource
+id: '11320'
+title: 'Fables françaises du Moyen Âge (séquence)'
+rubrique: 'Argumentation [2de-1re]'
+annee: '2005'
+magazine: 'n°5 décembre 2005'
+pages: '19'
+description: 'Les fables françaises du Moyen Âge constituent une précieuse ressource
   pour l’étude du récit bref et de l’argumentation en seconde, et également pour l’approche
   de l’apologue en classe de première. La séquence comporte six séances et s’articule
   en deux volets. Tout d’abord, définir le genre et s’interroger sur les formes et
@@ -19,9 +19,9 @@ description: Les fables françaises du Moyen Âge constituent une précieuse res
   sont supposées aider à développer à la fois une « vigilance linguistique » (R. Barthes)
   et une technique d’expression. Un balisage des passages argumentatifs, le commentaire
   comparé de deux versions d’une fable fameuse, et une ultime lecture analytique abordent
-  donc les problématiques liées au travail de l’écriture.
-article_pdf: 11320.pdf
-revue: L’école des lettres des lycées
+  donc les problématiques liées au travail de l’écriture.'
+article_pdf: '11320.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Séverine Abiker
 disciplines:

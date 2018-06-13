@@ -1,17 +1,17 @@
 ---
-id: 4064
-title: La voix du conteur – textes à dire en 6e
-rubrique: 
-annee: 2000
-magazine: n°7 1er décembre 2000
-pages: 2
-description: 
-  Un article qui propose de lire contes ou extraits de romans aux élèves de sixième.
+id: '4064'
+title: 'La voix du conteur : textes à dire en 6e'
+rubrique: ''
+annee: '2000'
+magazine: 'n°7 1er décembre 2000'
+pages: '2'
+description: |-
+  'Un article qui propose de lire contes ou extraits de romans aux élèves de sixième.
   1. « Bon à rien », de Moka
   2. « Guesaro l’indomptable », de Claire Clément
-  3. « Boréal-Express », de Chris Van Allsburg
-article_pdf: 4064.pdf
-revue: L’école des lettres des collèges
+  3. « Boréal-Express », de Chris Van Allsburg'
+article_pdf: '4064.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Yves Lucas
 auteur_jeunesse:

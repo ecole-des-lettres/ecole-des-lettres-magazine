@@ -1,12 +1,12 @@
 ---
-id: 560
-title: José Mauro de Vasconcelos – « Mon bel oranger ». Étude intégrale (2/2)
-rubrique: Littérature de jeunesse et monde contemporain [5e-4e]
-annee: 1991
-magazine: n°14 15 juin 1992
-pages: 14
-description: 
-  5-7. Étude des chapitres 5 à 7
+id: '560'
+title: 'José Mauro de Vasconcelos : « Mon bel oranger ». Étude intégrale (2/2)'
+rubrique: 'Littérature de jeunesse et monde contemporain [5e-4e]'
+annee: '1991'
+magazine: 'n°14 15 juin 1992'
+pages: '14'
+description: |-
+  '5-7. Étude des chapitres 5 à 7
   – suggestions pour la lecture des chapitres 5 et 6
   – les thèmes essentiels
   7. Chapitre 7
@@ -20,9 +20,9 @@ description:
   3. Lecture collective du chapitre 3
   4. Étude du chapitre 4
   – lecture individuelle
-  – synthèse collective
-article_pdf: 560.pdf
-revue: L’école des lettres des collèges
+  – synthèse collective'
+article_pdf: '560.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Denise Laboureau
 auteur_jeunesse:

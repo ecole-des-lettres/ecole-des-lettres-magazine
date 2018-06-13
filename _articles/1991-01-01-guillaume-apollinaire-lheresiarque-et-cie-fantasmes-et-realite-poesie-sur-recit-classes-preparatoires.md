@@ -1,12 +1,12 @@
 ---
-id: 551
-title: Guillaume Apollinaire – « L’Hérésiarque et Cie », fantasmes et réalité
-rubrique: Poésie / Récit [classes préparatoires]
-annee: 1991
-magazine: n°13 15 juin 1992
-pages: 12
-description: 
-  1. Une logique de l’hérésie
+id: '551'
+title: 'Guillaume Apollinaire : « L’Hérésiarque et Cie », fantasmes et réalité'
+rubrique: 'Poésie / Récit [classes préparatoires]'
+annee: '1991'
+magazine: 'n°13 15 juin 1992'
+pages: '12'
+description: |-
+  '1. Une logique de l’hérésie
   – de l’hérésie
   – une mythologie amoureuse
   – la mise en scène du fantasme
@@ -17,10 +17,10 @@ description:
   3. Une cohérence fantasmatique
   – la position du poète-narrateur
   – le poète, ordonnateur du patrimoine fantastique
-  – plongée dans l’imaginaire personnel et collectif
-article_pdf: 551.pdf
+  – plongée dans l’imaginaire personnel et collectif'
+article_pdf: '551.pdf'
 magazine_special: Apollinaire. Fictions (2)
-revue: L’école des lettres des lycées
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Véronique Anglard
 disciplines:

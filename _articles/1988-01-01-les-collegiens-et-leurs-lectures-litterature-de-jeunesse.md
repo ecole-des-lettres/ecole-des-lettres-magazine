@@ -1,17 +1,17 @@
 ---
-id: 99
-title: Les collégiens et leurs lectures
-rubrique: Littérature de jeunesse
-annee: 1988
-magazine: n°11 1er mai 1989
-pages: 15
-description: 
-  Résultats d’une enquête sur ce que lisent les collégiens…
+id: '99'
+title: 'Les collégiens et leurs lectures'
+rubrique: 'Littérature de jeunesse'
+annee: '1988'
+magazine: 'n°11 1er mai 1989'
+pages: '15'
+description: |-
+  'Résultats d’une enquête sur ce que lisent les collégiens…
   1. Profs, vous faites aimer les livres !
-  2. Quels livres aiment-ils ? Genèse des intérêts de la sixième à la troisième
-article_pdf: 99.pdf
-magazine_special: Littérature pour la jeunesse – le roman
-revue: L’école des lettres des collèges
+  2. Quels livres aiment-ils ? Genèse des intérêts de la sixième à la troisième'
+article_pdf: '99.pdf'
+magazine_special: 'Littérature pour la jeunesse : le roman'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Odile Lambert-Chesnot
 - Christiane Étévé

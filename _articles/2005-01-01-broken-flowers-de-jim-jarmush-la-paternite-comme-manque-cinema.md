@@ -1,13 +1,13 @@
 ---
-id: 11285
-title: « Broken Flowers », de Jim Jarmush – la paternité comme manque
-rubrique: Cinéma
-annee: 2005
-magazine: n°1 août-septembre 2005
-pages: 1
-description: Présentation du film de Jim Jarmush.
-article_pdf: 11285.pdf
-revue: L’école des lettres des lycées
+id: '11285'
+title: '« Broken Flowers », de Jim Jarmush : la paternité comme manque'
+rubrique: 'Cinéma'
+annee: '2005'
+magazine: 'n°1 août-septembre 2005'
+pages: '1'
+description: 'Présentation du film de Jim Jarmush.'
+article_pdf: '11285.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Victoria Attal
 niveau_etudes:

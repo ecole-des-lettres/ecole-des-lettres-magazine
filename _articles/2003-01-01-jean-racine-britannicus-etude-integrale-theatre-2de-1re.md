@@ -1,12 +1,12 @@
 ---
-id: 5288
-title: Jean Racine – « Britannicus ». Étude intégrale
-rubrique: Théâtre [2de-1re]
-annee: 2003
-magazine: n°9 15 mars 2004
-pages: 25
-description: 
-  1. Poétique, dramaturgie et mise en scène
+id: '5288'
+title: 'Jean Racine : « Britannicus ». Étude intégrale'
+rubrique: 'Théâtre [2de-1re]'
+annee: '2003'
+magazine: 'n°9 15 mars 2004'
+pages: '25'
+description: |-
+  '1. Poétique, dramaturgie et mise en scène
   – la polémique autour de la pièce
   – le sujet et l’unité d’action
   – petite histoire de la mise en scène
@@ -17,9 +17,9 @@ description:
   3. Le personnel tragique
   – dramaturgie et typologie
   – acteurs, costumes et personnages
-  – les rapports de pouvoir dans le jeu et l’investissement de l’espace
-article_pdf: 5288.pdf
-revue: L’école des lettres des lycées
+  – les rapports de pouvoir dans le jeu et l’investissement de l’espace'
+article_pdf: '5288.pdf'
+revue: 'L’école des lettres des lycées'
 auteurs:
 - Patricia Vasseur-Legangneux
 disciplines:

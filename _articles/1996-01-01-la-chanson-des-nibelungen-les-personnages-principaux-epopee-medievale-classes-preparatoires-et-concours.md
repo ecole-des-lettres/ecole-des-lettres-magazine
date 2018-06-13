@@ -1,12 +1,12 @@
 ---
-id: 2465
-title: « La Chanson des Nibelungen » – les personnages principaux
-rubrique: Épopée médiévale [classes préparatoires et concours] 
-annee: 1996
-magazine: n°5 1er décembre 1996
-pages: 24
-description: 
-  1. Kriemhild
+id: '2465'
+title: '« La Chanson des Nibelungen » : les personnages principaux'
+rubrique: 'Épopée médiévale [classes préparatoires et concours] '
+annee: '1996'
+magazine: 'n°5 1er décembre 1996'
+pages: '24'
+description: |-
+  '1. Kriemhild
   – une jeune fille sous la tutelle de ses frères
   – l’épouse aimante et soumise
   – l’aristocrate orgueilleuse et fière
@@ -26,10 +26,10 @@ description:
   7. Siegfried
   – la prouesse
   – l’amour
-  – un perdant
-article_pdf: 2465.pdf
-magazine_special: Nibelungen – chanson des Nibelungen
-revue: L’école des lettres des collèges
+  – un perdant'
+article_pdf: '2465.pdf'
+magazine_special: 'Nibelungen : chanson des Nibelungen'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Wolfgang Spiewok
 disciplines:

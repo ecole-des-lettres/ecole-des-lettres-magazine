@@ -1,12 +1,12 @@
 ---
-id: 3821
-title: Séquences et lectures cursives – le point de vue de l’énonciateur
-rubrique: Littérature de jeunesse et étude de la langue [4e]
-annee: 2000
-magazine: n°10 15 février 2001
-pages: 6
-description: 
-  Cet article propose des récits à plusieurs voix à mettre en relation avec une séquence sur le point de vue de l’énonciateur.
+id: '3821'
+title: 'Séquences et lectures cursives : le point de vue de l’énonciateur'
+rubrique: 'Littérature de jeunesse et étude de la langue [4e]'
+annee: '2000'
+magazine: 'n°10 15 février 2001'
+pages: '6'
+description: |-
+  'Cet article propose des récits à plusieurs voix à mettre en relation avec une séquence sur le point de vue de l’énonciateur.
   – « L’Enfant océan », de Jean-Claude Mourlevat
   – « Le Mal dans la peau », de Brigitte Peskine
   – « Attention fragiles », de Marie-Sabine Roger
@@ -15,9 +15,9 @@ description:
   – « Édouard et Julie », de Jeanne Benameur et Alain Korkos
   – « Confiance, encore mieux et autocuiseur », de Marie-Sophie Vermot
   – « Le Pianiste sans visage », « La Fille de troisième B », de Christian Grenier
-  – « Un goût d’amande amère », de Manos Kondoleon
-article_pdf: 3821.pdf
-revue: L’école des lettres des collèges
+  – « Un goût d’amande amère », de Manos Kondoleon'
+article_pdf: '3821.pdf'
+revue: 'L’école des lettres des collèges'
 auteurs:
 - Anne Vautravers
 auteur_jeunesse:

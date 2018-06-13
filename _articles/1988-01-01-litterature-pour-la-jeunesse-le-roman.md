@@ -1,12 +1,12 @@
 ---
-id: 5081
-title: « Littérature pour la jeunesse – le roman »
-rubrique: 
-annee: 1988
-magazine: n°11 1er mai 1989
+id: '5081'
+title: '« Littérature pour la jeunesse : le roman »'
+rubrique: ''
+annee: '1988'
+magazine: 'n°11 1er mai 1989'
 pages: 146 pages
-description: 
-  1. Histoire d’un genre 
+description: |-
+  '1. Histoire d’un genre 
   – la littérature pour la jeunesse de 1750 à 1925 
   – les manuels à l’intention des parents et des enfants au XIXe siècle 
   – la littérature pour enfants et adolescents de Montaigne à nos jours 
@@ -28,11 +28,11 @@ description:
   – le rôle du CDI 
   – la « Joie par les livres »
   5. Bibliographie
-  Ont participé à ce numéro – 
-  Robert Boudet, Arlette Bouloumié, Geneviève Brisac, Georges Cesbron, Christiane Étévé, Jean Fabre, Claude Hubert, Arthur Hubschmid, Jean Joubert, André Labarrère, Denise Laboureau, Odile Lambert, Christian Loock, Francine de Martinoir, Susie Morgenstern, Marie-Aude Murail, Jean Perrot et Christian Poslaniec
-article_pdf: 5081.pdf
-magazine_special: Littérature pour la jeunesse – le roman
-revue: L’école des lettres des collèges
+  Ont participé à ce numéro :
+  Robert Boudet, Arlette Bouloumié, Geneviève Brisac, Georges Cesbron, Christiane Étévé, Jean Fabre, Claude Hubert, Arthur Hubschmid, Jean Joubert, André Labarrère, Denise Laboureau, Odile Lambert, Christian Loock, Francine de Martinoir, Susie Morgenstern, Marie-Aude Murail, Jean Perrot et Christian Poslaniec'
+article_pdf: '5081.pdf'
+magazine_special: 'Littérature pour la jeunesse : le roman'
+revue: 'L’école des lettres des collèges'
 disciplines:
 - documentation
 niveau_etudes:
