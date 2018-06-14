@@ -88,7 +88,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Auteur", name: "author", widget: "string"}
           - {label: "Image", name: image, widget: image, required: false}
           - {label: "Contenu", name: "content", widget: "text"}
-          - {label: "PDF", name: pdf, widget: list, required: false}
+          - {label: "PDF", name: "pdf", widget: "list", required: false}
 
   - name: "zoomsur" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Billets - Zoom Sur" # Used in the UI, ie.: "New Post"
