@@ -16,8 +16,9 @@ articles:
       magna eu, egestas egestas eros. In hac habitasse platea dictumst. Mauris
       molestie augue nulla, et fringilla mi sodales vel. Sed congue dui augue,
       congue aliquet quam lacinia id. Proin vitae nibh nunc.
-
-    pdf: la-vie-est-belle.pdf
+    pdf:
+      - la-vie-est-belle.pdf
+      - la-vie-est-trop-belle.pdf
   - article: "André Brink – «\_Une saison blanche et sèche\_». Étude intégrale"
     author: Jean Michel
     content: >-
@@ -28,7 +29,9 @@ articles:
       id lectus. Nunc suscipit turpis ut interdum dapibus. Sed a sollicitudin
       libero. Vestibulum porttitor magna sed sapien aliquam ultricies. Sed
       ornare purus congue nisl aliquet, sit amet fermentum est feugiat.
-    pdf: oh-la-la.pdf
+    pdf:
+      - la-vie-est-belle.pdf
+      - la-vie-est-trop-belle.pdf
 ---
 
 ## Titre
