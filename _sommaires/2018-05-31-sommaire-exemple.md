@@ -31,7 +31,7 @@ articles:
     pdf: oh-la-la.pdf
 ---
 
-## Titre 
+## Titre
 
 Vestibulum ullamcorper massa eu augue ornare ullamcorper. Phasellus vitae
 malesuada orci. Nulla volutpat bibendum interdum. Ut ac turpis porta magna
