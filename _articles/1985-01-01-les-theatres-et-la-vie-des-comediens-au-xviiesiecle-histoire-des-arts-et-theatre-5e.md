@@ -1,4 +1,5 @@
 ---
+id: "34"
 title: "Les théâtres et la vie des comédiens au XVIIe siècle"
 annee: "1985"
 pages: "4"
