@@ -32,7 +32,7 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Revue"
         name: "revue"
         widget: "select"
-        default: ["L’école des lettres des collèges", "L’école des lettres des lycées", "L’école des lettres des écoles"]
+        options: ["L’école des lettres des collèges", "L’école des lettres des lycées", "L’école des lettres des écoles"]
         required: false
       - label: "Niveaux"
         name: "niveau_etudes"
