@@ -41,18 +41,23 @@ collections: # A list of collections the CMS should be able to edit
       - label: "Auteurs"
         name: "auteurs"
         widget: "list"
+        required: false
       - label: "Siècles"
         name: "siecle"
         widget: "list"
+        required: false
       - label: "Programme"
         name: "programme"
         widget: "list"
+        required: false
       - label: "Œuvres"
         name: "oeuvres"
         widget: "list"
+        required: false
       - label: "Réalisateurs"
         name: "realisateurs"
         widget: "list"
+        required: false
   - name: "sommaires" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Billets - Sommaires" # Used in the UI, ie.: "New Post"
     folder: "_sommaires/"
@@ -63,7 +68,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Numéro", name: "numero", widget: "number"}
       - {label: "Année", name: "annee", widget: "string"}
       - {label: "Contenu", name: "body", widget: "markdown", required: false}
-      - {label: Image, name: image, widget: image, required: false}
+      - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
       # - name: article
       #   label: Articles
@@ -86,7 +91,7 @@ collections: # A list of collections the CMS should be able to edit
             searchFields: ["title", "rubrique"]
             valueField: "title"
           - {label: "Auteur", name: "author", widget: "string"}
-          - {label: "Image", name: image, widget: image, required: false}
+          - {label: "Image", name: "image", widget: "image", required: false}
           - {label: "Contenu", name: "content", widget: "text"}
           - {label: "PDF", name: "pdf", widget: "list", required: false}
 
