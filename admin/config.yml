@@ -28,7 +28,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Année", name: "annee", widget: "string"}
       - {label: "Pages", name: "pages", widget: "number"}
       - {label: "Magazine", name: "magazine", widget: "string", required: false}
-      - {label: "Contenu", name: "body", widget: "markdown", required: false}
+      - {label: "Description", name: "description", widget: "text", required: false}
       - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
       - label: "Revue"
         name: "revue"
