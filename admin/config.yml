@@ -24,10 +24,10 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Rubrique", name: "rubrique", widget: "string", required: false}
-      - {label: "Année", name: "annee", widget: "string"}
-      - {label: "Pages", name: "pages", widget: "number"}
-      - {label: "Magazine", name: "magazine", widget: "string", required: false}
+      # - {label: "Rubrique", name: "rubrique", widget: "string", required: false}
+      # - {label: "Année", name: "annee", widget: "string"}
+      # - {label: "Pages", name: "pages", widget: "number"}
+      # - {label: "Magazine", name: "magazine", widget: "string", required: false}
       # - {label: "Description", name: "description", widget: "text", required: false}
       # - label: "Revue"
       #   name: "revue"
