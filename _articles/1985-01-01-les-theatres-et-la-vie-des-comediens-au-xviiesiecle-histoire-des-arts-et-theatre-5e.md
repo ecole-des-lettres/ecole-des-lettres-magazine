@@ -6,7 +6,7 @@ annee: "1985"
 pages: "4"
 article_pdf: "34.pdf"
 magazine_special: "Molière : farces et comédies"
-revue: "L’école des lettres des collèges"
+revue: L’école des lettres des collèges
 auteurs:
 - François Gay
 disciplines:
