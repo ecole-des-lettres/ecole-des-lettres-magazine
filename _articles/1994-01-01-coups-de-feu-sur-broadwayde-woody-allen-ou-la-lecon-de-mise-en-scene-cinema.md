@@ -5,7 +5,7 @@ rubrique: 'Cinéma'
 annee: '1994'
 magazine: 'n°6 15 janvier 1995'
 pages: '2'
-description: 'Compte rendu du film de Woody Allen.'
+description: Compte rendu du film de Woody Allen.
 article_pdf: '1749.pdf'
 revue: 'L’école des lettres des lycées'
 ---
