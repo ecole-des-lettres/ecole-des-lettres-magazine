@@ -5,6 +5,7 @@ rubrique: "Histoire des arts et théâtre [5e]"
 annee: "1985"
 pages: "4"
 article_pdf: "34.pdf"
+magazine_special: "Molière : farces et comédies"
 auteurs:
 - François Gay
 disciplines:
