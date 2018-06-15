@@ -1,5 +1,4 @@
 ---
-id: '1749'
 title: « Coups de feu sur Broadway »de Woody Allen, ou la leçon de mise en scène
 rubrique: 'Cinéma'
 annee: '1994'
