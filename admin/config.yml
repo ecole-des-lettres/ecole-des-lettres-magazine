@@ -29,37 +29,36 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Pages", name: "pages", widget: "number"}
       - {label: "Magazine", name: "magazine", widget: "string", required: false}
       # - {label: "Description", name: "description", widget: "text", required: false}
-      - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
-      - label: "Revue"
-        name: "revue"
-        widget: "list"
-        default: ["L’école des lettres des collèges", "L’école des lettres des lycées", "L’école des lettres des écoles"]
-        required: false
-      - label: "Niveaux"
-        name: "niveau_etudes"
-        widget: "list"
-        default: ["cours préparatoire", "cours élémentaire", "cours moyen", "sixième", "cinquième", "quatrième", "troisième", "seconde", "seconde technologique", "première", "première technologique", "terminale", "bac pro", "BTS", "classes préparatoires et concours", "agrégation", "CAPES"]
-        required: false
-      - label: "Auteurs"
-        name: "auteurs"
-        widget: "list"
-        required: false
-      - label: "Siècles"
-        name: "siecle"
-        widget: "list"
-        required: false
-      - label: "Programme"
-        name: "programme"
-        widget: "list"
-        required: false
-      - label: "Œuvres"
-        name: "oeuvres"
-        widget: "list"
-        required: false
-      - label: "Réalisateurs"
-        name: "realisateurs"
-        widget: "list"
-        required: false
+      # - label: "Revue"
+      #   name: "revue"
+      #   widget: "list"
+      #   default: ["L’école des lettres des collèges", "L’école des lettres des lycées", "L’école des lettres des écoles"]
+      #   required: false
+      # - label: "Niveaux"
+      #   name: "niveau_etudes"
+      #   widget: "list"
+      #   default: ["cours préparatoire", "cours élémentaire", "cours moyen", "sixième", "cinquième", "quatrième", "troisième", "seconde", "seconde technologique", "première", "première technologique", "terminale", "bac pro", "BTS", "classes préparatoires et concours", "agrégation", "CAPES"]
+      #   required: false
+      # - label: "Auteurs"
+      #   name: "auteurs"
+      #   widget: "list"
+      #   required: false
+      # - label: "Siècles"
+      #   name: "siecle"
+      #   widget: "list"
+      #   required: false
+      # - label: "Programme"
+      #   name: "programme"
+      #   widget: "list"
+      #   required: false
+      # - label: "Œuvres"
+      #   name: "oeuvres"
+      #   widget: "list"
+      #   required: false
+      # - label: "Réalisateurs"
+      #   name: "realisateurs"
+      #   widget: "list"
+      #   required: false
   - name: "sommaires" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Billets - Sommaires" # Used in the UI, ie.: "New Post"
     folder: "_sommaires/"
