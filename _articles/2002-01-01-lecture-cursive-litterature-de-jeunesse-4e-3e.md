@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse [4e-3e]'
 annee: '2002'
 magazine: 'n°1 juillet-septembre 2002'
 pages: '10'
-description: |-
+description: 
   'Des nouveautés susceptibles de plaire aux élèves : « Le Guetteur », de Gaye Hiçyilmaz…
   1. Résumé
   2. Travail préparatoire

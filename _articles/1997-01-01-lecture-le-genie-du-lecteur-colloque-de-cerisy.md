@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1997'
 magazine: 'n°14 juillet 1998'
 pages: 120 pages
-description: |-
+description: 
   '1. La lecture créatrice ou le livre en devenir
   2. Physiologie de la lecture
   3. L’écrit et l’oral

@@ -5,7 +5,7 @@ rubrique: ' Philosophie / politique [1re]'
 annee: '1993'
 magazine: 'n°10 15 avril 1994'
 pages: '4'
-description: |-
+description: 
   'Lecture du chapitre 1 de « L’Esprit des lois »…
   Les différentes sortes de lois : divines, naturelles, humaines. La nouveauté de Montesquieu : les lois positives instaurées par les sociétés humaines…'
 article_pdf: '1125.pdf'

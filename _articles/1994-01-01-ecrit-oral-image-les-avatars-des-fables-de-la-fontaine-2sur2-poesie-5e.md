@@ -5,7 +5,7 @@ rubrique: 'Poésie [5e]'
 annee: '1994'
 magazine: 'n°6 1er janvier 1995'
 pages: '9'
-description: |-
+description: 
   'Une séquence de travail de six semaines autour des « Fables » de La Fontaine…
   4. Analyse de l’audiovisuel : une fable géométrique (autour de la cassette « Les Fables géométriques », éditions René Château)
   – découverte de la fable

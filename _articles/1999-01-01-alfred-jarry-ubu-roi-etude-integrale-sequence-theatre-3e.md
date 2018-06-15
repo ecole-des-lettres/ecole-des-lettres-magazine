@@ -5,7 +5,7 @@ rubrique: 'Théâtre [3e]'
 annee: '1999'
 magazine: 'n°8 15 décembre 1999'
 pages: '27'
-description: |-
+description: 
   'Née d’une fantaisie de potaches du lycée de
   Rennes à la fin du XIXe siècle, « Ubu roi » retrouve les collégiens d’aujourd’hui à la faveur des programmes de troisième. Quels sont les intérêts et les difficultés didactiques d’un tel choix ? Comment exploiter cette pièce de théâtre dans le cadre d’une séquence consacrée à la lecture d’une œuvre intégrale ?
   Déroulement de la séquence : sept séances.'

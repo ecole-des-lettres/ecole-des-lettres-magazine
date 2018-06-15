@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et science-fiction [5e]'
 annee: '2000'
 magazine: 'n°12 15 avril 2001'
 pages: '6'
-description: |-
+description: 
   'En décrivant le monde de demain, les auteurs nous posent les questions d’aujourd’hui. Les romans de science-fiction racontent des aventures extraordinaires, tout en nous amenant à réfléchir. La sélection proposée ici aborde des problèmes variés, qui permettent de nombreux débats.
   – « L’Orpheline de Mars », de François Sautereau
   – « Les Chemins d’Orbitanie », de Caroline Blanche-Agnet

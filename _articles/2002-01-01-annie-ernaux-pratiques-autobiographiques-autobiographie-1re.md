@@ -5,7 +5,7 @@ rubrique: 'Autobiographie [1re]'
 annee: '2002'
 magazine: 'n°9 1er février 2003'
 pages: '36'
-description: |-
+description: 
   '1. Du roman autobiographique à l’« autosociobiographie »
   2. L’écriture autosociobiographique
   – de la critique des formes autobiographiques traditionnelles à l’autosociobiographie

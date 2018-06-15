@@ -5,7 +5,7 @@ rubrique: 'L'argumentation  [4e-3e]'
 annee: '1994'
 magazine: 'n°9 15 mars 1995'
 pages: '6'
-description: |-
+description: 
   '11. La réflexion dans les classes « faibles »
   12. L’argumentation à l’oral
   – simple présentation de ses propres idées

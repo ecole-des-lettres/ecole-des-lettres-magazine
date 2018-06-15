@@ -5,7 +5,7 @@ rubrique: 'Éducation aux médias [6e-3e]'
 annee: '1996'
 magazine: 'n°8 15 février 1997'
 pages: '8'
-description: |-
+description: 
   '1. Quelle actualité ?
   – parler du « chaud »
   – définir des priorités

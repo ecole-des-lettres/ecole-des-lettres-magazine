@@ -5,7 +5,7 @@ rubrique: 'Autobiographi [1re]e'
 annee: '1997'
 magazine: '1997'
 pages: '67'
-description: |-
+description: 
   'I. La problématique des « Confessions »
   II. La tradition de la confession…
   III. Lecture méthodique : pourquoi Rousseau écrit-il ses « confessions » ?

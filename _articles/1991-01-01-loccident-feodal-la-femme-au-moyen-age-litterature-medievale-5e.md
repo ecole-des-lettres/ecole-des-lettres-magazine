@@ -5,7 +5,7 @@ rubrique: 'Littérature médiévale [5e]'
 annee: '1991'
 magazine: 'n°8 15 février 1992'
 pages: '10'
-description: |-
+description: 
   'La femme aux XIIe et XVe siècles…
   1. Le mariage
   2. La femme dans le couple

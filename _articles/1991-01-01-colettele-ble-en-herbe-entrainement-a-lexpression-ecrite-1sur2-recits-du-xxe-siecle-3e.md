@@ -5,7 +5,7 @@ rubrique: 'Récits du XXe siècle [3e]'
 annee: '1991'
 magazine: 'n°4 1er novembre 1991'
 pages: '12'
-description: |-
+description: 
   'Étude des trois premiers chapitres du « Blé en herbe ».
   Après l’étude d’un chapitre, un exercice d’écriture est proposé.'
 article_pdf: '615.pdf'

@@ -5,7 +5,7 @@ rubrique: 'Paul Valéry : « Le Bilan de l’intelligence »'
 annee: '1998'
 magazine: 'n°6 1er novembre 1998'
 pages: '11'
-description: |-
+description: 
   'Étude d’un texte argumentatif de Paul Valéry sur le baccalauréat…
   1. Corrigé des questions
   2. Travail d’écriture

@@ -5,7 +5,7 @@ rubrique: 'Nouvelle [2de]'
 annee: '1993'
 magazine: 'n°13-14 juillet 1994'
 pages: '6'
-description: |-
+description: 
   'Le théâtre dans l’entreprise nervalienne des « Filles du feu »…
   1. Présentation du texte
   2. « Corilla » et la théâtralisation du texte et de l’écriture

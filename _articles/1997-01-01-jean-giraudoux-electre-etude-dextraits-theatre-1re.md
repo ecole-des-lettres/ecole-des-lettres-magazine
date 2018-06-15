@@ -5,7 +5,7 @@ rubrique: 'Théâtre [1re]'
 annee: '1997'
 magazine: 'n°13 15 mai 1998'
 pages: '15'
-description: |-
+description: 
   '– acte 1, scène 1 : une scène d’exposition entre classicisme et modernité ; une scène emblématique de la technique de Giraudoux
   – acte 1, scène 8 : l’ambiguïté d’Électre ; le théâtre selon Giraudoux
   – Le lamento du jardinier : un homme du peuple pathétique ; un porte-parole de Giraudoux ; les révélations du jardinier

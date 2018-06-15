@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1988'
 magazine: 'n°11 1er mai 1989'
 pages: 146 pages
-description: |-
+description: 
   '1. Histoire d’un genre 
   – la littérature pour la jeunesse de 1750 à 1925 
   – les manuels à l’intention des parents et des enfants au XIXe siècle 

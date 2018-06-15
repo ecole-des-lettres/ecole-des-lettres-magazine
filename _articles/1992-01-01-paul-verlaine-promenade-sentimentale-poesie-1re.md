@@ -5,7 +5,7 @@ rubrique: 'Poésie [1re]'
 annee: '1992'
 magazine: 'n°11 15 avril 1993'
 pages: '14'
-description: |-
+description: 
   '1. Le cercle de l’errance
   – la structure du poème : une composition concentrique (le paysage ; la promenade ; l’hallucination du fantôme)
   – l’effet de continuité (au niveau de la versification ; au niveau de la syntaxe ; au niveau grammatical)

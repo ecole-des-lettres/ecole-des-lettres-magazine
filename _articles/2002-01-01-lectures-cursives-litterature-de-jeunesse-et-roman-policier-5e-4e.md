@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et roman policier [5e-4e]'
 annee: '2002'
 magazine: 'n°9 1er février 2003'
 pages: '6'
-description: |-
+description: 
   'Cet article propose aux élèves de découvrir quatre romans policiers, dont le point commun est de si bien entretenir le suspense que l’on n’a pas envie d’arrêter sa lecture. Ces récits sont des heureux mélanges d’humour, d’émotions et de frissons. De plus, ils parlent souvent d’amitié et d’amour, deux valeurs qui aident le héros ou l’héroïne à surmonter des situations complexes et dangereuses.
   – « Dutton Memory », de Michel Honaker
   – « L’Énigme du fleuve », de Michel Laporte

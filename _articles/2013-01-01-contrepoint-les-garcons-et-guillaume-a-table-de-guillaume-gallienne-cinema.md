@@ -5,7 +5,7 @@ rubrique: 'Cinéma'
 annee: '2013'
 magazine: ''
 pages: '1'
-description: |-
+description: 
   '« Les Garçons et Guillaume, à table ! » repose sur une idée astucieuse, ambitieuse même – comment un garçon, programmé pour être fille, reconquiert sa masculinité –, mais manque des qualités qui constituent un film : une intrigue, une construction cohérente, des personnages consistants, une
   utilisation pertinente des ressources de l’image.'
 article_pdf: '12667.pdf'

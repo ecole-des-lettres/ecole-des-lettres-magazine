@@ -5,7 +5,7 @@ rubrique: 'Histoire-géographie [2de-Tle]'
 annee: '1997'
 magazine: 'n°5 1er novembre 1997'
 pages: '5'
-description: |-
+description: 
   'Notes de lecture sur :
   – « Les Arabes, du message à l’Histoire », de Dominique Chevallier et André Miquel (Fayard)
   – « L’Islam », de Paul Balta (Le Monde-Éditions / Marabout)

@@ -5,7 +5,7 @@ rubrique: 'Documentation'
 annee: '1995'
 magazine: 'n°12 15 juin 1996'
 pages: '8'
-description: |-
+description: 
   '1. Pourquoi il est si difficile de travailler ensemble
   2. Compte rendu d’une collaboration réussie : accompagnement méthodologique d’exposés en troisième
   – mobilisation d’idées autour du thème choisi

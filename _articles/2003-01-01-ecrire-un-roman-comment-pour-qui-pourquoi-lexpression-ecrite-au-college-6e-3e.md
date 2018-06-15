@@ -5,7 +5,7 @@ rubrique: 'L'expression écrite au collège [6e-3e]'
 annee: '2003'
 magazine: 'n°13 juin 2004'
 pages: '13'
-description: |-
+description: 
   'Évocation de son travail d’écriture par un romancier pour la jeunesse…
   1. L’inspiration
   2. Écrire : une journée ordinaire

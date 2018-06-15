@@ -6,7 +6,7 @@ rubrique: 'Roman et réécritures [2de-1re]'
 annee: '1993'
 magazine: 'n°4 1er novembre 1993'
 pages: '20'
-description: |-
+description: 
   '1. Préparation au visionnement
   – filmographie : les grands films de la mine ; les adaptations de « Germinal »
   – le projet

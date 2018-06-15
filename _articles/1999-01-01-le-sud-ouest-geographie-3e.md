@@ -5,7 +5,7 @@ rubrique: 'Géographie [3e]'
 annee: '1999'
 magazine: '1999'
 pages: '18'
-description: |-
+description: 
   '1. L’identité du Sud-Ouest
   – un Midi entre océan Atlantique et mer Méditerranée
   – l’atonie démographique

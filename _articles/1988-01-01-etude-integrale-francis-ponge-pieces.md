@@ -5,7 +5,7 @@ rubrique: 'Francis Ponge : « Pièces »'
 annee: '1988'
 magazine: 'n°8 1er février 1989'
 pages: '14'
-description: |-
+description: 
   '1. Un recueil qui n’en est pas un
   2. Un titre qui en est bien un
   3. Comprendre le piège

@@ -5,7 +5,7 @@ rubrique: 'L'expression écrite au collège[6e-3e]'
 annee: '2003'
 magazine: 'n°13 juin 2004'
 pages: '15'
-description: |-
+description: 
   'Cet article vise à présenter les questions que soulève l’écriture au collège en examinant les perspectives et les avancées des recherches didactiques, leurs retombées sur le discours des recommandations officielles, leurs effets sur les pratiques à travers les modèles didactiques, sur la configuration de la discipline, sur le statut de l’élève scripteur en français et sur l’évaluation. Est-il loisible de parler d’écriture littéraire au collège alors que les instructions officielles n’en parlent jamais et envisagent l’écriture en général ?
   1. Du côté des recherches en didactique
   – le modèles des processus rédactionnels

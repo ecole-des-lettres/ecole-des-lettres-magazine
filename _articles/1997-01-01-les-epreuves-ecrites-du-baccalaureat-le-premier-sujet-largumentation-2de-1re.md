@@ -5,7 +5,7 @@ rubrique: 'L’argumentation [2de-1re]'
 annee: '1997'
 magazine: '1997'
 pages: '23'
-description: |-
+description: 
   'Exemples de sujets centrés autour de textes littéraires de difficulté variable, certains pouvant déjà être proposés dès le premier trimestre à des élèves de seconde, d’autres, plus ambitieux, à de bons élèves de première.
   1. Montaigne, « Essais », I, 31
   2. Voltaire, « Le Mondain », v. 1-43

@@ -5,7 +5,7 @@ rubrique: 'Étude de l’image [6e]'
 annee: '1994'
 magazine: 'n°8 1er mars 1995'
 pages: '5'
-description: |-
+description: 
   'Utilisation de l’album en sixième. Mise en évidence de structures littéraires que soulignent les illustrations. Travail sur la connotation et l’intertextualité.
   3. « Le Diable des rochers », de Grégoire Solotareff
   – résumé

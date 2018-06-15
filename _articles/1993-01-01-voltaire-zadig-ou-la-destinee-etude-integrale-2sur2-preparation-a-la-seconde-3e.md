@@ -5,7 +5,7 @@ rubrique: 'Préparation à la seconde [3e]'
 annee: '1993'
 magazine: 'n°11 1er mai 1994'
 pages: '5'
-description: |-
+description: 
   '3. À la recherche d’une structure
   – les trois types de structures : structure en dents de scie ; structure cyclique ; structure linéaire
   – les méditations de Zadig

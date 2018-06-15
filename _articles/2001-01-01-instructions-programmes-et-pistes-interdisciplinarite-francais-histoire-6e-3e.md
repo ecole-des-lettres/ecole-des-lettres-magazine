@@ -5,7 +5,7 @@ rubrique: 'Interdisciplinarité français, histoire  [6e-3e]'
 annee: '2001'
 magazine: 'n°11 mars 2002'
 pages: '12'
-description: |-
+description: 
   '1. Les Instructions officielles
   2. Arts et humanités : liaison français / histoire
   3. D’autres pistes

@@ -5,7 +5,7 @@ rubrique: 'Nouvelles [3e]'
 annee: '1990'
 magazine: 'n°3 15 octobre 1990'
 pages: '6'
-description: |-
+description: 
   'Présentation de l’auteur et du recueil. Étude de trois nouvelles dans un premier temps : « Comment Wang-Fô fut sauvé », « Le Lait de la mort », « La Veuve Aphrodissia ».
   Dans un second temps, étude transversale du recueil : thèmes de la sagesse orientale, du héros et de la mort, de l’amour, du merveilleux.
   Dans cet article, étude de « Comment Wang-Fô fut sauvé ».'

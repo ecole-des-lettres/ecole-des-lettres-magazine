@@ -5,7 +5,7 @@ rubrique: 'Poésie [1re]'
 annee: '1986'
 magazine: 'n°11 15 mars 1987'
 pages: '6'
-description: |-
+description: 
   '1. La parole errante
   2. Parole et célébration'
 article_pdf: '48.pdf'

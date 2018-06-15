@@ -5,7 +5,7 @@ rubrique: 'Théâtre [1re]'
 annee: '1999'
 magazine: 'n°12 mai 2000'
 pages: '23'
-description: |-
+description: 
   '1. La théâtralité du couple maître / valet
   – l’inscription dans une tradition théâtrale très marquée
   – la permanence de certaines caractéristiques

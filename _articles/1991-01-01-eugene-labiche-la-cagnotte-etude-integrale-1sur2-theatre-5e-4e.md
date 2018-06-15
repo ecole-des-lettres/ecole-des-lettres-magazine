@@ -5,7 +5,7 @@ rubrique: 'Théâtre [5e-4e]'
 annee: '1991'
 magazine: 'n°10 15 avril 1992'
 pages: '10'
-description: |-
+description: 
   'L’étude de la pièce de Labiche permet une approche moins classique et conventionnelle du théâtre…
 
   – Identification du texte : actes et scènes, personnages, lieux, titre

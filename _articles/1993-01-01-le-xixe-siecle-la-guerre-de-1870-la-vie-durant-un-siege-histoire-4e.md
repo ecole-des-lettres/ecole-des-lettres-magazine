@@ -5,7 +5,7 @@ rubrique: 'Histoire [4e] '
 annee: '1993'
 magazine: 'n°8 15 février 1994'
 pages: '10'
-description: |-
+description: 
   'Le siège de Belfort…
   – Belfort en 1870
   – Étude succincte des événements

@@ -6,7 +6,7 @@ rubrique: 'Langage verbal et images [Tle]'
 annee: '1991'
 magazine: 'n°4 1er novembre 1991'
 pages: '9'
-description: |-
+description: 
   '3. Le chef-d’œuvre du roman épistolaire
   – une société de communication
   – la forme épistolaire comme mode de narration

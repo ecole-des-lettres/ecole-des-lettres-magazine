@@ -5,7 +5,7 @@ rubrique: 'Programmes de collège'
 annee: '2010'
 magazine: 'n°2-3 2010-2011'
 pages: '6'
-description: |-
+description: 
   'Cet article livre quelques « trucs » pour faire face à une classe dès le premier jour de la rentrée.
   '
 article_pdf: '12057.pdf'

@@ -7,7 +7,7 @@ rubrique: 'Cinéma / Littérature de jeunesse'
 annee: '2012'
 magazine: 'mars 2012'
 pages: '4'
-description: |-
+description: 
   'Le jury du Prix national lycéen du cinéma a récompensé « Une bouteille à la mer », de Thierry Binisti, d’après le roman de Valérie Zenatti, le 4 avril 2012, à Paris. Le jury comprenait deux lycéens par académie.
   Lancé en 2011-2012, ce prix propose aux lycéens participants de visionner huit films français et européens sortis entre septembre et avril de l’année scolaire. Il est organisé en partenariat avec le Centre national du cinéma et la Fédération nationale des cinémas français.
   Le film raconte l’histoire de deux jeunes gens vivant à Jérusalem et à Gaza – des « ennemis » a priori – qui parviennent à communiquer par Internet et dont on découvre la vie quotidienne…'

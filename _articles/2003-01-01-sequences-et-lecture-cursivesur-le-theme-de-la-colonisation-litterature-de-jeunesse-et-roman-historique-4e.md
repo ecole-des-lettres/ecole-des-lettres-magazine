@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et roman historique [4e]'
 annee: '2003'
 magazine: 'n°12 15 mai 2004'
 pages: '8'
-description: |-
+description: 
   'Il est particulièrement intéressant de donner à lire aux élèves des romans se situant dans le contexte de la colonisation. En effet, ils en vivent tous les jours certaines conséquences sans percevoir vraiment ce qui a pu se passer. La fiction peut amener les jeunes à changer de point de vue, à vivre de l’intérieur ces pages de notre histoire et à mieux en comprendre les effets. Les romans présentés ici se situent à dessein dans des lieux et à des époques très différentes.
   – Janine Teisson : « Les Rois de l’horizon »
   – Jean-Pierre Andrevon : « La Fée et le Géomètre »

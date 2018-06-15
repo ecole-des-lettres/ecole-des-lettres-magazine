@@ -5,7 +5,7 @@ rubrique: 'L'expression écrite au collège[6e-3e]'
 annee: '2003'
 magazine: 'n°13 juin 2004'
 pages: '9'
-description: |-
+description: 
   'Cet article critique les substrats idéologiques de l’écriture littéraire et développe une réflexion sur l’activité d’écriture et l’apprentissage de l’écriture de fiction.
   1. La domination du littéraire
   – l’expression écrite et la littérature

@@ -5,7 +5,7 @@ rubrique: 'Histoire des arts'
 annee: '1995'
 magazine: 'n°9 1er avril 1996'
 pages: '2'
-description: |-
+description: 
   'Note de lecture sur cet ouvrage (Macula).
   Le recueil des conversations que Cézanne a eues à la fin de son existence, entre 1894 et 1906, avec des interlocuteurs toujours fascinés par son personnage et sa peinture situe sa parole dans une zone qui ne saurait être confondue avec la littérature sur l’art…'
 article_pdf: '2197.pdf'

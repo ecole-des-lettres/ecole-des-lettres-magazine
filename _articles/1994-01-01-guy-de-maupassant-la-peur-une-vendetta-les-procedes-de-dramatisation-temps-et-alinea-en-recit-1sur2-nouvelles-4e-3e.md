@@ -6,7 +6,7 @@ rubrique: 'Nouvelles [4e-3e]'
 annee: '1994'
 magazine: 'n°6 1er janvier 1995'
 pages: '15'
-description: |-
+description: 
   'Cet article propose une étude des procédés de dramatisation à partir de l’analyse des temps, de l’alternance des premier plan et arrière-plan narratifs et des alinéas dans six textes…
   Dans ce numéro :
   1. Maupassant, « La Peur »

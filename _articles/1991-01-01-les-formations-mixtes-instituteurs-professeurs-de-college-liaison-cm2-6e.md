@@ -5,7 +5,7 @@ rubrique: 'Liaison CM2-6e'
 annee: '1991'
 magazine: 'n°6 1er janvier 1992'
 pages: '8'
-description: |-
+description: 
   '1. Harmoniser les pratiques de l’école au collège
   2. Bâtir des projets pédagogiques école-collège
   3. Aider l’élève à réaliser le passage de l’école au collège

@@ -5,7 +5,7 @@ rubrique: 'Interdisciplinarité français, géographie [3e]'
 annee: '2001'
 magazine: 'n°11 mars 2002'
 pages: '28'
-description: |-
+description: 
   'Un itinéraire de découverte autour de l’Europe unissant français et histoire-géographie
   1. Un itinéraire de découverte
   – l’ancrage dans les programmes

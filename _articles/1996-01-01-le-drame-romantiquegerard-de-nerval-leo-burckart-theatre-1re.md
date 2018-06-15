@@ -5,7 +5,7 @@ rubrique: 'Théâtre  [1re]'
 annee: '1996'
 magazine: 'n°6 15 décembre 1996'
 pages: '15'
-description: |-
+description: 
   '1. Nerval et le théâtre
   2. « Léo Burckart », drame romantique
   3. « Léo Burckart », drame nervalien ?'

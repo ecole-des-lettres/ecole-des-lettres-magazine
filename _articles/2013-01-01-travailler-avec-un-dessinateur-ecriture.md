@@ -5,7 +5,7 @@ rubrique: 'Écriture'
 annee: '2013'
 magazine: 'n°2'
 pages: '12'
-description: |-
+description: 
   'Intervention et débats avec Wilfrid Lupano, scénariste de bandes dessinées.
   « J’aime bien avoir dans ma besace deux ou trois scénarios finis. En effet, quand je rencontre un dessinateur dont j’admire le travail, plutôt que d’attendre que chacun soit disponible, j’aime pouvoir lui montrer des scénarios susceptibles de l’intéresser.
   Quand il y a une envie commune de travailler ensemble, il serait dommage de manquer le rendez-vous. Maintenant, il faut accepter l’idée de passer deux ou trois mois par an à écrire... peut-être pour rien. »'

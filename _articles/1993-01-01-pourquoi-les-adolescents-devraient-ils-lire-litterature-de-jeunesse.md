@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse'
 annee: '1993'
 magazine: 'n°12-13 1er juin 1994'
 pages: '10'
-description: |-
+description: 
   '– Se connaître et se reconnaître à travers ses semblables
   – Ça va mieux en le disant ou en le lisant
   – On est tous passés par là

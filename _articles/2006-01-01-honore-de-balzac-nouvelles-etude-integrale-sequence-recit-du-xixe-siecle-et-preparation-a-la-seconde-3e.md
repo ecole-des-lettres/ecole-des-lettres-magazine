@@ -5,7 +5,7 @@ rubrique: 'Récit du XIXe siècle et préparation à la seconde [3e]'
 annee: '2006'
 magazine: 'n°3 novembre 2006'
 pages: '43'
-description: |-
+description: 
   'Comment faire lire Balzac en troisième ou en seconde ? Comment expliciter, mettre en œuvre les savoirs et méthodes requis par une lecture littéraire ? Plusieurs pistes de travail s’imposent pour s’attacher à ces problématiques :
   – la question du genre de la nouvelle ;
   – le contexte historique des événements racontés ;

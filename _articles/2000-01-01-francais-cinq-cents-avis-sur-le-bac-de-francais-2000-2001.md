@@ -5,7 +5,7 @@ rubrique: ''
 annee: '2000'
 magazine: 'n°6 15 novembre 2000'
 pages: 208 pages
-description: |-
+description: 
   '1. La boîte de Pandore
   2. L’épreuve de français et le maintien des cours en terminale ?
   3. L’écrit : différencier les épreuves et les sujets selon les séries ?

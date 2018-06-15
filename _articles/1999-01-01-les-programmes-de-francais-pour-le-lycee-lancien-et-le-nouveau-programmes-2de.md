@@ -5,7 +5,7 @@ rubrique: 'Programmes] [2de]'
 annee: '1999'
 magazine: 'n°7 1er décembre 1999'
 pages: '10'
-description: |-
+description: 
   '1. Une logique à l’œuvre
   2. Une nouvelle présentation
   3. La lecture

@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1997'
 magazine: 'n°11 15 mars 1998'
 pages: 142 pages
-description: |-
+description: 
   '1. Corneille : le double et ses variations dans « Cinna », « Rodogune » et « Nicomède »
   2. Corneille : pouvoir et parenté dans « Cinna », « Rodogune » et « Nicomède »
   3. Corneille : amour et amour-propre dans « Cinna »

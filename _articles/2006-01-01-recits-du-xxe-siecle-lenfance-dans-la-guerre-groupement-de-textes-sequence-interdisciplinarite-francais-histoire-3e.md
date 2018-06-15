@@ -5,7 +5,7 @@ rubrique: 'Interdisciplinarité français, histoire [3e]'
 annee: '2006'
 magazine: 'n°5-6 janvier-frévrier 2007'
 pages: '28'
-description: |-
+description: 
   'L’objectif principal de cette séquence est, en liant les programmes de français et d’histoire, de conduire les élèves dans la lecture de récits autobiographiques et de les sensibiliser aux témoignages de ce que vécurent de jeunes juifs pendant la Seconde Guerre mondiale. Cette séquence nécessite des connaissances historiques, elle trouvera donc plus aisément sa place au deuxième trimestre lorsque le professeur d’histoire aura traité le chapitre sur la guerre et le nazisme.
   Déroulement de la séquence : dix séances.'
 article_pdf: '11493.pdf'

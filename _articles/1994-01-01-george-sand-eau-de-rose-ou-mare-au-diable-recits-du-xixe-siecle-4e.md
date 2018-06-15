@@ -5,7 +5,7 @@ rubrique: 'Récits du XIXe siècle [4e]'
 annee: '1994'
 magazine: 'n°4 15 novembre 1994'
 pages: '6'
-description: |-
+description: 
   '1. Les règles du roman rose
   2. « La Mare au diable » en huit questions (données en fin d’article)
   – un roman rose ? Presque…

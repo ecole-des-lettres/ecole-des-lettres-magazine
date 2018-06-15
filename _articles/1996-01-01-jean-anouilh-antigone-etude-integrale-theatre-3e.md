@@ -1,5 +1,5 @@
 ---
-id: '12977'
+id: '2284'
 title: 'Jean Anouilh : « Antigone ». Étude intégrale '
 rubrique: 'Théâtre [3e]'
 annee: '1996'
@@ -15,7 +15,7 @@ description: 'La lecture et l’étude de la pièce de Jean Anouilh passionnent 
   au renouveau du XXe siècle, les variations qu’elle offre sont autant de points à
   aborder en troisième, même modestement, en vue d’un approfondissement dans le second
   cycle.'
-article_pdf: '12977.pdf'
+article_pdf: '2284.pdf'
 revue: 'L’école des lettres des collèges'
 auteurs:
 - Geneviève Dubois

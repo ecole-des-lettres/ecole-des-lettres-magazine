@@ -5,7 +5,7 @@ rubrique: 'Latin [5e]'
 annee: '1990'
 magazine: 'n°2 1er octobre 1990'
 pages: '3'
-description: |-
+description: 
   '1. Arithmétique et géométrie sacrée
   2. Les vertus du nombre impair
   3. Numérologie et magie'

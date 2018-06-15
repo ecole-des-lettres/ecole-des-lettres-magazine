@@ -6,7 +6,7 @@ rubrique: 'Roman [2de]'
 annee: '1999'
 magazine: '1999'
 pages: '43'
-description: |-
+description: 
   'L’œuvre romanesque de Zola est tout entière
   traversée par une « série de scènes obsédantes ». Zola se laisse entraîner tout au long de son œuvre vers une imagerie de la sexualité torturée, de la violence, du crime et de la mort. « Thérèse Raquin » et « La Bête humaine » offrent un saisissant exemple de la permanence des thèmes « noirs » de l’imaginaire zolien. Les deux ouvrages s’inscrivent dans une veine pessimiste qui aboutit à la catastrophe vengeresse de « La Débâcle ». Zola y manifeste un goût immodéré pour l’accumulation mélodramatique et les images macabres.
   1. La montée des forces souterraines

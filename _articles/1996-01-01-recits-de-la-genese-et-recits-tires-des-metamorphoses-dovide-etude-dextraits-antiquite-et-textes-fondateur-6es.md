@@ -6,7 +6,7 @@ rubrique: 'Antiquité et textes fondateur [6e]s'
 annee: '1996'
 magazine: '1996'
 pages: '44'
-description: |-
+description: 
   'Le programme de sixième invite les enseignants de français à mettre à l’étude dans leur classe des textes issus de l’héritage antique. L’étude proposée ici des grands mythes de la Genèse, à partir des textes les plus accessibles aux élèves de sixième, s’inscrit dans cette démarche. Au cours d’une seconde séquence, quelques extraits des « Métamorphoses » d’Ovide seront abordés sous le même angle .
   La Genèse
   1. La Création du monde

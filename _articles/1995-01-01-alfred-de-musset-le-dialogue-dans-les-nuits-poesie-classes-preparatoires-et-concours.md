@@ -5,7 +5,7 @@ rubrique: 'Poésie [classes préparatoires et concours]'
 annee: '1995'
 magazine: 'n°10-11 15 mai 1996'
 pages: '20'
-description: |-
+description: 
   '1. Les enjeux antinomiques du dialogue dans « Les Nuits »
   – acteurs, fonctions et extension du dialogue dans « Les Nuits »
   – la souffrance créatrice et l’impuissance

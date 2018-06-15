@@ -5,7 +5,7 @@ rubrique: 'Interdisciplinarité et documentation [6e]'
 annee: '1995'
 magazine: 'n°12 15 juin 1996'
 pages: '16'
-description: |-
+description: 
   'Comment a fonctionné, en sixième, une expérience pédagogique interdisciplinaire intégrant le CDI. Objectif : montrer aux élèves que certains savoirs et savoir-faire peuvent être réinvestis d’une discipline à l’autre
   1. Du projet informel au projet structuré
   2. Pourquoi une action interdisciplinaire ?

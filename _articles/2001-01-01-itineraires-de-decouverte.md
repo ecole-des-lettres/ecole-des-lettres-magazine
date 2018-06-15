@@ -5,7 +5,7 @@ rubrique: ''
 annee: '2001'
 magazine: 'n°11 mars 2002'
 pages: 160 pages
-description: |-
+description: 
   '1. Les enjeux pour le français : une place au carrefour des disciplines
   2. Les enjeux pour la documentation : L’acquisition des compétences documentaires
   3. Les enjeux pour les élèves : la pédagogie de projet ou le sens rendu aux apprentissages

@@ -6,7 +6,7 @@ rubrique: 'Littérature de jeunesse'
 annee: '2008'
 magazine: 'n°4 2008-2009'
 pages: '21'
-description: |-
+description: 
   'Dans le cadre de la journée d’étude « La littérature des enfants fait école » (15 novembre 2008) à l’initiative des éditions Casterman, l’école des loisirs, Flammarion-Père Castor et Gallimard Jeunesse, Max Butlen retrace l’évolution de la place de la littérature de jeunesse à l’école ces trente dernières années.
   Depuis 2002, la littérature de jeunesse est entrée dans les programmes officiels de l’école primaire. Pour comprendre les raisons de cette légitimation, il convient de prendre en compte certains facteurs explicatifs :
   – l’histoire de la lecture à l’école ;

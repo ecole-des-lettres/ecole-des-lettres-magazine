@@ -5,7 +5,7 @@ rubrique: 'Poésie'
 annee: '1995'
 magazine: 'n°14 juillet 1996'
 pages: 224 pages
-description: |-
+description: 
   '1. Verlaine républicain
   2. Verlaine et le « Parnasse contemporain »
   3. Paul Verlaine, critique d’art ? Sur « Effet de nuit » (« Poèmes saturniens »)

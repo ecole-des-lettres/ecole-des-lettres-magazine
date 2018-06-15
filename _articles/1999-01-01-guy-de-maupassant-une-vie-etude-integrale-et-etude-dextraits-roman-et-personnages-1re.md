@@ -5,7 +5,7 @@ rubrique: 'Roman et personnages [1re]'
 annee: '1999'
 magazine: '1999'
 pages: '38'
-description: |-
+description: 
   '1. Lecture méthodique : « Le Baptême de la Jeanne » (chapitre 3) + préparation à l’entretien (oral de l’ÉAF)
   2. Étude d’un personnage : Jeanne
   3. Commentaire composé : « Le retour de Corse » (chapitre 6) + préparation à l’entretien

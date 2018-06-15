@@ -6,7 +6,7 @@ rubrique: 'Roman contemporain [1re-Tle]'
 annee: '1997'
 magazine: 'n°13 15 mai 1998'
 pages: '12'
-description: |-
+description: 
   '1. Présence du christianisme
   – la culture judéo-chrétienne de Jean-Baptiste
   – influence de la culture chrétienne sur la personnalité de Jean-Baptiste

@@ -5,7 +5,7 @@ rubrique: 'Poésie [5e-4e]'
 annee: '1996'
 magazine: 'n°14 1er juin 1997'
 pages: '16'
-description: |-
+description: 
   'Pour sensibiliser les élèves à la technique de « dire poétique », une séquence de travail en six séances, dont l’objectif dépasse la simple acquisition des règles primaires de prosodie. Elle peut également trouver sa place en classe, pendant les dominantes lecture et expression écrite et orale.
   1. Les particularités de l’écriture poétique
   2. Première approche technique : la scansion d’un poème classique

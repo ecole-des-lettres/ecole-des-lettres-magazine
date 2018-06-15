@@ -5,7 +5,7 @@ rubrique: 'Nouvelles [2de]'
 annee: '1992'
 magazine: 'n°13 1er juin 1993'
 pages: '12'
-description: |-
+description: 
   'La société et la guerre de 1870 en Normandie…
   L’article est suivi d’une bibliographie, ainsi que de deux cartes : le voyage pour Le Havre de Boule de suif, et l’entrée des Prussiens dans Rouen en décembre 1870.'
 article_pdf: '885.pdf'

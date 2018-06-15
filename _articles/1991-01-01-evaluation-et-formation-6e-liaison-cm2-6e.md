@@ -5,7 +5,7 @@ rubrique: '  Liaison CM2-6e'
 annee: '1991'
 magazine: 'n°6 1er janvier 1992'
 pages: '3'
-description: |-
+description: 
   '1. Pratiquer un bilan initial (à l’entrée en sixième)
   2. Harmoniser les pratiques des enseignants avec celles de l’école élémentaire
   3. Mettre en place des actions de formation'

@@ -5,7 +5,7 @@ rubrique: 'Épopée médiévale [classes préparatoires et concours]'
 annee: '1996'
 magazine: 'n°5 1er décembre 1996'
 pages: '12'
-description: |-
+description: 
   '1. Définition du genre
   2. Le poète et son public
   – statut des poètes

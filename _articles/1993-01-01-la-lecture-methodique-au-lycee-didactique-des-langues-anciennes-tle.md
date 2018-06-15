@@ -5,7 +5,7 @@ rubrique: 'Didactique des langues anciennes [Tle]'
 annee: '1993'
 magazine: 'n°11 1er juin 1994'
 pages: '6'
-description: |-
+description: 
   'Autour d’un texte tiré des « Métamorphoses » d’Ovide
   1. L’« esthétique de la réception »
   2. L’apport des textes officiels dans l’enseignement des langues anciennes

@@ -5,7 +5,7 @@ rubrique: 'Lecture [5e-3e]'
 annee: '2001'
 magazine: 'n°5 15 octobre 2001'
 pages: '5'
-description: |-
+description: 
   'Présentation de trois ouvrages de littérature jeunesse permettant de travailler l’expression orale :
   – « Trèfle d’or », de Jean-François Chabas
   – « Il y a un garçon dans les toilettes des filles »,  de Louis Sachar

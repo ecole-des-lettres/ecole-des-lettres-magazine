@@ -5,7 +5,7 @@ rubrique: 'Théâtre [2de-1re]'
 annee: '2001'
 magazine: 'n°9 1er février 2002'
 pages: '18'
-description: |-
+description: 
   '– À l’aube de l’individualisme
   – Un siècle de théâtre
   – Pourquoi une tragi-comédie ?

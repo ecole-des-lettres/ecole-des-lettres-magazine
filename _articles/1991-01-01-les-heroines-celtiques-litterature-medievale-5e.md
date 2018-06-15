@@ -5,7 +5,7 @@ rubrique: 'Littérature médiévale [5e] '
 annee: '1991'
 magazine: 'n°8 15 février 1992'
 pages: '4'
-description: |-
+description: 
   '– Les amants merveilleux
   – La femme gauloise
   – Les marques d’amour chez la femme gauloise

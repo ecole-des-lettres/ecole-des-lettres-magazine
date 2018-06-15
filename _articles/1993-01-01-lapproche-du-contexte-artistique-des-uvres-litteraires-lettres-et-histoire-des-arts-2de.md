@@ -5,7 +5,7 @@ rubrique: 'Lettres et histoire des arts [2de]'
 annee: '1993'
 magazine: 'n°10 15 avril 1994'
 pages: '11'
-description: |-
+description: 
   'Comment, grâce à l’enseignement modulaire, faire appréhender aux élèves le contexte culturel d’une œuvre littéraire
   1. Objectifs et démarches :
   – objectif : mise en place de repères culturels

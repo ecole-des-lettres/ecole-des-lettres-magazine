@@ -5,7 +5,7 @@ rubrique: 'Jean Giraudoux : « Amphitryon 38 »'
 annee: '1990'
 magazine: 'n°11 1er mai 1991'
 pages: '6'
-description: |-
+description: 
   'Étude d’un extrait de la scène 3 de l’acte 2 : de « Mercure, l’humanité n’est pas ce que pensent les dieux ! »… à « sera mon fils préféré »…
   1. Alcmène ou « le vrai Prométhée »
   2. Alcmène ou « l’infini humain »

@@ -5,7 +5,7 @@ rubrique: 'Grec [Tle]'
 annee: '1996'
 magazine: 'n°4 1er novembre 1996'
 pages: '10'
-description: |-
+description: 
   'Exercices d’entraînement à l’épreuve de grec ancien du baccalauréat (série L)…
   Les exercices présentés ici ne prétendent nullement constituer un exemple de sujet. Ils se veulent uniquement une préparation et, pour cette raison, mêlent les deux parties de l’épreuve écrite (traduction et questionnaire). Ils peuvent être proposés aux élèves en complément de l’étude des « Nuées », d’Aristophane.
   Leur objectif est triple :

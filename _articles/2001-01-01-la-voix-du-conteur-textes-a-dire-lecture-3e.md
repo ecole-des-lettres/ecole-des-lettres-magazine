@@ -5,7 +5,7 @@ rubrique: 'Lecture [3e]'
 annee: '2001'
 magazine: 'n°7 15 novembre 2001'
 pages: '2'
-description: |-
+description: 
   'Un article qui propose de lire des extraits de romans aux élèves de troisième.
   – « Les Héros », de Robert Cormier
   – « L’Heure du cauchemar », de Robert Lawrence Stine'

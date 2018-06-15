@@ -6,7 +6,7 @@ rubrique: 'Didactique des langues anciennes'
 annee: '1993'
 magazine: 'n°11 1er juin 1994'
 pages: '4'
-description: |-
+description: 
   'Bilan du colloque qui s’est tenu à Besançon du 26 au 28 octobre 1993…
   1. La situation des langues anciennes en Europe
   2. Contenu et méthodes'

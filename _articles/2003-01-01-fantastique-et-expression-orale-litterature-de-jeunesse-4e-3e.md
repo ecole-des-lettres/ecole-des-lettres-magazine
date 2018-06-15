@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse [4e-3e]'
 annee: '2003'
 magazine: 'n°6 1er décembre 2003'
 pages: '6'
-description: |-
+description: 
   'Présentation d’un ouvrage fantastique autour du thème d’Orphée et Eurydice par les élèves :
   – Jean Joubert : « La Jeune Femme à la rose »
   L’article est suivi d’une bibliographie sur Orphée et Eurydice.'

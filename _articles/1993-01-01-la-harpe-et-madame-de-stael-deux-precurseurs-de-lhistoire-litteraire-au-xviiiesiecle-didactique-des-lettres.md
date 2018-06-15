@@ -6,7 +6,7 @@ rubrique: 'Didactique des lettres'
 annee: '1993'
 magazine: 'n°7 1er février 1994'
 pages: '10'
-description: |-
+description: 
   '1. Place de l’histoire littéraire dans les études jusqu’à la fin de l’Ancien Régime
   2. Le « Cours de littérature » de La Harpe
   3. « De la littérature », de Madame de Staël

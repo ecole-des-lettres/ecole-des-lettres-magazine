@@ -6,7 +6,7 @@ rubrique: 'Roman [1re]'
 annee: '1995'
 magazine: 'n°9 1er avril 1996'
 pages: '12'
-description: |-
+description: 
   '1. L’aveuglement du cœur
   2. Les confusions de l’esprit
   3. La philosophie des « Égarements »

@@ -5,7 +5,7 @@ rubrique: 'Nouvelle 4e-3e]'
 annee: '1993'
 magazine: 'n°8 15 février 1994'
 pages: '8'
-description: |-
+description: 
   'Analyse méthodique du prologue de « La Peur » visant à faire découvrir aux élèves le fonctionnement  du récit : annoncer un événement, ou une action, à l’aide d’indices cohérents…
   1. Lecture méthodique
   – un décor naturel proche de la réalité : des détails précis qui créent une image réelle ; des détails suggestifs qui créent une atmosphère

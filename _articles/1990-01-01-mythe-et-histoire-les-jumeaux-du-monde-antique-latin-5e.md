@@ -5,7 +5,7 @@ rubrique: 'Latin [5e]'
 annee: '1990'
 magazine: 'n°10 15 mars 1991'
 pages: '4'
-description: |-
+description: 
   '1. Les jumeaux fondateurs
   – Romulus et Rémus
   – Amphion et Zéthos

@@ -5,7 +5,7 @@ rubrique: 'Réécritures [1re]'
 annee: '1994'
 magazine: 'n°7 15 février 1995'
 pages: '20'
-description: |-
+description: 
   'La nature des liens qui unissent les « classiques » français à leurs maîtres antiques est complexe. Quels sont donc les rapports qui peuvent relier, à vingt-cinq siècles de distance, le fabuliste français et le premier poète épique de la littérature grecque ?
   1. Les types de présence d’Homère dans l’espace des « Fables »
   – terminologie

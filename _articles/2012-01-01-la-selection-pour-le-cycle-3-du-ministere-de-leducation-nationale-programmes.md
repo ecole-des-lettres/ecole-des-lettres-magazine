@@ -5,7 +5,7 @@ rubrique: 'Programmes'
 annee: '2012'
 magazine: 'n°4 2012-2013'
 pages: '33'
-description: |-
+description: 
   'Sont présentés ici les titres de l’école des loisirs présents dans la liste de référence 2013 actualisée par le ministère de l’Éducation nationale : albums, bandes dessinées, contes et fables, romans et récits, théâtre.
   « La lecture d’œuvres patrimoniales et contemporaines appropriées à l’âge des élèves leur permet de se constituer une première culture littéraire partagée. Elle contribue à l’acquisition de la maîtrise de la langue. Pour aider les enseignants à choisir des œuvres, le ministère propose des sélections de livres.
   Ces sélections, organisées en six catégories, sont établies à partir de plusieurs critères : – la qualité littéraire des œuvres ; – l’accessibilité des textes ; – l’équilibre entre des ouvrages patrimoniaux, des classiques et des publications récentes ; – la disponibilité des titres ; – la diversité des auteurs, des illustrateurs, des éditeurs... – l’ouverture des pratiques pédagogiques et éducatives qu’elles permettent. [...]

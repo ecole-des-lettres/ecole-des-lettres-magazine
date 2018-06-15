@@ -6,7 +6,7 @@ rubrique: 'Roman contemporain [1re]'
 annee: '1996'
 magazine: 'n°5 15 novembre 1996'
 pages: '16'
-description: |-
+description: 
   'Étude dirigée du début du roman…
   1. Écriture et représentation de l’action
   – découpage et progression des scènes

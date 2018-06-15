@@ -6,7 +6,7 @@ rubrique: 'Récits du XIXe siècle [4e-3e]'
 annee: '1991'
 magazine: 'n°4 1er novembre 1991'
 pages: '8'
-description: |-
+description: 
   'Compte rendu d’une expérience pédagogique réalisée dans le cadre d’une expérience nationale : « Écrire au collège », autour d’un texte extrait du « Ventre de Paris », de Zola, réunissant dialogue, description et narration…
   Deuxième partie de l’étude de la description. À partir de l’étude des dialogues et de la reconstitution du texte, amputé des descriptions, l’article propose des ateliers d’écriture permettant d’impliquer l’élève dans un travail d’expression écrite.'
 article_pdf: '625.pdf'

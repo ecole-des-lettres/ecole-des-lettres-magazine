@@ -5,7 +5,7 @@ rubrique: 'Roman contemporain'
 annee: '1999'
 magazine: 'n°11 15 mars 2000'
 pages: '15'
-description: |-
+description: 
   'L’incongru dans :
   – « Les Chemins de la liberté », de Jean-Paul Sartre
   – « Le Chaos et la Nuit », d’Henry de Montherlant

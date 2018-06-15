@@ -5,7 +5,7 @@ rubrique: 'Roman [Tle]'
 annee: '2003'
 magazine: 'n°5 1er novembre 2003'
 pages: 64 pages
-description: |-
+description: 
   '1. « Un roi sans divertissement », de Jean Giono
   2. La vie et l’œuvre de Jean Giono'
 article_pdf: '5242.pdf'

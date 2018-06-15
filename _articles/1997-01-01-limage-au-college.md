@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1997'
 magazine: 'n°11 15 mars 1998'
 pages: 200 pages
-description: |-
+description: 
   '1. Pour un enseignement spécifique à l’image et aux médias
   2. Aide à la pratique de la sémiologie de l’image
   3. Petite trousse à outils

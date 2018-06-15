@@ -6,7 +6,7 @@ rubrique: 'Littérature médiévale [5e'
 annee: '1992'
 magazine: 'n°12 15 mai 1993'
 pages: '16'
-description: |-
+description: 
   '1. L’aventure sous toutes ses formes
   – « aventure » : un substantif polysémique
   – les différents types d’aventures (aventure sociale, aventure amoureuse, aventure chevaleresque, aventure merveilleuse, aventure spirituelle)

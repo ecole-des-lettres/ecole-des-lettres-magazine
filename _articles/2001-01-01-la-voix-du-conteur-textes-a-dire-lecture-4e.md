@@ -5,7 +5,7 @@ rubrique: 'Lecture [4e] '
 annee: '2001'
 magazine: 'n°10 15 février 2002'
 pages: '2'
-description: |-
+description: 
   'Un article qui propose de lire des extraits de romans aux élèves de quatrième.
   – « Le Souffle de la pierre d’Irlande », d’Éric Simard
   –  « En attendant ton retour », de Gérard Pussey

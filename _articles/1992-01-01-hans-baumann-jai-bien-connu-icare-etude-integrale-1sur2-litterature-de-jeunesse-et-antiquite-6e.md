@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et Antiquité [6e]'
 annee: '1992'
 magazine: 'n°1 10 septembre 1992'
 pages: '10'
-description: |-
+description: 
   '– Premier contact avec le roman
   – Première partie : chapitres 1 à 5 (questionnaire de vérification de lecture ; Dédale ; Dédale-Icare : l’inventeur et le rêveur ; Kalos ; Athènes)
   – Première partie : chapitres 6 à 12 (découverte d’un cadre : Cnossos ; découverte des personnages et des problèmes ; la mésentente entre Dédale et Icare)

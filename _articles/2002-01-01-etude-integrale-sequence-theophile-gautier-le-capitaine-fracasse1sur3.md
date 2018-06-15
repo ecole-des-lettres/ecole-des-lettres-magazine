@@ -5,7 +5,7 @@ rubrique: 'Théophile Gautier : « Le Capitaine Fracasse » (1/3)'
 annee: '2002'
 magazine: 'n°1 juillet-septembre 2002'
 pages: '6'
-description: |-
+description: 
   'Étude du roman dans la collection « Classiques abrégés »
   – Objectifs de la séquence
   – Conditions de publication du roman

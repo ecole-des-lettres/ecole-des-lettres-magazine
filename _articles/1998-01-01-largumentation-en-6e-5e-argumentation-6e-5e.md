@@ -5,7 +5,7 @@ rubrique: 'Argumentation [6e-5e]'
 annee: '1998'
 magazine: 'n°3 15 septembre 1998'
 pages: '4'
-description: |-
+description: 
   'L’argumentation en sixième, puis en cinquième :
   – À quoi se limite-t-elle ?
   – Quels termes donne-t-on aux élèves ? « argument » ? « exemple » ? « étayer » ? « réfuter » ?

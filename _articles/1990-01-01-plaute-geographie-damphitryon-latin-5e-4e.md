@@ -5,7 +5,7 @@ rubrique: 'Latin [5e-4e]'
 annee: '1990'
 magazine: 'n°11 1er mai 1991'
 pages: '4'
-description: |-
+description: 
   '– Thèbes, une grande ville de la Grèce antique
   – L’énigme du port persique
   – Argos et les Argiens

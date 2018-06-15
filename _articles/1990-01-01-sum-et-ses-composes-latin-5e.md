@@ -5,7 +5,7 @@ rubrique: 'Latin [5e]'
 annee: '1990'
 magazine: 'n°3 15 octobre 1990'
 pages: '3'
-description: |-
+description: 
   '1. Flexion de « sum » au présent de l’indicatif
   2. Les temps primitifs de « sum »
   3. Les composés de « sum »

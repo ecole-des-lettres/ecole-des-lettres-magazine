@@ -6,7 +6,7 @@ rubrique: 'L'expression écrite au collège[6e-3e]'
 annee: '2003'
 magazine: 'n°13 juin 2004'
 pages: '9'
-description: |-
+description: 
   'Cet article propose un  tour d’horizon des différentes formes de réécriture afin d’en voir les applications scolaires.
   1. La réécriture comme composante de l’acte d’écriture
   – le retour du scripteur sur son texte en cours de production

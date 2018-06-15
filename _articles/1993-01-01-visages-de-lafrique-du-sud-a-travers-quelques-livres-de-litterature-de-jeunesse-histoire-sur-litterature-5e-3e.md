@@ -5,7 +5,7 @@ rubrique: 'Histoire / littérature  [5e-3e]'
 annee: '1993'
 magazine: 'n°7 15 janvier 1994'
 pages: '16'
-description: |-
+description: 
   'Objectifs : favoriser le travail de groupe et l’expression orale en troisième ; faire connaître un État et une société évoqués par les médias – à travers huit romans (de littérature jeunesse essentiellement)
   1. Présentation de l’Afrique du Sud
   – géographie physique

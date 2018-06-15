@@ -5,7 +5,7 @@ rubrique: 'Première guerre mondiale [1re]'
 annee: '1996'
 magazine: 'n°13 1er mai 1997'
 pages: '10'
-description: |-
+description: 
   'Une somme d’informations, un roman personnel…
   1. Un roman-somme
   – le temps

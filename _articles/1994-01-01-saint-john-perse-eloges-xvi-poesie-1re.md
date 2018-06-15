@@ -5,7 +5,7 @@ rubrique: 'Poésie [1re]'
 annee: '1994'
 magazine: 'n°7 15 février 1995'
 pages: '10'
-description: |-
+description: 
   '1. Paysage par la fenêtre ouverte
   2. Continuité entre les règnes de la nature
   3. Poétique de l’intensité

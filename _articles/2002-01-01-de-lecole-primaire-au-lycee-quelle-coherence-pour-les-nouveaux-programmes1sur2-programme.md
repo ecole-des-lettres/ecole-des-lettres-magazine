@@ -5,7 +5,7 @@ rubrique: 'Programme'
 annee: '2002'
 magazine: 'n°1 juillet-septembre 2002'
 pages: '11'
-description: |-
+description: 
   '1. Bref retour sur les programmes du collège
   – le discours : notion fédératrice
   – pratiques discursives et genres

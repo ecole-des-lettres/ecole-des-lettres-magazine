@@ -5,7 +5,7 @@ rubrique: 'Roman contemporain [agrégation]'
 annee: '1997'
 magazine: 'n°11 15 mars 1998'
 pages: '10'
-description: |-
+description: 
   'Commentaire composé sur un extrait du roman…
   1. Deux séquences narratives distinctes
   – l’écart

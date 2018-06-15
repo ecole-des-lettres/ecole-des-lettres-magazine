@@ -5,7 +5,7 @@ rubrique: 'Poésie / réécritures [1re]'
 annee: '1994'
 magazine: 'n°8 1er mars 1995'
 pages: '21'
-description: |-
+description: 
   '3. Une rivalité improbable mais réelle
   – la contestation des valeurs homériques et épiques
   – un univers où un et un ne font pas toujours deux

@@ -5,7 +5,7 @@ rubrique: 'L'expression écrite au collège [6e-3e]'
 annee: '2003'
 magazine: 'n°13 juin 2004'
 pages: '10'
-description: |-
+description: 
   'Compte rendu d’un atelier d’écriture par un auteur jeunesse.
   1. Travail de mise en route
   – désir d’écrire

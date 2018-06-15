@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et monde contemporain [6e-3e]'
 annee: '1999'
 magazine: 'n°11 15 mars 2000'
 pages: '4'
-description: |-
+description: 
   'La lecture est souvent l’occasion de découvrir d’autres univers et donc d’élargir ses horizons personnels. Cet article se penche sur ceux qu’on appelle les Tsiganes, en présentant des romans, un recueil de contes, un récit de témoignage et un poème qui parlent des origines, du passé, des traditions et de la vie quotidienne de ces gens dits « du voyage ».
   – « Pars sans te retourner », de Christine K. Boutin
   – « Stationnement interdit », de Bertrand Solet

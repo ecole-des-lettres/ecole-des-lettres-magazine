@@ -5,7 +5,7 @@ rubrique: 'Nouvelles policières du XXe siècle [3e]'
 annee: '1999'
 magazine: '1999'
 pages: '26'
-description: |-
+description: 
   'Présentation du recueil « Crimes parfaits » (l’école des loisirs) qui rassemble huit nouvelles policières dans lesquelles est utilisé le procédé du « meurtre en chambre close »…
   – Le procédé du meurtre en chambre close
   – Étudier la forme de la nouvelle

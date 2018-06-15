@@ -5,7 +5,7 @@ rubrique: 'Étude de la langue'
 annee: '1991'
 magazine: 'n°6 1er janvier 1992'
 pages: '6'
-description: |-
+description: 
   '– L’origine du malaise
   – Priorité aux concepts (au-delà des querelles de terminologies)
   – Les « points chauds » 

@@ -5,7 +5,7 @@ rubrique: 'Roman [6e]'
 annee: '2000'
 magazine: 'n°4 1er octobre 2000'
 pages: '4'
-description: |-
+description: 
   '– Résumé
   – Préparation au questionnaire et questionnaire
   – Un univers merveilleux

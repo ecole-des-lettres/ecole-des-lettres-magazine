@@ -5,7 +5,7 @@ rubrique: 'Autobiographie [4e-3e]'
 annee: '1995'
 magazine: 'n°13-14 15 juin 1996'
 pages: '24'
-description: |-
+description: 
   'Lecture méthodique de cinq extraits des « Confessions », tirés essentiellement des livres consacrés à la jeunesse du philosophe. L’attention sera plutôt portée sur l’aspect autobiographique de l’œuvre…
   1. Première épreuve de l’injustice (livre 1)
   2. La chasse aux pommes (livre 1)

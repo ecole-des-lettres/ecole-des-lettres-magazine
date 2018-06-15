@@ -5,7 +5,7 @@ rubrique: '« L’histoire littéraire et son enseignement »'
 annee: '1993'
 magazine: 'n°7 1er février 1994'
 pages: '3'
-description: |-
+description: 
   'Présentation du numéro spécial.
   Axes retenus :
   – une histoire de l’histoire littéraire

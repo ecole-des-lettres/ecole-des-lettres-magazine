@@ -5,7 +5,7 @@ rubrique: 'Brevet [3e]'
 annee: '1992'
 magazine: 'n°3 15 octobre 1992'
 pages: '8'
-description: |-
+description: 
   '1. Réflexion sur les questions de texte
   2. Application : « Le Malade imaginaire » au lycée, d’après Paul Guth, « Le Naïf aux quarante enfants », suivi de questions de grammaire, de vocabulaire, de compréhension et d’indications de réponses.
   L’article s’inscrit également dans une réflexion plus large sur la liaison troisième-seconde, avec en annexes :

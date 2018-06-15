@@ -6,7 +6,7 @@ rubrique: 'Littérature et débat d’idées [Tle]'
 annee: '1990'
 magazine: '1990'
 pages: '17'
-description: |-
+description: 
   'L’article se propose, à partir de quelques réflexions de Diderot sur la peinture, d’étudier comment son œil sélectionne certains éléments de la réalité et les installe dans un espace, celui de l’écriture, où ils prennent un sens les uns par rapport aux autres…
   – L’art de la description dans « Jacques le Fataliste »
   – Le roman comme antidestin : structures de « Jacques le Fataliste »

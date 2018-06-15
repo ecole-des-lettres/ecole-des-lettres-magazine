@@ -5,7 +5,7 @@ rubrique: 'Mythe et histoire'
 annee: '1994'
 magazine: 'n°10 15 avril 1995'
 pages: '10'
-description: |-
+description: 
   'Objectif : initier les élèves à la poésie latine…
   1. Première séquence
   – présentation de l’auteur, de l’œuvre, du héros et de sa légende

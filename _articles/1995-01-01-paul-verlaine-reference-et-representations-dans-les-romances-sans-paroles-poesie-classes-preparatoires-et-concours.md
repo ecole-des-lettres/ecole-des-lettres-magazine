@@ -5,7 +5,7 @@ rubrique: 'Poésie [classes préparatoires et concours]'
 annee: '1995'
 magazine: 'n°14 juillet 1996'
 pages: '15'
-description: |-
+description: 
   '1. Les marques de l’énonciation
   2. « Ariettes oubliées »
   – ambiguïté de la référence

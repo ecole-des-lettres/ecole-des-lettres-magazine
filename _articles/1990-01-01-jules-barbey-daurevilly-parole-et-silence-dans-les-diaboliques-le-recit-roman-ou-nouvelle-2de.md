@@ -5,7 +5,7 @@ rubrique: 'Le récit (roman ou nouvelle) [2de]'
 annee: '1990'
 magazine: 'n°7 15 janvier 1991'
 pages: '6'
-description: |-
+description: 
   'Étude de la construction du discours dans « Les Diaboliques »…
   1. Je, Tu, Il : rôle dans la construction. Objet du jeu
   2.  Je, Tu, Il :  rapports dramatiques. Ton du jeu, enjeu'

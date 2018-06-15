@@ -5,7 +5,7 @@ rubrique: 'Histoire [3e]'
 annee: '1993'
 magazine: 'n°6 15 décembre 1993'
 pages: '6'
-description: |-
+description: 
   '4. La guerre et la paix ou l’Hexagone et le monde
   – le poids de la victoire
   – les pièges du pacifisme

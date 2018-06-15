@@ -5,7 +5,7 @@ rubrique: 'Théâtre [4e-3e] '
 annee: '1992'
 magazine: 'n°1 10 septembre 1992'
 pages: '10'
-description: |-
+description: 
   'Séquence 1 : La structure de la pièce
   – répartition des personnages acte par acte
   – schéma des péripéties

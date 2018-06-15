@@ -5,7 +5,7 @@ rubrique: 'Éducation aux médias [6e-3e]'
 annee: '1996'
 magazine: 'n°8 15 février 1997'
 pages: '8'
-description: |-
+description: 
   'Aider les élèves à cheminer dans la compréhension du monde…
   1. Relever un défi
   2. Qu’est-ce que la Semaine de la presse ?

@@ -6,7 +6,7 @@ rubrique: 'Histoire [Tle]'
 annee: '1993'
 magazine: 'n°6 1er janvier 1994'
 pages: '6'
-description: |-
+description: 
   'Un article autour des trois volumes de l’« Histoire des droites en France », parus chez Gallimard en 1992…
   1. Une construction cohérente
   2. Politique

@@ -5,7 +5,7 @@ rubrique: 'Jean-Jacques Rousseau : « Confessions »'
 annee: '1997'
 magazine: '1998'
 pages: '54'
-description: |-
+description: 
   'VII. Étude du livre IV : les extravagances de Rousseau…
   – Orientation générale du livre IV
   – Une personnalité en formation

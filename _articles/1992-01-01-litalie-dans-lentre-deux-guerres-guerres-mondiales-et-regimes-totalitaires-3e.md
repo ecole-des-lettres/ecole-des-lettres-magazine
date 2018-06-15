@@ -5,7 +5,7 @@ rubrique: 'Guerres mondiales et régimes totalitaires [3e]'
 annee: '1992'
 magazine: 'n°3 15 octobre 1992'
 pages: '10'
-description: |-
+description: 
   '1. Les origines de la crise italienne
   – les racines du mal italien
   – humiliations et agitations de l’après-guerre

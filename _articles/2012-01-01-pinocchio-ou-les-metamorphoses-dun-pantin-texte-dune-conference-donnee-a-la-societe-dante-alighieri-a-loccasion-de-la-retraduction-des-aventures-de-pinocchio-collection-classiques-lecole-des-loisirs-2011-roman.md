@@ -7,7 +7,7 @@ rubrique: 'Roman'
 annee: '2012'
 magazine: 'n°4 2012-2013'
 pages: '23'
-description: |-
+description: 
   'Pour la plupart d’entre nous, le personnage de Pinocchio ne présente ni épaisseur ni mystère, sa finalité étant de distraire la jeunesse, au même titre que le Petit Chaperon rouge, Alice, Peter Pan ou la Petite Sirène. Notre connaissance s’arrête aux aspects les plus convenus : le Grillon qui parle, le Renard et le Chat, la Fée bleue et, surtout, le nez qui s’allonge au gré des mensonges. Cette apparente familiarité avec le « burattino » (le « pantin »), est, en fait, trompeuse.
   Cet article se propose de rendre à ce texte fondateur sa place véritable dans l’histoire de la littérature italienne et même dans l’histoire (tout court) du pays. Pour ce faire, il s’intéresse successivement à son auteur, à l’époque et aux circonstances de sa parution, puis à ce qui constitue sa matière, et, enfin,
   à quelques interprétations plus ou moins inspirées par les commentaires produits depuis sa parution.'

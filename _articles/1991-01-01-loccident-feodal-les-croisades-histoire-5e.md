@@ -5,7 +5,7 @@ rubrique: 'Histoire [5e]'
 annee: '1991'
 magazine: 'n°14 15 juin 1992'
 pages: '6'
-description: |-
+description: 
   '1. Les causes des croisades
   2. Les principales expéditions
   3. Les conséquences des croisades

@@ -5,7 +5,7 @@ rubrique: 'Lecture [classes préparatoires et concours]'
 annee: '1997'
 magazine: 'n°14 juillet 1998'
 pages: '14'
-description: |-
+description: 
   'Voilà un siècle et demi que l’histoire de l’image photographique croise les chemins de l’écriture. Alors que se multiplient les ouvrages associant textes et photographies, cet article s’interrogersur les interactions (éventuelles) entre écriture et «écriture» photographique.
   1. La photographie dans le texte
   2. L’image photographique et le texte

@@ -5,7 +5,7 @@ rubrique: 'Le conte [6e]'
 annee: '1994'
 magazine: 'n°3 15 octobre 1994'
 pages: '13'
-description: |-
+description: 
   '2. Production d’un conte
   – mise en place du projet : mise en place des détails pratiques ; constitution des groupes et procédure ; contrat passé avec la classe
   – rédaction de la situation initiale

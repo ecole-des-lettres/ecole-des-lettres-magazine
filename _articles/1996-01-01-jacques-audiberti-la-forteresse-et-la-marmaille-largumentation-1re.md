@@ -5,7 +5,7 @@ rubrique: 'L’argumentation [1re]'
 annee: '1996'
 magazine: 'n°2 15 septembre 1996'
 pages: '16'
-description: |-
+description: 
   '1. Une nouvelle langue classique est-elle possible ?
   2. La langue française : une transparence perdue
   – Audiberti et le classicisme

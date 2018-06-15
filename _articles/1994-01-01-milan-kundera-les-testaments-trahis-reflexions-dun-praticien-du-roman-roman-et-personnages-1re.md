@@ -6,7 +6,7 @@ rubrique: 'Roman et personnages [1re]'
 annee: '1994'
 magazine: 'n°6 15 janvier 1995'
 pages: '10'
-description: |-
+description: 
   '1. Un livre ouvert
   2. Composition
   3. Roman

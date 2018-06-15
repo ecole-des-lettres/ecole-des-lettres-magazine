@@ -5,7 +5,7 @@ rubrique: 'Dissertation [1re]'
 annee: '2002'
 magazine: 'n°3 septembre 2002'
 pages: '13'
-description: |-
+description: 
   '« Nous travaillons incessamment à embellir et conserver notre être imaginaire, et négligeons le véritable. » L’art du portrait littéraire confirme-t-il cette réflexion recueillie dans les « Pensées » de Pascal ?
   1. Analyse de l’énoncé
   – le lien entre la citation et la question

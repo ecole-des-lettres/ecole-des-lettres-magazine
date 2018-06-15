@@ -5,7 +5,7 @@ rubrique: 'Didactique des lettres'
 annee: '1993'
 magazine: 'n°7 1er février 1994'
 pages: '8'
-description: |-
+description: 
   '1. Le contexte
   2. Les manuels en usage en Hongrie
   3. Les principes de l’histoire littéraire

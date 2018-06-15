@@ -5,7 +5,7 @@ rubrique: 'Littérature médiévale  [5e]'
 annee: '1992'
 magazine: 'n°12 15 mai 1993'
 pages: '10'
-description: |-
+description: 
   '1. Une structure apparemment lâche
   – des épisodes indépendants ?
   – des personnages épisodiques ?

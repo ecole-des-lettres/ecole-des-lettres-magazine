@@ -5,7 +5,7 @@ rubrique: 'La poésie de célébration [2de]'
 annee: '2004'
 magazine: '2005'
 pages: '72'
-description: |-
+description: 
   'Cet article propose un groupement de textes permettant d’accéder à la notion de genèse d’une œuvre par l’étude des brouillons et des variantes.
   Corpus :
   – Louis Aragon : « Strophes pour se souvenir »

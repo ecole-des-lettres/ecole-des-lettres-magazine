@@ -5,7 +5,7 @@ rubrique: 'Latin et grec [4e-3e]'
 annee: '1994'
 magazine: 'n°3 15 octobre 1994'
 pages: '6'
-description: |-
+description: 
   'Le latin-grec thérapeutique est un enseignement conjoint du latin et du grec plus particulièrement destiné aux élèves en difficulté. Son but est surtout de les faire progresser en français, en leur donnant une formation linguistique théorique qui leur apportera les structures nécessaires à l’apprentissage de n’importe quelle langue.
   1. Apprentissage de l’alphabet grec
   2. Les nombres

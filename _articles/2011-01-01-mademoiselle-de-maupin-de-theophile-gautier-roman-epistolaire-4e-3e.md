@@ -5,7 +5,7 @@ rubrique: 'Roman épistolaire [4e-3e]'
 annee: '2011'
 magazine: 'n°2'
 pages: '14'
-description: |-
+description: 
   'La publication de “Mademoiselle de Maupin”, de Théophile Gautier dans la collection « Classiques abrégés » de L’École des loisirs est une initiative originale. En effet, il est audacieux d’aborder ce premier roman qui, longtemps, n’occupa les manuels qu’en raison de sa préface brillante et un brin outrancière en faveur de « l’art pour l’art ».
   Les temps changent mais le propos de cet ouvrage garde un parfum de scandale : l’héroïne, Madeleine de Maupin, se travestit en homme et le fait si bien qu’elle finit par susciter le désir chez ses compagnes. Mademoiselle de Maupin s’achève
   d’ailleurs de façon bien leste, à la manière d’un roman libertin, et Gautier réussit ainsi à tromper toutes les attentes : le lecteur du XIXe siècle qui connaissait la légende de la duelliste

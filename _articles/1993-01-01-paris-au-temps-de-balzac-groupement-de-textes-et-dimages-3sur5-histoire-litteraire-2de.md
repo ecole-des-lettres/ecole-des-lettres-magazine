@@ -5,7 +5,7 @@ rubrique: 'Histoire littéraire [2de]'
 annee: '1993'
 magazine: 'n°9 15 mars 1994'
 pages: '24'
-description: |-
+description: 
   'Groupement thématique réunissant divers documents et textes sur Paris au temps de Balzac : une gravure de Bertall extraite de « L’Illustration » ; un extrait de « Mademoiselle Mimi Pinson, profil de grisette », de Musset (commentaire composé) ; plusieurs explications de texte de « Ferragus », de Balzac ; résumé d’un court article de P.-J. Stahl, « Du monde à Paris », paru dans le recueil collectif « Le Diable à Paris »…
   Dans ce numéro :
   Étude de « Ferragus », de Balzac : chapitre 1

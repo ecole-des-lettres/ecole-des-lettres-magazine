@@ -6,7 +6,7 @@ rubrique: 'L’argumentation [2de]'
 annee: '1992'
 magazine: 'n°14 15 juin 1993'
 pages: '27'
-description: |-
+description: 
   '1. « En attendant les barbares »
   – l’histoire
   – le titre

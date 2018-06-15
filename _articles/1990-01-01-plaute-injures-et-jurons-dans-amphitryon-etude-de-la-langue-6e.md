@@ -5,7 +5,7 @@ rubrique: 'Étude de la langue [6e]'
 annee: '1990'
 magazine: 'n°11 1er mai 1991'
 pages: '8'
-description: |-
+description: 
   '– Le registre de langue familière
   – Méthodologie pour l’établissement du corpus
   – Qu’est-ce qu’une injure, un juron ?

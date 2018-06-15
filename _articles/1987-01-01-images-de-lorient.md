@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1987'
 magazine: 'n°12 15 avril 1988'
 pages: 146 pages
-description: |-
+description: 
   '1. L’Orient raconté par ceux qui l’ont vu
   2. Le « Voyage en Égypte et en Syrie », de Volney
   3. L’image de l’Orient chez Chateaubriand

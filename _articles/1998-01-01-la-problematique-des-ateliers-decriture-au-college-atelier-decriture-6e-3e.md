@@ -5,7 +5,7 @@ rubrique: 'Atelier d'écriture [6e-3e]'
 annee: '1998'
 magazine: 'n°3 15 septembre 1998'
 pages: '4'
-description: |-
+description: 
   '1. L’écriture, un système complexe
   – la maîtrise du système
   – comment faire avec les élèves ?

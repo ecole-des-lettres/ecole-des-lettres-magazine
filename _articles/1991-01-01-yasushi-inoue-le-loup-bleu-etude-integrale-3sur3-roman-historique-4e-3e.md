@@ -5,7 +5,7 @@ rubrique: 'Roman historique [4e-3e] '
 annee: '1991'
 magazine: 'n°10 15 avril 1992'
 pages: '6'
-description: |-
+description: 
   '2. Lecture de l’œuvre (suite)
   – Chapitres 7 et 8
   3. Résumé

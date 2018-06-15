@@ -5,7 +5,7 @@ rubrique: 'Lecture [6e]'
 annee: '2001'
 magazine: 'n°9 15 janvier 2002'
 pages: '2'
-description: |-
+description: 
   'Un article qui propose de lire des extraits de romans aux élèves de cinquième.
   – « Les Trolls », de Polly Horvath
   – « Un cheval de rêve », d’Évelyne Brisou-Pellen'

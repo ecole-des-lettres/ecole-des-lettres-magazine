@@ -6,7 +6,7 @@ rubrique: 'Le naturalisme [2de-1re]'
 annee: '1992'
 magazine: 'n°7 15 janvier 1993'
 pages: '40'
-description: |-
+description: 
   '1. La fabrique de l’œuvre : les sources de l’inspiration zolienne
   – le projet des « Rougon-Macquart » et « La Curée »
   – les sources : du journalisme engagé aux chroniques légères

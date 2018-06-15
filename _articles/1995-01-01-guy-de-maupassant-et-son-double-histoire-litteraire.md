@@ -5,7 +5,7 @@ rubrique: 'Histoire littéraire'
 annee: '1995'
 magazine: '1996'
 pages: '41'
-description: |-
+description: 
   'Bien que ce thème du double soit fort connu chez Maupassant, c’est un sujet difficile à bien des égards et en définitive peu étudié dans son ensemble. L’objet de cette étude est de montrer l’extrême originalité du motif du double dans l’œuvre de l’écrivain normand et d’aboutir notamment à une explication de la genèse du « Horla ».
   1. Introduction
   2. L’évolution chronologique du thème du double dans l’œuvre de Maupassant

@@ -5,7 +5,7 @@ rubrique: 'Programmes [2de]'
 annee: '1999'
 magazine: 'n°7 1er décembre 1999'
 pages: '2'
-description: |-
+description: 
   '1. Calendrier
   2. Résultats escomptés
   3. Esprit des programmes

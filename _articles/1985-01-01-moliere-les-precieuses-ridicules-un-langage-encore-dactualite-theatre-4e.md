@@ -5,7 +5,7 @@ rubrique: 'Théâtre [4e]'
 annee: '1985'
 magazine: 'n°12 15 avril 1986'
 pages: '6'
-description: |-
+description: 
   '1. Le langage des précieuses dans « Les Précieuses ridicules »
   2. De l’actualité des mœurs précieuses
   3. La contestation féminine

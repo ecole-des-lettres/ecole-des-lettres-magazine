@@ -5,7 +5,7 @@ rubrique: 'Interdisciplinarité [6e-3e]'
 annee: '2001'
 magazine: 'n°11 mars 2002'
 pages: '8'
-description: |-
+description: 
   'La pédagogie de projet ou le sens rendu aux apprentissages…
   1. Du temps perdu ?
   2. La pédagogie de projet n’est pas une nouveauté

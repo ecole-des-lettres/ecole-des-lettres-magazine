@@ -5,7 +5,7 @@ rubrique: 'Poésie [3e]'
 annee: '1993'
 magazine: 'n°10 1er avril 1994'
 pages: '15'
-description: |-
+description: 
   'Deux poèmes de Jaufré Rudel et de Thibault de Champagne permettent d’aborder, en troisième, l’univers de la littérature courtoise. Par ce biais, on peut aussi mener une étude sur l’origine et l’évolution de la langue…
   * Séance 1. Jaufré Rudel : « L’Amour lointain »
   – l’auteur

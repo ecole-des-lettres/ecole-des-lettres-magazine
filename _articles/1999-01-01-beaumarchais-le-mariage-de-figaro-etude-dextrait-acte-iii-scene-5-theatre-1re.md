@@ -6,7 +6,7 @@ rubrique: 'Théâtre [1re]'
 annee: '1999'
 magazine: 'n°12 mai 2000'
 pages: '12'
-description: |-
+description: 
   '1. La joute verbale
   – composition du passage
   – la maîtrise du discours

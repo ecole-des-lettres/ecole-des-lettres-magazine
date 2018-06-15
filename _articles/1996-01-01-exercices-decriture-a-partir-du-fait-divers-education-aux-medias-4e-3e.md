@@ -5,7 +5,7 @@ rubrique: 'Éducation aux médias [4e-3e]'
 annee: '1996'
 magazine: 'n°8 15 février 1997'
 pages: '18'
-description: |-
+description: 
   '1. Tentative de définition
   – définitions et classement thématique
   – le fait divers comme transgression d’une norme

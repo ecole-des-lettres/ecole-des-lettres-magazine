@@ -5,7 +5,7 @@ rubrique: 'Antiquité, textes fondateurs et bande dessinée [6e-5e]'
 annee: '2010'
 magazine: 'n°2-3 2010-2011'
 pages: '14'
-description: |-
+description: 
   'Cet article s’intéresse aux différentes adaptations de « L’Odyssée » d’Homère en bande dessinée.
   Les grands thèmes mythiques de l’Antiquité ont été abondamment figurés et réactivés au cours de l’histoire par les arts et la littérature : l’adaptation en bandes dessinées destinées à de jeunes lecteurs ou à des adultes est l’un des éléments de la transmission continue des textes fondateurs.
   Cette étude permet d’aborder avec les élèves de sixième la problématique de la transposition d’une œuvre littéraire, le langage et les codes de la bande dessinée, lainsi que les choix des scénaristes et des dessinateurs.

@@ -5,7 +5,7 @@ rubrique: 'Romans du XXe siècle [3e]'
 annee: '1994'
 magazine: 'n°10 15 avril 1995'
 pages: '7'
-description: |-
+description: 
   '1. Premier contact avec le texte
   2. Première lecture, premières questions
   – de quoi s’agit-il ?

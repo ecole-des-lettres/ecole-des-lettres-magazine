@@ -5,7 +5,7 @@ rubrique: 'Histoire des arts [1re]'
 annee: '1993'
 magazine: 'n°2 1er octobre 1993'
 pages: '10'
-description: |-
+description: 
   '– Pauvreté et objectivité
   – L’art anonyme et le refus du narcissisme
   – Imagination et condensation

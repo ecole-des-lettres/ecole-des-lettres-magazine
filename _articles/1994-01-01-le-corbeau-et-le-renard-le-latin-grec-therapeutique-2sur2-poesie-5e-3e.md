@@ -5,7 +5,7 @@ rubrique: 'Poésie [5e-3e]'
 annee: '1994'
 magazine: 'n°4 15 novembre 1994'
 pages: '10'
-description: |-
+description: 
   'Compte rendu d’une expérience pédagogique
   Objectif : aider des élèves en difficulté à progresser en français en leur donnant une formation linguistique théorique leur apportant les structures nécessaires à l’apprentissage de n’importe quelle langue
   * Séance 1. Lecture et explication de la fable de La Fontaine 

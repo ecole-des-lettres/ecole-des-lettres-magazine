@@ -6,7 +6,7 @@ rubrique: 'Langage verbal et images [Tle]'
 annee: '1991'
 magazine: 'n°4 1er novembre 1991'
 pages: '8'
-description: |-
+description: 
   '1. Un roman d’aujourd’hui
   2. L’auteur et son roman
   – une vie de militaire

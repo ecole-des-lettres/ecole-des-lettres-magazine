@@ -5,7 +5,7 @@ rubrique: 'Bande dessinée et récit d’aventures [5e-4e]'
 annee: '1993'
 magazine: 'n°12-13 1er juin 1994'
 pages: '8'
-description: |-
+description: 
   '1. Le contexte historique
   – « Capitaine Sabre » : l’histoire au service de l’aventure
   – « Corto Maltese » : l’aventure au service de l’histoire

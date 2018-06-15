@@ -6,7 +6,7 @@ rubrique: 'Littérature de jeunesse / Cinéma'
 annee: '2014'
 magazine: ''
 pages: '1'
-description: |-
+description: 
   'Graphiquement, « Loulou, l’incroyable secret » se révèle d’une rare beauté, mettant en perspective l’opposition des « mondes » et des « natures » au sein desquels devra se mouvoir l’intrépide Loulou. À ce titre, comme le souligne l’intrusion du personnage dans la galerie des portraits de l’immonde Lou-Andrea, représentant exclusivement la figure d’un loup dominateur et prédateur, Solotareff dévoile ses sources picturales et narratives.
   Et c’est bien là toute la réussite de ce film que de parvenir à faire se croiser les références littéraires, graphiques, historiques…'
 article_pdf: '12641.pdf'

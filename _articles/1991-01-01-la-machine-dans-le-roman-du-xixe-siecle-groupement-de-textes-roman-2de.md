@@ -5,7 +5,7 @@ rubrique: 'Roman  [2de]'
 annee: '1991'
 magazine: 'n°4 1er novembre 1991'
 pages: '20'
-description: |-
+description: 
   'Comment les romanciers du XIXe siècle ont-ils intégré la révolution industrielle dans leur  imaginaire ?
   1. Présentation du thème
   – la machine au XIXe siècle

@@ -5,7 +5,7 @@ rubrique: 'Ateliers d'écriture [6e]'
 annee: '1992'
 magazine: 'n°9 1er mars 1993'
 pages: '20'
-description: |-
+description: 
   'Trois mois d’un atelier d’écriture en sixième.
   Le récit de Marie-Aude Murail sur un travail entrepris avec des sixièmes autour des « Contes, mythes et légendes »…'
 article_pdf: '1074.pdf'

@@ -5,7 +5,7 @@ rubrique: 'Poésie lyrique, TIC et image [4e]'
 annee: '2000'
 magazine: 'n°10 15 février 2001'
 pages: '22'
-description: |-
+description: 
   'Les programmes ont mis à l’honneur l’étude de la poésie. Ils favorisent également l’exploitation de l’image et des technologies de l’information. Un groupement de poèmes du XIXe siècle français et les collections présentées sur le site [Louvre.edu] constituent les matériaux de travail de cette séquence. Accorder la voix du poète et le pinceau du peintre grâce aux ressources en ligne, réunir la lyre et la toile : ce n’est pas un simple jeu sur les sens du mot « toile », le lieu d’expression du peintre et cet autre lieu d’expression et d’information que constitue désormais la toile mondiale. C’est aussi une invitation à introduire les outils d’aujourd’hui dans les pratiques d’enseignement de ces « passeurs culturels » que sont les professeurs.
   Déroulement de la séquence : quatre séances.'
 article_pdf: '3823.pdf'

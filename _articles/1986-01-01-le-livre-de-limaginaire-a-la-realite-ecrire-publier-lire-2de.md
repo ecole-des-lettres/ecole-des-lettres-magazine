@@ -5,7 +5,7 @@ rubrique: 'Écrire, publier, lire [2de]'
 annee: '1986'
 magazine: 'n°11 15 mars 1987'
 pages: '6'
-description: |-
+description: 
   '1. Le livre imaginaire à l’intérieur d’un livre
   2. Le livre imaginaire antérieur au livre réel
   3. Le journal d’un livre en cours de composition

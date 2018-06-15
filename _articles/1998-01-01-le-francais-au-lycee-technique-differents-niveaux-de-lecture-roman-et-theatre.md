@@ -5,7 +5,7 @@ rubrique: 'Roman et théâtre'
 annee: '1998'
 magazine: 'n°8 15 décembre 1998'
 pages: '9'
-description: |-
+description: 
   'Réflexion sur la lecture de groupements de textes ou d’œuvres intégrales au lycée technique. Illustration à travers deux exemples : « L’Espoir », d’André Malraux, et « Ruy Blas », de Victor Hugo…
   1. « L’Espoir », d’André Malraux
   – premier niveau : « L’Espoir », roman sur la guerre d’Espagne

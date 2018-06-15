@@ -6,7 +6,7 @@ rubrique: 'Récit et réécritures cinématographiques [2de-1re]'
 annee: '1994'
 magazine: 'n°3 1er novembre 1994'
 pages: '10'
-description: |-
+description: 
   'Balzac et ses adaptations cinématographiques…
   1. L’observation réaliste
   2. La bureaucratie judiciaire

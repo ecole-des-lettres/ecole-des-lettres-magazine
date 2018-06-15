@@ -5,7 +5,7 @@ rubrique: 'Théâtre [1re]'
 annee: '1999'
 magazine: 'n°12 mai 2000'
 pages: '5'
-description: |-
+description: 
   '1. Les troupes à pied d’œuvre
   2. La comédie dans tous ses états
   3. Aux sources du valet'

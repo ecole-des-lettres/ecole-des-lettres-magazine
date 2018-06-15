@@ -5,7 +5,7 @@ rubrique: ''
 annee: '2001'
 magazine: 'n°9 1er février 2002'
 pages: 168 pages
-description: |-
+description: 
   '1. « L’Illusion comique » : le triomphe de l’éloquence
   2. Les lieux dans « L’Illusion comique »
   3. Introduction historique à l’étude du « Cid »

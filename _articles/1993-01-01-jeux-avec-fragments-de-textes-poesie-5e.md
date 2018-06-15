@@ -5,7 +5,7 @@ rubrique: 'Poésie [5e]'
 annee: '1993'
 magazine: 'n°1 7 septembre 1993'
 pages: '22'
-description: |-
+description: 
   'Compte rendu d’une expérience pédagogique visant à susciter le goût de la poésie dans les premières années du collège. Une trentaine d’extraits de poèmes, dont l’origine n’est pas indiquée aux élèves, leur sont distribués…
   1. Première séquence
   – déplacement dans l’espace

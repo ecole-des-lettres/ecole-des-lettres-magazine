@@ -5,7 +5,7 @@ rubrique: 'Roman et personnages [1re]'
 annee: '1996'
 magazine: 'n°9 15 février 1997'
 pages: '19'
-description: |-
+description: 
   'L’analyse faite ici de l’univers métamorphosé de Gregor Samsa se fonde sur le lien entre personnage, espace et parole. L’échec de toute tentative d’extériorisation, qui exprime la négativité du rapport au monde, révèle le drame existentiel d’une conscience déchirée, c’est-à-dire coupable…
   1. Espace de la métamorphose et métamorphose de l’espace
   2. La communication rompue avec le monde

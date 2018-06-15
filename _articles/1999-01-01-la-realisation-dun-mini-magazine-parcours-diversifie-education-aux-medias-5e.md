@@ -5,7 +5,7 @@ rubrique: 'Éducation aux médias [5e]'
 annee: '1999'
 magazine: 'n°5 15 octobre 1999'
 pages: '17'
-description: |-
+description: 
   'Compte-rendu d’une expérience de parcours diversifié en cinquième : réalisation d’un minimagazine…
   1. Le projet
   2. Les étapes de la réalisation

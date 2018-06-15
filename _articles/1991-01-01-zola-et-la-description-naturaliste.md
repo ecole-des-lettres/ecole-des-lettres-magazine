@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1991'
 magazine: 'n°8 1er mars 1992'
 pages: 134 pages
-description: |-
+description: 
   '1. Notes sur la description naturaliste
   2. L’écriture artiste
   3. Émile Zola

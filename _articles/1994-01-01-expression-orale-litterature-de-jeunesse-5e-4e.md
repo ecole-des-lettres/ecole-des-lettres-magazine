@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse [5e-4e]'
 annee: '1994'
 magazine: 'n°10 15 avril 1995'
 pages: '4'
-description: |-
+description: 
   '1. « Entre-deux », de Marie-Noëlle Blin (cinquième)
   – guide de préparation de l’élève
   2. « Le Défi d’Alfred », de Robert Lipsyte (quatrième)

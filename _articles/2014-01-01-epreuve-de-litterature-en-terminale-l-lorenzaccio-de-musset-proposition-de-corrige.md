@@ -6,7 +6,7 @@ rubrique: ''
 annee: '2014'
 magazine: ''
 pages: '2'
-description: |-
+description: 
   'Le sujet national des épreuves de littérature en terminale L a pris appui, cette année, sur le domaine d’étude « Lire écrire publier » et invité les candidats à réfléchir sur le drame de Musset, « Lorenzaccio ». Les deux questions bien ciblées visaient à faire mettre en œuvre les connaissances liées au
   domaine d’étude. Notre proposition de corrigé se veut une réponse « réaliste » dans la mesure où il a été effectué dans les conditions de l’examen…'
 article_pdf: '12683.pdf'

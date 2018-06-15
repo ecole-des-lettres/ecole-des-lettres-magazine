@@ -5,7 +5,7 @@ rubrique: 'L'expression écrite au collège[6e-3e]'
 annee: '2003'
 magazine: 'n°13 juin 2004'
 pages: '16'
-description: |-
+description: 
   '1. Les stéréotypes : définitions et exemples
   2. Comment l’élève peut-il exploiter des stéréotypes ?
   3. Pourquoi se baser sur les stéréotypes pour (faire) écrire ?

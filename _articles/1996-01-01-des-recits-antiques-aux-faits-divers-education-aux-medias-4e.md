@@ -5,7 +5,7 @@ rubrique: 'Éducation aux médias [4e]'
 annee: '1996'
 magazine: 'n°8 15 février 1997'
 pages: '12'
-description: |-
+description: 
   'Pourquoi certains faits divers semblent directement inspirés de tragédies antiques…
   1. Les faits divers dans l’histoire romaine
   – qu’est-ce qu’un fait divers ?

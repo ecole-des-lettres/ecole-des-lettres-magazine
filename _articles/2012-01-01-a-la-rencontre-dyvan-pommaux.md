@@ -5,7 +5,7 @@ rubrique: ''
 annee: '2012'
 magazine: 'n°6-7 2012-2013'
 pages: '96'
-description: |-
+description: 
   '– À la rencontre d’Yvan Pommaux, par Réjane Niogret et Christian Poslaniec
   Influences littéraires et picturales
   – À moi, conte, deux mots ! L’univers du conte chez Yvan Pommaux, par Réjane Niogret et Christian Poslaniec

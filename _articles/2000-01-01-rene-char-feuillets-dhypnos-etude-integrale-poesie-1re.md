@@ -5,7 +5,7 @@ rubrique: 'Poésie [1re]'
 annee: '2000'
 magazine: '2001'
 pages: '76'
-description: |-
+description: 
   'Déroulement de la séquence : sept séances.
   1. Introduction à l’étude suivie du recueil
   – pourquoi étudier « Feuillets d’Hypnos » ?

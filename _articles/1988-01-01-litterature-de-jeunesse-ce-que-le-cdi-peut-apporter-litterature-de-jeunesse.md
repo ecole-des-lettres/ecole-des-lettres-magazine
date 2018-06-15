@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse'
 annee: '1988'
 magazine: 'n°11 1er mai 1989'
 pages: '8'
-description: |-
+description: 
   '– La littérature de jeunesse entre en classe…
   – Pour découvrir la littérature de jeunesse : le CDI
   – Quels financements pour des projets lecture ?

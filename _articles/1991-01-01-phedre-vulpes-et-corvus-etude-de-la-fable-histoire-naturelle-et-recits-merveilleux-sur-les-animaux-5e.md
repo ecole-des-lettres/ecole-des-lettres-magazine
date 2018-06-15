@@ -5,7 +5,7 @@ rubrique: 'Histoire naturelle et récits merveilleux sur les animaux [5e]'
 annee: '1991'
 magazine: 'n°4 1er novembre 1991'
 pages: '4'
-description: |-
+description: 
   'Objectif : fonder l’enseignement des langues anciennes sur la lecture de textes authentiques…
   Première étape : lecture
   Deuxième étape : le parcours étymologique

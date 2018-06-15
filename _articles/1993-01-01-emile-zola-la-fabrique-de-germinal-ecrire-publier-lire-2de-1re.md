@@ -5,7 +5,7 @@ rubrique: 'Écrire, publier, lire [2de-1re]'
 annee: '1993'
 magazine: 'n°4 1er novembre 1993'
 pages: '2'
-description: |-
+description: 
   '1. Premières réflexions avant toute enquête : atteindre le maximum de violence
   2. La grève : ruines, violences, morts
   3. La peur du Grand Soir

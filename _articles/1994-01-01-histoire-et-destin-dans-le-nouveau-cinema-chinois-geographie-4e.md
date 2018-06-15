@@ -5,7 +5,7 @@ rubrique: 'Géographie [4e]'
 annee: '1994'
 magazine: 'n°3 15 octobre 1994'
 pages: '7'
-description: |-
+description: 
   'Les préoccupations du nouveau cinéma chinois vues à travers quelques films des années 1980…
   – Production d’État, diffusion de masse
   – La « cinquième génération »

@@ -6,7 +6,7 @@ rubrique: 'Théâtre [1re]'
 annee: '1999'
 magazine: 'n°12 mai 2000'
 pages: '15'
-description: |-
+description: 
   '1. L’espace scénique : du jeu au symbole
   – les éléments de décor
   – l’espace scénique, un espace dramaturgique

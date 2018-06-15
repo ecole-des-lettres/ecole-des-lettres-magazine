@@ -5,7 +5,7 @@ rubrique: 'Poésie, autobiographie et réécritures [1re]'
 annee: '1988'
 magazine: 'n°8 1er février 1989'
 pages: '26'
-description: |-
+description: 
   '1. L’autobiographie indirecte
   – l’écriture du « je »
   – le narcissisme scriptural

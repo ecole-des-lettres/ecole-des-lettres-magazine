@@ -5,7 +5,7 @@ rubrique: 'L’éloge et le blâme [2de]'
 annee: '2000'
 magazine: 'n°12 15 avril 2001'
 pages: '23'
-description: |-
+description: 
   '1. Origine de la rhétorique latine
   2. Place de l’éloge et du blâme dans la théorie rhétorique
   3. Théorie de l’éloge et du blâme

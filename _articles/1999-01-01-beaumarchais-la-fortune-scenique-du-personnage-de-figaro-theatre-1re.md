@@ -5,7 +5,7 @@ rubrique: 'Théâtre [1re]'
 annee: '1999'
 magazine: 'n°12 mai 2000'
 pages: '18'
-description: |-
+description: 
   '1. Le Figaro du « Barbier de Séville »
   – les caractéristiques du premier Figaro
   – l’interprétation scénique du rôle

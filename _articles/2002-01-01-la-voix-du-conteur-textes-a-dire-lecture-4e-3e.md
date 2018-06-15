@@ -5,7 +5,7 @@ rubrique: 'Lecture [4e-3e]'
 annee: '2002'
 magazine: 'n°4 1er octobre 2002'
 pages: '2'
-description: |-
+description: 
   'Un article qui propose de lire contes ou extraits de romans aux élèves.
   1. « Pigeons : mode d’emploi », de Tran Quoc Trung
   2. « L’Île de la lune », d’Yves Pinguilly'

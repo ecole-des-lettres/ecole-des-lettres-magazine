@@ -5,7 +5,7 @@ rubrique: 'Littérature médiévale [5e]'
 annee: '1992'
 magazine: 'n°12 15 mai 1993'
 pages: '16'
-description: |-
+description: 
   '1. Les splendeurs de la chevalerie traditionnelle
   – une chevalerie illuminée
   – l’éclat des « prodomes »

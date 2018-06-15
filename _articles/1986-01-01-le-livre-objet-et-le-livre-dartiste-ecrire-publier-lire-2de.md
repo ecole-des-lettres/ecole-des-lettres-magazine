@@ -5,7 +5,7 @@ rubrique: 'Écrire, publier, lire [2de]'
 annee: '1986'
 magazine: 'n°11 15 mars 1987'
 pages: '4'
-description: |-
+description: 
   '1. Livre / objet
   2. Le livre-objet
   3. Le livre d’artiste

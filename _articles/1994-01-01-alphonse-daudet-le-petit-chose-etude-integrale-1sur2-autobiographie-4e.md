@@ -5,7 +5,7 @@ rubrique: 'Autobiographie [4e]'
 annee: '1994'
 magazine: 'n°7 1er février 1995'
 pages: '18'
-description: |-
+description: 
   'Bien connu pour les « Lettres de mon moulin » (1869) ou pour « Tartarin de Tarascon » (1872), Alphonse Daudet mérite aussi de l’être pour son premier roman, « Le Petit Chose » (1868). Cette œuvre a pour sous-titre « Histoire d’un enfant » et s’inscrit tout à fait dans cette littérature du XIXe siècle qui éclaire ou dénonce certaines réalités sociales, au même titre que « Les Misérables », de Victor Hugo, « L’Enfant », de Jules Vallès, ou certains romans de Balzac.
   1. L’éclatement de la famille (première partie : chapitres 1 à 4)
   – « Le Petit Chose », un surnom : questions et éléments de réponse ; expression écrite

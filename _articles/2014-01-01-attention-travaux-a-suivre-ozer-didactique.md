@@ -5,7 +5,7 @@ rubrique: 'Didactique'
 annee: '2014'
 magazine: 'n°1'
 pages: '2'
-description: |-
+description: 
   'Un groupe de formateurs de l’académie de Paris, animé par Françoise Gomez, IAIPR de Lettres, travaille depuis un an avec un universitaire spécialiste de Zola, Olivier Lumbroso (Paris 3), et avec Jean-Sébastien Macke, websmestre du site Archiz (ITEMCNRS), site de ressources officiel portant sur l’œuvre et la critique zoliennes.
   Leurs travaux puisent dans l’œuvre littéraire et sa genèse le modèle cognitif d’une approche novatrice de l’écriture, directement offerte à l’élève...'
 article_pdf: '12706.pdf'

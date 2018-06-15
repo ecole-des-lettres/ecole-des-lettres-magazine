@@ -5,7 +5,7 @@ rubrique: 'Grec [1re]'
 annee: '1991'
 magazine: 'n°4 1er novembre 1991'
 pages: '4'
-description: |-
+description: 
   '1. Le rêve de la reine Atossa, vers 176 à 214
   – traduction
   – notes grammaticales

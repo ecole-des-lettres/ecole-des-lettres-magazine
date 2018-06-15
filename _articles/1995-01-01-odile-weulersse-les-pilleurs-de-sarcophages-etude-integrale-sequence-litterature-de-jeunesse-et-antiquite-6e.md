@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et Antiquité [6e]'
 annee: '1995'
 magazine: 'n°4 15 novembre 1995'
 pages: '16'
-description: |-
+description: 
   'Propositions d’activités pour des élèves de sixième en  difficulté. Ces activités complètent une précédente étude de l’œuvre (n°11, 15 avril 1993)
   1. Première étape : la mise en route
   * Séance 1. L’avant-propos et le chapitre 1

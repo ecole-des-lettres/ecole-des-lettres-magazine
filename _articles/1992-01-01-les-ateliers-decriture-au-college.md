@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1992'
 magazine: 'n°9 1er mars 1993'
 pages: 148 pages
-description: |-
+description: 
   '1. Impromptu à bâtons rompus
   2. Des ateliers d’écriture menés auprès de jeunes. Comment ? Pourquoi ?
   3. Et si on écrivait un roman ? (sixième)

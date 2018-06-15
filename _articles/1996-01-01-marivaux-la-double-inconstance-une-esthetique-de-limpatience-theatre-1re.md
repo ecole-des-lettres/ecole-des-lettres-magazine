@@ -5,7 +5,7 @@ rubrique: 'Théâtre [1re]'
 annee: '1996'
 magazine: 'n°8 1er février 1997'
 pages: '13'
-description: |-
+description: 
   'L’inscription de Marivaux dans la vie concrète de son temps ne se fit pas sans mal : il n’obtint pas son diplôme de droit, il n’hérita pas de la charge de directeur de la Monnaie que son père avait obtenue à Riom, il perdit sa fortune dans l’effondrement du système de Law ; il ne lui resta que la littérature pour lui procurer la seule jouissance qui valût à ses yeux : la jouissance du présent.
 
   1. La pratique littéraire pour Marivaux

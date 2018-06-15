@@ -5,7 +5,7 @@ rubrique: 'Guerres mondiales : du nazisme à Vichy'
 annee: '1996'
 magazine: 'n°6 15 décembre 1996'
 pages: '23'
-description: |-
+description: 
   'Le contexte historique de « Voyage à Pitchipoï », de Jean-Claude Moscovici
   1. L’Allemagne nazie
   2. Le gouvernement de Vichy'

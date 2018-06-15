@@ -5,7 +5,7 @@ rubrique: 'Poésie [1re]'
 annee: '1992'
 magazine: 'n°14 15 juin 1993'
 pages: '4'
-description: |-
+description: 
   'L’ode (I, 25) est donnée en latin, dans sa traduction française, et suivie d’un commentaire :
   – le vent, le feu et la parole
   – une ode tragique ?

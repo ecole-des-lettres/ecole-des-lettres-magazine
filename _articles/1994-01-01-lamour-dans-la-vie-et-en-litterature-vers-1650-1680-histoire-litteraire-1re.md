@@ -5,7 +5,7 @@ rubrique: 'Histoire littéraire [1re]'
 annee: '1994'
 magazine: 'n°11 1er mai 1995'
 pages: '17'
-description: |-
+description: 
   '– L’assujettissement
   – Des couples sans amour
   – La vie parallèle : passion et plaisir

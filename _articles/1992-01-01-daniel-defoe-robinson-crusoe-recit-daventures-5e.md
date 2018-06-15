@@ -5,7 +5,7 @@ rubrique: 'Récit d’aventures [5e]'
 annee: '1992'
 magazine: 'n°4 1er novembre 1992'
 pages: '22'
-description: |-
+description: 
   'Un peu d’histoire littéraire autour de « Robinson Crusoé » et du genre de la « robinsonnade », suivi d’une étude de l’œuvre :
   Séquence 1 : avant l’arrivée sur l’île
   Séquence 2 : les premiers moments sur l’île

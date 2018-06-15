@@ -5,7 +5,7 @@ rubrique: 'Théâtre [1re]'
 annee: '1991'
 magazine: 'n°1 15 septembre 1991'
 pages: '12'
-description: |-
+description: 
   '1. La fonction référentielle du prologue
   2. Le rapport direct au spectateur
   3. Un métalangage sur le théâtre'

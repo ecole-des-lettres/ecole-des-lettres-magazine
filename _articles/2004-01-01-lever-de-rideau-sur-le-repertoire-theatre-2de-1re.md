@@ -5,7 +5,7 @@ rubrique: 'Théâtre [2de-1re]'
 annee: '2004'
 magazine: '2005'
 pages: '67'
-description: |-
+description: 
   'La séquence présentée dans cet article accompagne un projet pédagogique centré sur le Répertoire de la Comédie-Française. Sous l’intitulé « Lever de rideau sur le Répertoire », on propose à une classe de lire trois pièces, d’une même époque et relevant d’un même genre. Pour l’année 2006, trois pièces en un acte ont été retenues, initialement jouées en prologue du spectacle principal :
   – « Le Deuil », de Hauteroche ;
   – « Sganarelle ou le Cocu imaginaire », de Molière ;

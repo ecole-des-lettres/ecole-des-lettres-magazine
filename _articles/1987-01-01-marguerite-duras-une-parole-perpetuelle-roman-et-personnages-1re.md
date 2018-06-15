@@ -5,7 +5,7 @@ rubrique: 'Roman et personnages [1re]'
 annee: '1987'
 magazine: 'n°6 1er décembre 1987'
 pages: '10'
-description: |-
+description: 
   'Une parole sans trêve qui reprend la même histoire…
   1. Du recommencement au désastre
   2. Hantises

@@ -7,7 +7,7 @@ rubrique: 'Cinéma'
 annee: '2005'
 magazine: 'n°11-12 septembre 2006'
 pages: '4'
-description: |-
+description: 
   '– « Il Regista di matrimoni », de Marco Bellochio, adapté des « Fiancés », d’Alessandro Manzoni.
   – « Tristram Shandy », de Michael Winterbottom, adapté de Lawrence Sterne.'
 article_pdf: '11376.pdf'

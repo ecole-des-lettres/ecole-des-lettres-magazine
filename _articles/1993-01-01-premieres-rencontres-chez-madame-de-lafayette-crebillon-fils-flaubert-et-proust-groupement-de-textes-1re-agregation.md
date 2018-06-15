@@ -6,7 +6,7 @@ rubrique: 'Groupement de textes [1re-agrégation]'
 annee: '1993'
 magazine: 'n°1 15 septembre 1993'
 pages: '5'
-description: |-
+description: 
   'Traitement d’un sujet dans la perspective de  l’épreuve didactique à l’agrégation interne de Lettres. Sujet proposé : « Vous disposez d’un groupement de textes et vous voulez faire étudier dans une classe de seconde les caractéristiques de quelques scènes de première rencontre. »
   Textes : extrait de « La Princesse de Clèves », de Mme de Lafayette ; extrait des « Égarements du cœur et de l’esprit », de Crébillon fils ; extrait de « L’Éducation sentimentale », de Flaubert ; extrait de « Du côté de chez Swann », de Proust…
   1. Le projet d’ensemble

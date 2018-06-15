@@ -5,7 +5,7 @@ rubrique: 'Étude de la langue [5e]'
 annee: '1991'
 magazine: 'n°7 15 janvier 1992'
 pages: '2'
-description: |-
+description: 
   '1. Réflexions sur la spécificité des relatifs : qui, que, dont, où, qui et quoi, lequel
   2. Approche pédagogique des relatifs
   3. Les interrogatifs'

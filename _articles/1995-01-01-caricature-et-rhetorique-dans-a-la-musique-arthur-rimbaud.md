@@ -5,7 +5,7 @@ rubrique: 'Arthur Rimbaud '
 annee: '1995'
 magazine: 'n° X 1996'
 pages: '31'
-description: |-
+description: 
   '1. « Choses vues » et « choses lues »
   2. Le titre
   3. La physiologie du propriétaire

@@ -5,7 +5,7 @@ rubrique: 'Interdisciplinarité lettres, histoire  [2de-1re]'
 annee: '1998'
 magazine: 'n°3 15 septembre 1998'
 pages: '12'
-description: |-
+description: 
   'Perspectives sur un monde nouveau…
   1. L’homme face à Dieu
   2. L’homme face au monde

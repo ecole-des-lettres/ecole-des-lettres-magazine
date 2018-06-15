@@ -5,7 +5,7 @@ rubrique: ''
 annee: '2003'
 magazine: 'n°10 15 mars 2004'
 pages: 160 pages
-description: |-
+description: 
   '1. Pratique théâtrale : le théâtre comme il se fait
   – pour un autre regard sur le théâtre « classique »
   – le regard et ses obstacles dans le théâtre du XVIIe siècle

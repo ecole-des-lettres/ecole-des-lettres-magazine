@@ -5,7 +5,7 @@ rubrique: 'Honoré de Balzac '
 annee: '1994'
 magazine: 'n°3 1er novembre 1994'
 pages: '10'
-description: |-
+description: 
   '1. Chabert et le Code civil
   2. L’absence
   3. La transaction

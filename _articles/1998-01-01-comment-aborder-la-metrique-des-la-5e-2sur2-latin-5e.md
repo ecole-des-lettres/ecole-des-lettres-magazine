@@ -5,7 +5,7 @@ rubrique: 'Latin [5e]'
 annee: '1998'
 magazine: 'n°6 15 novembre 1998'
 pages: '6'
-description: |-
+description: 
   'Proposition de progression…
   2. L’hexamètre dactylique
   – le déluge, dans « Les Métamorphoses », d’Ovide

@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse [3e]'
 annee: '1998'
 magazine: 'n°12 avril 1999'
 pages: '12'
-description: |-
+description: 
   'Étude de la dimension informative d’un ouvrage de fiction destiné à la jeunesse…
   1. Outils théoriques : les apports de l’analyse de contenu
   – les grilles de catégories

@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1991'
 magazine: 'n°6 1er janvier 1992'
 pages: 126 pages
-description: |-
+description: 
   '1. L’évaluation nationale en CM2 et en sixième (1989 et 1990)
   2. Les leçons à tirer de l’évaluation
   3. L’évaluation-remédiation en classe de sixième : l’analyse des lecteurs de « L’École des lettres »

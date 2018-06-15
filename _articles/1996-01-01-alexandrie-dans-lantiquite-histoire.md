@@ -5,7 +5,7 @@ rubrique: 'Histoire'
 annee: '1996'
 magazine: 'n°9 15 février 1997'
 pages: '6'
-description: |-
+description: 
   'Analyse comparative de six ouvrages parus entre 1992 et 1996 sur l’histoire d’Alexandrie et la fin de la civilisation hellénistique :
   – « Antoine et Cléopâtre : la fin d’un rêve », de Paul M. Martin
   – « Alexandrie la Grande » et « Alexandrie des Ptolémées », d’André Bernand

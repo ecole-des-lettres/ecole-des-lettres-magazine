@@ -5,7 +5,7 @@ rubrique: 'Géographie [4e]'
 annee: '1996'
 magazine: 'n°9 1er mars 1997'
 pages: '13'
-description: |-
+description: 
   'Dans la perspective d’un programme qui prend en compte la mondialisation de la planète, proposition de deux séquences d’enseignement portant sur l’ensemble du continent nord-américain ; on y inclura le Mexique, pays que les élèves retrouveront en terminale.
   1. Avant-propos : le problème et les enjeux
   2. Telles ressources, tel espace ?

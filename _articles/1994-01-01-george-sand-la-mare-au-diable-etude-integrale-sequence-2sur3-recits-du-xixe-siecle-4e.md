@@ -5,7 +5,7 @@ rubrique: 'Récits du XIXe siècle [4e]'
 annee: '1994'
 magazine: 'n°5 15 décembre 1994'
 pages: '14'
-description: |-
+description: 
   '* Séance 1. Chapitres 3 à 5
   – situation de l’œuvre et de l’auteur
   – lectures initiales

@@ -5,7 +5,7 @@ rubrique: 'Ateliers d'écriture [6e]'
 annee: '1992'
 magazine: 'n°9 1er mars 1993'
 pages: '6'
-description: |-
+description: 
   'Compte rendu d’une expérience pédagogique en classe de sixième : faire écrire un roman aux élèves…
   1. L’organisation du travail
   2. Progression pédagogique

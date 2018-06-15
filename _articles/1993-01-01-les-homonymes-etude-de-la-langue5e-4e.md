@@ -5,7 +5,7 @@ rubrique: 'Étude de la langue[5e-4e]'
 annee: '1993'
 magazine: 'n°2 1er octobre 1993'
 pages: '4'
-description: |-
+description: 
   '1. Homonymes hétérographes
   – phrases à trous à compléter
   – orthographe à légitimer à l’aide du dictionnaire

@@ -6,7 +6,7 @@ rubrique: 'Interdisciplinarité français, latin [5e]'
 annee: '1985'
 magazine: 'n°12 15 avril 1986'
 pages: '4'
-description: |-
+description: 
   '1. Lecture du texte
   2. Transcription en français contemporain
   3. Du latin au français

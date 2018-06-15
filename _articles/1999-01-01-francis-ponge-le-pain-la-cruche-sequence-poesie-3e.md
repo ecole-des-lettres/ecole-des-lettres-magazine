@@ -5,7 +5,7 @@ rubrique: 'Poésie [3e] '
 annee: '1999'
 magazine: 'n°11 15 mars 2000'
 pages: '15'
-description: |-
+description: 
   'Cette séquence, organisée autour de l’étude
   de deux poèmes de Francis Ponge, vise à faire
   découvrir un poète du XXe siècle, ainsi que le

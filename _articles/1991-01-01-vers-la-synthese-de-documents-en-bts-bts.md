@@ -5,7 +5,7 @@ rubrique: 'BTS'
 annee: '1991'
 magazine: 'n°14 1er juillet 1992'
 pages: '16'
-description: |-
+description: 
   '1. Typologie des documents du dossier de synthèse
   2. Développer des stratégies de lecture efficaces
   3. Exploitation des documents non textuels du dossier de synthèse ?'

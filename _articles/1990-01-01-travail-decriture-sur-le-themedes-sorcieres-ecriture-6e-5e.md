@@ -5,7 +5,7 @@ rubrique: 'Écriture [6e-5e]'
 annee: '1990'
 magazine: 'n°1 15 septembre 1990'
 pages: '10'
-description: |-
+description: 
   'Un travail d’écriture à partir d’un thème…
   1. Introduction du projet d’écriture
   2. Descriptif du dispositif pédagogique

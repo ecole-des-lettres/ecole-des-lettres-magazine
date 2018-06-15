@@ -6,7 +6,7 @@ rubrique: 'Argumentation [2de]'
 annee: '2003'
 magazine: '2004'
 pages: '33'
-description: |-
+description: 
   'Cet article propose un sujet de CAPES interne portant sur l’épidictique : « Dans le cadre de l’objet d’étude “l’éloge et le blâme” en classe de seconde, vous entreprendrez l’étude du groupement de textes ci-dessous. Vous définirez votre projet d’ensemble ainsi que ses modalités d’exploitation. »
   Corpus :
   – un extrait de la lettre à M. de Pomponne, de Mme de Sévigné

@@ -5,7 +5,7 @@ rubrique: 'Histoire [3e] '
 annee: '1992'
 magazine: 'n°13 1er juin 1993'
 pages: '10'
-description: |-
+description: 
   '– Objectifs : examiner trois aspects de la réunification : les obstacles existant en 1990, les solutions tentées, puis un bilan provisoire
   – Conduite de la leçon
   1. Historique de la réunification

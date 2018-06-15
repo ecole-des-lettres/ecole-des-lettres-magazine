@@ -5,7 +5,7 @@ rubrique: 'Littérature médiévale [Tle]'
 annee: '1996'
 magazine: 'n°10 1er mars 1997'
 pages: '10'
-description: |-
+description: 
   '1. Un oubli surprenant : Lancelot reste plus un nom auréolé de prestige légendaire qu’un personnage courant de la littérature française actuelle…
   2. Cocteau : rêve, beauté et vérité
   3. Morale et leçon : de Cocteau à Aragon

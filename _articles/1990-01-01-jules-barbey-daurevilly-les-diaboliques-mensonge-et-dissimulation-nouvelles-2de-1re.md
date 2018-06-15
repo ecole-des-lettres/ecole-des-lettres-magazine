@@ -5,7 +5,7 @@ rubrique: 'Nouvelles [2de-1re]'
 annee: '1990'
 magazine: 'n°7 15 janvier 1991'
 pages: '6'
-description: |-
+description: 
   'Étude des personnages des « Diaboliques » : pourquoi ont-ils recours à la dissimulation et au mensonge dans lesquels ils excellent ?
   1. La dissimulation : chez les hommes, chez les jeunes filles, chez les femmes, dissimulation d’un couple, dissimulation collective, esquisse d’une philosophie de la dissimulation, le refus de dissimuler, l’impossibilité de dissimuler
   2. Le mensonge'

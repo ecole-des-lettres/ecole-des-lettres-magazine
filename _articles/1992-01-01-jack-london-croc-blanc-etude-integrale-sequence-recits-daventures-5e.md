@@ -5,7 +5,7 @@ rubrique: 'Récits d’aventures [5e]'
 annee: '1992'
 magazine: 'n°7 15 janvier 1993'
 pages: '18'
-description: |-
+description: 
   '* Séance 1 
   – Introduction : projection du film de Randal Kleiser, « Croc-Blanc » 
   – exploitation (questionnaire sur le film) 

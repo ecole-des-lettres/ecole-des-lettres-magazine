@@ -5,7 +5,7 @@ rubrique: 'Journal intime et fiction fantastique [4e-3e]'
 annee: '1995'
 magazine: 'n°3 15 octobre 1995'
 pages: '16'
-description: |-
+description: 
   'Ce roman, qui oscille entre science-fiction et fantastique, permet aussi d’aborder les caractéristiques de la nouvelle et du journal intime. Objectifs : lecture, démarches d’écriture, comparaison de plusieurs fictions fantastiques où le narrateur tient son journal, écriture de journaux de fiction…
   1. De l’hétérogénéité des genres : autobiographie et fiction
   – une nouvelle

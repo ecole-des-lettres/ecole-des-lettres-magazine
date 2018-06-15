@@ -5,7 +5,7 @@ rubrique: 'Autobiographie [1re]'
 annee: '1985'
 magazine: 'n°11 15 mars 1986'
 pages: '10'
-description: |-
+description: 
   '1. Une vie, un caractère
   2. Douze ans de « Journal littéraire »
   3. La gazette littéraire

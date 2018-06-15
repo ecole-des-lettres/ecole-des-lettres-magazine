@@ -5,7 +5,7 @@ rubrique: 'Poésie [1re]'
 annee: '1994'
 magazine: 'n°3 1er novembre 1994'
 pages: '14'
-description: |-
+description: 
   '3. Explication de texte d’un poème de Musset extrait de « Namouna » (chant 2)
   – situation et problématique du passage
   – explication : don Juan le volage ; don Juan l’errant ; la fin de don Juan

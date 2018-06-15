@@ -5,7 +5,7 @@ rubrique: 'Edmond Jabès : « Le Livre des Ressemblances »'
 annee: '1986'
 magazine: 'n°11 15 mars 1987'
 pages: '10'
-description: |-
+description: 
   '1. Qui peut bien être Edmond Jabès ?
   2. Le livre et l’image du livre
   3. L’approche du livre

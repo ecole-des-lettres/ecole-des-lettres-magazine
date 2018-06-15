@@ -5,7 +5,7 @@ rubrique: 'Interdisciplinarité et histoire des arts [5e]'
 annee: '1997'
 magazine: 'n°7 1er décembre 1997'
 pages: '11'
-description: |-
+description: 
   'Description d’un parcours diversifié autour d’un thème historique, développé en 1996-1997 par un groupe d’enseignants de différentes disciplines…
   1. Ce que disent les textes officiels
   – les objectifs des parcours diversifiés

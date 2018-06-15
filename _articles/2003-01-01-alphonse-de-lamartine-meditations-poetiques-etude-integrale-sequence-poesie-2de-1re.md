@@ -5,7 +5,7 @@ rubrique: 'Poésie [2de-1re]'
 annee: '2003'
 magazine: 'n°12-14 août 2004'
 pages: '36'
-description: |-
+description: 
   'Cette séquence sur les « Méditations » se déroule sur trois semaines et six séances.
   1. Première semaine : situation
   – Lamartine, l’homme et l’œuvre (avec un quizz de vingt questions)

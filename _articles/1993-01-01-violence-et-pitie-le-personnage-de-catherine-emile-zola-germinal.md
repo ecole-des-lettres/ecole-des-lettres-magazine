@@ -5,7 +5,7 @@ rubrique: 'Émile Zola : « Germinal »'
 annee: '1993'
 magazine: 'n°4 1er novembre 1993'
 pages: '10'
-description: |-
+description: 
   '1. Une « bonne étude à faire »
   2. Un destin de femme
   3. Conclusion. Que meure la femme pour que vive le héros !'

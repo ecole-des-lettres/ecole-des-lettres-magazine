@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et journal intime [4e]'
 annee: '1995'
 magazine: 'n°3 15 octobre 1995'
 pages: '16'
-description: |-
+description: 
   'Étude d’un roman jeunesse présenté sous forme de journal intime. Une jeune fille, abandonnée par ses parents sur une aire d’autoroute, doit apprendre à organiser sa vie…
   1. Quand une Lili rencontre une autre Lili…
   2. Un vrai faux journal

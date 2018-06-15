@@ -6,7 +6,7 @@ rubrique: 'Langage verbal et images [Tle]'
 annee: '1991'
 magazine: 'n°5 1er décembre 1991'
 pages: '13'
-description: |-
+description: 
   '4. Une époque et ses miroirs
   – les « bonnes femmes »
   – le libertinage

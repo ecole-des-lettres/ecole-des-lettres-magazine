@@ -5,7 +5,7 @@ rubrique: 'Théâtre'
 annee: '1985'
 magazine: 'n°12 15 avril 1986'
 pages: 106 pages
-description: |-
+description: 
   '1. Molière aujourd’hui
   2. Les théâtres et la vie des comédiens au XVIIe siècle
   3. Le public de théâtre à l’époque de Molière

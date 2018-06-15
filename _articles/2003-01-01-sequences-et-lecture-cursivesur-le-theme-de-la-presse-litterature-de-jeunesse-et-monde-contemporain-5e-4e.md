@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et monde contemporain [5e-4e]'
 annee: '2003'
 magazine: 'n°7 15 décembre 2003'
 pages: '6'
-description: |-
+description: 
   'Cet article propose de plonger les élèves dans le monde de la presse par la lecture de livres de jeunesse qui favorisent l’accès à un certain nombre de thèmes (liberté de la presse, vérification des informations, respect de la vie privée…), toujours d’actualité. La variété des approches proposées ici, depuis le journal scolaire jusqu’à l’enquête policière ou les journaux clandestins, en passant par l’apprentissage du métier, permet de faire prendre conscience aux élèves des difficultés d’informer.
   – « Chapeau, les tueurs », de Michel Grimaud
   – « Anastasia connaît la réponse », de Lois Lowry

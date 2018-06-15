@@ -5,7 +5,7 @@ rubrique: 'Histoire littéraire'
 annee: '2005'
 magazine: 'n°11-12 septembre 2006'
 pages: '4'
-description: |-
+description: 
   'Présentation de quatre ouvrages :
   – Raymond Trousson : « Diderot ou le vrai Prométhée » (Tallandier, 2005) ;
   – Marc Fumaroli : « Exercices de lecture. De Rabelais à Paul Valéry » et « Chateaubriand. Poésie et terreur » (Gallimard, 2006) ;

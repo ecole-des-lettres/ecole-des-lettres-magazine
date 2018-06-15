@@ -6,7 +6,7 @@ rubrique: 'Nouvelles [2de]'
 annee: '1990'
 magazine: 'n°7 15 janvier 1991'
 pages: '16'
-description: |-
+description: 
   '– Manichéisme et christianisme
   – Qu’est-ce que la passion ?
   – La chair est triste

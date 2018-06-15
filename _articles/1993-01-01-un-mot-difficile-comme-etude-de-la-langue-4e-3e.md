@@ -5,7 +5,7 @@ rubrique: 'Étude de la langue [4e-3e]'
 annee: '1993'
 magazine: 'n°2 1er octobre 1993'
 pages: '6'
-description: |-
+description: 
   '1. « Comme » conjonction de subordination
   – conjonction temporelle
   – conjonction causale

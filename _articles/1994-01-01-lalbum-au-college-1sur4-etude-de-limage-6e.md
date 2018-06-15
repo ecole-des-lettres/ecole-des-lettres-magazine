@@ -5,7 +5,7 @@ rubrique: 'Étude de l’image [6e]'
 annee: '1994'
 magazine: 'n°6 1er janvier 1995'
 pages: '5'
-description: |-
+description: 
   'Utilisation de l’album en sixième. Mise en évidence de structures littéraires que soulignent les illustrations. Travail sur la connotation et l’intertextualité…
   1. « L’Arbre sans fin », de Claude Ponti
   – résumé

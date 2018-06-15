@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse [6e-5e]'
 annee: '1995'
 magazine: 'n°1 1er septembre 1995'
 pages: '4'
-description: |-
+description: 
   '1. Résumé
   2. Test de lecture
   3. Orthographe-vocabulaire

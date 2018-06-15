@@ -5,7 +5,7 @@ rubrique: 'Interdisciplinarité français, documentation [3e]'
 annee: '2006'
 magazine: '2007'
 pages: '2'
-description: |-
+description: 
   'Comment faire entrer les élèves de plain-pied dans le monde du travail en leur apportant les compétences nécessaires pour rédiger un rapport de stage, puis une fiche de métier. Cet article retrace une expérimentation menée avec deux classes de troisième en interdisciplinarité et transposable dans tout établissement.
   Objectifs :
   – organiser et évaluer le stage en entreprise ; réaliser un fichier des métiers.'

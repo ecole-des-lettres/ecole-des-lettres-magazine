@@ -5,7 +5,7 @@ rubrique: 'Autobiographie [1re]'
 annee: '1985'
 magazine: 'n°11 15 mars 1986'
 pages: '8'
-description: |-
+description: 
   '1. Le musicien de la vie intérieure
   2. Le journal comme exigence vitale
   3. Le journal d’un « Proust chrétien »

@@ -5,7 +5,7 @@ rubrique: 'Roman [5e-3e]'
 annee: '1991'
 magazine: 'n°1 15 septembre 1991'
 pages: '8'
-description: |-
+description: 
   'Pour chaque séquence :
   – un tableau d’analyse des différents chapitres
   – un questionnaire

@@ -5,7 +5,7 @@ rubrique: 'Roman [5e-3e]'
 annee: '1991'
 magazine: 'n°3 15 octobre 1991'
 pages: '10'
-description: |-
+description: 
   'Suite de la séquence 3 :
   – la faune préhistorique
   – proposition de composition française

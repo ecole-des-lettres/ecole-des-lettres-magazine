@@ -5,7 +5,7 @@ rubrique: 'Géographie [5e]'
 annee: '1992'
 magazine: 'n°7 15 janvier 1993'
 pages: '12'
-description: |-
+description: 
   '1. L’épidémie de 1832 à Paris
   2. Étude d’un document (archive : description d’un cas de choléra)
   3. L’épidémie de choléra en 1991 en Amérique latine

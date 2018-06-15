@@ -5,7 +5,7 @@ rubrique: 'Commentaire composé [1re]'
 annee: '2000'
 magazine: 'n°14 15 juin 2001'
 pages: '12'
-description: |-
+description: 
   '1. Le lyrisme amoureux : un poème discursif
   – une déclaration conventionnelle
   – amour et sensualité

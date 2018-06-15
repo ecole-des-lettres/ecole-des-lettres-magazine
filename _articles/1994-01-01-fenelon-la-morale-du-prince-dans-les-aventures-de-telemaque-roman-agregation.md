@@ -5,7 +5,7 @@ rubrique: 'Roman [agrégation]'
 annee: '1994'
 magazine: 'n°4 15 novembre 1994'
 pages: '15'
-description: |-
+description: 
   '1. La leçon du mal
   – la formation, principe politique essentiel
   – vaincre les vices

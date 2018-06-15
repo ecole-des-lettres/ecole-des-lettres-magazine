@@ -5,7 +5,7 @@ rubrique: 'Géographie [3e]'
 annee: '1998'
 magazine: 'n°5 15 octobre 1998'
 pages: '14'
-description: |-
+description: 
   'Dans la perspective de la préparation au second cycle, on peut construire une leçon permettant à la fois de prendre conscience des difficultés propres au raisonnement en sciences humaines et d’initier à la démarche géographique. Les fiches élève servent ici à construire le plan de la leçon. Les élèves prépareront les questions à la maison, afin de consacrer la séance à la réflexion sur la construction logique du plan et à l’acquisition de connaissances sur le tourisme en France.
   1. Remarques préliminaires à la construction d’un plan de géographie
   2. Origines et aspects du tourisme de masse

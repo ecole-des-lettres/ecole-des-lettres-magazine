@@ -6,7 +6,7 @@ rubrique: 'Théâtre [1re]'
 annee: '1991'
 magazine: 'n°7 1er février 1992'
 pages: '22'
-description: |-
+description: 
   '1. La ville assassinée
   2. Le fantôme de Troie
   3. Les yeux d’Andromaque

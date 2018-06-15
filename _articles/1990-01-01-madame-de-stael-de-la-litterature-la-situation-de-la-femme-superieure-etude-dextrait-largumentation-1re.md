@@ -6,7 +6,7 @@ rubrique: 'L’argumentation [1re]'
 annee: '1990'
 magazine: 'n°2 1er octobre 1990'
 pages: '6'
-description: |-
+description: 
   'Extrait de « De la littérature », de Madame de Staël (II, 4), de « L’existence des femmes en société est encore incertaine… » à « ne méritant, en effet, que la pitié »…
   1. Travail sur le résumé
   2. Exposé-discussion : la condition féminine au XVIIIe siècle, la condition féminine pendant la Révolution, les femmes au XIXe siècle, situation de la femme « supérieure » au XXe siècle'

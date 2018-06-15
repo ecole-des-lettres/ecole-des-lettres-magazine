@@ -5,7 +5,7 @@ rubrique: 'Théâtre [classes préparatoires et concours]'
 annee: '1991'
 magazine: 'n°11 15 mai 1992'
 pages: '26'
-description: |-
+description: 
   'Analyse de « Rhinocéros », de Ionesco…
   1. La composition
   – les actes ou la destruction du temps

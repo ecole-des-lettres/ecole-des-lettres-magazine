@@ -5,7 +5,7 @@ rubrique: 'L’art de la conversation'
 annee: '2004'
 magazine: 'n°5 janvier 2005'
 pages: '3'
-description: |-
+description: 
   'Présentation de trois ouvrages consacrés à la conversation :
   – « Histoire de la conversation », d’Emmanuel Godo (PUF, 2003)
   – « L’Âge de la conversation », de Benedetta Craveri (Gallimard, 2003)

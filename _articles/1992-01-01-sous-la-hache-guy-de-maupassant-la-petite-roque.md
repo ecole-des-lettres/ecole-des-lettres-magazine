@@ -5,7 +5,7 @@ rubrique: 'Guy de Maupassant : « La Petite Roque »'
 annee: '1992'
 magazine: 'n°13 1er juin 1993'
 pages: '10'
-description: |-
+description: 
   '1. Contre la police et le roman policier
   2. Le roman de Renardet
   3. La toilette du condamné'

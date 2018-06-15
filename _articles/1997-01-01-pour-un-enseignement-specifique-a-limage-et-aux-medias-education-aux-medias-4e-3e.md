@@ -5,7 +5,7 @@ rubrique: 'Éducation aux médias [4e-3e]'
 annee: '1997'
 magazine: 'n°11 15 mars 1998'
 pages: '7'
-description: |-
+description: 
   'En septembre 1995, une dizaine de collèges de l’académie de Paris, quinze l’année suivante, ont mis en place un enseignement spécifique à l’image et aux médias, à raison d’une heure hebdomadaire…
   1. L’enjeu des classes « Image et médias »
   – acquérir des repères et des techniques

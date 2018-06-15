@@ -5,7 +5,7 @@ rubrique: 'Didactique des lettres'
 annee: '1993'
 magazine: 'n°7 1er février 1994'
 pages: '16'
-description: |-
+description: 
   '1. Une expérience « in vitro » : un public d’étudiants étrangers
   – l’histoire littéraire éclatée
   – l’histoire littéraire recomposée

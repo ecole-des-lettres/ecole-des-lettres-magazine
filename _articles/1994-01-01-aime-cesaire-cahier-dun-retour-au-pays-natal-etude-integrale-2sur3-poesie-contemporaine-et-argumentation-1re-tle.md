@@ -6,7 +6,7 @@ rubrique: 'Poésie contemporaine et argumentation [1re-Tle]'
 annee: '1994'
 magazine: 'n°6 15 janvier 1995'
 pages: '12'
-description: |-
+description: 
   '3. La quête d’une langue : enjeu poétique et politique
   – trouver une langue
   – « La folie flambante du cannibalisme tenace » : désintégration et recréation de la langue française

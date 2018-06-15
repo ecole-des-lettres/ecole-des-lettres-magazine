@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1999'
 magazine: 'n°12 mai 2000'
 pages: 160 pages
-description: |-
+description: 
   '1. Les rapports maîtres/valets dans la comédie du XVIIIe siècle
   2. État du théâtre au XVIIIe siècle
   3. Lesage au coin du bac

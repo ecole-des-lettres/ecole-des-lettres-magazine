@@ -5,7 +5,7 @@ rubrique: 'Français et histoire des arts [3e]'
 annee: '1990'
 magazine: 'n°9 1er mars 1991'
 pages: '10'
-description: |-
+description: 
   'Afin de présenter l’origine et l’histoire du cinéma à des collégiens, les auteurs de l’article choisissent d’analyser son impact sur des spectateurs un peu particuliers : Hélias, Sartre, Cavanna, Martin du Gard, Kaminsky…
   Extraits de « L’Encyclopédie du cinéma », de Boussinot, de « Du côté de chez Swann », de Proust, du « Cheval d’orgueil », de Hélias, de « L’Ève future », de Villiers de L’Isle-Adam, du « Château des Carpathes », de Verne, des « Thibault », de Martin du Gard, des « Mots », de Sartre, des « Ritals », de Cavanna, de « Quand Moscou fait la bombe », de Kaminsky, etc. Chaque extrait est suivi de questions destinées à l’élève.'
 article_pdf: '440.pdf'

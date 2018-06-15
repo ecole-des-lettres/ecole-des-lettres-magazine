@@ -5,7 +5,7 @@ rubrique: 'Poésie [1re]'
 annee: '1998'
 magazine: 'n°1 15 juillet 1998'
 pages: '10'
-description: |-
+description: 
   'Une poésie de combat…
   1. Victor Hugo (1802-1885)
   – l’irrésistible ascension du vicomte Victor Hugo (1802-1848)

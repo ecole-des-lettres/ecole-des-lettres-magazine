@@ -5,7 +5,7 @@ rubrique: 'Histoire-géographie [3e] '
 annee: '2001'
 magazine: 'n°5 15 octobre 2001'
 pages: '7'
-description: |-
+description: 
   '1. L’épreuve d’histoire-géographie et d’éducation civique au brevet des collèges
   2. Quelques réflexions à propos du paragraphe argumenté
   3. Quelle stratégie, quels apprentissages pour le paragraphe argumenté ?'

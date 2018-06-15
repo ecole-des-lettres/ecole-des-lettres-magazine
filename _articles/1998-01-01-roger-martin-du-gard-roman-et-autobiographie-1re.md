@@ -5,7 +5,7 @@ rubrique: 'Roman et autobiographie [1re]'
 annee: '1998'
 magazine: 'n°11 1er mars 1999'
 pages: '30'
-description: |-
+description: 
   '– Panorama de la vie et de l’œuvre de l’écrivain
   – Roger Martin du Gard et son « Journal »
   – La correspondance de Martin du Gard

@@ -5,7 +5,7 @@ rubrique: 'Roman [4e]'
 annee: '2002'
 magazine: 'n°2 août 2002'
 pages: '18'
-description: |-
+description: 
   '1. Entrer dans l’univers romanesque (chapitres 1 et 2)
   2. Synthèse de la lecture individuelle des chapitres 3 à 6. Lecture relais des chapitres 7 et 8
   3. Lecture individuelle des chapitres 9 à 14

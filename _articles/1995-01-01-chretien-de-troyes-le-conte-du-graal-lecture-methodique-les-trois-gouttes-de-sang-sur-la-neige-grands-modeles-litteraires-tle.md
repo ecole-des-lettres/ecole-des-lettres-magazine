@@ -6,7 +6,7 @@ rubrique: 'Grands modèles littéraires [Tle]'
 annee: '1995'
 magazine: 'n°6 15 janvier 1996'
 pages: '10'
-description: |-
+description: 
   'Lecture méthodique des vers 4105 à 4149 du « Conte du Graal »…
   1. Explication linéaire
   2. Trois autres approches critiques

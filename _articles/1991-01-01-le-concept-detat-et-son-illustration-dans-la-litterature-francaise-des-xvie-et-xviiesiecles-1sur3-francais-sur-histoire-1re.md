@@ -6,7 +6,7 @@ rubrique: 'Français / histoire [1re]'
 annee: '1991'
 magazine: 'n°1 15 septembre 1991'
 pages: '10'
-description: |-
+description: 
   'Les œuvres littéraires des XVIe et XVIIe siècles témoignent de la naissance de l’État contemporain. Il s’agit de sensibiliser les élèves à l’idée d’État et à quelques-unes de ses expressions littéraires…
   1. Les origines du terme « État »
   – son entrée dans le vocabulaire politique

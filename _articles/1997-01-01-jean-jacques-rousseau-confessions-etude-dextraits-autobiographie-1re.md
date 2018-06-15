@@ -5,7 +5,7 @@ rubrique: 'Autobiographie [1re]'
 annee: '1997'
 magazine: '1997'
 pages: '82'
-description: |-
+description: 
   '– Le projet autobiographique des « Confessions » 
   – Étude dirigée : Bossey, apogée et rupture (livre 1) : épisodes de la fessée, du peigne brisé et du noyer
   – Commentaire composé : Le miroir de Madame Basile (livre 2)

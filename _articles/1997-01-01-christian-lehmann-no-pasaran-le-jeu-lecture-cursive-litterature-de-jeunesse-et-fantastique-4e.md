@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et fantastique [4e]'
 annee: '1997'
 magazine: 'n°1 1er septembre 1997'
 pages: '11'
-description: |-
+description: 
   '1. Résumé
   2. Test de lecture
   3. Références historiques

@@ -5,7 +5,7 @@ rubrique: 'Théâtre'
 annee: '2013'
 magazine: 'septembre 2013'
 pages: '4'
-description: |-
+description: 
   'Du 16 au 30 septembre 2013, en alternance, la Comédie Française reprend, salle Richelieu, un spectacle très rarement joué dans son intégralité, « La Trilogie de la villégiature », de Goldoni, mise en scène par Alain Françon. Ces trois pièces n’avaient pas été jouées d’affilée en France depuis 1978, dans la mise en scène mythique de Georgio Strehler à l’Odéon.
   Celle d’Alain Françon n’en est pas indigne et montre notamment très bien, sous la comédie italienne duXVIIIe siècle, la modernité de la vision d’une société décadente…'
 article_pdf: '12248.pdf'

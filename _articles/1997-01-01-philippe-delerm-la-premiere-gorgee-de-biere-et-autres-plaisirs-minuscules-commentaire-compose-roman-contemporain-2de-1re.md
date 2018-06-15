@@ -6,7 +6,7 @@ rubrique: 'Roman contemporain [2de-1re]'
 annee: '1997'
 magazine: 'n°13 15 mai 1998'
 pages: '9'
-description: |-
+description: 
   'Profiter d’un succès de librairie pour rapprocher l’apprentissage du commentaire composé de l’actualité littéraire, exploiter la simplicité d’une prose poétique du « presque rien » pour inciter à la lecture interprétative méthodique, tel est le but de l’étude de ce poème en prose :  « Aller aux mûres »…
   1. Un poème en prose : un petit récit
   – une anecdote familière

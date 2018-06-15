@@ -5,7 +5,7 @@ rubrique: 'Poésie contemporaine [Tle]'
 annee: '1997'
 magazine: '1997'
 pages: '37'
-description: |-
+description: 
   'Lorsque, en 1956, il écrit « Éthiopiques », Senghor met fin à une longue interruption de sa production poétique et amorce un tournant essentiel, sur le plan idéologique, poétique et personnel…
   1. « Éthiopiques » : un bilan
   2. « Éthiopiques » : une poétique du contrepoint.

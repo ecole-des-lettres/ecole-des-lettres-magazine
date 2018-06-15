@@ -5,7 +5,7 @@ rubrique: 'Latin [2de]'
 annee: '2002'
 magazine: '2002'
 pages: '81'
-description: |-
+description: 
   '1. Commentaire de la deuxième élégie du livre 1
   2. Commentaire de la troisième élégie du livre 1
   3. Commentaire de la première élégie du livre 1

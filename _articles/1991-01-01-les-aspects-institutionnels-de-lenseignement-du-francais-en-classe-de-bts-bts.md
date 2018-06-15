@@ -5,7 +5,7 @@ rubrique: 'BTS'
 annee: '1991'
 magazine: 'n°14 1er juillet 1992'
 pages: '22'
-description: |-
+description: 
   'Les aspects institutionnels de l’enseignement du français en classe de BTS…
   1. Le bulletin officiel
   2. Horaires et coefficients

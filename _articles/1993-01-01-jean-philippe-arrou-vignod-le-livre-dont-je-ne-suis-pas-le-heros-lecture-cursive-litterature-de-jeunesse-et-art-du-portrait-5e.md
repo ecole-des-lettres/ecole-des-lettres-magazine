@@ -6,7 +6,7 @@ rubrique: 'Littérature de jeunesse et art du portrait [5e]'
 annee: '1993'
 magazine: 'n°11 1er mai 1994'
 pages: '16'
-description: |-
+description: 
   'Chronique humoristique d’une première année de collège pouvant sensibiliser les élèves à l’art du portrait…
   1. L’incipit
   2. Moi par moi

@@ -6,7 +6,7 @@ rubrique: 'Théâtre [1re]'
 annee: '1991'
 magazine: 'n°9 1er avril 1992'
 pages: '14'
-description: |-
+description: 
   'Analyse et commentaire de la pièce de Ionesco…
   1. La dérision des conventions théâtrales
   – le décor

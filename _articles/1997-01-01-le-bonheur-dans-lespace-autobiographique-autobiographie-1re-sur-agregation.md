@@ -5,7 +5,7 @@ rubrique: 'Autobiographie [1re / agrégation]'
 annee: '1997'
 magazine: 'n°9 15 janvier 1998'
 pages: '25'
-description: |-
+description: 
   'Entraînement à l’épreuve de didactique de l’agrégation interne.
   Proposition d’étude d’un groupement de textes en première :
   – Montaigne, « Essais », III, 13

@@ -5,7 +5,7 @@ rubrique: 'Littérature médiévale [5e]'
 annee: '1992'
 magazine: 'n°12 15 mai 1993'
 pages: '7'
-description: |-
+description: 
   '– Éditions et traductions
   – Ouvrages d’ensemble consacrés au « Chevalier au Lion »
   – Études particulières

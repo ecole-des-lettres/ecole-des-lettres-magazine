@@ -5,7 +5,7 @@ rubrique: 'Langage verbal et images [Tle]'
 annee: '1995'
 magazine: 'n°5 15 décembre 1995'
 pages: '10'
-description: |-
+description: 
   'L’adaptation cinématographique d’une œuvre littéraire : « Une partie de campagne », de Maupassant, par Renoir.
   Analyse des différentes transpositions de l’écriture à l’image.
   – l’adaptation de l’intrigue

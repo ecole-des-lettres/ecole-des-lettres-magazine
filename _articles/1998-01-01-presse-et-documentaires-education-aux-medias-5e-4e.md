@@ -5,7 +5,7 @@ rubrique: 'Éducation aux médias [5e-4e]'
 annee: '1998'
 magazine: 'n°12 avril 1999'
 pages: '6'
-description: |-
+description: 
   'Comparaison de trois types d’écrits et de trois manières d’écrire : l’article de presse, le texte de fiction et le texte documentaire…
   1. Le champ de références
   2. L’énonciation

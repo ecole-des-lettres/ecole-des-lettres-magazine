@@ -6,7 +6,7 @@ rubrique: 'Latin [2de - Enseignement optionnel et enseignement d’exploration]'
 annee: '2014'
 magazine: '104e année 2014-2015'
 pages: '12'
-description: |-
+description: 
   'L’objectif de cet article est double :
   – initier les élèves à l’épigraphie latine, ses méthodes, ses conventions de transcription, ses formulations récurrentes ;
   – approfondir les connaissances sur la condition de l’esclave à Rome en plaçant les élèves en contact direct avec les « realia » que constituent les sources archéologiques et épigraphiques.

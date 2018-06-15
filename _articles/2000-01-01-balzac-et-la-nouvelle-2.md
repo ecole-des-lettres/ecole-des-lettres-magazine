@@ -5,7 +5,7 @@ rubrique: ''
 annee: '2000'
 magazine: 'n°9 15 janvier 2001'
 pages: 152 pages
-description: |-
+description: 
   '1. Balzac, lu et relu
   2. Les « Scènes de la vie privée », ou le spectacle de l’interdit
   3. La problématique de l’origine dans « La Vendetta »

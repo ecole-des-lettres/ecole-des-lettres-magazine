@@ -5,7 +5,7 @@ rubrique: 'Préparation à la seconde [3e]'
 annee: '1999'
 magazine: 'n°7 15 novembre 1999'
 pages: '7'
-description: |-
+description: 
   '« La Coupe d’or », premier roman de John Steinbeck, véritable voyage maritime, est prenant du début à la fin. À travers l’ascension de son héros, il offre au lecteur des moments émotionnellement forts (amitié, amour ou mort), ainsi que de véritables pages d’histoire (esclavage, conquêtes et vie sociale au XVIIe siècle).
   Proposition d’un questionnaire de lecture…
   L’article est suivi d’une bibliographie sur Steinbeck et sur l’esclavage.'

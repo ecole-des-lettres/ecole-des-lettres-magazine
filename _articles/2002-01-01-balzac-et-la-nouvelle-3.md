@@ -5,7 +5,7 @@ rubrique: ''
 annee: '2002'
 magazine: 'n°13 juillet 2003'
 pages: 176 pages
-description: |-
+description: 
   '1. La nouvelle selon les théories allemandes du XXe siècle
   2.  « Scènes de la vie privée » : Le double drame du « Bal de Sceaux »
   3. « La Grenadière », ou le poème de la création

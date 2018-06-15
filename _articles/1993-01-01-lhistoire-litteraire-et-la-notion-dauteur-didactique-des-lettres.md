@@ -5,7 +5,7 @@ rubrique: 'Didactique des lettres'
 annee: '1993'
 magazine: 'n°7 1er février 1994'
 pages: '10'
-description: |-
+description: 
   '1. Les textes d’une morale laïque ne peuvent se passer d’auteur
   2. Transition entre l’enseignement de la morale et celui des connaissances
   3. L’abolition du triangle scolaire : auteur / professeur / élève'

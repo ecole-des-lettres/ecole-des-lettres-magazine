@@ -5,7 +5,7 @@ rubrique: 'Littérature médiévale  [5e]'
 annee: '2000'
 magazine: 'n°9 15 janvier 2001'
 pages: '15'
-description: |-
+description: 
   'L’étude de la culture folklorique dans « Aucassin et Nicolette » peut procéder selon trois perspectives, qui peuvent d’ailleurs s’enchaîner dans une démarche pédagogique progressive :
   1. Les emprunts aux traditions orales
   2. Le folklore carnavalesque

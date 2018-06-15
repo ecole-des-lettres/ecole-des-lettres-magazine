@@ -5,7 +5,7 @@ rubrique: 'Le naturalisme [2de]'
 annee: '1989'
 magazine: 'n°6 15 décembre 1989'
 pages: '30'
-description: |-
+description: 
   '1. Le projet de Zola
   2. « L’Assommoir » ou l’odeur du peuple
   – Gervaise : le miasme, la giroflée et l’hystérie

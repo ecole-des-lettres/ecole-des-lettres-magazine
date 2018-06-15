@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et expression orale [6e-3e]'
 annee: '2001'
 magazine: 'n°12 15 avril 2002'
 pages: '10'
-description: |-
+description: 
   'Présentation de trois ouvrages de littérature jeunesse permettant de travailler l’expression orale :
   – « Monelle et les footballeurs », de Geneviève Brisac
   – « Vengeance en direct : six histoires de football »

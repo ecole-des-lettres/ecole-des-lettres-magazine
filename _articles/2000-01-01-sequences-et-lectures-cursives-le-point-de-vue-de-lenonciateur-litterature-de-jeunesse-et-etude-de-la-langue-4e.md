@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et étude de la langue [4e]'
 annee: '2000'
 magazine: 'n°10 15 février 2001'
 pages: '6'
-description: |-
+description: 
   'Cet article propose des récits à plusieurs voix à mettre en relation avec une séquence sur le point de vue de l’énonciateur.
   – « L’Enfant océan », de Jean-Claude Mourlevat
   – « Le Mal dans la peau », de Brigitte Peskine

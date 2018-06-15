@@ -5,7 +5,7 @@ rubrique: 'Didactique des lettres'
 annee: '1993'
 magazine: 'n°7 1er février 1994'
 pages: '10'
-description: |-
+description: 
   '1. L’arrêté de 1840 et ses deux circulaires d’accompagnement
   2. Trois manuels d’histoire de la littérature française
   3. Savoir et savoir-faire'

@@ -5,7 +5,7 @@ rubrique: 'Poésie [classes préparatoires et concours]'
 annee: '1995'
 magazine: 'n°14 juillet 1996'
 pages: '14'
-description: |-
+description: 
   '1. Aux origines : Musset et Barbier
   2. Les « coppées » de Coppée
   3. Les coppées parodiés

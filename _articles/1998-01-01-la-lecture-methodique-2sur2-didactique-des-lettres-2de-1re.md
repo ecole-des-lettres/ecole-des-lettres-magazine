@@ -5,7 +5,7 @@ rubrique: 'Didactique des lettres [2de-1re]'
 annee: '1998'
 magazine: 'n°2 15 août 1998'
 pages: '11'
-description: |-
+description: 
   'Une démarche libératrice pour étudier les textes au lycée…
   3. Mise en œuvre de la lecture méthodique
   – le choix des textes

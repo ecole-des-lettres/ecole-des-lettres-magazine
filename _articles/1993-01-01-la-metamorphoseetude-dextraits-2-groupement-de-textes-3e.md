@@ -5,7 +5,7 @@ rubrique: 'Groupement de textes [3e]'
 annee: '1993'
 magazine: 'n°10 1er avril 1994'
 pages: '20'
-description: |-
+description: 
   'Suite du groupement de textes sur la métamorphose dont la première partie a été publiée dans le numéro spécial « Théophile Gautier ».  Objectif : guider les élèves de troisième vers l’écriture de la dissertation littéraire…
   3. Contes et récits fantastiques
   – Nicolas Gogol : « Le Nez »

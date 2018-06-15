@@ -5,7 +5,7 @@ rubrique: 'L'expression écrite au collège[6e-3e]'
 annee: '2003'
 magazine: 'n°13 juin 2004'
 pages: '14'
-description: |-
+description: 
   'Comment commencer un atelier d’écriture ?
   1. Le moteur de la création
   – un besoin d’écriture

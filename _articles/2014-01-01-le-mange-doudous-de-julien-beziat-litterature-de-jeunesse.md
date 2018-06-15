@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse'
 annee: '2014'
 magazine: ''
 pages: '2'
-description: |-
+description: 
   'Les bons albums pour enfants renvoient l’enfant à ses préoccupations essentielles. Bruno Bettelheim, l’un des premiers, a montré l’importance des contes pour aider au développement de l’enfant.
   Les bons albums font de même et ils possèdent l’immense avantage de proposer au petit lecteur des images.
   L’album de Julien Béziat, « Le Mange-doudous », qui s’est vu décerné le prix Landerneau 2013, fait partie de ceux-là…'

@@ -5,7 +5,7 @@ rubrique: 'Histoire des arts'
 annee: '2014'
 magazine: 'octobre 2014'
 pages: '2'
-description: |-
+description: 
   'L’exposition Hokusai met en lumière la vie et l’œuvre de cet artiste prolifique qui n’a cessé de chercher et d’innover tout au long de sa longue carrière.
   Et « Still the Water » semble un hommage à la série des « Trente-six vues du Mont Fuji » par des plans pleins de douceur qui  initient le spectateur à la beauté de la nature...'
 article_pdf: '12795.pdf'

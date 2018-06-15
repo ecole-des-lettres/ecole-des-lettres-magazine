@@ -5,7 +5,7 @@ rubrique: 'Bande dessinée [CM-6e]'
 annee: '2011'
 magazine: 'n°1'
 pages: '8'
-description: |-
+description: 
   'La série des « Ludo », rééditée dans la collection « Mille bulles» de l’école des loisirs, compte parmi les bandes dessinées jeunesse les plus intéressantes pour les enfants âgés de huit à douze ans. Pleine de suspense et de rebondissements, elle met en scène un héros de l’âge de son lecteur dans un univers urbain contemporain.
   La lecture du troisième volume de la série peut être envisagée, au cours moyen ou en sixième, en complément d’un travail autour de la notion de genre – ici, le roman policier, comme le suggère le titre humoristique d’« Enquêtes et squelettes ».
   Les élèves pourront également se familiariser avec les techniques de la bande dessinée (plusieurs cases sont des crayonnés) et de la narration (quelles difficultés peut-on rencontrer pour finir une histoire ?).

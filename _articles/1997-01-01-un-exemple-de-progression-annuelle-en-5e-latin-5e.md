@@ -5,7 +5,7 @@ rubrique: 'Latin [5e] '
 annee: '1997'
 magazine: '1997'
 pages: '20'
-description: |-
+description: 
   '1. Proposition de progression annuelle
   – premier trimestre : le latin et Rome
   – deuxième trimestre : les animaux à Rome et dans la littérature

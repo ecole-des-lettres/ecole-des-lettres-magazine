@@ -5,7 +5,7 @@ rubrique: 'Roman contemporain [2de]'
 annee: '1990'
 magazine: 'n°14 15 juillet 1991'
 pages: '15'
-description: |-
+description: 
   'Rappel des événements historiques présentés dans le roman…
   – Une mise en abyme révélatrice
   – Un roman rythmé par les événements historiques

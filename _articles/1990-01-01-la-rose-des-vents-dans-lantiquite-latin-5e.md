@@ -5,7 +5,7 @@ rubrique: 'Latin [5e]'
 annee: '1990'
 magazine: 'n°6 15 décembre 1990'
 pages: '4'
-description: |-
+description: 
   '1. Les dieux des vents (Borée, Zéphyr, Notos, Euros, Éole)
   2. La représentation des vents
   3. Le culte des vents en Grèce et à Rome

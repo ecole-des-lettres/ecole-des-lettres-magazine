@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1995'
 magazine: 'n°3 15 octobre 1995'
 pages: 144 pages
-description: |-
+description: 
   '1. Épistolaire et journal intime : du roman à l’album
   2. Écriture et lecture en réseau autour de la lettre
   3. « Signé, Lou », de Beverly Cleary

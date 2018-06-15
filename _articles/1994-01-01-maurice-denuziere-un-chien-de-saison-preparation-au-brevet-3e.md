@@ -5,7 +5,7 @@ rubrique: 'Préparation au brevet [3e]'
 annee: '1994'
 magazine: 'n°7 1er février 1995'
 pages: '9'
-description: |-
+description: 
   'Le travail proposé n’a pas été conçu comme une épreuve type du brevet, mais plutôt comme un exercice dont les questions multiples offrent l’occasion de réviser un certain nombre de notions qui constituent habituellement la matière de cet examen.
   À partir d’un texte de Maurice Denuzière, extrait de « Un chien de saison »…
   1. Vocabulaire

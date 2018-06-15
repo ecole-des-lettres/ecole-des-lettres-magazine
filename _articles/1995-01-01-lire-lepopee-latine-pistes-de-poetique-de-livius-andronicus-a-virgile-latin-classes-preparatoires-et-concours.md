@@ -5,7 +5,7 @@ rubrique: 'Latin [classes préparatoires et concours]'
 annee: '1995'
 magazine: 'n°4 15 novembre 1995'
 pages: '37'
-description: |-
+description: 
   'Au 3e siècle av. J.-C., le Grec de Tarente Livius Andronicus (environ 280-207 av. J.-C.), amené comme esclave à Rome et qui y fut précepteur et maître d’école avant de se faire dramaturge, traduit l’« Odyssée ». Le verbe qu’il choisit, «insequi», «suivre les pas de», «venir immédiatement après», suscite une double lecture : «insequi» signifie «suivre» le personnage d’Ulysse en racontant les péripéties de son voyage, mais c’est aussi «suivre» l’œuvre désignée, comme le faisaient parfois les Anciens, par son personnage central, c’est-à-dire «imiter» cette œuvre. La littérature latine naît donc dans la traduction d’une des deux œuvres fondatrices de la Grèce…
 
   1. Épopée de la nature et épopée héroïque : modèle et origine

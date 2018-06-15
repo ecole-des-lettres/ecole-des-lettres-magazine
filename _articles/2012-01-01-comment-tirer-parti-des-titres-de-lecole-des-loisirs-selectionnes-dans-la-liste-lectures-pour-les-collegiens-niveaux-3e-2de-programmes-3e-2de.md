@@ -6,7 +6,7 @@ rubrique: 'Programmes [ 3e-2de]'
 annee: '2012'
 magazine: 'n°2 2012-2013'
 pages: '16'
-description: |-
+description: 
   'Ces fiches proposent Présentation de l’ouvrage, de son auteur et quelques suggestions de pistes pédagogiques pour les titres de la liste « Lectures pour les collégiens » concernant le niveau  troisième et troisième-seconde.
   – Patricia Clapp, « Constance »
   – Béa Deru-Renard, « Toute seule loin de Samarcande »

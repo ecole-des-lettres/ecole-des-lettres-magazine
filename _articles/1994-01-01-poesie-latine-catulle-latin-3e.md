@@ -5,7 +5,7 @@ rubrique: 'Latin [3e]'
 annee: '1994'
 magazine: 'n°8 1er mars 1995'
 pages: '14'
-description: |-
+description: 
   '1. Présentation de Catulle
   2. Choix des textes dans les « Poésies »
   – le thème de l’amour pour Lesbie : poèmes 3, 5, 85

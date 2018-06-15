@@ -5,7 +5,7 @@ rubrique: 'Groupement de textes [agrégation interne/1re]'
 annee: '2004'
 magazine: 'n°9 mai 2005'
 pages: '36'
-description: |-
+description: 
   'Cet article propose sujet d’agrégation interne portant sur les enfers en classe de première : « Dans la perspective de l’étude des formes de réécritures en classe de première L, vous entreprendrez l’étude de ce corpus. Vous définirez votre projet d’ensemble ainsi que ses modalités d’exécution. »
   Corpus :
   – un extrait du chant XI de l’« Odyssée », d’Homère

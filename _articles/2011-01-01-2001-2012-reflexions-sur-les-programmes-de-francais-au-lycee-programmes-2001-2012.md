@@ -5,7 +5,7 @@ rubrique: 'Programmes 2001-2012'
 annee: '2011'
 magazine: 'décembre 2011'
 pages: '9'
-description: |-
+description: 
   'Une question simple se pose : le nouveau programme corrige-t-il les défauts du précédent et est-il plus adapté aux conditions réelles d’enseignement ?
   L’analyse aborde successivement les points suivants :
   – bref retour sur le programme précédent (2000-2001-2007)

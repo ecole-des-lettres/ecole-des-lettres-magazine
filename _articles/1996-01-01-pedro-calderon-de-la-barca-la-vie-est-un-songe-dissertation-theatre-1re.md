@@ -5,7 +5,7 @@ rubrique: 'Théâtre [1re]'
 annee: '1996'
 magazine: 'n°7 15 janvier 1997'
 pages: '7'
-description: |-
+description: 
   'Comment l’écriture dramatique de Calderon illustre l’illusion de l’existence…
   Deux sujets d’examen sont proposés.'
 article_pdf: '2504.pdf'

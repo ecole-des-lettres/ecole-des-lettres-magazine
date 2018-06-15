@@ -5,7 +5,7 @@ rubrique: 'Poésie [1re]'
 annee: '1993'
 magazine: 'n°2 1er octobre 1993'
 pages: '6'
-description: |-
+description: 
   'La création poétique selon Rilke :
   – prose et poésie
   – l’œuvre et l’existence'

@@ -5,7 +5,7 @@ rubrique: 'Dire, lire, écrire un conte [6e]'
 annee: '2002'
 magazine: 'n°4 1er octobre 2002'
 pages: '9'
-description: |-
+description: 
   'Module de remise à niveau
   Plan de la séquence :
   – écrire le scénario d’un conte : sept séances

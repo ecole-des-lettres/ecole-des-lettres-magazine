@@ -5,7 +5,7 @@ rubrique: 'Littérature médiévale [Tle]'
 annee: '2000'
 magazine: 'n°5 1er novembre 2000'
 pages: '21'
-description: |-
+description: 
   '1. Présence obsédante de la lèpre
   2. Vrais et faux lépreux
   3. L’épisode de Tristan lépreux'

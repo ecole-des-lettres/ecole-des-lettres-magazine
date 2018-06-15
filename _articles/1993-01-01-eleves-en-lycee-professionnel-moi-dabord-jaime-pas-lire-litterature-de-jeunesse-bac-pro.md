@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse [bac pro]'
 annee: '1993'
 magazine: 'n°12-13 1er juin 1994'
 pages: '4'
-description: |-
+description: 
   '– Grands ados, petits lecteurs
   – Difficultés à lire : essayons d’en comprendre les raisons : une mauvaise maîtrise du savoir-lire ; la lecture en danger ?
   – Quelques pistes pédagogiques : reconnaître la culture des adolescents ; fabriquer un livre ; s’appuyer sur la littérature de jeunesse

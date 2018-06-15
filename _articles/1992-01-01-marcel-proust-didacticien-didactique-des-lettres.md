@@ -5,7 +5,7 @@ rubrique: 'Didactique des lettres'
 annee: '1992'
 magazine: 'n°9 1er mars 1993'
 pages: '10'
-description: |-
+description: 
   'Contribution à l’histoire de la composition française : « Le devoir de Gisèle » dans « À l’ombre des jeunes filles en fleurs »…
   1. Proust et la composition française
   – repères chronologiques

@@ -5,7 +5,7 @@ rubrique: 'L'argumentation [4e-3e]'
 annee: '1994'
 magazine: 'n°7 1er février 1995'
 pages: '4'
-description: |-
+description: 
   'À partir d’une lettre envoyée par un grand magasin à ses clientes :
   10. Écrire pour convaincre
   – vocabulaire

@@ -5,7 +5,7 @@ rubrique: 'Roman [1re]'
 annee: '1996'
 magazine: 'n°4 1er novembre 1996'
 pages: '24'
-description: |-
+description: 
   '1. Présentation générale
   – Malraux au moment de « L’Espoir »
   – la guerre d’Espagne

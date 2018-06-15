@@ -5,7 +5,7 @@ rubrique: 'Théâtre'
 annee: '1996'
 magazine: 'n°8 1er février 1997'
 pages: 180 pages
-description: |-
+description: 
   '1. Préface
   2. Production et réception du théâtre de Marivaux : le cas de « La Double Inconstance » et du « Jeu de l’amour et du hasard »
   3. De la comédie romanesque à la comédie bourgeoise : variations sur le marivaudage

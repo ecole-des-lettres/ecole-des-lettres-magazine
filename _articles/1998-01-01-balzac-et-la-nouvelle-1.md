@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1998'
 magazine: 'n°13 1er mai 1999'
 pages: 128 pages
-description: |-
+description: 
   '1. Avant-propos
   2. Balzac nouvellier
   3. « Le Rouge et le Brun ». Ricochets de conversation balzacienne entre onze heures et minuit

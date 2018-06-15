@@ -5,7 +5,7 @@ rubrique: 'Étude de l’image [6e-3e]'
 annee: '2006'
 magazine: 'n°8 2007-2008'
 pages: '10'
-description: |-
+description: 
   'De « Boule et Bill », idéalement conforme à un
   modèle familial harmonieux, au dérangeant
   « Daddy’s girl », témoignage d’un inceste explicitement montré et dénoncé, le thème de la

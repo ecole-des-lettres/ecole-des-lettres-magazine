@@ -5,7 +5,7 @@ rubrique: 'Lecture/écriture [6e-5e]'
 annee: '1997'
 magazine: 'n°8 15 décembre 1997'
 pages: '22'
-description: |-
+description: 
   'Pour apprendre à sélectionner, à exploiter et à communiquer des informations
   * Séance 1 (autour de la revue « Wapiti »)
   – lecture de la couverture

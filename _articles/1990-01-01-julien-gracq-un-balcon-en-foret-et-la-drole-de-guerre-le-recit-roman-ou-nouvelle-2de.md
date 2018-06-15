@@ -5,7 +5,7 @@ rubrique: 'Le récit (roman ou nouvelle) [2de]'
 annee: '1990'
 magazine: 'n°14 15 juillet 1991'
 pages: '20'
-description: |-
+description: 
   '– La guerre vue d’« Un balcon en forêt »
   – La « drôle de guerre » vue d’« Un balcon en forêt »
   – Gracq au « Balcon »'

@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et cinéma [6e]'
 annee: '1995'
 magazine: 'n°8 1er mars 1996'
 pages: '8'
-description: |-
+description: 
   'Étude comparative de l’album et du film qu’il a inspiré…
   1. De « Jumanji » à … « Jumanji »
   2. « Jumanji » et les autres

@@ -5,7 +5,7 @@ rubrique: 'Éducation aux médias'
 annee: '1993'
 magazine: 'n°12-13 1er juin 1994'
 pages: '10'
-description: |-
+description: 
   '1. La presse des jeunes existe : elle présente de multiples visages
   – les concepts éditoriaux : une presse des jeunes éducative ; une presse des jeunes à caractère ludique
   – les tranches d’âge

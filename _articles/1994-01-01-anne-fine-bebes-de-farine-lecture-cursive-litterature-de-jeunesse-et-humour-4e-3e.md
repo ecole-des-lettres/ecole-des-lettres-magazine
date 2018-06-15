@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et humour [4e-3e]'
 annee: '1994'
 magazine: 'n°13-14 30 juin 1995'
 pages: '4'
-description: |-
+description: 
   'Étude de ce roman sur le quotidien du collège…
   1. Résumé
   2. Test de lecture

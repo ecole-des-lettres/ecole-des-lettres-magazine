@@ -5,7 +5,7 @@ rubrique: 'Poésie [agrégation]'
 annee: '1992'
 magazine: 'n°1 15 septembre 1992'
 pages: '18'
-description: |-
+description: 
   'Aborder l’œuvre poétique de Senghor peut être l’occasion de combler quelques lacunes  et, en initiant les élèves à la littérature poétique, de promouvoir d'autres habitudes de lecture. Pourquoi Senghor ? Pour deux raisons, au moins. D’abord, il s’agit d’une œuvre qui s’inscrit dans toute une tradition que l'histoire littéraire atteste : de Hugo à Saint-John Perse, en passant par Baudelaire, Rimbaud, Claudel, c’est le courant de la grande poésie lyrique française, l’attention au pouvoir incantatoire du verbe que Senghor perpétue. Ensuite parce que son œuvre illustre avec éclat l’« autre » littérature française, la littérature africaine de langue française (et plus généralement la littérature francophone) qui, puisant aux racines des traditions orales, rajeunit et revivifie la parole poétique ressourcée aux forces élémentaires et cosmiques.
   Déroulement de la séquence : cinq séances
   * Séance 1. Lecture méthodique de « Joal »

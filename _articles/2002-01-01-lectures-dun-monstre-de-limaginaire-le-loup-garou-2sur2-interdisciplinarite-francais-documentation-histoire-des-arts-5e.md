@@ -5,7 +5,7 @@ rubrique: 'Interdisciplinarité français, documentation, histoire des arts [5e]
 annee: '2002'
 magazine: 'n°5 15 octobre 2002'
 pages: '52'
-description: |-
+description: 
   'Itinéraire de découverte : des textes antiques aux représentations contemporaines, percer les mystères de la métamorphose et de l’adolescence
   3. Déroulement des séances
   – compétence 2 : questionner, organiser, problématiser

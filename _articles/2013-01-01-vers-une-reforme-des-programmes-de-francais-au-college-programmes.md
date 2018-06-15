@@ -5,7 +5,7 @@ rubrique: 'Programmes'
 annee: '2013'
 magazine: 'n°1'
 pages: '3'
-description: |-
+description: 
   'Une réforme des programmes du collège est annoncée. De grandes orientations ont été définies, de grands mots, de grandes idées ont été avancés : repenser la liaison primaire-collège, entrer dans l’ère du numérique, renforcer le socle commun des connaissances. Soit. Mais aura-t-on affaire à une réforme ou à une révision ?
   '
 article_pdf: '12547.pdf'

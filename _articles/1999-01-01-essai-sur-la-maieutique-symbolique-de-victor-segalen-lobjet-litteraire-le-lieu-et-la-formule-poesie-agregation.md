@@ -6,7 +6,7 @@ rubrique: 'Poésie [agrégation]'
 annee: '1999'
 magazine: 'n°14 juin 2000'
 pages: '16'
-description: |-
+description: 
   '1. L’exotisme de la forme
   2. Enjeux esthétiques de la forme stèle
   – la clé d’un système métaphorique

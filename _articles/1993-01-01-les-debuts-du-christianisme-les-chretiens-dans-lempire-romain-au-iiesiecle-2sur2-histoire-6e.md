@@ -6,7 +6,7 @@ rubrique: 'Histoire [6e]'
 annee: '1993'
 magazine: 'n°7 15 janvier 1994'
 pages: '6'
-description: |-
+description: 
   'En complément de l’étude du roman d’Odile Weulersse, « Le Serment des catacombes »…
   2. Particularité du 2e siècle dans le christianisme primitif
   – l’affirmation de l’Église au 2e siècle : le cadre géographique et social ; premières difficultés internes ; l’affrontement avec le monde romain

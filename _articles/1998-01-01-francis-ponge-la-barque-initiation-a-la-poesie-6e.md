@@ -5,7 +5,7 @@ rubrique: 'Initiation à la poésie [6e]'
 annee: '1998'
 magazine: 'n°4 1er octobre 1998'
 pages: '6'
-description: |-
+description: 
   'Étude du poème de Francis Ponge intitulé « La Barque » (« Pièces », Gallimard)
   La lecture de ce poème peut s’insérer dans
   différentes séquences : étude d’un genre – la poésie –, lecture de descriptions ou encore repérage et interprétation d’images – métaphores et comparaisons. La séance est organisée de manière à mettre à la portée de lecteurs malhabiles un texte qui ne se laisse pas saisir à la première lecture et dont le pouvoir symbolique est grand.'

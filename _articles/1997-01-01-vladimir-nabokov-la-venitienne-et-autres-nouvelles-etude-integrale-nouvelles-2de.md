@@ -6,7 +6,7 @@ rubrique: 'Nouvelles  [2de]'
 annee: '1997'
 magazine: 'n°10 15 février 1998'
 pages: '15'
-description: |-
+description: 
   'Ces nouvelles permettent de découvrir la thématique et les modes d’écriture qui définissent une littérature de l’exil…
   1. Les deux pôles de la matière narrative
   2. Une littérature de l’exil

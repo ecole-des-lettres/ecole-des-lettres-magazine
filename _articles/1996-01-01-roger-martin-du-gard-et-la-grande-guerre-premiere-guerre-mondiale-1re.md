@@ -5,7 +5,7 @@ rubrique: 'Première guerre mondiale [1re]'
 annee: '1996'
 magazine: 'n°13 1er mai 1997'
 pages: '15'
-description: |-
+description: 
   'Témoignage personnel et réflexion romanesque…
   1. Sens du devoir et révolte d’un homme dans la guerre
   2. De la guerre et de la paix, ou la fin d’un roman-fleuve'

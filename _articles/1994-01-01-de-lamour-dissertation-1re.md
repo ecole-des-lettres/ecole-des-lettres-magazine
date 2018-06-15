@@ -5,7 +5,7 @@ rubrique: 'Dissertation [1re]'
 annee: '1994'
 magazine: 'n°1 15 septembre 1994'
 pages: '10'
-description: |-
+description: 
   'Sujet de dissertation extrait de « L’Amour et l’Occident », de Denis de Rougemont…
   – Analyse du sujet
   – Problématique

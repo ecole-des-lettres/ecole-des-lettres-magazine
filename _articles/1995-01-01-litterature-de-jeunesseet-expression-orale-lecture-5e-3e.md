@@ -5,7 +5,7 @@ rubrique: 'Lecture [5e-3e]'
 annee: '1995'
 magazine: 'n°13-14 15 juin 1996'
 pages: '4'
-description: |-
+description: 
   'Présentation orale d’un livre par un élève à ses camarades et guides de préparation sur les deux titres suivants :
   1. « Dernier été dans l’île », de Boris Moissard (troisième)
   2. « Le Maître des éléphants », de René Guillot (cinquième)'

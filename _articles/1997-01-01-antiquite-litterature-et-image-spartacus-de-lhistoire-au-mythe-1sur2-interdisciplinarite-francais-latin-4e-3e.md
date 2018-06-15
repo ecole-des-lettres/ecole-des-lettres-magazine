@@ -5,7 +5,7 @@ rubrique: 'Interdisciplinarité français, latin  [4e-3e]'
 annee: '1997'
 magazine: 'n°7 1er décembre 1997'
 pages: '24'
-description: |-
+description: 
   'Cet article se propose de montrer comment un personnage historique, Spartacus, est devenu un mythe qui fonctionne encore aujourd’hui. Il aborde ce personnage à travers des documents écrits et visuels sur les gladiateurs, ainsi que des textes historiques sur la vie de Spartacus, et étudie aussi des extraits de romans, et de films inspirés plus ou moins directement par Spartacus.
   1. L’esclavage dans l’Antiquité
   – généralités

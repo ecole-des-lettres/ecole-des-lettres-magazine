@@ -5,7 +5,7 @@ rubrique: 'Étude de la langue [3e]'
 annee: '1992'
 magazine: 'n°7 15 janvier 1993'
 pages: '3'
-description: |-
+description: 
   'Du côté de l’immanence ou du structurel
   (tentative de définition du mot « sens »)…
   1. Les différentes appréhensions du sens

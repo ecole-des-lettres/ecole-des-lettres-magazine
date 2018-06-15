@@ -5,7 +5,7 @@ rubrique: 'Théâtre, argumentation et réécritures [1re]'
 annee: '2005'
 magazine: 'n°6-7 janvier 2006'
 pages: '27'
-description: |-
+description: 
   'Cet article propose un travail qui a conjoint trois objets d’étude :
   – le théâtre, texte et représentation ;
   – les formes de l’argumentation, notamment le discours et l’apologue ;

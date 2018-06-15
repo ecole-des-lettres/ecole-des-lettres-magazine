@@ -5,7 +5,7 @@ rubrique: 'Théâtre [1re]'
 annee: '1990'
 magazine: 'n°3 15 octobre 1990'
 pages: '12'
-description: |-
+description: 
   '1. La dynamique théâtrale
   – la situation initiale
   – les étapes de l’expérimentation

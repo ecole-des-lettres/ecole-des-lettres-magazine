@@ -5,7 +5,7 @@ rubrique: 'Écriture [4e-3e]'
 annee: '1992'
 magazine: 'n°14 15 juin 1993'
 pages: '10'
-description: |-
+description: 
   '2. Écrire des textes courts
   – la recette de cuisine
   – la brève

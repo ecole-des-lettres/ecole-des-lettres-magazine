@@ -6,7 +6,7 @@ rubrique: 'Roman et personnages [1re]'
 annee: '1993'
 magazine: 'n°6 1er janvier 1994'
 pages: '30'
-description: |-
+description: 
   'Maximes, caractères et promenades dans « Les Égarements du cœur et de l’esprit »…
   1. L’œuvre d’un moraliste
   2. Les maximes

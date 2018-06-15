@@ -5,7 +5,7 @@ rubrique: 'Dictionnaires [6e-3e]'
 annee: '1998'
 magazine: 'n°12 avril 1999'
 pages: '12'
-description: |-
+description: 
   '1. Découverte et utilisation des dictionnaires et encyclopédies
   2. Sélection des outils documentaires adaptés à une recherche'
 article_pdf: '3108.pdf'

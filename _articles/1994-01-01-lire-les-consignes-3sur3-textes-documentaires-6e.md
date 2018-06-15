@@ -5,7 +5,7 @@ rubrique: 'Textes documentaires [6e]'
 annee: '1994'
 magazine: 'n°5 15 décembre 1994'
 pages: '8'
-description: |-
+description: 
   'Comment aider les élèves (surtout en sixième) à comprendre les consignes…
   – reconstituer un énoncé en puzzle
   – transcodage

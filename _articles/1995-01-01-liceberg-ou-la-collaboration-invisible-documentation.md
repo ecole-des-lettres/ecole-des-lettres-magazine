@@ -5,7 +5,7 @@ rubrique: 'Documentation'
 annee: '1995'
 magazine: 'n°12 15 juin 1996'
 pages: '10'
-description: |-
+description: 
   'L’image de l’iceberg semble une manière assez juste de représenter la collaboration entre les professeurs de discipline et les documentalistes. La partie émergée correspondrait aux activités pédagogiques formelles et préparées, la partie immergée aux actions spontanées et ponctuelles. Émergée et immergée ; visible et invisible. Visible, le travail de préparation des séances pédagogiques élaborées en commun. Invisible, la collaboration engendrée par la pratique quotidienne du métier…
   1. Collaborer pour les élèves
   – favoriser le travail autonome

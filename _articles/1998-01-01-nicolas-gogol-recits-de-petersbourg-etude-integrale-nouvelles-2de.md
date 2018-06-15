@@ -5,7 +5,7 @@ rubrique: 'Nouvelles [2de]'
 annee: '1998'
 magazine: '1998'
 pages: '29'
-description: |-
+description: 
   'Comment mettre en scène le vide de l’existence…
   La littérature russe au début du XIXe siècle
   1. Gogol, des influences littéraires et folkloriques à la création originale

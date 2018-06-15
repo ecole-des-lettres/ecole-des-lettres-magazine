@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1999'
 magazine: 'n°13 mai 2000'
 pages: 40 pages
-description: |-
+description: 
   'Table ronde « l’École des lettres » / GTD, André Petitjean et Alain Viala (GTD), Yves Stalloni et Jacques Vassevière (EDL) : le rôle du GTD
   1. Les raisons de la réforme
   2. La réforme en question

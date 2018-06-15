@@ -5,7 +5,7 @@ rubrique: 'Romandu XXe siècle [3e]'
 annee: '1991'
 magazine: 'n°2 1er octobre 1991'
 pages: '22'
-description: |-
+description: 
   '6. Étude des personnages principaux :
   – le pasteur
   – Amélie (avec une explication de texte)

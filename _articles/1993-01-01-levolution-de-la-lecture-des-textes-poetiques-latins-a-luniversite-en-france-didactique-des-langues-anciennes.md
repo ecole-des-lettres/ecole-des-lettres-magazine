@@ -6,7 +6,7 @@ rubrique: 'Didactique des langues anciennes'
 annee: '1993'
 magazine: 'n°11 1er juin 1994'
 pages: '12'
-description: |-
+description: 
   'Sur « l’Enlèvement d’Europe »…
   Évolution de l’enseignement de la poésie latine en France de 1934 à 1981
   1. La nomination des personnages, tropes, phonologie et genre épique à partir d’un extrait des « Métamorphoses », d’Ovide

@@ -6,7 +6,7 @@ rubrique: 'Grands modèles littéraires [Tle]'
 annee: '1995'
 magazine: 'n°6 15 janvier 1996'
 pages: '6'
-description: |-
+description: 
   '– Éditions et traductions
   – Ouvrages d’ensemble sur « Le Conte du Graal »
   – Études particulières thématiques

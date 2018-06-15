@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1992'
 magazine: 'n°9 1er mars 1993'
 pages: 162 pages
-description: |-
+description: 
   '1. Les domaines de la didactique du français 
   – perspectives actuelles en didactique du français langue maternelle 
   – français, langue maternelle, langue étrangère, une double culture ? 

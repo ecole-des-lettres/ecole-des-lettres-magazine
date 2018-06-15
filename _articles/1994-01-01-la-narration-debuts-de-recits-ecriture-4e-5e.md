@@ -5,7 +5,7 @@ rubrique: 'Écriture [4e-5e]'
 annee: '1994'
 magazine: 'n°9 15 mars 1995'
 pages: '13'
-description: |-
+description: 
   'Nombreuses sont les possibilités qui s’offrent au scripteur pour commencer ses récits. Il y a ceux qui prennent les choses à leur début, ceux qui jettent le lecteur « in medias res » et obligent à un retour en arrière, ceux qui plantent le décor ou qui font place aux paroles de personnages… Cet article s’en tient au premier cas de figure, il impose déjà suffisamment de variantes pour qu’il y ait là matière à plusieurs séances de travail.
   1. Rappels sur le récit complet
   – le modèle quinaire

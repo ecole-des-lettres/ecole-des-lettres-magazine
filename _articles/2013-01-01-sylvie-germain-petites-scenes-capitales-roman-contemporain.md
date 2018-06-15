@@ -5,7 +5,7 @@ rubrique: 'Roman contemporain'
 annee: '2013'
 magazine: 'septembre 20123'
 pages: '2'
-description: |-
+description: 
   'Au début du nouveau roman de Sylvie Germain, Lili, l’héroïne, habite près d’une volière et elle est tout heureuse d’être réveillée par les cris et les chant des oiseaux.
   Au terme de son histoire, quelque quarante ans plus tard, elle contrefait le chant d’un grèbe huppé dans un train filant vers Paris, pour contrer le verbiage d’un importun avec son téléphone portable.
   On pourrait placer ces « Petites scènes capitales » sous le signe des oiseaux, omniprésents dans des pages qu’on lira

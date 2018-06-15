@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et Antiquité [6e]'
 annee: '1993'
 magazine: 'n°5 1er décembre 1993'
 pages: '10'
-description: |-
+description: 
   'Introduction
   * Séance 1. Exposition du drame (étude des chapitres 1 et 2)
   – le cadre spatio-temporel : les lieux ; le temps

@@ -5,7 +5,7 @@ rubrique: 'Épopée médiévale [5e] '
 annee: '1996'
 magazine: 'n°5 1er décembre 1996'
 pages: '36'
-description: |-
+description: 
   'Approche préliminaire : le paratexte
   – l’illustration de couverture
   – la quatrième de couverture

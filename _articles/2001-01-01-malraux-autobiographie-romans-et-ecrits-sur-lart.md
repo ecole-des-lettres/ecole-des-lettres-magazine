@@ -5,7 +5,7 @@ rubrique: ''
 annee: '2001'
 magazine: 'n°6 15 novembre 2001'
 pages: 160 pages
-description: |-
+description: 
   '1. Le biographique chez André Malraux. L’exemple de la première section des « Antimémoires »
   2. « André Malraux, une vie », d’Olivier Todd
   3. Malraux : l’autobiographe en procès

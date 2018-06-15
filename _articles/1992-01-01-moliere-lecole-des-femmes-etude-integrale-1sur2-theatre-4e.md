@@ -5,7 +5,7 @@ rubrique: 'Théâtre [4e]'
 annee: '1992'
 magazine: 'n°13 1er juin 1993'
 pages: '12'
-description: |-
+description: 
   '– De quelques outils préalables
   – Démarche pédagogique adoptée : trois préparations à faire à la maison (acte 1, scène 5 de l’acte 2 et acte 5), un devoir sur table (scène 4 de l’acte 3) et une analyse grammaticale et stylistique de la lettre d’Agnès
   – Bibliographie sommaire

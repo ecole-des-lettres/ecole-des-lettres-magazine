@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1995'
 magazine: 'n°6 15 janvier 1996'
 pages: 208 pages
-description: |-
+description: 
   '1. Préface
   2. Schéma narratif
   3. La rencontre de Perceval et des chevaliers

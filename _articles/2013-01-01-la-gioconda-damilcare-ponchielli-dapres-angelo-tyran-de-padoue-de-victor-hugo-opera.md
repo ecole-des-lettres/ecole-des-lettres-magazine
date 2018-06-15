@@ -6,7 +6,7 @@ rubrique: 'Opéra'
 annee: '2013'
 magazine: 'mai 2013'
 pages: '2'
-description: |-
+description: 
   'Un compositeur italien peu représenté fait son entrée au répertoire de l’Opéra de Paris, Amilcare Ponchielli, né près de Crémone en 1834, professeur de Puccini. De la dizaine d’opéras qu’on lui doit, seul « La Gioconda » est encore joué…
   '
 article_pdf: '12283.pdf'

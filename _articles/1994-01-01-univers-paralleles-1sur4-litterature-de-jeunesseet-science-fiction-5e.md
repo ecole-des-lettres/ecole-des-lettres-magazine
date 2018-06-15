@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et science-fiction [5e]'
 annee: '1994'
 magazine: 'n°7 1er février 1995'
 pages: '6'
-description: |-
+description: 
   'Cette série d’articles se propose de parcourir quelques-uns de ces univers parallèles qui, en quelque sorte, s’appuient sur le pacte passé avec le lecteur pour le transgresser : le genre science-fiction, le genre fantastique, le genre historique et le ton naïf.
   1. Le genre de la science-fiction (d’après Christian Grenier)
   – simple décalage temporel : exemple : « La Traversée du temps », de Yasutaka Tsutsui

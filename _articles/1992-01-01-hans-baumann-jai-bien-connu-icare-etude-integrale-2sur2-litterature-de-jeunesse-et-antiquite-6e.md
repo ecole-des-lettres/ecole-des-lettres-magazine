@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et Antiquité [6e]'
 annee: '1992'
 magazine: 'n°2 1er octobre 1992'
 pages: '12'
-description: |-
+description: 
   '– Deuxième partie : chapitres 1 à 6 (l’évocation de la vie crétoise, l’évolution des personnages (Icare et Dédale), la fin d’un monde
   – Deuxième partie : chapitres 7 à 9 (Dédale, les rapports père-fils)
   – Explication de texte : Thésée contre le Minotaure, de « Thésée se dirigea… » à « … à quitter Minos des yeux »

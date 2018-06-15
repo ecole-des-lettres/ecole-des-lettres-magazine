@@ -5,7 +5,7 @@ rubrique: 'Album [6e-5e]'
 annee: '2013'
 magazine: 'n°1'
 pages: '7'
-description: |-
+description: 
   'La construction de cet album à partir du texte homérique par Yvan Pommaux apparaît particulièrement remarquable. Sa première idée-force, c’est de donner la parole à un père qui va
   prendre en charge le récit d’un affrontement guerrier à l’issue incertaine. Ce père qui raconte à ses enfants cette histoire légendaire peut être considéré comme un nouvel aède...'
 article_pdf: '12536.pdf'

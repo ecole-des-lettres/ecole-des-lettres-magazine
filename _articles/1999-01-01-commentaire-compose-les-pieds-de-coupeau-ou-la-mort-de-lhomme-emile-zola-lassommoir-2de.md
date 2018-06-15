@@ -5,7 +5,7 @@ rubrique: 'Émile Zola : « L’Assommoir » [2de]'
 annee: '1999'
 magazine: 'n°10 15 février 2000'
 pages: '17'
-description: |-
+description: 
   'Extrait du chapitre 13
   1. De la scène à l’obscène
   – un cadre narratif

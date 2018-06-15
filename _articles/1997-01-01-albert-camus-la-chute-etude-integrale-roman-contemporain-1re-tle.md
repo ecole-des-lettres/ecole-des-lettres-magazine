@@ -5,7 +5,7 @@ rubrique: 'Roman contemporain [1re-Tle]'
 annee: '1997'
 magazine: 'n°3 1er octobre 1997'
 pages: '20'
-description: |-
+description: 
   '1. L’originalité du récit : rétrospection et introspection
   2. Oralité et théâtralité : les moyens de Clamence
   3. Le symbolisme de l’œuvre et sa portée morale'

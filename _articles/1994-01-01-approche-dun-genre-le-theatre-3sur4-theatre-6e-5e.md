@@ -5,7 +5,7 @@ rubrique: 'Théâtre [6e-5e]'
 annee: '1994'
 magazine: 'n°3 15 octobre 1994'
 pages: '4'
-description: |-
+description: 
   'Techniques de la tragédie…
   Comment acquérir un vocabulaire théâtral, étudier la notion de mythe, approcher la culture théâtrale et la diversité des textes de la tragédie antique ou classique…
   – Exercice d’expression écrite : transposition d’un récit – « Candide », de Voltaire – sous forme de texte de comédie (dialogue et didascalies). L’exercice est accompagné d’une fiche-guide pour les élèves

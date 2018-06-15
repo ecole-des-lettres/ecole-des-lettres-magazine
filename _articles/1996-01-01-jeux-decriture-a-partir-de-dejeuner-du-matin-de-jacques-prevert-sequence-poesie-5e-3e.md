@@ -5,7 +5,7 @@ rubrique: 'Poésie [5e-3e]'
 annee: '1996'
 magazine: 'n°13 15 mai 1997'
 pages: '18'
-description: |-
+description: 
   '« Déjeuner du matin » permet d’aborder avec les élèves une forme d’écriture poétique dont l’intérêt peut facilement leur échapper. Ce poème se caractérise par une extrême économie de moyens, la réalité à laquelle il se réfère semble d’une grande banalité. Grâce à son analyse et à des travaux d’écriture, on fera ressortir cette poétique de l’implicite, pour sensibiliser les élèves à l’originalité et à la force suggestive du texte.
   1. Découverte du poème de Prévert
   2. Réécritures poétiques

@@ -5,7 +5,7 @@ rubrique: 'Poésie [1re]'
 annee: '1988'
 magazine: 'n°8 1er février 1989'
 pages: '32'
-description: |-
+description: 
   '1. Premier problème : la subjectivité
   2. Deuxième problème : la signification
   3. Position de Francis Ponge

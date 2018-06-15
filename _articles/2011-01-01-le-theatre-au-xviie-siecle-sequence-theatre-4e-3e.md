@@ -5,7 +5,7 @@ rubrique: 'Théâtre [4e-3e]'
 annee: '2011'
 magazine: 'n°2'
 pages: '23'
-description: |-
+description: 
   'Cette séquence, destinée aux classes de cinquième et de quatrième, présente deux enjeux didactiques : d’une part, préparer à l’étude d’une pièce du XVIIe siècle de registre comique, en informant les élèves des conditions de représentation à cette époque ; d’autre part, travailler sur les ressorts génériques du roman historique.
   La séquence s’articule en trois étapes évoquant :
   – les conditions de représentation des comédiens ;

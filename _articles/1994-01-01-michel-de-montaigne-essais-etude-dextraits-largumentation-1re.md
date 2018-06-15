@@ -5,7 +5,7 @@ rubrique: 'L’argumentation [1re]'
 annee: '1994'
 magazine: 'n°3 1er novembre 1994'
 pages: '14'
-description: |-
+description: 
   'Livre 1, chapitre 31, et livre 3, chapitre 6 : analyse littéraire et idéologique de deux textes mettant en jeu les préjugés culturels…
   1. Livre 1, chapitre 31 : « Des cannibales »
   – l’ouverture du chapitre : le titre et le premier paragraphe

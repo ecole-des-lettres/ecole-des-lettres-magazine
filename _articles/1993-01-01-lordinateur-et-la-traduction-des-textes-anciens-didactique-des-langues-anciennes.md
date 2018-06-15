@@ -5,7 +5,7 @@ rubrique: 'Didactique des langues anciennes'
 annee: '1993'
 magazine: 'n°11 1er juin 1994'
 pages: '22'
-description: |-
+description: 
   '1. L’automate ne remplace pas le traducteur
   2. L’automate ne remplace pas le critique littéraire
   3. L’ordinateur et l’aide à la lecture

@@ -5,7 +5,7 @@ rubrique: 'Étude de l’image et poésie [3e]'
 annee: '1994'
 magazine: 'n°12 15 juin 1995'
 pages: '10'
-description: |-
+description: 
   '« Déjeuner du matin », de Jacques Prévert : un poème qui donne à voir et à entendre
   1. Phase passive
   – sensibilisation des élèves : poème hors de tout discours ; poème entre matérialisme et humanisme ; quelque part l’absence

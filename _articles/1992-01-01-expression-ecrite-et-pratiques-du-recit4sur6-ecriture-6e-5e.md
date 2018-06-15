@@ -5,7 +5,7 @@ rubrique: 'Écriture [6e-5e]'
 annee: '1992'
 magazine: 'n°5 1er décembre 1992'
 pages: '4'
-description: |-
+description: 
   'Savoir faire un brouillon : une approche de la logique narrative qui privilégie le mouvement du texte…
   1. Perspectives
   2. Mode d’emploi'

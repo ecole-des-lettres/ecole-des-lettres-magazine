@@ -5,7 +5,7 @@ rubrique: 'Roman [agrégation]'
 annee: '1993'
 magazine: 'n°9 15 mars 1994'
 pages: '16'
-description: |-
+description: 
   '1. Contre le carcan des conventions académistes, les audaces romantiques
   2. Les maîtres de la Renaissance, précurseurs de la modernité
   3. Contre l’hégémonie du « sujet », plaidoyer pour le « tempérament »'

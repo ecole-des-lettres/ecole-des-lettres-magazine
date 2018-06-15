@@ -5,7 +5,7 @@ rubrique: 'Roman et argumentation [2de-1re]'
 annee: '1990'
 magazine: 'n°14 15 juillet 1991'
 pages: '18'
-description: |-
+description: 
   '1. La pression de l’Histoire (la Libération)
   2. Un monde déréalisé
   3. Les virtualités de l’individu'

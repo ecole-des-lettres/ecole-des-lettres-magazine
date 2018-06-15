@@ -5,7 +5,7 @@ rubrique: 'Théâtre et grands modèles littéraires [Tle]'
 annee: '1994'
 magazine: 'n°8 1er mars 1995'
 pages: '6'
-description: |-
+description: 
   '1. Quelles sont les fonctions du spectre dans « Hamlet » ?
   – fonctions dramatique et métadramatique
   – fonction symbolique

@@ -5,7 +5,7 @@ rubrique: 'Cinéma'
 annee: '2014'
 magazine: ''
 pages: '1'
-description: |-
+description: 
   'Le monde que décrit Spike Jonze dans « Her » n’est pas encore celui où nous vivons, mais lui ressemble à s’y méprendre.
   Théodore Twombly vient de se séparer de sa femme. Sa vie solitaire se résume à écrire des lettres pour autrui, à jouer à des jeux vidéo sophistiqués et à chatter pour trouver une partenaire sexuelle virtuelle. Une vie par procuration en somme…'
 article_pdf: '12613.pdf'

@@ -5,7 +5,7 @@ rubrique: 'Roman historique et policier [3e]'
 annee: '1997'
 magazine: 'n°5-6 1er-15 novembre 1997'
 pages: '16'
-description: |-
+description: 
   'Ce roman policier, qui se déroule dans la Flandre française à la fin de l’occupation nazie, permet un lien avec l’étude d’une question d’histoire et celle de différentes techniques narratives…
   1. La construction du roman et les péripéties
   2. L’arrière-plan social et politique

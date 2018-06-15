@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1993'
 magazine: 'n°4 1er novembre 1993'
 pages: 184 pages
-description: |-
+description: 
   '1. « Germinal » et la critique littéraire
   2. La fabrique de « Germinal »
   3. L’univers de la mine

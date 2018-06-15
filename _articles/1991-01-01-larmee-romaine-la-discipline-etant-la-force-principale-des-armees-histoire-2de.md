@@ -6,7 +6,7 @@ rubrique: 'Histoire [2de]'
 annee: '1991'
 magazine: 'n°1 15 septembre 1991'
 pages: '10'
-description: |-
+description: 
   'Une étude sur l’armée romaine…
   1. Le règlement, avec un extrait du « Digeste », d’Arrius Menander, sur le règlement des armées romaines
   2. L’entraînement (à travers plusieurs extraits de textes latins)

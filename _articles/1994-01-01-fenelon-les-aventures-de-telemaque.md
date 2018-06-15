@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1994'
 magazine: 'n°4 15 novembre 1994'
 pages: 112 pages
-description: |-
+description: 
   '1. Écriture et imaginaire : quelques aspects de la structure de « Télémaque »
   2. « Ut pictura poesis » ou les enjeux de l’hypotypose
   3. Homère revu et corrigé : la grotte de Calypso ou les ambiguïtés du naturel

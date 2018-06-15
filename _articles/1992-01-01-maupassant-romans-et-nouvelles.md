@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1992'
 magazine: 'n°13 1er juin 1993'
 pages: 234 pages
-description: |-
+description: 
   '1. D’une littérature légère à une littérature de la légèreté
   2. « Boule de suif » ou la république des ogres
   3. « Boule de suif », la société et la guerre de 1870 en Normandie

@@ -5,7 +5,7 @@ rubrique: 'Théâtre [3e]'
 annee: '1990'
 magazine: 'n°11 1er mai 1991'
 pages: '14'
-description: |-
+description: 
   '– Le jeu des doubles
   – Une comédie du langage
   – La portée de la pièce'

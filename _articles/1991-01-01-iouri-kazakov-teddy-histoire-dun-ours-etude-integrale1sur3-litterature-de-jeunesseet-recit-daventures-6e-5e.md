@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et récit d’aventures [6e-5e]'
 annee: '1991'
 magazine: 'n°7 15 janvier 1992'
 pages: '6'
-description: |-
+description: 
   '1. Étude des chapitres 1 à 4
   – Questionnaire-guide pour la lecture individuelle
   – La situation initiale

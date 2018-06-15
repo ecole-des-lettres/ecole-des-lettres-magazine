@@ -5,7 +5,7 @@ rubrique: 'Lecture/écriture [6e-5e]'
 annee: '1997'
 magazine: 'n°13 1er mai 1998'
 pages: '24'
-description: |-
+description: 
   'Pour apprendre à sélectionner, à exploiter et à communiquer des informations…
   3. De l’informatif au narratif : « L’Archer blanc », de James Houston
   Centrée sur la lecture d’une œuvre intégrale, « L’Archer blanc », de James Houston, cette séquence est l’occasion de s’interroger sur les

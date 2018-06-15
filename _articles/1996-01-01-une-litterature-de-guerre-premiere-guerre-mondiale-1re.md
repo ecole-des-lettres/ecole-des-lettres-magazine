@@ -5,7 +5,7 @@ rubrique: 'Première guerre mondiale [1re]'
 annee: '1996'
 magazine: 'n°13 1er mai 1997'
 pages: '13'
-description: |-
+description: 
   '1. De Zola à Rouaud
   – la débâcle d’abord
   – la Grande Guerre aujourd’hui

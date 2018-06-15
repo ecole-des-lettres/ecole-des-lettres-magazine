@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et roman policier [6e-5e]'
 annee: '1993'
 magazine: 'n°7 15 janvier 1994'
 pages: '12'
-description: |-
+description: 
   'Quelques généralités sur le genre policier
   – questionnaire pour les élèves sur le roman policier ; parcours historique du roman policier ; les ingrédients du roman policier…
   1. La lecture

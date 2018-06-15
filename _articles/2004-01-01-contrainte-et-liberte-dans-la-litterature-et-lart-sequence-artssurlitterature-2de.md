@@ -5,7 +5,7 @@ rubrique: 'Arts/littérature [2de]'
 annee: '2004'
 magazine: '2005'
 pages: '26'
-description: |-
+description: 
   'L’intérêt de la séquence « Contrainte et liberté dans la littérature et l’art » proposée ici est qu’elle permet de brasser à peu près tous les objets et perspectives d’étude de la classe de seconde :
   – avec l’étude des variations sur le thème de Vénus, on aborde les notions de registre, d’histoire des arts et d’intertextualité ;
   – avec la lecture des « Exercices de style », de Raymond Queneau, on s’intéresse aux différents genres littéraires ainsi qu’à la notion de texte argumentatif et documentaire ; c’est également l’occasion de travailler les réécritures et donc le sujet 1 du baccalauréat ;

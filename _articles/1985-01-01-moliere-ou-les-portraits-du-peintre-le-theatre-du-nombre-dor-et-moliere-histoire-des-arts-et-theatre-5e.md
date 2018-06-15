@@ -5,7 +5,7 @@ rubrique: 'Histoire des arts et théâtre [5e]'
 annee: '1985'
 magazine: 'n°12 15 avril 1986'
 pages: '4'
-description: |-
+description: 
   '1. Le Nombre d’or et la gestuelle baroque
   2. Le Nombre d’or et Molière
   3. Horizons pédagogiques'

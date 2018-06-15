@@ -5,7 +5,7 @@ rubrique: 'Le naturalisme [2de]'
 annee: '1991'
 magazine: 'n°8 1er mars 1992'
 pages: '10'
-description: |-
+description: 
   'Réflexion sur une grammaire descriptive des tableaux, un véritable genre au XIXe siècle…
   – Fonction didactique
   – Fonction narrative

@@ -5,7 +5,7 @@ rubrique: 'nÉtude de l’image : cinéma [4e]'
 annee: '1993'
 magazine: 'n°14 juin 1994'
 pages: '8'
-description: |-
+description: 
   '1. Le comique des « Visiteurs »
   – l’anachronisme
   – d’une époque à l’autre

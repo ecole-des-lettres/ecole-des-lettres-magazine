@@ -5,7 +5,7 @@ rubrique: 'Histoire littéraire [1re] '
 annee: '1992'
 magazine: 'n°12 15 mai 1993'
 pages: '15'
-description: |-
+description: 
   'Textes présentés :
   – Résumé du chapitre 17 du « Prince », de Machiavel : questionnaire (compréhension, plan, résumé)
   – Résumé d’un extrait de « La Démocratie en Amérique », de Tocqueville : plan, résumé (vocabulaire, discussion, méthode)

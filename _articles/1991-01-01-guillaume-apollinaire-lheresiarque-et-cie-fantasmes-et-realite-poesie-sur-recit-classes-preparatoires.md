@@ -5,7 +5,7 @@ rubrique: 'Poésie / Récit [classes préparatoires]'
 annee: '1991'
 magazine: 'n°13 15 juin 1992'
 pages: '12'
-description: |-
+description: 
   '1. Une logique de l’hérésie
   – de l’hérésie
   – une mythologie amoureuse

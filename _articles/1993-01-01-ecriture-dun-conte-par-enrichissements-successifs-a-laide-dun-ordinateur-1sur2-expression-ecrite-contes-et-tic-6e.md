@@ -6,7 +6,7 @@ rubrique: 'Expression écrite, contes et TIC [6e]'
 annee: '1993'
 magazine: 'n°3 15 octobre 1993'
 pages: '10'
-description: |-
+description: 
   'Introduction : l’ordinateur est l’instrument idéal pour reproduire les différentes étapes de la croissance des textes…
   1. La structure du conte : des aventures
   – observation / déduction (deux mois)

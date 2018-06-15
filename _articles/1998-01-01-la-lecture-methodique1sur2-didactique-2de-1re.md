@@ -5,7 +5,7 @@ rubrique: 'Didactique [2de-1re]'
 annee: '1998'
 magazine: 'n°1 15 juillet 1998'
 pages: '6'
-description: |-
+description: 
   'Une démarche libératrice pour étudier les textes au lycée…
   1. Les cadres de la lecture méthodique
   2. La lecture méthodique d’après les « Instructions »

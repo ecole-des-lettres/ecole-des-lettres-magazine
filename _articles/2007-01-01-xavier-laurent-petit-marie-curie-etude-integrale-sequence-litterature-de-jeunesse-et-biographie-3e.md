@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et biographie [3e]'
 annee: '2007'
 magazine: 'n°3-4 2007-2008'
 pages: '13'
-description: |-
+description: 
   'Trois questions importantes se posent pour comprendre le genre biographique :
   – quels procédés d’écriture vont nous donner à voir un personnage, à parcourir (ou reconstruire) un destin hors du commun et les sentiments, les hésitations, le quotidien, les interactions entre vie professionnelle et vie familiale de l’héroïne ?
   – quelles sont les grandes étapes de ses découvertes, ses méthodes de recherches, ses interrogations ? Mais aussi, qu’est-ce qu’être une femme scientifique et, qui plus est, immigrée au début du XXe siècle ?

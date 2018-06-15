@@ -5,7 +5,7 @@ rubrique: 'Argumentation [4e-3e]'
 annee: '1994'
 magazine: 'n°2 1er octobre 1994'
 pages: '6'
-description: |-
+description: 
   '– le discours destiné à convaincre : la présence physique des interlocuteurs et son rôle dans l’argumentation ; les moyens de convaincre autrui
   – la discussion
   – le monologue

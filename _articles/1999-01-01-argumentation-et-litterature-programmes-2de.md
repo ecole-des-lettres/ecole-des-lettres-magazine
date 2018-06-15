@@ -5,7 +5,7 @@ rubrique: 'Programmes [2de]'
 annee: '1999'
 magazine: 'n°7 1er décembre 1999'
 pages: '22'
-description: |-
+description: 
   '1. L’émergence du champ de l’argumentation
   2. Le champ de l’argumentation aujourd’hui
   3. Textes et discours, types et genres

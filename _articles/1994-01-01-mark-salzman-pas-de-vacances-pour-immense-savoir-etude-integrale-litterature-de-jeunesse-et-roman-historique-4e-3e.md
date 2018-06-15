@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et roman historique [4e-3e]'
 annee: '1994'
 magazine: 'n°9 15 mars 1995'
 pages: '20'
-description: |-
+description: 
   '1. L’enfance de Hsun-ching en Chine populaire (chapitres 1 à 5)
   – construction de l’épisode
   – étude des personnages : Wei-ching ; Immense Savoir ou Hsun-ching ; l’homme mystérieux

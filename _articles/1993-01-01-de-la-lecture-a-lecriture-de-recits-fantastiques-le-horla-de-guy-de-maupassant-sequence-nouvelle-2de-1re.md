@@ -6,7 +6,7 @@ rubrique: 'Nouvelle [2de-1re]'
 annee: '1993'
 magazine: 'n°12 15 juin 1994'
 pages: '30'
-description: |-
+description: 
   'Objectif : franchir le cap du mimétisme pour progresser vers la rédaction d’un texte personnel…
   Progression en dix séances, avec pour support « Le Horla »
   * Séance 1

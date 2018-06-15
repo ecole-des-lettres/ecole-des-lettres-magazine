@@ -5,7 +5,7 @@ rubrique: 'Littérature médiévale [Tle]'
 annee: '1996'
 magazine: 'n°10 1er mars 1997'
 pages: '10'
-description: |-
+description: 
   '1. Les sources mythiques
   – résurgences de mythes antiques et celtiques sur les voyages au pays des morts
   – la légende de Pyrame et Thisbé

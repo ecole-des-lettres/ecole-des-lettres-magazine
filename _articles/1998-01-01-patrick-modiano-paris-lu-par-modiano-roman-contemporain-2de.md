@@ -5,7 +5,7 @@ rubrique: 'Roman contemporain [2de]'
 annee: '1998'
 magazine: 'n°3 15 septembre 1998'
 pages: '18'
-description: |-
+description: 
   '1. Patrick Modiano, indications biographiques
   2. Plan de l’étude
   – arriver à Paris : les gares

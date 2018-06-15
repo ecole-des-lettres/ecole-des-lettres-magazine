@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse'
 annee: '1993'
 magazine: 'n°12-13 1er juin 1994'
 pages: '10'
-description: |-
+description: 
   'Compte rendu d’une action conduite par les bibliothèques départementales et le ministère de l’Éducation nationale (« T’aimes pas lire ? ») et visant à mieux connaître les attentes culturelles des adolescents non-lecteurs…
   – Recenser les attentes des adolescents
   – La sélection « T’aimes pas lire ? » : principes de constitution

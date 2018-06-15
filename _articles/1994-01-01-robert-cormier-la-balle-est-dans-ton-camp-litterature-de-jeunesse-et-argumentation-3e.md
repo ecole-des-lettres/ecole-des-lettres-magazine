@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et argumentation [3e]'
 annee: '1994'
 magazine: 'n°11 15 mai 1995'
 pages: '10'
-description: |-
+description: 
   'Un roman d’initiation…
   1. La quatrième de couverture
   2. Les trois personnages

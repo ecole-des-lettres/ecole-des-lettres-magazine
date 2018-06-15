@@ -5,7 +5,7 @@ rubrique: 'Roman contemporain [1re]'
 annee: '1992'
 magazine: 'n°12 15 mai 1993'
 pages: '16'
-description: |-
+description: 
   'Étude des personnages des deux romans « La Plaisanterie » et « L’Insoutenable Légèreté de l’être »…
   1. Le personnage dans la structure du roman
   2. L’énigme du moi

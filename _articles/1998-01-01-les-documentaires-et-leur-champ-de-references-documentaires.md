@@ -5,7 +5,7 @@ rubrique: 'Documentaires'
 annee: '1998'
 magazine: 'n°12 avril 1999'
 pages: '18'
-description: |-
+description: 
   '1. Comparaison de documentaires
   – à propos de Van Gogh
   – les horaires de Louis XIV

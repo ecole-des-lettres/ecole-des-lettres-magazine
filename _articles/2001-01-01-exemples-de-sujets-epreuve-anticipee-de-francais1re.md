@@ -5,7 +5,7 @@ rubrique: 'Épreuve Anticipée de Français [1re]'
 annee: '2001'
 magazine: 'n°3 15 septembre 2001'
 pages: '8'
-description: |-
+description: 
   'Exemples de sujets sur les objets d’étude suivants :
   – le biographique
   – la poésie ; convaincre, persuader et délibérer

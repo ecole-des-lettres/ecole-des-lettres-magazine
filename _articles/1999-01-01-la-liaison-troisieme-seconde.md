@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1999'
 magazine: 'n°12 15 avril 2000'
 pages: 200 pages
-description: |-
+description: 
   '1. La refondation de la discipline, du collège au lycée
   2. L’argumentation en troisième et en seconde
   3. Des connaissances pour argumenter

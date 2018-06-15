@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1991'
 magazine: 'n°12 1er juin 1992'
 pages: 166 pages
-description: |-
+description: 
   '1. Apollinaire, Reverdy, deux versants de
   la poésie nouvelle
   2. « La Chanson du Mal-Aimé ». Poésie et vérité 1903-1913

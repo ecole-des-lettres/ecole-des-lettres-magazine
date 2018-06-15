@@ -5,7 +5,7 @@ rubrique: 'Épopée médiévale [classes préparatoires et concours] '
 annee: '1996'
 magazine: 'n°5 1er décembre 1996'
 pages: '8'
-description: |-
+description: 
   '1. L’Allemagne au Moyen Âge
   – la société féodale
   – l’affaiblissement de la royauté

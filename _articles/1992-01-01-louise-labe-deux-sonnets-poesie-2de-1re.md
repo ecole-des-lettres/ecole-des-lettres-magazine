@@ -5,7 +5,7 @@ rubrique: 'Poésie [2de-1re]'
 annee: '1992'
 magazine: 'n°3 15 octobre 1992'
 pages: '6'
-description: |-
+description: 
   'Étude des sonnets 5 et 9.
   1. « Crier me faut mon mal toute la nuit »
   2. « Continuez toutes les nuits mon songe »'

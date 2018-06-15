@@ -6,7 +6,7 @@ rubrique: 'Théâtre'
 annee: '2013'
 magazine: 'novembre 2013'
 pages: '9'
-description: |-
+description: 
   'On n’en finira jamais avec « Hamlet », pièce emblématique de Shakespeare, voire sommet du théâtre, au moins occidental.
   À la fois tragédie personnelle et politique, texte métaphysique, image éternelle de la modernité portée par une force poétique inaltérable, « Hamlet » interroge ce qu’est l’homme et interpelle chacun de nous…'
 article_pdf: '12210.pdf'

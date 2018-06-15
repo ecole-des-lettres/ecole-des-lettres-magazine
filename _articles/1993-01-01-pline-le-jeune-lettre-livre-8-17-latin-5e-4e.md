@@ -5,7 +5,7 @@ rubrique: 'Latin [5e-4e]'
 annee: '1993'
 magazine: 'n°2 1er octobre 1993'
 pages: '6'
-description: |-
+description: 
   '– Présentation de l’auteur et de l’œuvre
   – Lecture des deux textes (français et latin)
   – Repérage des noms de la troisième déclinaison

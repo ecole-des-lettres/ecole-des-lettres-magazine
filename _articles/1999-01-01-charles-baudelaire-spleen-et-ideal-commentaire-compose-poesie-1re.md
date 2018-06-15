@@ -5,7 +5,7 @@ rubrique: 'Poésie [1re]'
 annee: '1999'
 magazine: 'n°6 15 novembre 1999'
 pages: '12'
-description: |-
+description: 
   '1. Analyse du sujet et enjeux du commentaire
   2. Corrigé des questions
   3. Commentaire composé

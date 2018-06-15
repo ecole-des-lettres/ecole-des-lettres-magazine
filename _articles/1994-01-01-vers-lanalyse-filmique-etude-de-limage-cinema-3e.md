@@ -5,7 +5,7 @@ rubrique: 'Étude de l’image : cinéma [3e]'
 annee: '1994'
 magazine: 'n°12 15 juin 1995'
 pages: '6'
-description: |-
+description: 
   'Objectif : apprendre aux élèves à mieux voir et entendre un film en tant que fait de langage avec ses codes spécifiques et fait de culture contemporain.
   1. Tenir compte de la spécificité du film
   – lecture, audiovision : deux modes d’investigation différents

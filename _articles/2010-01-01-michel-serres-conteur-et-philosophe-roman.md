@@ -5,7 +5,7 @@ rubrique: 'Roman'
 annee: '2010'
 magazine: 'n°4-5 2010-2011'
 pages: '4'
-description: |-
+description: 
   'Présentation du livre de Michel Serres, « Biogée »  (editions-dialogues.fr), ainsi que du Cahier Michel Serres, paru aux éditions de L’Herne en 2010.
   '
 article_pdf: '12081.pdf'

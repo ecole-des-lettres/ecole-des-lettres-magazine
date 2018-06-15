@@ -5,7 +5,7 @@ rubrique: 'Roman et personnages [1re]'
 annee: '1990'
 magazine: 'n°9 1er mars 1991'
 pages: '34'
-description: |-
+description: 
   '– L’après-texte : « La Nausée », roman « révolutionnaire »
   2. Lecture textuelle
   – Structures : un roman « moderne » (avec deux schémas de l’état initial et de l’état final et un tableau de la structure narrative du roman)

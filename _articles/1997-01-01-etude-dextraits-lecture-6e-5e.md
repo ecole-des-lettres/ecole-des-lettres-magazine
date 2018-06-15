@@ -5,7 +5,7 @@ rubrique: 'Lecture [6e-5e]'
 annee: '1997'
 magazine: '1997'
 pages: '26'
-description: |-
+description: 
   'Il s’agit d’évaluer l’aptitude des élèves de sixième-cinquième à se repérer dans un texte, à opérer des recoupements et à dégager une cohérence des textes lus…
   – La tour de Babel et la chute d’Icare, extraits de « Peter Bruegel l’Ancien », de Colette Hellings : questions et corrections (fiche élève sixième)
   – Le serment des chevaliers de la Table Ronde (fiche élève cinquième) et le roi Arthur, extrait de « La Chevalerie », de Claude-Catherine Ragache

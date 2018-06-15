@@ -5,7 +5,7 @@ rubrique: 'Histoire des arts [4e]'
 annee: '1990'
 magazine: 'n°6 15 décembre 1990'
 pages: '4'
-description: |-
+description: 
   'Approche de l’œuvre du peintre…
   1. « Le Sous-Bois »,  de Van Gogh
   2. Paroles et tableaux de Van Gogh (à partir de sa correspondance avec son frère Théo)'

@@ -6,7 +6,7 @@ rubrique: 'Poésie [1re]'
 annee: '1999'
 magazine: 'n°5 1er novembre 1999'
 pages: '11'
-description: |-
+description: 
   '1. Situation du texte
   – livre 4 : « Le religion est glorifiée »
   – un poème écrit en 1848 ?

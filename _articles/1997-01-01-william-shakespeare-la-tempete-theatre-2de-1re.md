@@ -5,7 +5,7 @@ rubrique: 'Théâtre [2de-1re]'
 annee: '1997'
 magazine: 'n°11 15 mars 1998'
 pages: '13'
-description: |-
+description: 
   '1. « La Tempête » ou la mise en scène de la magie
   – contexte historique
   – les pouvoirs de la magie

@@ -5,7 +5,7 @@ rubrique: ''
 annee: '2000'
 magazine: 'n°7 1er décembre 2000'
 pages: '2'
-description: |-
+description: 
   'Un article qui propose de lire contes ou extraits de romans aux élèves de sixième.
   1. « Bon à rien », de Moka
   2. « Guesaro l’indomptable », de Claire Clément

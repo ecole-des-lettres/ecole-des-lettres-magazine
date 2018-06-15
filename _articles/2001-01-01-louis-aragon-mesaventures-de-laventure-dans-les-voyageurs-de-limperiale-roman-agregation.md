@@ -5,7 +5,7 @@ rubrique: 'Roman [agrégation]'
 annee: '2001'
 magazine: 'n°11 15 mars 2002'
 pages: '11'
-description: |-
+description: 
   'À travers le destin du rentier globe-trotter Mercadier, c’est toute une représentation du
   « conquérant », toute une mythologie du voyage, une idéologie de l’ailleurs et de l’aventure qu’Aragon met à mal dans « Les Voyageurs de l’impériale ».'
 article_pdf: '4227.pdf'

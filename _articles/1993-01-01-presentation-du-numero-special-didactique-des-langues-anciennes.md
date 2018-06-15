@@ -5,7 +5,7 @@ rubrique: '« Didactique des langues anciennes »'
 annee: '1993'
 magazine: 'n°11 1er juin 1994'
 pages: '4'
-description: |-
+description: 
   '– Les techniques de la version
   – L’explication de texte
   – L’informatique et la recherche en didactique'

@@ -5,7 +5,7 @@ rubrique: 'Poésie [1re]'
 annee: '1995'
 magazine: '1995'
 pages: '25'
-description: |-
+description: 
   '1. Continuité et ruptures formelles
   – le cycle poétique : la réécriture, l’enchaînement des poèmes
   – les choix stylistiques

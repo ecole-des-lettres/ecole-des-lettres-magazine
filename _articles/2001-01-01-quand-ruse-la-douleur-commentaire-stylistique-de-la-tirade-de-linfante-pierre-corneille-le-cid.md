@@ -5,7 +5,7 @@ rubrique: 'Pierre Corneille : « Le Cid »'
 annee: '2001'
 magazine: 'n°9 1er février 2002'
 pages: '10'
-description: |-
+description: 
   'La tirade de l’Infante : « Le Cid », acte 1, scène 3
   1. Une machine rhétorique
   2. Dire la douleur

@@ -6,7 +6,7 @@ rubrique: 'Littérature médiévale [5e]'
 annee: '1992'
 magazine: 'n°12 15 mai 1993'
 pages: '9'
-description: |-
+description: 
   'L’article porte sur les comparaisons dans « Le Chevalier au Lion ». À quoi sont comparés les :
   1. sentiments, lieux objets (noms non animés)
   – li des d’amors

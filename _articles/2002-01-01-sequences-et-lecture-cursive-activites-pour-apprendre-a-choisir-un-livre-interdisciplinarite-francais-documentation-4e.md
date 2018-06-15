@@ -5,7 +5,7 @@ rubrique: 'Interdisciplinarité français, documentation [4e]'
 annee: '2002'
 magazine: 'n°11 15 mars 2003'
 pages: '7'
-description: |-
+description: 
   'Comment amener les élèves à la lecture ? Cet article propose une liste de romans dans lesquels le livre joue un rôle important. Les livres interviennent de différentes manières dans la vie des héros évoqués. Ils les rapprochent d’autres personnages, les aident à comprendre le monde, ils sont aussi les traces de leur mémoire et parfois de leur identité.
   – « Un amour éternel », d’Évelyne Brisou-Pellen
   – « Mauvais rêves », d’Anne Fine

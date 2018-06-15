@@ -5,7 +5,7 @@ rubrique: 'Autobiographie [1re]'
 annee: '1991'
 magazine: 'n°3 15 octobre 1991'
 pages: '6'
-description: |-
+description: 
   'Quasiment ignoré de ses contemporains écrivains, Amiel n’en a pas moins laissé un immense journal intime dans lequel il ressasse l’amertume de la condition humaine…
   L’article est suivi d’une bibliographie sur cet auteur.'
 article_pdf: '597.pdf'

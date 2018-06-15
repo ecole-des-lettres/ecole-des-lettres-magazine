@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et monde contemporain [5e-4e]'
 annee: '1991'
 magazine: 'n°14 15 juin 1992'
 pages: '14'
-description: |-
+description: 
   '5-7. Étude des chapitres 5 à 7
   – suggestions pour la lecture des chapitres 5 et 6
   – les thèmes essentiels

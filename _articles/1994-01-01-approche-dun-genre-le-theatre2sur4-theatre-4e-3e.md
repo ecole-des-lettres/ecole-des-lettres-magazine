@@ -5,7 +5,7 @@ rubrique: 'Théâtre [4e-3e]'
 annee: '1994'
 magazine: 'n°2 1er octobre 1994'
 pages: '16'
-description: |-
+description: 
   'Techniques de la tragédie…
   Comment acquérir un vocabulaire théâtral, étudier la notion de mythe, approcher la culture théâtrale et la diversité des textes de la tragédie antique ou classique…
   – Exercice d’expression écrite : transposition d’un récit – « Colomba », de Prosper Mérimée – en une ou deux scènes de théâtre. L’exercice est accompagné d’une fiche-guide pour les élèves

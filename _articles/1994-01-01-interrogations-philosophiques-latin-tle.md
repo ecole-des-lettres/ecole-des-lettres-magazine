@@ -5,7 +5,7 @@ rubrique: 'Latin [Tle]'
 annee: '1994'
 magazine: 'n°5 15 décembre 1994'
 pages: '6'
-description: |-
+description: 
   'Versions empruntées aux œuvres de Sénèque…
   1. Comment atteindre à la sérénité (« De tranquillitate animi »)
   2. Le sage au secours de la détresse (« De clementia »)

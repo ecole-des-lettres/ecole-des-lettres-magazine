@@ -5,7 +5,7 @@ rubrique: 'Théâtre'
 annee: '2000'
 magazine: 'n°5 1er novembre 2000'
 pages: '12'
-description: |-
+description: 
   'La consécration du théâtre d’Audiberti…
   1. Une pièce au charme unique
   – une invitation à la réflexion

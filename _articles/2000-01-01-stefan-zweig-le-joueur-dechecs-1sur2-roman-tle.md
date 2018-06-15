@@ -5,7 +5,7 @@ rubrique: 'Roman [Tle]'
 annee: '2000'
 magazine: '2000'
 pages: '53'
-description: |-
+description: 
   '1. L’Autriche : un passé pas simple
   – Vienne, ville à remonter le temps
   – Le retour des spectres : de Hitler à Haider

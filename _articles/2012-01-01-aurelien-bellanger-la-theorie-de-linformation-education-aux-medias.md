@@ -5,7 +5,7 @@ rubrique: 'Éducation aux médias'
 annee: '2012'
 magazine: 'septembre 2012'
 pages: '2'
-description: |-
+description: 
   'Qui se rappelle l’entrée du mot « télématique » dans notre vocabulaire ? Et celui d’« Internet » ? et « chat » ? ou « Web » ?
   Le premier roman d’Aurélien Bellanger, « La Théorie de l’information » rappelle leur naissance, et celle d’une industrie qui a changé le monde…'
 article_pdf: '12378.pdf'

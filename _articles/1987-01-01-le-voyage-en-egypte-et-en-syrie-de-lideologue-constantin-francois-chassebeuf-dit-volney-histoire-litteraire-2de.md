@@ -6,7 +6,7 @@ rubrique: 'Histoire littéraire [2de] '
 annee: '1987'
 magazine: 'n°12 15 avril 1988'
 pages: '10'
-description: |-
+description: 
   '1. Motifs et circonstances du « Voyage en Égypte et en Syrie »
   2. L’itinéraire de Volney dans le « Voyage en Égypte et en Syrie »
   3. Traits caractéristiques du « Voyage en Égypte et en Syrie »'

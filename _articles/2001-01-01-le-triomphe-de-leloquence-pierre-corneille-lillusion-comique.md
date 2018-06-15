@@ -5,7 +5,7 @@ rubrique: 'Pierre Corneille : « L’Illusion comique »'
 annee: '2001'
 magazine: 'n°9 1er février 2002'
 pages: '18'
-description: |-
+description: 
   'Depuis que la rhétorique est à nouveau à l’honneur dans l’enseignement, le champ qui lui est assigné semble de plus en plus vaste et flou et sa définition de plus en plus labile. Pour l’étude de « L’Illusion comique », il convient d’en limiter les sens à ceux qui étaient couramment admis au début du XVIIe siècle, c’est-à-dire à ceux que les théories et les pratiques de l’époque retenaient de la double tradition antique, grecque et latine.
   1. Rhétorique et dramaturgie au XVIIe siècle
   – définitions

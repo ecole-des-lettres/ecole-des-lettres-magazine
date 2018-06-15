@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1994'
 magazine: 'n°12 15 juin 1995'
 pages: 176 pages
-description: |-
+description: 
   '1. Vers l’analyse filmique
   2. L’opération « Collège au cinéma » dans un collège de la Drôme
   3. Cinéma et bande dessinée

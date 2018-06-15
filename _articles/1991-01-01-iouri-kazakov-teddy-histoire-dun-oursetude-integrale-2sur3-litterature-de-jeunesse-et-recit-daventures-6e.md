@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et récit d’aventures [6e]'
 annee: '1991'
 magazine: 'n°9 15 mars 1992'
 pages: '8'
-description: |-
+description: 
   '2. Étude des chapitres 5 à 10
   – Questionnaire-guide pour la lecture individuelle
   – La situation de Teddy

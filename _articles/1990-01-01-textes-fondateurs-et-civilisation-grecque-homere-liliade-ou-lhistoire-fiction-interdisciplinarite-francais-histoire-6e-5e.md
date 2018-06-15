@@ -6,7 +6,7 @@ rubrique: 'Interdisciplinarité français, histoire [6e-5e]'
 annee: '1990'
 magazine: 'n°5 15 novembre 1990'
 pages: '3'
-description: |-
+description: 
   '1. Du mythe à l’histoire
   2. L’état des connaissances (les Achéens, la civilisation mycénienne, Troie, Homère)'
 article_pdf: '335.pdf'

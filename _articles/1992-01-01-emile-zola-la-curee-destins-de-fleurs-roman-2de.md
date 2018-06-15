@@ -5,7 +5,7 @@ rubrique: 'Roman [2de]'
 annee: '1992'
 magazine: 'n°7 15 janvier 1993'
 pages: '8'
-description: |-
+description: 
   'Les images florales dans « La Curée » ont une force  symbolique et une valeur organisatrice dans l’œuvre : ainsi, la chute du personnage de Renée est-elle jalonnée de fleurs dotées d’une signification…
 
   1. La femme piégée par la fleur

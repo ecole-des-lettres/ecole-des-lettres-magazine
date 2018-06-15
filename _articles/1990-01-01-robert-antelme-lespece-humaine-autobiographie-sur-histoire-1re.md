@@ -5,7 +5,7 @@ rubrique: 'Autobiographie / histoire [1re]'
 annee: '1990'
 magazine: 'n°14 15 juillet 1991'
 pages: '12'
-description: |-
+description: 
   'Étude de « L’Espèce humaine »…
   1. Le récit et ses formes : la réticence narrative, l’écriture au degré zéro, la brutalité verbale
   2. La lutte pour la survie : lieux et décors, les activités, les personnages

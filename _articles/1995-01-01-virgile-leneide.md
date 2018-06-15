@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1995'
 magazine: 'n°4 15 novembre 1995'
 pages: 160 pages
-description: |-
+description: 
   '1. Le portail du temple d’Apollon. Fonctions de l’ekphrasis dans la narration épique
   2. Narration et épopée dans le livre 6 de l’« Énéide »
   3. Le personnage d’Énée : ses rapports aux autres et au monde

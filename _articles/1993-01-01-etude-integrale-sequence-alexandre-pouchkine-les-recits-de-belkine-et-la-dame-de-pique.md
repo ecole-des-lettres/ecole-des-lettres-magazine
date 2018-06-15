@@ -5,7 +5,7 @@ rubrique: 'Alexandre Pouchkine : « Les Récits de Belkine » et « La Dame 
 annee: '1993'
 magazine: '1993'
 pages: '34'
-description: |-
+description: 
   'Alexandre Pouchkine est considéré avant tout comme un grand poète russe. Mais il est aussi un remarquable prosateur. L’art du récit qu’il manifeste dans « Les Récits de Belkine » et dans « La Dame de pique » invite à une étude approfondie des techniques de la narration. La diversité des tons et l’ironie de l’auteur
   fournissent également une palette de registres parodiques, pathétiques, fantastiques, propre à éveiller l’intérêt des élèves de quatrième ou de troisième. La peinture du peuple russe, de sa vie quotidienne et de ses traditions est enfin une occasion d’ouverture à une littérature étrangère nourrie de la nôtre et dont la nôtre
   est tributaire.

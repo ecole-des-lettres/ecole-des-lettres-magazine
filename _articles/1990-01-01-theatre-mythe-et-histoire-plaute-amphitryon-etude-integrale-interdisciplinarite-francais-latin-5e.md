@@ -5,7 +5,7 @@ rubrique: 'Interdisciplinarité français, latin [5e]'
 annee: '1990'
 magazine: 'n°11 1er mai 1991'
 pages: '26'
-description: |-
+description: 
   '– Schéma de la pièce
   – Une pièce à part
   – La marque du tragique

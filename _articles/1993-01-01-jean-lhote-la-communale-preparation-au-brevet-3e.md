@@ -5,7 +5,7 @@ rubrique: 'Préparation au brevet [3e]'
 annee: '1993'
 magazine: 'n°7 15 janvier 1994'
 pages: '6'
-description: |-
+description: 
   'Texte proposé en 1991 dans l’académie de Nancy-Metz : extrait de « La Communale », de Jean Lhote…
   Vocabulaire, compréhension, grammaire, rédaction, corrigés.'
 article_pdf: '1383.pdf'

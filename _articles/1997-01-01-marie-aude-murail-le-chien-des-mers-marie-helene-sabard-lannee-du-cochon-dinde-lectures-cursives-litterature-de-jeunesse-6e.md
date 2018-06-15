@@ -6,7 +6,7 @@ rubrique: 'Littérature de jeunesse [6e]'
 annee: '1997'
 magazine: 'n°2 15 septembre 1997'
 pages: '5'
-description: |-
+description: 
   '1. « Le Chien des mers », de Marie-Aude Murail
   – l’histoire et le titre
   – les personnages principaux

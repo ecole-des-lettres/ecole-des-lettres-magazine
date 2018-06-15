@@ -5,7 +5,7 @@ rubrique: 'Nouvelles [Tle]'
 annee: '2000'
 magazine: '2001'
 pages: '36'
-description: |-
+description: 
   '3. Survie et identité
   – La survie à tout prix
   – Moi et moi : deux frères ennemis

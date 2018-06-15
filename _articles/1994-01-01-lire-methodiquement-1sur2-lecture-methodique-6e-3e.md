@@ -5,7 +5,7 @@ rubrique: 'Lecture méthodique [6e-3e]'
 annee: '1994'
 magazine: 'n°4 15 novembre 1994'
 pages: '10'
-description: |-
+description: 
   'Une synthèse des principaux travaux parus sur la lecture méthodique…
   1. Principes et définitions
   – qu’est-ce que lire ? : lire, c’est construire du sens ; savoir lire, c’est aussi savoir tout lire ;

@@ -5,7 +5,7 @@ rubrique: 'Antiquité et textes fondateurs [6e]'
 annee: '2005'
 magazine: '2006'
 pages: '29'
-description: |-
+description: 
   'La séquence présentée dans cet article est une préparation aux épreuves de didactique du
   Capes interne. Elle est directement transposable en classe.
   Sujet : « Dans la perspective de l’étude d’un texte fondateur issu de l’héritage antique en classe de sixième, vous entreprendrez l’étude

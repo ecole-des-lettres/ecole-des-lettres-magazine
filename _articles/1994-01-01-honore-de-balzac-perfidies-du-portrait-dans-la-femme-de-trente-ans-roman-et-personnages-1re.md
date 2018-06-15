@@ -6,7 +6,7 @@ rubrique: 'Roman et personnages [1re]'
 annee: '1994'
 magazine: 'n°12 15 mai 1995'
 pages: '20'
-description: |-
+description: 
   '1. Le cadre historique et chronologique de la parade
   2. Fonctions de la parade
   3. Au centre du tableau : Victor d’Aiglemont

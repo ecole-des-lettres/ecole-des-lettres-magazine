@@ -5,7 +5,7 @@ rubrique: 'Théâtre [2de-1re]'
 annee: '1997'
 magazine: 'n°11 15 mars 1998'
 pages: '14'
-description: |-
+description: 
   'Porter sur la scène tragique un personnage aussi noir et violent que Cléopâtre, un méchant absolu, soulève à l’époque de Corneille un certain nombre de problèmes, tant esthétiques qu’idéologiques…
   1. Le modèle aristotélicien
   2. Le débat sur la moralité du théâtre

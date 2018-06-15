@@ -6,7 +6,7 @@ rubrique: 'Expression écrite [BTS]'
 annee: '2007'
 magazine: ''
 pages: '13'
-description: |-
+description: 
   'Les blogs : une forme d’écriture qui, en tant que phénomène scripturaire et sociologique à la frontière du public et du privé, mérite d’être analysée.
   Objectifs de la séquence :
   – prendre en compte cette forme d’écriture fréquente chez les élèves et la replacer dans la tradition des écrits privés ;

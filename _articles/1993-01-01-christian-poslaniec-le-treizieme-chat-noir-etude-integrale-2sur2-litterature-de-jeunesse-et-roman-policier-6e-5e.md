@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et roman policier [6e-5e]'
 annee: '1993'
 magazine: 'n°8 15 février 1994'
 pages: '12'
-description: |-
+description: 
   '3. Les personnages
   4. Les lieux
   5. La langue

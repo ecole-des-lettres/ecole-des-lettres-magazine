@@ -5,7 +5,7 @@ rubrique: ''
 annee: '2000'
 magazine: 'n°9 15 janvier 2001'
 pages: 208 pages
-description: |-
+description: 
   '1. « Chantefable » : un terme et un genre à élucider
   2. Étude séquentielle
   3. L’épisode de Torelore

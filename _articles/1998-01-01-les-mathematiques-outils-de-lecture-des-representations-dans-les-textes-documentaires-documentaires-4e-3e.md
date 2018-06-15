@@ -6,7 +6,7 @@ rubrique: 'Documentaires [4e-3e]'
 annee: '1998'
 magazine: 'n°12 avril 1999'
 pages: '18'
-description: |-
+description: 
   'Objectif : aider les élèves à lire tableaux, schémas et autres représentations formalisées…
   1. La lecture des tableaux
   2. Analyse d’une leçon intitulée « Tableaux et graphiques » dans un manuel de mathématiques

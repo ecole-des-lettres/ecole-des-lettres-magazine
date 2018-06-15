@@ -5,7 +5,7 @@ rubrique: 'Ateliers lecture [6e-5e]'
 annee: '2001'
 magazine: 'n°5 15 octobre 2001'
 pages: '8'
-description: |-
+description: 
   '1. La variété des situations
   2. Exercices de remédiation
   – rompre les habitudes : les indices ; les textes « défigurés » ; la lecture d’un texte non segmenté ; la ponctuation, etc.

@@ -5,7 +5,7 @@ rubrique: ''
 annee: '2012'
 magazine: 'n°4 2012-2013'
 pages: '96'
-description: |-
+description: 
   '– La sélection pour le cycle 3 du ministère de l’Éducation nationale
   – « Lectures pour les collégiens » : la liste complémentaire
   – « Sac à Puces » : « Super Maman », de De Brab, Falzar et Zidrou, une BD au cycle 3, par Christian Poslaniec

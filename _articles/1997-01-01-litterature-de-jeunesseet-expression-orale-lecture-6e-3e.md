@@ -5,7 +5,7 @@ rubrique: 'Lecture [6e-3e]'
 annee: '1997'
 magazine: 'n°14 15 mai 1998'
 pages: '4'
-description: |-
+description: 
   'Présentation orale d’un livre par un élève à ses camarades et guides de préparation sur les titres suivants :
   1. « Un chat dans l’œil », de Silvana Gandolfi (sixième)
   2. « L’Ordinatueur », de Christian Grenier (cinquième-quatrième)

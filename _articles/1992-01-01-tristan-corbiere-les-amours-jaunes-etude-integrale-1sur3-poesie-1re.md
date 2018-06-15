@@ -5,7 +5,7 @@ rubrique: 'Poésie [1re]'
 annee: '1992'
 magazine: 'n°5 1er décembre 1992'
 pages: '16'
-description: |-
+description: 
   '1. Le contexte
   – Corbière découvert par Verlaine
   – Corbière présenté par Verlaine

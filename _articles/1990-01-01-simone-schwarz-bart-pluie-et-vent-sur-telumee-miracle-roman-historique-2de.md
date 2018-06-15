@@ -5,7 +5,7 @@ rubrique: 'Roman historique [2de]'
 annee: '1990'
 magazine: 'n°4 1er novembre 1990'
 pages: '12'
-description: |-
+description: 
   '1. Un roman historique
   2. Un roman de la parole
   3. Un langage-univers

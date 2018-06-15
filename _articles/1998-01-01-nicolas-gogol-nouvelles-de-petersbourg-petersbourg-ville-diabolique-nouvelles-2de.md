@@ -5,7 +5,7 @@ rubrique: 'Nouvelles [2de]'
 annee: '1998'
 magazine: 'n°11 1er mars 1999'
 pages: '12'
-description: |-
+description: 
   'Comment Gogol voit la ville dans ses « Nouvelles de Pétersbourg »…
   1. Les lieux réels, fantastiques, diaboliques
   2. Les personnages : masques et métamorphoses

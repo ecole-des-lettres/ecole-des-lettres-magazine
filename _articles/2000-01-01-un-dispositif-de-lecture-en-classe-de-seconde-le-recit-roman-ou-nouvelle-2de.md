@@ -5,7 +5,7 @@ rubrique: 'Le récit (roman ou nouvelle) [2de]'
 annee: '2000'
 magazine: 'n°2 1er septembre 2000'
 pages: '8'
-description: |-
+description: 
   'Un dispositif de lecture sur « Le Colonel Chabert », de Balzac et « L’Écume des jours », de Boris Vian, constitué  :
   – d’un programme de lecture d’œuvres intégrales
   – d’un guide de lecture

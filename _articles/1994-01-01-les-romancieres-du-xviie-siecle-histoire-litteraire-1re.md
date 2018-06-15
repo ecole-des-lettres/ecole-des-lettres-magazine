@@ -5,7 +5,7 @@ rubrique: 'Histoire littéraire [1re]'
 annee: '1994'
 magazine: 'n°11 1er mai 1995'
 pages: '8'
-description: |-
+description: 
   '1. Les origines sociales des romancières du XVIIe siècle
   2. Les héroïnes des romancières
   3. La carrière de romancière'

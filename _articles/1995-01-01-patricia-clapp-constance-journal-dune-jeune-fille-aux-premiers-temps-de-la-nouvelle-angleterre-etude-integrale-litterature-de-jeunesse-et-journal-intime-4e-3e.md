@@ -6,7 +6,7 @@ rubrique: 'Littérature de jeunesse et journal intime [4e-3e]'
 annee: '1995'
 magazine: 'n°3 15 octobre 1995'
 pages: '12'
-description: |-
+description: 
   'Pistes d’étude d’un roman jeunesse présenté sous forme de journal intime. La narratrice note les événements qui jalonnent sa vie depuis qu’elle a débarqué du « Mayflower » en Nouvelle-Angleterre en 1620…
   1. Analyse du récit
   – le genre : journal ou roman ? : le journal d’une jeune fille ; le journal d’une jeune fille aux temps de la Nouvelle-Angleterre

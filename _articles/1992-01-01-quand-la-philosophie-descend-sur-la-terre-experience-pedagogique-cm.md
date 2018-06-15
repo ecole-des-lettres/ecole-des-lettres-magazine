@@ -5,7 +5,7 @@ rubrique: 'Expérience pédagogique [CM]'
 annee: '1992'
 magazine: 'n°8 1er février 1993'
 pages: '6'
-description: |-
+description: 
   'Expérience pédagogique menée avec des CM2 autour de la lecture de l’« Odyssée », d’Homère. « Histoire du premier mot », de Pierre-Yves Bourdil, a éclairé et actualisé certains aspects du texte…
   – Présentation des deux œuvres
   – Thèmes de réflexion : l’oubli, la guerre, la violence, la peur, le rêve utopique…'

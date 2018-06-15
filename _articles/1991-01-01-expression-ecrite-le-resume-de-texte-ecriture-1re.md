@@ -5,7 +5,7 @@ rubrique: 'Écriture [1re]'
 annee: '1991'
 magazine: 'n°7 1er février 1992'
 pages: '8'
-description: |-
+description: 
   '1. Les instructions officielles et le baccalauréat
   2. Éléments de méthodologie du résumé de texte
   – la familiarité avec un type de texte

@@ -5,7 +5,7 @@ rubrique: 'Conte [6e]'
 annee: '1994'
 magazine: 'n°1 7 septembre 1994'
 pages: '20'
-description: |-
+description: 
   '1. Initiation à la structure du récit (séquence d’apprentissage située en début d’année scolaire)
   – structure du conte : introduction : lecture orale du conte par le professeur ; représentations à propos du conte merveilleux ; compréhension du texte ; tableau de structure (lieux, temps, personnages, héros, action, etc.)
   – tableau des rôles : lecture silencieuse du texte ; compréhension du texte ; les personnages ; le héros ; l’épreuve ; les aides et les opposants ; situation finale

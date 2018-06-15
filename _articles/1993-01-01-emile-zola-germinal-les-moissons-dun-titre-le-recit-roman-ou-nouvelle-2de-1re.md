@@ -5,7 +5,7 @@ rubrique: 'Le récit (roman ou nouvelle) [2de-1re]'
 annee: '1993'
 magazine: 'n°4 1er novembre 1993'
 pages: '10'
-description: |-
+description: 
   '1. Le fantasme de la fécondité
   2. Le fantasme du déséquilibre
   3. Le végétal, vecteur de l’Histoire'

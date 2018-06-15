@@ -5,7 +5,7 @@ rubrique: 'Nouvelle [2de]'
 annee: '1993'
 magazine: 'n°12 15 juin 1994'
 pages: '14'
-description: |-
+description: 
   'Le fantastique chez Maupassant…
   1. S’entendre sur le fantastique
   2. Avec la fixité d’une toile

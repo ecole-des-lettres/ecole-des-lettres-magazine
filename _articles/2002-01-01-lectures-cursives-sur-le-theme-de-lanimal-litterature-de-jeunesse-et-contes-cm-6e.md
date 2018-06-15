@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et contes [CM-6e]'
 annee: '2002'
 magazine: 'n°2 août 2002'
 pages: '6'
-description: |-
+description: 
   'La variété (longueur, contenu, ton, illustrations…) des quatre ouvrages présentés ici permet d’assurer une liaison entre l’école élémentaire et le collège en offrant le choix aux élèves, selon leur âge et leur niveau de lecture. Complètement imaginaires ou ancrées dans la réalité, les histoires de ces  ouvrages présentent des animaux (un poulet, un loup, un crapaud, un dauphin, un ours…) qui parlent, pensent, agissent ou rêvent comme des êtres humains.
   – « Un poulailler dans les étoiles », de Christian Jolibois
   –  « Le Prince et la caissière », de Christian Oster

@@ -5,7 +5,7 @@ rubrique: 'Étude de l'image [5e]'
 annee: '2003'
 magazine: 'n°7 15 décembre 2003'
 pages: '32'
-description: |-
+description: 
   'Objectifs de cette séquence :
   – faire acquérir aux élèves une culture commune, fondement de notre société et toujours présente, tant dans le langage que dans les images qui nous entourent (bande dessinée, publicité) ;
   – leur faire lire des textes documentaires, des textes littéraires (romans de chevalerie) et des images en relation avec le Moyen Âge ;

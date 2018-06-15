@@ -5,7 +5,7 @@ rubrique: 'Écrire, publier, lire [2de]'
 annee: '1991'
 magazine: 'n°3 15 octobre 1991'
 pages: '16'
-description: |-
+description: 
   'Les phases successives qui ont présidé à l’écriture du roman par Hugo… Jusqu’en 1870, il prépare ce volet d’une trilogie politique dans l’esprit d’un roman à thèse. L’année 1871 va modifier ses repères : il s’écarte de l’apologie, prévue initialement, du massacre de 1793…
   De l’Histoire au mythe…
   1. Le retour de la fatalité

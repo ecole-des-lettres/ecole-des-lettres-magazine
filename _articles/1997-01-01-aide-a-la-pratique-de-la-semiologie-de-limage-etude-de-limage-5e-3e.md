@@ -5,7 +5,7 @@ rubrique: 'Étude de l'image [5e-3e]'
 annee: '1997'
 magazine: 'n°11 15 mars 1998'
 pages: '10'
-description: |-
+description: 
   '1. La sémiologie de l’image fixe
   – petit historique
   – démarche pédagogique pour lire une image fixe

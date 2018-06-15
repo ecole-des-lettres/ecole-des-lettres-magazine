@@ -5,7 +5,7 @@ rubrique: ''
 annee: '2003'
 magazine: 'n°12-14 août 2004'
 pages: 128 pages
-description: |-
+description: 
   '– « Méditations », de Lamartine
   – « Adolphe », de Benjamin Constant selon Benoît Jacquot
   – « Ruy Blas », de Victor Hugo : organisation d’une séquence

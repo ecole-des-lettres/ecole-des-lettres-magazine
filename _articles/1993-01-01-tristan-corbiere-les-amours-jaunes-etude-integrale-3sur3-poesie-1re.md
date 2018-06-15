@@ -5,7 +5,7 @@ rubrique: 'Poésie [1re]'
 annee: '1993'
 magazine: 'n°8 15 février 1994'
 pages: '18'
-description: |-
+description: 
   'Fin de l’étude sur l’Italie :
   – La caricature de l’Italie : lecture méthodique de « Vésuves et Cie »
   7. La Bretagne de Tristan

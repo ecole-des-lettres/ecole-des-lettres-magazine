@@ -5,7 +5,7 @@ rubrique: 'L’argumentation [1re]'
 annee: '1993'
 magazine: 'n°3 15 octobre 1993'
 pages: '34'
-description: |-
+description: 
   'L’écriture oblique d’une idéologie…
   1. L’écriture de l’idéologie
   2. Lecture suivie

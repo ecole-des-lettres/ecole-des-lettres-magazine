@@ -5,7 +5,7 @@ rubrique: 'Préparation à la seconde [3e]'
 annee: '1993'
 magazine: 'n°5 1er décembre 1993'
 pages: '10'
-description: |-
+description: 
   '1. Introduction
   2. Présentation de l’« Histoire des treize »
   3. Lecture et découpage : Madame Jules ; Ferragus ; la femme accusée ; où aller mourir ?

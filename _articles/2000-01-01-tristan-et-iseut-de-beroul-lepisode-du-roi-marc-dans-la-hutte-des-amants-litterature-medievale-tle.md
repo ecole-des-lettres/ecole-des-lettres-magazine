@@ -6,7 +6,7 @@ rubrique: 'Littérature médiévale [Tle]'
 annee: '2000'
 magazine: 'n°11 15 mars 2001'
 pages: '18'
-description: |-
+description: 
   '1. La tradition tristanienne
   2. Un motif répandu : l’épée symbole et gardienne de chasteté
   3. Composition et signification du passage'

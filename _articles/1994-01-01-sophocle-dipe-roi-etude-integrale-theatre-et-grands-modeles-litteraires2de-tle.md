@@ -5,7 +5,7 @@ rubrique: 'Théâtre et grands modèles littéraires[2de-Tle]'
 annee: '1994'
 magazine: 'n°1 15 septembre 1994'
 pages: '15'
-description: |-
+description: 
   'Du héros mythique au héros tragique…
   1. Du mythe à la tragédie : l’évolution de la pensée grecque
   2. La structure de la pièce

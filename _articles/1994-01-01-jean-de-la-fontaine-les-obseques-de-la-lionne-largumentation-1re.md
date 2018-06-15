@@ -5,7 +5,7 @@ rubrique: 'L’argumentation [1re]'
 annee: '1994'
 magazine: 'n°7 15 février 1995'
 pages: '8'
-description: |-
+description: 
   'Lecture méthodique de cette fable inspirée d’Abstemius…
   1. La vie du texte
   – les marques de la présence d’un conteur

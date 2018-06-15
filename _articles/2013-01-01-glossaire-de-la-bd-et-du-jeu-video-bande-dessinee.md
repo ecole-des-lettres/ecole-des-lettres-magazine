@@ -5,7 +5,7 @@ rubrique: 'Bande dessinée'
 annee: '2013'
 magazine: 'n°2'
 pages: '2'
-description: |-
+description: 
   'ARG, auteur complet, cartouche, game designer, transmédia, turbomédia… un glossaire succinct de la BD et de quelques nouveaux médias.
 
   '

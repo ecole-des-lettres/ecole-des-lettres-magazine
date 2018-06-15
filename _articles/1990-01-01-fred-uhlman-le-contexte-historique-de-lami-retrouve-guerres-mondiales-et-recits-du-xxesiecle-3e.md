@@ -5,7 +5,7 @@ rubrique: 'Guerres mondiales et récits du XXe siècle [3e]'
 annee: '1990'
 magazine: 'n°7 15 janvier 1991'
 pages: '6'
-description: |-
+description: 
   'Étude de « L’Ami retrouvé », de Fred Uhlman, à travers quelques thèmes historiques…
   Chapitre 1 : la situation de l’Allemagne dans la république de Weimar
   Chapitre 2 :  la vie intellectuelle de l’Allemagne de Weimar

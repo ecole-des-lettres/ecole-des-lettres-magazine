@@ -6,7 +6,7 @@ rubrique: 'Mémoires [3e-2de]'
 annee: '1994'
 magazine: 'n°8 1er mars 1995'
 pages: '4'
-description: |-
+description: 
   'Objectif : analyser le fonctionnement d’une description…
   1. Un tableau observé par un spectateur attentif
   2. Un tableau structuré

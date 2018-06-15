@@ -5,7 +5,7 @@ rubrique: 'Histoire'
 annee: '2010'
 magazine: 'n°4-5 2010-2011'
 pages: '3'
-description: |-
+description: 
   'Présentation de deux livres de Stéphane Hessel, « Indignez-vous ! » (éditions Indigènes, 2010), et « Citoyen sans frontières », conversations avec Jean-Michel Helvig (Hachette Pluriel, 2011).
   '
 article_pdf: '12082.pdf'

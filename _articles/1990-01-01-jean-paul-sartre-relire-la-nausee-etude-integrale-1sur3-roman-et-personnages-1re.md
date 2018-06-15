@@ -5,7 +5,7 @@ rubrique: 'Roman et personnages [1re]'
 annee: '1990'
 magazine: 'n°8 1er février 1991'
 pages: '28'
-description: |-
+description: 
   'Cet article propose quelques pistes pour une relecture de « La Nausée »…
   1. Un texte en situation
   – le contexte : de la vocation d’un écrivain des années 1930

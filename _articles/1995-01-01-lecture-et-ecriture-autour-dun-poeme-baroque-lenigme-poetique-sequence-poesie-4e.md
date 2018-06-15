@@ -6,7 +6,7 @@ rubrique: 'Poésie [4e]'
 annee: '1995'
 magazine: 'n°10 15 avril 1996'
 pages: '5'
-description: |-
+description: 
   'Objectifs généraux de la séquence :
   – initier les élèves à quelques thèmes et motifs baroques ;
   – repérer et réutiliser les procédés de l’énigme poétique ;

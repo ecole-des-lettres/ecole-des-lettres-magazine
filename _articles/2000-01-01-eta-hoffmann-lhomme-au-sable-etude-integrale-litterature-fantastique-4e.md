@@ -5,7 +5,7 @@ rubrique: 'Littérature fantastique [4e]'
 annee: '2000'
 magazine: '2000'
 pages: '32'
-description: |-
+description: 
   'L’objectif de cette étude est double : faire découvrir le fonctionnement du texte fantastique mais aussi, et surtout, faire lire les élèves. C’est pourquoi elle propose également la lecture cursive de :
   – « La Cafetière », de Théophile Gautier
   – « Le Portrait ovale », d’Edgar Poe

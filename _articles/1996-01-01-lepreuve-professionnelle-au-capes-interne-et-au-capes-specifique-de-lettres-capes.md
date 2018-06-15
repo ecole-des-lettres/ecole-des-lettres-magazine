@@ -5,7 +5,7 @@ rubrique: 'CAPES'
 annee: '1996'
 magazine: '1997'
 pages: '26'
-description: |-
+description: 
   '– Présentation de l’épreuve du concours
   – Réflexion sur des notions et sur le vocabulaire de la didactique
   – Conseils pour l’élaboration d’une séquence en décloisonnement

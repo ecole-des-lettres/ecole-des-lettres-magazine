@@ -5,7 +5,7 @@ rubrique: 'Théâtre [4e-3e]'
 annee: '1992'
 magazine: 'n°3 15 octobre 1992'
 pages: '10'
-description: |-
+description: 
   'Séquence 3 : L’art du duo
   – le grand duo de la scène d’exposition
   – le duo mondain de la scène 2 (acte 1), explication et projet de mise en scène

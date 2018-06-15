@@ -5,7 +5,7 @@ rubrique: 'Latin [4e]'
 annee: '2006'
 magazine: 'n°9 2007-2008'
 pages: '5'
-description: |-
+description: 
   'Cet article propose d’étudier les différents aspects de la révolte dans la Rome antique :
   – les révoltes au service de la liberté et de l’extension de la domination romaine ;
   – les guerres civiles à l’origine de bien des malheurs ;

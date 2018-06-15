@@ -5,7 +5,7 @@ rubrique: 'Fantastique et symbolisme dans une bande dessinée [4e] '
 annee: '2002'
 magazine: 'n°11 15 mars 2003'
 pages: '24'
-description: |-
+description: 
   'L’étude de « La Maison dans l’île » fournit l’occasion d’aborder, conformément aux instructions officielles, l’analyse d’image, mais aussi de mettre en lumière certains mécanismes narratifs, qui peuvent être communs au récit littéraire et à la bande dessinée ou spécifiques à cette dernière. Celle-ci est en effet avant tout un récit mis en images selon un code précis. L’étude d’une œuvre intégrale permet de considérer le récit et ses lois dans leur ensemble. Enfin, cet album extrêmement riche est un bon exemple des liens qu’entretient la bande dessinée avec la culture de manière générale et la littérature en particulier, à laquelle elle emprunte les grandes règles qui régissent un genre précis : le fantastique.
   Déroulement de la séquence : six séances.'
 article_pdf: '4837.pdf'

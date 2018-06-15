@@ -6,7 +6,7 @@ rubrique: 'Bande dessinée [CM-6e]'
 annee: '2010'
 magazine: 'n°1 2010-2011'
 pages: '6'
-description: |-
+description: 
   'Aborder une œuvre médiévale par le truchement d’une bande dessinée contemporaine peut constituer une première approche intéressante, encore convient-il de rappeler quelques données fondamentales sur l’original...
   '
 article_pdf: '12038.pdf'

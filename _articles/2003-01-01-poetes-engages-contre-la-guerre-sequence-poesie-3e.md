@@ -5,7 +5,7 @@ rubrique: 'Poésie [3e] '
 annee: '2003'
 magazine: '2004'
 pages: '27'
-description: |-
+description: 
   'Préparation aux épreuves de didactique du CAPES interne. Sujet : « Dans le cadre des objectifs de lecture assignés à la classe de troisième, vous entreprendrez l’étude des poèmes et d’un document iconographique. Vous définirez votre projet d’ensemble et ses modalités d’exploitation. »
   Corpus :
   – René-Guy Cadou : « Les Fusillés de Châteaubriant »

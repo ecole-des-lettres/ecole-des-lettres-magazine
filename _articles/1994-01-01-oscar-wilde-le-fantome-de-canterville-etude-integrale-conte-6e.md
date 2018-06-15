@@ -5,7 +5,7 @@ rubrique: 'Conte [6e]'
 annee: '1994'
 magazine: 'n°13-14 30 juin 1995'
 pages: '18'
-description: |-
+description: 
   '* Séance 1
   – histoire littéraire : l’auteur ; recherches littéraires sur des romanciers britanniques ; classement chronologique
   – examen du livre

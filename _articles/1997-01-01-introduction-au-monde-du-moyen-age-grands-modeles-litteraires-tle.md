@@ -5,7 +5,7 @@ rubrique: 'Grands modèles littéraires [Tle]'
 annee: '1997'
 magazine: 'n°2 15 septembre 1997'
 pages: '14'
-description: |-
+description: 
   'Cette introduction au monde du Moyen Âge est destinée aux élèves :
   1. Mentalités et représentations : l’ordre social ; la religion ; le corps
   2. Le chevalier : le lignage ; le seigneur ; la mission du chevalier ; la psychologie

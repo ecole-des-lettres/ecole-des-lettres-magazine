@@ -6,7 +6,7 @@ rubrique: 'Didactique des lettres'
 annee: '1993'
 magazine: 'n°7 1er février 1994'
 pages: '8'
-description: |-
+description: 
   'Note sur les abrégés de Batteux et de La Harpe…
   1. Batteux
   2. La Harpe'

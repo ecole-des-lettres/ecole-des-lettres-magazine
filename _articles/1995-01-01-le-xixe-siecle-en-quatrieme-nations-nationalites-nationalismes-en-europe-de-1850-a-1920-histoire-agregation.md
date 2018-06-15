@@ -6,7 +6,7 @@ rubrique: 'Histoire [agrégation]'
 annee: '1995'
 magazine: 'n°6 1er janvier 1996'
 pages: '13'
-description: |-
+description: 
   'Préparation à l’agrégation interne d’histoire : dossier didactique sur la question d’histoire contemporaine…
   1. De l’intérêt de la question
   – quel contenu ?

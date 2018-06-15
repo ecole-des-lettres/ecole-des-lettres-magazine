@@ -5,7 +5,7 @@ rubrique: 'Programme [Tle]'
 annee: '2013'
 magazine: 'mars 2013'
 pages: '3'
-description: |-
+description: 
   'La liste des œuvres obligatoires inscrites au programme de littérature de la classe terminale de la série littéraire est publiée au BOEN :
   – Domaine d’étude « Littérature et langages de l’image » : « Les Mains libres », de Paul Éluard et Man Ray.
   –  Domaine d’étude « Lire, écrire, publier » : « Lorenzaccio », de Musset.

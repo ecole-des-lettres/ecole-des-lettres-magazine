@@ -5,7 +5,7 @@ rubrique: 'Lecture [6e-4e]'
 annee: '1995'
 magazine: 'n°10 15 avril 1996'
 pages: '4'
-description: |-
+description: 
   'Présentation orale d’un livre par un élève à ses camarades et guides de préparation sur les deux titres suivants :
   1. « Tu seras un homme, mon neveu », de Marie Desplechin (sixième)
   2. « Kiev 41 Babi Yar », de Muriel Pernin (quatrième)'

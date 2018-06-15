@@ -5,7 +5,7 @@ rubrique: 'Guerres mondiales et récits du XXe siècle [4e-3e]'
 annee: '1990'
 magazine: 'n°7 15 janvier 1991'
 pages: '4'
-description: |-
+description: 
   'Critique de six romans pour adolescents sur le thème de l’enfance confrontée à la guerre :
   – Ilse Koehn, « Mon enfance en Allemagne nazie » (sixième-cinquième)
   – Hans Peter Richter, « Mon ami Frédéric » (sixième-cinquième)

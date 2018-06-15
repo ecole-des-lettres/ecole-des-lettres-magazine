@@ -5,7 +5,7 @@ rubrique: 'Lecture [6e]'
 annee: '2000'
 magazine: 'n°6 1er novembre 2000'
 pages: '2'
-description: |-
+description: 
   'Un article qui propose de lire contes ou extraits de romans aux élèves de sixième.
   1. « La carotte qui voulait voir la mer » dans « Le prince qui cherchait l’amour et autres histoires », de Christian Oster
   2. « Contes d’Afrique », d’Henri Gougaud'

@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse [4e-3e]'
 annee: '1992'
 magazine: 'n°13 1er juin 1993'
 pages: '16'
-description: |-
+description: 
   'Comment faire entrer les collections pour adolescents dans le système scolaire ?
   1. Des livres qui parlent de l’adolescence
   – roman d’adolescence : roman d’initiation ?

@@ -5,7 +5,7 @@ rubrique: 'Le naturalisme [2de-1re]'
 annee: '1999'
 magazine: '1999'
 pages: '54'
-description: |-
+description: 
   '1. La rupture des années 1855-1857
   2. Naturalisme et liberté
   3. « Le mouvement même de l’intelligence moderne »

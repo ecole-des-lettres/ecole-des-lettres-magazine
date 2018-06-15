@@ -5,7 +5,7 @@ rubrique: 'Étude de l’image [4e-3e]'
 annee: '1997'
 magazine: 'n°8 15 décembre 1997'
 pages: '15'
-description: |-
+description: 
   '– la mort de Spartacus : comparaison de deux films
   – une bande dessinée : « Le Fils de Spartacus », de Jacques Martin
   – Spartacus, héros immortel : étude d’une photo

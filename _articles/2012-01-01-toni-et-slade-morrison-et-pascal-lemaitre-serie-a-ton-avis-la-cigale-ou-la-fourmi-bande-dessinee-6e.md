@@ -6,7 +6,7 @@ rubrique: 'Bande dessinée [6e]'
 annee: '2012'
 magazine: 'n°5 2012-2013'
 pages: '7'
-description: |-
+description: 
   'Prix Nobel de littérature en 1993, Toni Morrison est une figure majeure des lettres américaines. Elle a enseigné jusqu’en 2006 à l’université de Princeton et a écrit avec son fils Slade, qui est peintre, la série des « À ton avis... ».
   Pascal Lemaître vit entre Bruxelles et New York, où il dessine pour le « New Yorker », le « New York Times », le « Wall Street Journal », etc. Il a aussi publié de nombreux livres pour enfants.
   La fable d’Ésope qui inspira La Fontaine est ici revisitée avec une talentueuse impertinence.'

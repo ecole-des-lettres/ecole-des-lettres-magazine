@@ -5,7 +5,7 @@ rubrique: 'Cinéma'
 annee: '2014'
 magazine: ''
 pages: '2'
-description: |-
+description: 
   'Avec « Noé », Darren Aronofsky s’attaque à la mise en scène d’un épisode biblique, les fameux chapitres 6 à 9 de la Genèse sur le déluge, cataclysme primordial devenu la métaphore par
   excellence de toutes les catastrophes naturelles et historiques et la preuve de la malédiction divine…'
 article_pdf: '12604.pdf'

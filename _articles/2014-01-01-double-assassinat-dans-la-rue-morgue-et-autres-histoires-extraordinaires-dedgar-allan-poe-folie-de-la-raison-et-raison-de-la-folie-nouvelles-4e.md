@@ -6,7 +6,7 @@ rubrique: 'Nouvelles [4e]'
 annee: '2014'
 magazine: 'n°2'
 pages: '31'
-description: |-
+description: 
   'Cette séquence consacrée à Edgar Allan Poe et à ses « Histoires extraordinaires » s’inscrit, à plus d’un titre, dans le programme de quatrième. Elle permet, en effet, d’étudier différents registres narratifs (policier et fantastique), ainsi que la composition d’une nouvelle et les modes et outils du raisonnement.
   Elle fait alterner :
   – l’étude intégrale de plusieurs nouvelles : « Double assassinat dans la rue Morgue », « La lettre volée », « Le chat noir » et « Le puits et le pendule » ;

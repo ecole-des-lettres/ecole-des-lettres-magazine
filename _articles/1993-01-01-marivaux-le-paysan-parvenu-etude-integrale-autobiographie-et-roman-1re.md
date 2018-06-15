@@ -5,7 +5,7 @@ rubrique: 'Autobiographie et roman [1re]'
 annee: '1993'
 magazine: 'n°1 15 septembre 1993'
 pages: '18'
-description: |-
+description: 
   'Une approche méthodique en classe de première…
   1. L’espace romanesque
   – objectif pédagogique : analyser le rôle fonctionnel et symbolique de la représentation de l’espace

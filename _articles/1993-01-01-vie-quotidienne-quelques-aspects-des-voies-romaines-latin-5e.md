@@ -5,7 +5,7 @@ rubrique: 'Latin [5e]'
 annee: '1993'
 magazine: 'n°6 15 décembre 1993'
 pages: '8'
-description: |-
+description: 
   '1. Les voies romaines en Gaule
   2. L’archéologie des voies romaines
   – les différents types de voies

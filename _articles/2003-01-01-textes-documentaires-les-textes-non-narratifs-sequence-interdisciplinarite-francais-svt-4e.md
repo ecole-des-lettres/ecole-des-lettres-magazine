@@ -5,7 +5,7 @@ rubrique: 'Interdisciplinarité français, SVT [4e]'
 annee: '2003'
 magazine: 'n°12 15 mai 2004'
 pages: '32'
-description: |-
+description: 
   'L’étude d’un numéro thématique de la revue « La Hulotte » – ici consacré au hérisson – présente de nombreux intérêts :
   – lecture d’une œuvre intégrale courte et séduisante grâce au ton vivant, à l’humour, au rôle de l’image, aux sujets abordés ;
   – étude d’un texte de type essentiellement explicatif, type relativement peu abordé en cours de français ;

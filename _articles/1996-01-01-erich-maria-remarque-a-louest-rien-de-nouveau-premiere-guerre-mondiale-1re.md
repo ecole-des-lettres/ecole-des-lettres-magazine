@@ -5,7 +5,7 @@ rubrique: 'Première guerre mondiale [1re]'
 annee: '1996'
 magazine: 'n°13 1er mai 1997'
 pages: '9'
-description: |-
+description: 
   '1. La guerre de Remarque : la destruction d’un mythe
   2. L’image de la guerre
   3. La camaraderie

@@ -5,7 +5,7 @@ rubrique: 'Groupement de textes [1re]'
 annee: '2005'
 magazine: '2007'
 pages: '26'
-description: |-
+description: 
   'Cette séquence, basée sur un groupement de textes, se fixe les objectifs suivants :
   – la vérification des acquis de seconde ;
   – l’acquisition de repères précis dans l’histoire littéraire et culturelle ;

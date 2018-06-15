@@ -5,7 +5,7 @@ rubrique: 'Latin [4e] '
 annee: '1992'
 magazine: 'n°11 15 avril 1993'
 pages: '4'
-description: |-
+description: 
   '– Travaux préparatoires (civilisation et langue)
   – Présentation
   – Travail de repérage dans le texte latin

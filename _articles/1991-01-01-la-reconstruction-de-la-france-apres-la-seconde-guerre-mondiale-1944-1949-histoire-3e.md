@@ -6,7 +6,7 @@ rubrique: 'Histoire [3e]'
 annee: '1991'
 magazine: 'n°12-13 1er juin 1992'
 pages: '6'
-description: |-
+description: 
   '1. Nécessité et difficultés de la reconstruction
   2. Reconstruction et renouveau
   3. La reconstruction inachevée

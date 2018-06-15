@@ -5,7 +5,7 @@ rubrique: 'Histoir [5e]e'
 annee: '1992'
 magazine: 'n°5 1er décembre 1992'
 pages: '6'
-description: |-
+description: 
   'Associé à la lecture de « L’Or de Cajamalca », de Jakob Wassermann, un cours sur la conquête du Pérou…
   1. L’Empire inca
   – origines et territoires

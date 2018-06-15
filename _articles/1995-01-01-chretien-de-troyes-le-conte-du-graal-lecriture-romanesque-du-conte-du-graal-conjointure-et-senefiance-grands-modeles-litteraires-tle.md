@@ -6,7 +6,7 @@ rubrique: 'Grands modèles littéraires [Tle]'
 annee: '1995'
 magazine: 'n°6 15 janvier 1996'
 pages: '10'
-description: |-
+description: 
   'Ce sont les « fils cachés  » –  les thèmes ou motifs récurrents – qu’il faut s’efforcer de repérer sous la diégèse du récit à la faveur de leurs résurgences et de leurs implications…
   – Les codes symboliques
   – Le jeu des correspondances

@@ -5,7 +5,7 @@ rubrique: 'Le récit (roman ou nouvelle) [2de]'
 annee: '1993'
 magazine: 'n°5 1er décembre 1993'
 pages: '8'
-description: |-
+description: 
   'La nuit napolitaine, feu central de la nouvelle…
   – Extrait d’« Octavie » dans « Les Filles du feu », de « Mais où donc cette image s’est-elle déjà offerte à moi  ?… » à « …où seule vous avez régné »…
   1. La sacralisation d’une scène de vaudeville

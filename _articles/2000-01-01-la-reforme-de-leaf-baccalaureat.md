@@ -5,7 +5,7 @@ rubrique: 'Baccalauréat'
 annee: '2000'
 magazine: 'n°6 15 novembre 2000'
 pages: '22'
-description: |-
+description: 
   'Commentaires sur les résultats de l’enquête menée par « L’École des lettres » sur la réforme de l’Épreuve Anticipée de Français…
   1. Faut-il trois ans de français au lycée ?
   2. Faut-il différencier les sujets ? les épreuves ?

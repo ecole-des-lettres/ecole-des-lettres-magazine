@@ -6,7 +6,7 @@ rubrique: 'Écrire, publier, lire [2de-1re]'
 annee: '1994'
 magazine: 'n°14 1er juillet 1995'
 pages: '21'
-description: |-
+description: 
   '1. Situation politico-littéraire au moment de l’attribution des deux prix (Goncourt et Fémina)
   – les jurys littéraires
   – les auteurs : Barbusse ; Dorgelès

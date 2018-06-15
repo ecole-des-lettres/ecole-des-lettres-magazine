@@ -5,7 +5,7 @@ rubrique: ''
 annee: '2000'
 magazine: '2000'
 pages: '22'
-description: |-
+description: 
   '1. Problématique : le point de vue du professeur d’histoire et du professeur de lettres
   2. Ébauche d’une remédiation aux déficits observés
   – pour le professeur d’histoire

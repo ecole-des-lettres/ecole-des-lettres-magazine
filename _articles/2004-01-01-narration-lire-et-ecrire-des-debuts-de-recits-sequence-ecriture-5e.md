@@ -5,7 +5,7 @@ rubrique: 'Écriture [5e]'
 annee: '2004'
 magazine: '2007'
 pages: '8'
-description: |-
+description: 
   'Cet article propose une séquence dont les objectifs principaux sont :
   – la révision du discours narratif et l’observation du discours descriptif ;
   – la révision de certains points de grammaire abordés en sixième (fonctions essentielles de la phrase – sujet, COD, COI et COS), passé composé et imparfait, chaîne des accords, approche des compléments circonstanciels de lieu et de temps ;

@@ -5,7 +5,7 @@ rubrique: 'Paul Verlaine, critique d’art ?'
 annee: '1995'
 magazine: 'n°14 juillet 1996'
 pages: '17'
-description: |-
+description: 
   '1. L’écriture artiste
   – la parole enjambée
   – la parole déliée

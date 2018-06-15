@@ -5,7 +5,7 @@ rubrique: 'BTS'
 annee: '1991'
 magazine: 'n°14 1er juillet 1992'
 pages: '24'
-description: |-
+description: 
   'Initiation à la lecture de l’image et à la confrontation de documents…
   1. Objectifs et méthode
   2. Textes et images : « Une partie de campagne », de Renoir

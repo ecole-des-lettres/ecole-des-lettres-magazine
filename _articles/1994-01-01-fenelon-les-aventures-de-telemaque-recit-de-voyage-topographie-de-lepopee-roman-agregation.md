@@ -6,7 +6,7 @@ rubrique: 'Roman [agrégation]'
 annee: '1994'
 magazine: 'n°4 15 novembre 1994'
 pages: '16'
-description: |-
+description: 
   '1. Paysage du roman
   – un voyage en rond
   – « mer variable où toute crainte abonde »

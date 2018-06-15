@@ -5,7 +5,7 @@ rubrique: 'Roman historique [4e-3e]'
 annee: '1991'
 magazine: 'n°7 15 janvier 1992'
 pages: '6'
-description: |-
+description: 
   'Utilisation de ce roman historique pour une approche des lieux et des hommes.
   L’article est suivi d’une carte de l’Empire mongol dans la première moitié du XIIe siècle.'
 article_pdf: '687.pdf'

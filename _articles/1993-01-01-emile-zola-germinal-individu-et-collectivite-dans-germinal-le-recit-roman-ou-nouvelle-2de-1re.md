@@ -5,7 +5,7 @@ rubrique: 'Le récit (roman ou nouvelle) [2de-1re]'
 annee: '1993'
 magazine: 'n°4 1er novembre 1993'
 pages: '10'
-description: |-
+description: 
   '1. Les formes d’une vie collective aliénée
   2. L’interaction de l’individu et de la foule
   – la fusion

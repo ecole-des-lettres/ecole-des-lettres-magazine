@@ -5,7 +5,7 @@ rubrique: 'Étude de l’image [4e-3e]'
 annee: '1996'
 magazine: 'n°8 15 février 1997'
 pages: '6'
-description: |-
+description: 
   '1. Petit historique
   2. Quelques repérages
   – les éléments iconiques

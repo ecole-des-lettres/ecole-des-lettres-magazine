@@ -6,7 +6,7 @@ rubrique: 'Étude de l’image : cinéma [4e-3e]'
 annee: '1994'
 magazine: 'n°12 15 juin 1995'
 pages: '8'
-description: |-
+description: 
   '1. Étude de la fiche technique
   2. Visionnage du générique
   3. Visionnage de la séquence 1, avec questions- réponses'

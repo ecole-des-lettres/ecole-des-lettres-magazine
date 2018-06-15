@@ -5,7 +5,7 @@ rubrique: 'Épopée médiévale [classes préparatoires et concours] '
 annee: '1996'
 magazine: 'n°5 1er décembre 1996'
 pages: '6'
-description: |-
+description: 
   '1. Histoire de Sigurd
   – enfances et combat contre le dragon : « Völsungasaga » et « Edda » ; « Thidrekssaga »
   – le réveil de la Walkyrie

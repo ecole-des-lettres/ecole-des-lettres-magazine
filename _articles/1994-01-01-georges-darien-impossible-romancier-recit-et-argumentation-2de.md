@@ -5,7 +5,7 @@ rubrique: 'Récit et argumentation [2de]'
 annee: '1994'
 magazine: 'n°13 15 juin 1995'
 pages: '17'
-description: |-
+description: 
   '1. Une écriture de la différence
   2. L’exemple de « Biribi »
   – la narration instantanée

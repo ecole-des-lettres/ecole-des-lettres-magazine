@@ -5,7 +5,7 @@ rubrique: 'Mythologie [6e]'
 annee: '1990'
 magazine: 'n°11 1er mai 1991'
 pages: '6'
-description: |-
+description: 
   '– Alcmène
   – Amphitryon
   – Héraclès

@@ -5,7 +5,7 @@ rubrique: 'Étienne Senancour : « Oberman »'
 annee: '1990'
 magazine: 'n°9 1er mars 1991'
 pages: '6'
-description: |-
+description: 
   'Commentaire composé à partir de la lettre 18 d’« Oberman » : « Fontainebleau, 17 août »…
   1. Exploration préalable du texte
   2. Vers le commentaire composé'

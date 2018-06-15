@@ -5,7 +5,7 @@ rubrique: 'Autobiographie [1re]'
 annee: '1985'
 magazine: 'n°11 15 mars 1986'
 pages: '10'
-description: |-
+description: 
   '1. « L’effroi d’être au monde »
   – le temps
   – le désir

@@ -5,7 +5,7 @@ rubrique: 'Latin [4e]'
 annee: '1997'
 magazine: 'n°5-6 1er-15 novembre 1997'
 pages: '14'
-description: |-
+description: 
   '1. Introduction
   – l’auteur
   – l’œuvre

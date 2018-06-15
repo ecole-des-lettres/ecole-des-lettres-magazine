@@ -5,7 +5,7 @@ rubrique: 'Roman policier [4e-3e]'
 annee: '1990'
 magazine: 'n°1 15 septembre 1990'
 pages: '10'
-description: |-
+description: 
   'Présentation de l’écrivain.
   Lecture collective des deux premiers chapitres.
   Poursuite en lecture individuelle et questions.'

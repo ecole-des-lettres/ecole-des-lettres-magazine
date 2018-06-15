@@ -5,7 +5,7 @@ rubrique: 'Épopée médiévale [classes préparatoires et concours] '
 annee: '1996'
 magazine: 'n°5 1er décembre 1996'
 pages: '18'
-description: |-
+description: 
   '1. Wagner et la mythologie scandinave
   2. Les personnages principaux de la « Tétralogie »
   – les dieux

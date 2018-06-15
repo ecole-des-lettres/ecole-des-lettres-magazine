@@ -5,7 +5,7 @@ rubrique: 'Roman [2de]'
 annee: '1990'
 magazine: 'n°6 15 décembre 1990'
 pages: '10'
-description: |-
+description: 
   'Étude des six autres nouvelles du recueil « L’Enfant de la haute mer » :
   – « L’Inconnue de la Seine »
   – « Les Boiteux du ciel »

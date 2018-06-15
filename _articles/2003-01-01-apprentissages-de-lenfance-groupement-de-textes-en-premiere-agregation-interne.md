@@ -5,7 +5,7 @@ rubrique: 'Agrégation interne'
 annee: '2003'
 magazine: 'n°11 1er mai 2004'
 pages: '35'
-description: |-
+description: 
   'Un sujet d’agrégation interne portant sur le biographique en classe de première : « Dans le cadre de l’objet d’étude “le biographique” en classe de première, vous entreprendrez l’étude du groupement de textes ci-dessous. Vous définirez votre projet d’ensemble ainsi que ses modalités d’exécution. »
   Corpus :
   – la dédicace de « L’Enfant », de Jules Vallès

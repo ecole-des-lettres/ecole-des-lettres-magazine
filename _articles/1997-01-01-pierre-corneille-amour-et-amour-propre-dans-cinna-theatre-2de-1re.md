@@ -5,7 +5,7 @@ rubrique: 'Théâtre [2de-1re]'
 annee: '1997'
 magazine: 'n°11 15 mars 1998'
 pages: '12'
-description: |-
+description: 
   '1. Amour et amour-propre : un même combat
   – « un si parfait amour »
   – la gloire complice du cœur

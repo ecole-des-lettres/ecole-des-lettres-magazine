@@ -5,7 +5,7 @@ rubrique: 'Programmes [1re]'
 annee: '1999'
 magazine: 'n°13 mai 2000'
 pages: '30'
-description: |-
+description: 
   'Un numéro spécial consacré à un entretien avec des membres du groupe d’experts initiateur de cette réforme, débat portant sur :
   – les raisons de la réforme
   – l’ÉAF

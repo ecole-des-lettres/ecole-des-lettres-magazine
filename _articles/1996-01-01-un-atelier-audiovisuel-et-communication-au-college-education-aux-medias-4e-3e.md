@@ -5,7 +5,7 @@ rubrique: 'Éducation aux médias [4e-3e]'
 annee: '1996'
 magazine: 'n°8 15 février 1997'
 pages: '8'
-description: |-
+description: 
   '1. Aux origines du projet
   – les différentes étapes de la création : le club « média » ; le jumelage ; l’expérimentation ; naissance de l’atelier « audiovisuel et communication »
   2. Pour sensibiliser les élèves

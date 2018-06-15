@@ -5,7 +5,7 @@ rubrique: 'Écriture '
 annee: '2014'
 magazine: 'n°3 2014-2015'
 pages: '96'
-description: |-
+description: 
   '– Présentation de la rencontre par Louis Delas, directeur général de l’école des loisirs et de Rue de Sèvres.
   – Les scénaristes par eux-mêmes, autoportraits : Aurélien Ducoudray, Emmanuel Hamon, Andrès Jarach, Virginie Ollagnier, Loo Hui Phang, Boris Razon, Charlotte Sanson, Nathalie Sergeef, Fabien Vehlmann.
   – Incarnation et place des personnages dans le film documentaire et de fiction, par Emmanuel Hamon (« Maurice Papon » et « Democracy@large »).

@@ -5,7 +5,7 @@ rubrique: 'nÉtude de la langue [6e-3e]'
 annee: '1992'
 magazine: 'n°14 15 juin 1993'
 pages: '4'
-description: |-
+description: 
   '1. Grammaticalité, usage(s) et norme
   2. Les usages : variations régionales
   3. Les usages : variantes liées au temps

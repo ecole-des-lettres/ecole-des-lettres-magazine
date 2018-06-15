@@ -5,7 +5,7 @@ rubrique: 'Poésie [1re]'
 annee: '1991'
 magazine: 'n°5 1er décembre 1991'
 pages: '20'
-description: |-
+description: 
   '1. L’origine de la réflexion sur l’inspiration poétique
   – la réaction contre la poésie des grands rhétoriqueurs : la conception de la poésie selon les rhétoriqueurs ; la réaction de la Pléiade
   – l’influence néo-platonicienne

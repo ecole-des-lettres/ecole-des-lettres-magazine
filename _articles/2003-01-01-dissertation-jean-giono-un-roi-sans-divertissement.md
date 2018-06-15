@@ -5,7 +5,7 @@ rubrique: 'Jean Giono : « Un roi sans divertissement »'
 annee: '2003'
 magazine: 'n°8 15 février 2004'
 pages: '14'
-description: |-
+description: 
   'Corrigés de deux sujets de dissertation portant sur « Un roi sans divertissement », de Jean Giono :
   – l’un sur « Un roi sans divertissement » : roman de la condition humaine ?
   – l’autre sur la place de la beauté chez Giono'

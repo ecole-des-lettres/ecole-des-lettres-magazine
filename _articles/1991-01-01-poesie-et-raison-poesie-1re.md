@@ -5,7 +5,7 @@ rubrique: 'Poésie [1re]'
 annee: '1991'
 magazine: 'n°4 1er novembre 1991'
 pages: '6'
-description: |-
+description: 
   '1. La poésie au service de la raison
   2. La poésie comme expression de l’irrationnel
   3. La poésie comme rationalisation de l’irrationnel'

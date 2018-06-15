@@ -6,7 +6,7 @@ rubrique: 'Contes et récits merveilleux  [6e]'
 annee: '1997'
 magazine: '1997'
 pages: '23'
-description: |-
+description: 
   'Cet article propose une mise en pratique des programmes de sixième à travers l’élaboration d’une séquence didactique sur le conte de Perrault.
   Déroulement de la séquence : neuf séances'
 article_pdf: '2597.pdf'

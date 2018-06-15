@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et récits d’aventures [6e-3e]'
 annee: '2000'
 magazine: 'n°8 15 décembre 2000'
 pages: '7'
-description: |-
+description: 
   'Cet article porte sur des histoires d’animaux, dont la naissance ou l’existence est liée à la présence d’un enfant ou d’un adolescent. Chacun des cinq récits présentés met en scène un animal différent (une chèvre, un chiot, une louve, une baleine et un cheval), dans un pays différent (Turquie, Écosse, Groenland, Colombie et Mongolie) et à une époque différente. Cette diversité des personnages et des situations va permettre aux lecteurs de découvrir la différence, sans les empêcher de s’identifier au héros ou à l’héroïne, en raison des aventures que chacun d’entre eux va vivre.
   – « Kolo la chèvre », de Vedat Dalokay
   – « La Naissance de Jess », de Lucy Daniels

@@ -5,7 +5,7 @@ rubrique: 'Récits du XIXe siècle [4e]'
 annee: '1990'
 magazine: 'n°7 15 janvier 1991'
 pages: '6'
-description: |-
+description: 
   'Séance 3
   – étude du temps et de la chronologie
   – comparaison entre M. et Mme Lepic

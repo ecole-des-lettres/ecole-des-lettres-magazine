@@ -5,7 +5,7 @@ rubrique: 'Histoire littéraire [Tle] '
 annee: '1987'
 magazine: 'n°12 15 avril 1988'
 pages: '8'
-description: |-
+description: 
   '1. L’attrait oriental (1882-1892)
   2. Le rapport Orient-Occident
   3. Le théâtre japonais

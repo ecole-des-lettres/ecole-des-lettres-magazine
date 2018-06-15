@@ -5,7 +5,7 @@ rubrique: 'Roman'
 annee: '1995'
 magazine: 'n°13 15 juin 1996'
 pages: '13'
-description: |-
+description: 
   'Bibliographie sélective et commentée :
   – bibliographie générale : ouvrages sur Maupassant, numéros spéciaux de revues, articles et études partielles
   – sur « Le Horla » et le fantastique de Maupassant : sur le programme d’agrégation

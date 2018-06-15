@@ -5,7 +5,7 @@ rubrique: 'Vie quotidienne'
 annee: '1992'
 magazine: 'n°6 15 décembre 1992'
 pages: '8'
-description: |-
+description: 
   '– Le gui, plante de légende
   – La cueillette du gui en Gaule
   – Étude critique du « gui du chêne »

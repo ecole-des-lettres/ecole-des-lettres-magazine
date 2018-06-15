@@ -5,7 +5,7 @@ rubrique: 'Étude de la langue [4e]'
 annee: '1992'
 magazine: 'n°5 1er décembre 1992'
 pages: '4'
-description: |-
+description: 
   '1. La progression de l’information
   2. Les substituts nominaux
   3. Le système des temps des verbes

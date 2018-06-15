@@ -5,7 +5,7 @@ rubrique: 'Littérature fantastique [classes préparatoires]'
 annee: '1992'
 magazine: 'n°10 15 mars 1993'
 pages: '20'
-description: |-
+description: 
   '1. Nerval, commentateur du « Diable amoureux »
   – littérature-palimpseste et parentés littéraires
   – un fantastique pur

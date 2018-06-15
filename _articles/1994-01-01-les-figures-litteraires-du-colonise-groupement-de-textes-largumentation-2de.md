@@ -5,7 +5,7 @@ rubrique: 'L’argumentation [2de]'
 annee: '1994'
 magazine: 'n°14 1er juillet 1995'
 pages: '10'
-description: |-
+description: 
   '1. Un exotisme hérité du XIXe siècle
   2. « Le paradigme perdu » : l’humanité
   3. « Morituri te salutant »

@@ -5,7 +5,7 @@ rubrique: 'Lecture [3e]'
 annee: '2003'
 magazine: 'n°9 15 février 2004'
 pages: '3'
-description: |-
+description: 
   'Cet article propose de lire des extraits de romans à des élèves de troisième.
   – Valérie Zenatti, « Quand j’étais soldate » ;
   – Véronique Massenot « Soliman le pacifique, journal d’un enfant dans l’Intifada ».

@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1996'
 magazine: 'n°14 15 mai 1997'
 pages: 60 pages
-description: |-
+description: 
   '1. La Fontaine et la tradition pastorale
   2. La rêverie de l’indéterminé
   3. Les plaisirs de Vénus et Adonis

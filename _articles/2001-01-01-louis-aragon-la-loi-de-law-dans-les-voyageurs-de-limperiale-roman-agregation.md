@@ -5,7 +5,7 @@ rubrique: 'Roman [agrégation]'
 annee: '2001'
 magazine: 'n°8 1er janvier 2002'
 pages: '23'
-description: |-
+description: 
   '1. Les héritages de Pierre Mercadier
   2. John Law et Johnny
   – l’homme

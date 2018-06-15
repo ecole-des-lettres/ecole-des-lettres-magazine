@@ -5,7 +5,7 @@ rubrique: 'Poésie [1re]'
 annee: '1991'
 magazine: 'n°12 1er juin 1992'
 pages: '22'
-description: |-
+description: 
   'Le thème de l’ombre dans les poèmes d’Apollinaire…
   1. Les poètes et les ombres
   2. Le thème de l’ombre dans la poésie d’Apollinaire : perspective d’ensemble

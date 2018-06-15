@@ -5,7 +5,7 @@ rubrique: 'Récits du XIXe siècle [4e]'
 annee: '1990'
 magazine: 'n°8 1er février 1991'
 pages: '6'
-description: |-
+description: 
   '* Séance 5
   – le milieu scolaire et l’étude des lieux
   – complexité de Poil de Carotte

@@ -6,7 +6,7 @@ rubrique: 'Roman contemporain/bande dessinée'
 annee: '2012'
 magazine: 'n°1 2012-2013'
 pages: '8'
-description: |-
+description: 
   'S’il s’inscrit dans le genre fantastique, le roman de Christian Lehmann, « No pasarán, le jeu », offre également des résonances historiques, politiques et sociales qui n’ont rien perdu de leur actualité. Ce roman et son adaptation en bande dessinée pourront être étudiés avec des élèves de quatrième et de troisième, notamment dans le cadre d’une approche interdisciplinaire large, associant lettres, histoire-géographie, arts plastiques et histoire des arts, éducation civique, éducation
   à l’image et aux médias.
   Cet article aborde les points communs et les spécificités propres à chacune des deux versions, et examine le découpage et le scénario de la bande dessinée.'

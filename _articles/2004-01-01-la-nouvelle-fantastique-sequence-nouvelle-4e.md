@@ -5,7 +5,7 @@ rubrique: ' Nouvelle [4e]'
 annee: '2004'
 magazine: '2007'
 pages: '20'
-description: |-
+description: 
   'L’étude d’une nouvelle fantastique (« Qui sait ? », de Maupassant) en tout début d’année est un choix stratégique. Cette séquence permet, en effet, de remettre en place des acquis sur la structure d’un récit court et présente une bonne transition avec la classe de cinquième. Elle est aussi un moyen d’amorcer le processus de la lecture plaisir.
   Ses objectifs principaux sont :
   – la révision de la structure narrative (et, d’une manière plus générale, des modalités de la narration) ;

@@ -5,7 +5,7 @@ rubrique: 'Lecture [6e-3e]'
 annee: '1998'
 magazine: 'n°5 15 octobre 1998'
 pages: '10'
-description: |-
+description: 
   'Y a-t-il une didactique de la lecture en collège ?
   1. La lecture dans les textes officiels
   – de l’apprentissage à la lecture expressive

@@ -5,7 +5,7 @@ rubrique: 'Histoire-géographie et éducation civique [3e]'
 annee: '1999'
 magazine: 'n°10 15 février 2000'
 pages: '13'
-description: |-
+description: 
   'Cet article a pour but de définir les types d’exercices demandés aux élèves et de montrer la cohérence de l’épreuve à travers des exemples concrets…
   1. Présentation des exercices
   2. L’exercice de documents

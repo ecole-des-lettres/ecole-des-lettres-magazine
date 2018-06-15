@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse'
 annee: '1988'
 magazine: 'n°11 1er mai 1989'
 pages: '10'
-description: |-
+description: 
   '– Faire intervenir un écrivain en classe
   – Participer à un concours de lecture
   – Faire une étude comparée

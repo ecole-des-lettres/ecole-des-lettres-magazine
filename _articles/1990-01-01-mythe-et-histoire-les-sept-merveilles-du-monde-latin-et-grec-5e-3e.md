@@ -5,7 +5,7 @@ rubrique: 'Latin et grec [5e-3e]'
 annee: '1990'
 magazine: 'n°5 15 novembre 1990'
 pages: '3'
-description: |-
+description: 
   '1. La pyramide de Chéops
   2. Les jardins suspendus de Babylone
   3. Le temple d’Artémis à Éphèse

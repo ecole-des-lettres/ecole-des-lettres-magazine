@@ -5,7 +5,7 @@ rubrique: 'Récit réaliste et argumentation [3e]'
 annee: '2005'
 magazine: 'n°10 avril 2006'
 pages: '22'
-description: |-
+description: 
   'Œuvre de formation, « Germinal » expose la prise de conscience d’un milieu, la classe ouvrière, face à la bourgeoisie. Tel est le socle de cette séquence. Le recours à l’édition de la collection « Classiques abrégés » (l’école des loisirs) permet de dégager les antithèses, symétries et dissymétries dont est tissé le roman.
   Déroulement de la séquence : six séances.'
 article_pdf: '11540.pdf'

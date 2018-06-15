@@ -5,7 +5,7 @@ rubrique: 'Étude de la langue [6e]'
 annee: '1992'
 magazine: 'n°3 15 octobre 1992'
 pages: '6'
-description: |-
+description: 
   '1. Sensibilisation préalable
   – à l’expression métaphorique et figurée
   – à la construction du poème « Monnaie de singe », de Georges-Emmanuel Clancier

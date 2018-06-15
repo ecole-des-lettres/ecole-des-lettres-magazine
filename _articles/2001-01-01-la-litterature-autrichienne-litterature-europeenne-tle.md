@@ -5,7 +5,7 @@ rubrique: 'Littérature européenne [Tle]'
 annee: '2001'
 magazine: '2002'
 pages: '55'
-description: |-
+description: 
   '« Existe-t-il une littérature autrichienne ? », se demandent souvent les chercheurs. Avant de proposer un concept global, cet article se propose, plutôt que de dresser une liste de noms et de titres, de mettre en relief des textes et des motifs, et de présenter des auteurs autrichiens majeurs contemporains du dernier empereur d’Autriche, François-Joseph (1830-1916), ou qui ont été inspirés par la nostalgie de l’Empire. Le traité d’État de 1955 qui marque le départ des troupes « alliées » et scelle véritablement la fin de la Seconde Guerre mondiale en Autriche est l’autre limite temporelle de cette présentation.
   1. De la comédie viennoise aux évasions vitales
   – L’âge d’or de la comédie viennoise

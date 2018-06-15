@@ -6,7 +6,7 @@ rubrique: 'Roman [agrégation]'
 annee: '1994'
 magazine: 'n°4 15 novembre 1994'
 pages: '18'
-description: |-
+description: 
   '1. Les portraits de la tyrannie
   2. Le prince sacrifié. « Soleil cou coupé »'
 article_pdf: '1699.pdf'

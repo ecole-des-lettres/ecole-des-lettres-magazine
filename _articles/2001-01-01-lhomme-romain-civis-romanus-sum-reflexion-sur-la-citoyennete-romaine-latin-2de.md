@@ -6,7 +6,7 @@ rubrique: 'Latin [2de]'
 annee: '2001'
 magazine: '2001'
 pages: '17'
-description: |-
+description: 
   '1. Définitions
 
   2. « Jus civile »

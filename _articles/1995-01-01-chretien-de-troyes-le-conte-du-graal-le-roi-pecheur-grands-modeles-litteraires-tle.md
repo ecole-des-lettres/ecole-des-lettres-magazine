@@ -5,7 +5,7 @@ rubrique: 'Grands modèles littéraires [Tle]'
 annee: '1995'
 magazine: 'n°6 15 janvier 1996'
 pages: '14'
-description: |-
+description: 
   '1. Le Roi Pêcheur dans « Le Conte du Graal »
   – les faits
   – le Roi Pêcheur et la logique de l’œuvre

@@ -5,7 +5,7 @@ rubrique: 'Dissertation [Tle]'
 annee: '2002'
 magazine: 'n°4 15 octobre 2002'
 pages: '8'
-description: |-
+description: 
   'Deux sujets de devoir avec leurs corrigés :
   1. Le rôle du dialogue dans le premier chapitre
   2. L’idée de nature dans le « Supplément » : « euphorique » ou « critique » ?'

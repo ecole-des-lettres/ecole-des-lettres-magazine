@@ -5,7 +5,7 @@ rubrique: 'Latin [5e-4e]'
 annee: '1991'
 magazine: 'n°2 1er octobre 1991'
 pages: '6'
-description: |-
+description: 
   '1. Les grands groupements linguistiques du monde
   – les langues les plus parlées
   – classement des langues

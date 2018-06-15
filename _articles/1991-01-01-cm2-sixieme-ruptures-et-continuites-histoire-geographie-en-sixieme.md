@@ -5,7 +5,7 @@ rubrique: 'Histoire-géographie en sixième'
 annee: '1991'
 magazine: 'n°6 1er janvier 1992'
 pages: '6'
-description: |-
+description: 
   'Des différences entre le CM2 et la sixième sur un fond important de pratiques communes…
   1. Une dominante commune : un jeu rapide de questions-réponses
   2. L’écrit s’affirme en sixième

@@ -6,7 +6,7 @@ rubrique: 'L'expression écrite au collège [6e-3e]'
 annee: '2003'
 magazine: 'n°13 juin 2004'
 pages: '11'
-description: |-
+description: 
   '1. Vers une conception anthropologique et culturelle du travail de l’écriture en classe
   – développer le pouvoir de signifier du langage
   – développer le pouvoir de dire des élèves

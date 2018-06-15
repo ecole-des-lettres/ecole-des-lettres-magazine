@@ -5,7 +5,7 @@ rubrique: 'L’argumentation [1re]'
 annee: '1990'
 magazine: 'n°8 1er février 1991'
 pages: '4'
-description: |-
+description: 
   'Analyse de l’évolution des rapports de Voltaire à la religion, de l’antijansénisme initial au théisme militant des dernières années…
   1. La pluralité religieuse
   2. Pourquoi la religion ?

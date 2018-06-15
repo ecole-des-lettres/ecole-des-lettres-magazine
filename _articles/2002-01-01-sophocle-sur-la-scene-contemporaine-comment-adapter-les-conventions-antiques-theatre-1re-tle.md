@@ -5,7 +5,7 @@ rubrique: 'Théâtre [1re-Tle]'
 annee: '2002'
 magazine: '2002'
 pages: '24'
-description: |-
+description: 
   '1. Un théâtre rituel et conventionnel
   – l’espace tragique dans « Ajax » et « Œdipe à Colone » 
   – le rôle spectaculaire et dramaturgique du chœur dans « Électre » et « Les Trachiniennes » 

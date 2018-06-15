@@ -5,7 +5,7 @@ rubrique: 'Éducation civique [6e-3e]'
 annee: '1998'
 magazine: '1998'
 pages: '47'
-description: |-
+description: 
   'Cette expérience – conçue par une enseignante d’anglais et une enseignante d’histoire-géographie – a été menée dans un collège de six cent cinquante élèves de la banlieue nord de Paris, classée ZEP et zone sensible.
   Le travail comporte trois étapes :
   – une initiation aux règles de la vie au collège.

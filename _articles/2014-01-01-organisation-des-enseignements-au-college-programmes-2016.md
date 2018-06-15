@@ -5,7 +5,7 @@ rubrique: 'Programmes 2016'
 annee: '2014'
 magazine: 'juillet 2015'
 pages: '9'
-description: |-
+description: 
   'Le ministère de l’Éducation nationale a publié le 30 juin 2015 la circulaire définissant l’organisation des enseignements au collège. Huit aspects sont précisés :
   1. L’organisation des enseignements dans l’établissement.
   2. Les enseignements pratiques interdisciplinaires et les enseignements de complément.

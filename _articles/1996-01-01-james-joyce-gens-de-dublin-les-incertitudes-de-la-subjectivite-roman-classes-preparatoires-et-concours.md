@@ -5,7 +5,7 @@ rubrique: 'Roman [classes préparatoires et concours]'
 annee: '1996'
 magazine: '1996'
 pages: '21'
-description: |-
+description: 
   '1. La confrontation du réel et de l’imaginaire dans « Gens de Dublin », de James Joyce
   2. La représentation d’une crise morale et existentielle
   3. Poétique de la réception de « Gens de Dublin »'

@@ -5,7 +5,7 @@ rubrique: ''
 annee: '2012'
 magazine: 'n°3 2012-2013'
 pages: '96'
-description: |-
+description: 
   '– Bande dessinée et littérature, par Christian Poslaniec
   – Une classe BD, pour quoi faire ? par Patrice Gentilhomme
   – « Les Trois Chemins sous les mers », de Lewis Trondheim et Sergio Garcia, par Olivier Dufaut

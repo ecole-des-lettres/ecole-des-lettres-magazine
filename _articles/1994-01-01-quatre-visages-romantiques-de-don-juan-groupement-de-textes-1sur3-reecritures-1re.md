@@ -5,7 +5,7 @@ rubrique: 'Réécritures [1re]'
 annee: '1994'
 magazine: 'n°2 1er octobre 1994'
 pages: '11'
-description: |-
+description: 
   '1. Exercice de résumé-discussion sur un extrait du « Vent Paraclet », de Michel Tournier
   – résumé : examen du texte (situation du texte ; structure de l’argumentation) ; proposition de résumé
   – explications

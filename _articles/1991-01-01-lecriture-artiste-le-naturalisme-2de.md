@@ -5,7 +5,7 @@ rubrique: 'Le naturalisme [2de]'
 annee: '1991'
 magazine: 'n°8 1er mars 1992'
 pages: '14'
-description: |-
+description: 
   'L’« écriture artiste », un ensemble de procédés stylistiques que l’on retrouve chez les Goncourt, Daudet, Huysmans, etc.
   1. Une esthétique
   – Jules et Edmond de Goncourt

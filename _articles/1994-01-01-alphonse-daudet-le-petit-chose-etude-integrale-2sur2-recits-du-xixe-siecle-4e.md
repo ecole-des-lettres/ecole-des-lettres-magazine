@@ -5,7 +5,7 @@ rubrique: 'Récits du XIXe siècle [4e]'
 annee: '1994'
 magazine: 'n°8 1er mars 1995'
 pages: '8'
-description: |-
+description: 
   '4. « Ma mère Jacques » (deuxième partie : chapitres 1 à 5)
   5. Camille Pierrotte (chapitres 6 à 9)
   6. Irma Borel (chapitres 10 à 13)

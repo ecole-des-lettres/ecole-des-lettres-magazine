@@ -5,7 +5,7 @@ rubrique: 'Étude de l’image : cinéma [5e]'
 annee: '1994'
 magazine: 'n°12 15 juin 1995'
 pages: '16'
-description: |-
+description: 
   'Une expérience pédagogique : toutes les classes de cinquième d’un collège ont assisté à la projection de trois films : « La Fracture du myocarde », de Jacques Fansten, « La Guerre du feu », de Jean-Jacques Annaud et « Le Dictateur », de Charlie Chaplin.
   1. Avant le visionnage
   – aller au cinéma : une expérience particulière

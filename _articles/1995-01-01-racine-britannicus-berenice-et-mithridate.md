@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1995'
 magazine: 'n°7 15 février 1996'
 pages: 128 pages
-description: |-
+description: 
   '1. « Britannicus », « Bérénice » et « Mithridate », dans l’œuvre de Racine
   2. Le sacré dans le théâtre profane de Racine
   3. La mélancolie des personnages raciniens dans « Britannicus », « Bérénice », « Mithridate »

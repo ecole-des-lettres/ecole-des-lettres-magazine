@@ -5,7 +5,7 @@ rubrique: 'Écriture [4e-3e]'
 annee: '1991'
 magazine: 'n°4 1er novembre 1991'
 pages: '10'
-description: |-
+description: 
   'Différents aspects de l’expression écrite pour exprimer sa pensée. L’article comprend quatre parties :
   1. L’expression de la cause
   – adjectif qualificatif

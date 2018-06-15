@@ -5,7 +5,7 @@ rubrique: 'L'argumentation [4e]'
 annee: '1990'
 magazine: 'n°13 1er juin 1991'
 pages: '6'
-description: |-
+description: 
   'On initie les élèves de quatrième à différents types d’argumentation : l’argumentation par l’exemple, l’argumentation accumulative et l’argumentation déductive…
   Avec des extraits de « Candide », de Voltaire, du « Roman policier », de Boileau-Narcejac, de « La Force du vivant », de Jean Dorst.'
 article_pdf: '221.pdf'

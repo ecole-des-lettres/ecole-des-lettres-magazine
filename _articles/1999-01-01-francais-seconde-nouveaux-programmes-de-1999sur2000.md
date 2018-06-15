@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1999'
 magazine: 'n°7 1er décembre 1999'
 pages: 144 pages
-description: |-
+description: 
   '1. Nouveaux programmes : le pari de la modernité
   2. Éléments pour une refondation de la discipline : regard sur la situation actuelle
   3. La refondation de la discipline du collège au lycée

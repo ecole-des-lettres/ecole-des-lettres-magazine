@@ -5,7 +5,7 @@ rubrique: 'Histoire [2de]'
 annee: '1998'
 magazine: 'n°4 1er octobre 1998'
 pages: '10'
-description: |-
+description: 
   'Module d’histoire : initiation d’une classe de seconde à « l’étude de documents » sur un thème commun aux programmes d’histoire et de lettres : l’enseignement humaniste…
   1. L’éducation humaniste : vue d’ensemble
   2. Les œuvres

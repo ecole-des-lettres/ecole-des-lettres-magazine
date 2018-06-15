@@ -5,7 +5,7 @@ rubrique: '14-18'
 annee: '2013'
 magazine: 'n°4 2013-2014'
 pages: '96'
-description: |-
+description: 
   '– La Mission du Centenaire de la Première Guerre mondiale
   Entretien avec Alexandre Lafon, historien,
   conseiller pour l’action pédagogique auprès de la Mission du Centenaire

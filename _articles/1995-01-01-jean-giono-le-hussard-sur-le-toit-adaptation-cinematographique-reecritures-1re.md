@@ -5,7 +5,7 @@ rubrique: 'Réécritures [1re]'
 annee: '1995'
 magazine: 'n°2 1er octobre 1995'
 pages: '10'
-description: |-
+description: 
   '1. Genèse du scénario
   – chronique d’un film impossible
   – le projet de Jean-Paul Rappeneau

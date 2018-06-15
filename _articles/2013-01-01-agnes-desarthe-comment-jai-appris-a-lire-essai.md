@@ -5,7 +5,7 @@ rubrique: 'Essai'
 annee: '2013'
 magazine: 'n°5'
 pages: '9'
-description: |-
+description: 
   'Pour que la lecture aide à vivre, se dit-on, il faut avant tout aimer lire. Or, cela ne va pas forcément de soi, même pour quelqu’un qui deviendra écrivain.
   C’est ce que raconte, dans « Comment j’ai appris à lire », la romancière et traductrice Agnès Desarthe…
   '

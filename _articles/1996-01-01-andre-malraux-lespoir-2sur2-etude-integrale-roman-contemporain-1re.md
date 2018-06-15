@@ -5,7 +5,7 @@ rubrique: 'Roman contemporain [1re]'
 annee: '1996'
 magazine: 'n°5 15 novembre 1996'
 pages: '22'
-description: |-
+description: 
   '3. Thématique et problématique
   – un roman de la guerre : la portée du témoignage ; la réflexion sur la guerre ; le dévoiement idéologique
   – une méditation sur l’homme : entre fraternité et action ; les formes du salut ; le frôlement de la mort

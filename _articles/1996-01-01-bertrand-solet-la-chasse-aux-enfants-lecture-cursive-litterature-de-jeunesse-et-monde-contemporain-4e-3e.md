@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et monde contemporain [4e-3e]'
 annee: '1996'
 magazine: 'n°4 1er novembre 1996'
 pages: '5'
-description: |-
+description: 
   '« La Chasse aux enfants » fait partie de ces textes qui racontent et dénoncent la misère, la détresse et l’injustice qui constituent le lot quotidien de millions d’enfants dans le monde…
   1. Le pays
   2. La quatrième de couverture

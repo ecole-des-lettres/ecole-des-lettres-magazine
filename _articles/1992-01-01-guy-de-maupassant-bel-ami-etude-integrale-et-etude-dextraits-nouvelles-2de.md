@@ -5,7 +5,7 @@ rubrique: 'Nouvelles [2de]'
 annee: '1992'
 magazine: 'n°13 1er juin 1993'
 pages: '50'
-description: |-
+description: 
   'Études de textes :
   1. Portrait d’un héros en marche vers le succès (étude de l’incipit de « Bel-Ami ») : lecture méthodique
   2. Folle soirée aux Folies-Bergère (I, 1) : lecture méthodique

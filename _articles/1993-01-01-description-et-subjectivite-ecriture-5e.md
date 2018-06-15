@@ -5,7 +5,7 @@ rubrique: 'Écriture [5e]'
 annee: '1993'
 magazine: 'n°10 1er avril 1994'
 pages: '4'
-description: |-
+description: 
   'Un exercice d’écriture sur la description autour d’un thème : le monde des morts
   – le chemin du paradis
   – le diable chez saint Pierre'

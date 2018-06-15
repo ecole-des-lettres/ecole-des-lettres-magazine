@@ -5,7 +5,7 @@ rubrique: ''
 annee: '2013'
 magazine: 'n°2 2013-2014'
 pages: '96'
-description: |-
+description: 
   '– À la rencontre des scénaristes, par Louis Delas, directeur général de l’école des loisirs et de Rue de Sèvres
   – Les scénaristes par eux-mêmes
   (Samantha Bailly, Régis Hautière, Matz, Delphine Maury, Fabien Vehlmann, Éric Viennot)

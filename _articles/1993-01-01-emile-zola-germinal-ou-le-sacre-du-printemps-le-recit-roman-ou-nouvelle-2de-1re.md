@@ -5,7 +5,7 @@ rubrique: 'Le récit (roman ou nouvelle) [2de-1re]'
 annee: '1993'
 magazine: 'n°4 1er novembre 1993'
 pages: '12'
-description: |-
+description: 
   '1. Crise économique et crise sacrificielle
   2. La bacchanale de Montsou
   3. La violence réciproque

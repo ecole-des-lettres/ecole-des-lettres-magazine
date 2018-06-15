@@ -5,7 +5,7 @@ rubrique: 'Poésie et musique [2de]'
 annee: '1990'
 magazine: 'n°1 15 septembre 1990'
 pages: '10'
-description: |-
+description: 
   '1. Tocsin, fanfare et bourdon
   2. De Haydn à Satie
   3. « Défense de déposer de la musique au pied de mes vers ! »

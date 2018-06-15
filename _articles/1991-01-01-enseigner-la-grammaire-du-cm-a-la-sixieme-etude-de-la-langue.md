@@ -5,7 +5,7 @@ rubrique: 'Étude de la langue'
 annee: '1991'
 magazine: 'n°6 1er janvier 1992'
 pages: '4'
-description: |-
+description: 
   '1. Les objectifs de l’enseignement grammatical. Les dérivés
   2. Nécessité d’une progression
   3. Choisir une approche'

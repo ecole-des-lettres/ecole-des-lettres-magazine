@@ -5,7 +5,7 @@ rubrique: 'Le récit (roman ou nouvelle) [2de-1re]'
 annee: '1993'
 magazine: 'n°4 1er novembre 1993'
 pages: '10'
-description: |-
+description: 
   '1. Une économie du grandiose
   2. Une esthétique du monument
   3. De la faille à la famille

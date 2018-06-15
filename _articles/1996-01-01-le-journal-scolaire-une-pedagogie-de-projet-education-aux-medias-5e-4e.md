@@ -5,7 +5,7 @@ rubrique: 'Éducation aux médias [5e-4e]'
 annee: '1996'
 magazine: 'n°8 15 février 1997'
 pages: '8'
-description: |-
+description: 
   '1. Les objectifs du projet
   2. Les moyens : état des lieux
   3. Le journal : une équipe

@@ -5,7 +5,7 @@ rubrique: 'Poésie [classes préparatoires et concours]'
 annee: '1995'
 magazine: 'n°14 juillet 1996'
 pages: '10'
-description: |-
+description: 
   'La métaphore chez Verlaine…
   1. Métaphorisation et désordre du sens
   2. Le spectral

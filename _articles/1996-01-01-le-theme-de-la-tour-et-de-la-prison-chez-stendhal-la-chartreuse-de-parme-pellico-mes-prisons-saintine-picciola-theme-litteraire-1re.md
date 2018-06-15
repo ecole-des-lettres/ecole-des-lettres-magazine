@@ -6,7 +6,7 @@ rubrique: 'Thème littéraire [1re]'
 annee: '1996'
 magazine: 'n°12 15 avril 1997'
 pages: '17'
-description: |-
+description: 
   'Ce qu’on pourrait appeler le double paradoxe de la tour se donne à lire chez Stendhal plus que chez tout autre. Car si la tour est faite pour enfermer, elle permet aussi de se cloîtrer ; si elle est faite pour voir, si elle est « belvédère », elle est aussi faite pour être vue de loin, qu’on l’admire ou qu’on la craigne.
   1. Une poétique de la prison
   2. La prison comme destin

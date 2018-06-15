@@ -5,7 +5,7 @@ rubrique: 'Parole d’auteur !'
 annee: '2009'
 magazine: 'n°1 2009-2010'
 pages: '6'
-description: |-
+description: 
   'Dans cet entretien, Xavier-Laurent Petit évoque ses deux derniers romans, « L’Attrape-rêves » et « Mon petit cœur imbécile », mais aussi la lecture, l’écriture et la fragilité de l’adolescence.
   '
 article_pdf: '12007.pdf'

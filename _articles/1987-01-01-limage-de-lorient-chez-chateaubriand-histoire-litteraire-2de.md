@@ -5,7 +5,7 @@ rubrique: 'Histoire littéraire [2de] '
 annee: '1987'
 magazine: 'n°12 15 avril 1988'
 pages: '6'
-description: |-
+description: 
   '1. Le dernier pèlerin ou le premier touriste ?
   2. La composition de l’image de l’Orient
   3. Esthétique'

@@ -5,7 +5,7 @@ rubrique: 'Théâtre [1re]'
 annee: '1996'
 magazine: 'n°8 1er février 1997'
 pages: '10'
-description: |-
+description: 
   '1. « Les Fausses Confidences » dans l’œuvre de Marivaux
   2. La présence de Dorante
   3. Le bonheur d’Araminte'

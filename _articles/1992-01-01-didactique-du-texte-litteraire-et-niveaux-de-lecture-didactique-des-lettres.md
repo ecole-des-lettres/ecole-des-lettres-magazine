@@ -5,7 +5,7 @@ rubrique: 'Didactique des lettres'
 annee: '1992'
 magazine: 'n°9 1er mars 1993'
 pages: '8'
-description: |-
+description: 
   'Trois niveaux de lecture : le texte appréhendé seul (objet du discours) ; le texte comme fonctionnement, à la croisée des types et des genres ; le texte comme pratique discursive…
   À partir d’un exemple extrait de « Germinal », d’Émile Zola :
   – Premier parcours du texte : l’illusion réaliste

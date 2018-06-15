@@ -5,7 +5,7 @@ rubrique: 'Théâtre [2de-1re]'
 annee: '2003'
 magazine: 'n°9 15 mars 2004'
 pages: '25'
-description: |-
+description: 
   '1. Poétique, dramaturgie et mise en scène
   – la polémique autour de la pièce
   – le sujet et l’unité d’action

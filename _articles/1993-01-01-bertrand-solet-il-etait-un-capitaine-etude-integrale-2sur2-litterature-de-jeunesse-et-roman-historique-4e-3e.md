@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et roman historique [4e-3e]'
 annee: '1993'
 magazine: 'n°2 1er octobre 1993'
 pages: '16'
-description: |-
+description: 
   '2. Deuxième séquence (suite) : chapitres 5 à 8
   – l’enseignement primaire obligatoire
   – luxe et misère : lectures complémentaires, « Les Effarés », d’Arthur Rimbaud, « Pour les pauvres (in « Les Feuilles d’automne »), de Victor Hugo

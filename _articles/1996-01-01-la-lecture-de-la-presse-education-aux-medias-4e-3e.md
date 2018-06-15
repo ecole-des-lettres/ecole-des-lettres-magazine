@@ -5,7 +5,7 @@ rubrique: 'Éducation aux médias [4e-3e]'
 annee: '1996'
 magazine: 'n°8 15 février 1997'
 pages: '4'
-description: |-
+description: 
   'Un projet d’établissement en ZEP…
   1. Découverte de la variété des journaux
   2. Revues de presse

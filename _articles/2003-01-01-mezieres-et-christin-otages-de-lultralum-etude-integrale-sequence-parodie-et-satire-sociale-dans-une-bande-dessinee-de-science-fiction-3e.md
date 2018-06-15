@@ -5,7 +5,7 @@ rubrique: 'Parodie et satire sociale dans une bande dessinée de science-fiction
 annee: '2003'
 magazine: 'n°10 15 mars 2004'
 pages: '29'
-description: |-
+description: 
   'Richesse narrative, portée de l’imaginaire, humour, justesse de l’analyse : tous ces aspects sont abordés dans l’étude d’« Otages de l’ultralum », seizième album de la série « Valérian », une série de référence dans la bande dessinée de science-fiction française. Réalisé en classe de troisième, ce travail est conduit selon trois axes principaux :
   – l’analyse de l’image et des codes de la bande dessinée ;
   – l’étude du genre narratif et de ses mécanismes ;

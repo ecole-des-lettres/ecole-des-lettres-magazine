@@ -5,7 +5,7 @@ rubrique: 'Roman'
 annee: '1993'
 magazine: 'n°9 15 mars 1994'
 pages: '20'
-description: |-
+description: 
   'La folie dans « L’Assommoir »…
   1. Regard clinique et correction disciplinaire
   2. La folie en fête

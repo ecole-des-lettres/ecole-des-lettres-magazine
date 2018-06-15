@@ -5,7 +5,7 @@ rubrique: 'Documentation [5e-3e]'
 annee: '1998'
 magazine: 'n°12 avril 1999'
 pages: '7'
-description: |-
+description: 
   'Présentation des connaissances de base sur la langue permettant d’analyser un texte documentaire…
   1. Situation de communication et discours
   – situation de communication

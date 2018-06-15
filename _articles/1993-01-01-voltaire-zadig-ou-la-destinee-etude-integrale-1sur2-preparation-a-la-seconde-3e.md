@@ -5,7 +5,7 @@ rubrique: 'Préparation à la seconde [3e]'
 annee: '1993'
 magazine: 'n°10 1er avril 1994'
 pages: '6'
-description: |-
+description: 
   '1. Éléments biographiques ; circonstances de l’œuvre ; directions de travail
   – l’auteur : François-Marie Arouet, dit Voltaire (1694-1778)
   – circonstances de l’œuvre : « Zadig » (1748)

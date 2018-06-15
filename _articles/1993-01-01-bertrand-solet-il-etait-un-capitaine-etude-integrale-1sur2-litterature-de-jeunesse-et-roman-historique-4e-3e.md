@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et roman historique [4e-3e]'
 annee: '1993'
 magazine: 'n°1 7 septembre 1993'
 pages: '10'
-description: |-
+description: 
   'Une lecture dirigée composée de six séquences…
   1. Première séquence : chapitres 1 à 4
   – les personnages romanesques : Maxime, Agnès, Christian de Méricourt et les de Lachesnay

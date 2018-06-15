@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1994'
 magazine: 'n°14 1er juillet 1995'
 pages: '10'
-description: |-
+description: 
   'De même que les historiens, les écrivains ont toujours considéré la guerre comme une des activités fondamentales de l’espèce, de sorte qu’elle est depuis toujours présente dans la littérature. Mais à l’inverse de l’Histoire, qui analyse la guerre dans ses causes, ses événements et ses conséquences, la littérature restitue la guerre aux êtres uniformisés – jusque dans leurs costumes –  qui en sont le ressort essentiel : les soldats...
   Vue par un académicien, la guerre dans la littérature, du Moyen Âge au XXe siècle…'
 article_pdf: '1611.pdf'

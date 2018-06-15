@@ -5,7 +5,7 @@ rubrique: 'Lecture cursive, bande dessinée et genre policier [5e-4e-3e]'
 annee: '2006'
 magazine: 'n°3 novembre 2006'
 pages: '4'
-description: |-
+description: 
   'Cet article présente une série policière attachante qui reprend les principaux ingrédients du genre :
   – des intrigues à suspense riches en péripéties tournant autour de la résolution d’une énigme ;
   – des personnages organisés selon le trio classique criminel-victime(s) / enquêteur ;

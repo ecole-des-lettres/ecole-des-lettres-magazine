@@ -6,7 +6,7 @@ rubrique: 'Littérature de jeunesse et humour [5e]'
 annee: '1993'
 magazine: 'n°10 1er avril 1994'
 pages: '6'
-description: |-
+description: 
   'Un article à l’occasion de la sortie du film « Madame Doubtfire », adapté d’un livre d’Anne Fine : « Quand Papa était femme de ménage »…
   – Un roman drôle sur un  sujet grave
   – Une « comédie familiale américaine »

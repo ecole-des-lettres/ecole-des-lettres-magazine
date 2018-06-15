@@ -5,7 +5,7 @@ rubrique: 'Mise en œuvre des programmes de lycée'
 annee: '1999'
 magazine: 'n°11 (spécial) 15 mars 2000'
 pages: 62 pages
-description: |-
+description: 
   'Un numéro spécial consacré aux résultats de l’enquête menée par « L’École des lettres » sur la réforme des programmes de français
   1. Opportunité d’une réforme des programmes de français
   2. Les points critiquables des anciens programmes

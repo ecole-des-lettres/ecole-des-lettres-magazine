@@ -5,7 +5,7 @@ rubrique: 'L'expression écrite au collège [6e-3e]'
 annee: '2003'
 magazine: 'n°13 juin 2004'
 pages: 160 pages
-description: |-
+description: 
   '1. État des lieux
   – l’écriture des collégiens : constats de recherche et perspectives pour l’enseignement
   – sur quelques écrits de jeunes

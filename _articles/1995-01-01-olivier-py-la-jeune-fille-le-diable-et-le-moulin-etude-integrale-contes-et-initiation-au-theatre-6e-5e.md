@@ -6,7 +6,7 @@ rubrique: 'Contes et initiation au théâtre [6e-5e]'
 annee: '1995'
 magazine: '1996'
 pages: '44'
-description: |-
+description: 
   'Cette séquence d’apprentissage propose une initiation à la lecture d’une œuvre théâtrale intégrale en classe de sixième. La pièce présente plusieurs avantages pour des élèves de sixième :
   – le référent culturel qui la sous-tend est celui du conte merveilleux, domaine souvent familier aux élèves de cet âge ;
   – la lecture-découverte de l’œuvre est assez aisée : pièce relativement courte, vocabulaire accessible ;

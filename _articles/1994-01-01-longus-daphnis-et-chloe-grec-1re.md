@@ -5,7 +5,7 @@ rubrique: 'Grec [1re]'
 annee: '1994'
 magazine: 'n°13-14 30 juin 1995'
 pages: '12'
-description: |-
+description: 
   'Lecture d’un roman pastoral grec, en édition bilingue…
   1. Présentation
   2. Pistes de lecture

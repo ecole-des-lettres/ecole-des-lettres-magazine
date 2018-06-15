@@ -6,7 +6,7 @@ rubrique: 'Histoire/Cinéma [1re]'
 annee: '2001'
 magazine: 'n°5 1er novembre 2001'
 pages: '25'
-description: |-
+description: 
   'La conscience moderne a fait du génocide nazi un prisme qui donne à voir le reste de la société, une référence incontournable pour toutes les violences historiques et politiques contemporaines, un horizon qui conditionne la façon dont les victimes de toutes origines doivent se présenter. Cette prise de conscience de l’opinion s’accompagne fatalement d’une « banalisation » du mal, puisque sont nés du même coup un champ lexical vulgarisateur (holocauste, camp, etc.), une intertextualité qui fait des images de trains ou de charniers des métaphores ou des métonymies récurrentes et une véritable réduction de la réalité à des stéréotypes omniprésents. Du coup, le génocide acquiert une dimension irreprésentable et devient plus inaccessible que jamais…
   Les principaux films :
   – « Nuit et brouillard », d’Alain Resnais

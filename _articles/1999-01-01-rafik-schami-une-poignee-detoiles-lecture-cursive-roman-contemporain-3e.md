@@ -5,7 +5,7 @@ rubrique: 'Roman contemporain [3e]'
 annee: '1999'
 magazine: 'n°1 juillet 1999'
 pages: '10'
-description: |-
+description: 
   'Une rubrique destinée à faire lire les élèves chez eux, en « lecture cursive », comme le recommandent les Instructions officielles…
   – « Une poignée d’étoiles », de Rafik Schami : résumé ; exercice de préparation ; questionnaire de lecture ; le journalisme…
   L’article est suivi d’une bibliographie sur les lettres, journaux et récits autobiographiques et sur les romans engagés.'

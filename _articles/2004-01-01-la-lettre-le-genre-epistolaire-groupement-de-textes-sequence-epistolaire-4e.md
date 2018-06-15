@@ -5,7 +5,7 @@ rubrique: 'Épistolaire [4e]'
 annee: '2004'
 magazine: '2005'
 pages: '24'
-description: |-
+description: 
   'Cette séquence, destinée à une classe de quatrième, peut être conduite au deuxième trimestre. Elle suit une démarche à la fois descriptive et thématique : après avoir énoncé les codes de la lettre à l’aide d’exemples tirés de la vie quotidienne, on aborde les rôles de la lettre fictive dans différents genres littéraires (théâtre, roman et roman épistolaire). Le thème de cette séquence permet l’étude d’un genre littéraire particulier et nouveau pour les élèves : le roman épistolaire. En outre, une introduction à la satire et à la critique sociale du XVIIIe siècle est rendue possible par l’explication d’extraits des « Lettres persanes » de Montesquieu en fin de séquence.
   Déroulement de la séquence : neuf séances.
   Corpus :

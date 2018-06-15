@@ -5,7 +5,7 @@ rubrique: ''
 annee: '2000'
 magazine: 'n°7 1er décembre 2000'
 pages: 112 pages
-description: |-
+description: 
   '1. Maîtres et esclaves à Rome (chez Plaute, Juvénal, Sénèque, Horace, Pline le Jeune)
   2. La revanche linguistique d’Arlequin dans « L’Île des esclaves », de Marivaux
   3. « Le Mariage de Figaro », de Beaumarchais

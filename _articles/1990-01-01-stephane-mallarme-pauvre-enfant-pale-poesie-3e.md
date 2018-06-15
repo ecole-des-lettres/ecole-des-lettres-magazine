@@ -5,7 +5,7 @@ rubrique: 'Poésie [3e]'
 annee: '1990'
 magazine: 'n°8 1er février 1991'
 pages: '4'
-description: |-
+description: 
   'Analyse méthodique de « Pauvre enfant pâle », de Stéphane Mallarmé…
   1. L’aspect du poème
   2. Les personnages

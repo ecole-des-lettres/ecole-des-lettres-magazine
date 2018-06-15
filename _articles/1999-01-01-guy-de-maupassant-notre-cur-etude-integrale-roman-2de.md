@@ -5,7 +5,7 @@ rubrique: 'Roman [2de]'
 annee: '1999'
 magazine: '1999'
 pages: '116'
-description: |-
+description: 
   '1. Présentation de l’intrigue et des personnages : l’exposition
   2. Le rôle de la description : le Mont-Saint-Michel
   3. Imbrication du roman de mœurs et du roman d’analyse : le triptyque des salons

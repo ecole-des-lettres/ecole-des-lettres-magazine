@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1994'
 magazine: 'n°9 15 mars 1995'
 pages: 64 pages
-description: |-
+description: 
   'Analyse de la pièce
   Ce numéro consacré au programme d’agrégation comprend également une lecture des « Misérables », de Victor Hugo
   Ont participé à ce numéro :

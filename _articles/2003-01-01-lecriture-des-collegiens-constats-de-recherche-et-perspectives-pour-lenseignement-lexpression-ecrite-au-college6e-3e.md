@@ -5,7 +5,7 @@ rubrique: 'L'expression écrite au collège[6e-3e]'
 annee: '2003'
 magazine: 'n°13 juin 2004'
 pages: '11'
-description: |-
+description: 
   '1. S’intéresser à l’autre pour enseigner l’écriture
   – une plongée ethnologique au collège
   – « les indigènes du collège et leurs pratiques d’écriture »

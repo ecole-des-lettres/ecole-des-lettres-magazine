@@ -5,7 +5,7 @@ rubrique: 'Contes et étude de l’image : cinéma [6e]'
 annee: '1991'
 magazine: 'n°2 1er octobre 1991'
 pages: '8'
-description: |-
+description: 
   '2. Les dialogues : observation et rédaction
   3. Projet d’écriture : thème du fiancé-animal et parodie (travail d’écriture à partir du « monstre poilu »)'
 article_pdf: '576.pdf'

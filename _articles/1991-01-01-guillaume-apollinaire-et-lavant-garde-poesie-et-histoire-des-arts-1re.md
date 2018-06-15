@@ -5,7 +5,7 @@ rubrique: 'Poésie et histoire des arts [1re]'
 annee: '1991'
 magazine: 'n°12 1er juin 1992'
 pages: '14'
-description: |-
+description: 
   '1. Bref rappel historique
   2. Apollinaire et la peinture
   – Du cubisme au futurisme

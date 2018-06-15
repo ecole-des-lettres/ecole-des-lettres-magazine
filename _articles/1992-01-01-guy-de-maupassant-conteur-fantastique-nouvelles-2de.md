@@ -5,7 +5,7 @@ rubrique: 'Nouvelles [2de]'
 annee: '1992'
 magazine: 'n°13 1er juin 1993'
 pages: '16'
-description: |-
+description: 
   'Étude du fantastique dans trois textes de Maupassant tirés de « Apparition et autres contes d’angoisse » (Garnier-Flammarion) : « Apparition », « L’Auberge », « La Nuit »…
   1. Le fonctionnement textuel
   – la structuration du récit

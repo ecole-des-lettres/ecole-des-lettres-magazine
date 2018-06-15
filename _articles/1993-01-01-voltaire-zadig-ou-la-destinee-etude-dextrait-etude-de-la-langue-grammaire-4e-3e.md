@@ -5,7 +5,7 @@ rubrique: 'Étude de la langue : grammaire [4e-3e]'
 annee: '1993'
 magazine: 'n°6 15 décembre 1993'
 pages: '4'
-description: |-
+description: 
   'Extrait de « Il rencontra en marchant un ermite… » à « Zadig jura et ils partirent ensemble »…
   1. Les propositions subordonnées relatives tracent un portrait
   2. Les propositions indépendantes construisent le récit

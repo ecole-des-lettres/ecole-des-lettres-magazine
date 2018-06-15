@@ -5,7 +5,7 @@ rubrique: 'Le récit (roman ou nouvelle) [2de-1re]'
 annee: '1993'
 magazine: 'n°4 1er novembre 1993'
 pages: '8'
-description: |-
+description: 
   '1. Place de l’amour dans l’architecture du roman
   2. Signification sociale de l’amour
   3. Signification morale de l’amour'

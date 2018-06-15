@@ -5,7 +5,7 @@ rubrique: 'Littérature médiévale [Tle]'
 annee: '1996'
 magazine: 'n°10 1er mars 1997'
 pages: '7'
-description: |-
+description: 
   'Le franchissement du Pont de l’Épée s’inscrit dans la longue suite d’épreuves qui s’imposent à Lancelot dans sa quête de Guenièvre…
   Étude littéraire des vers 3003 à 3141 :
   1. L’écriture de l’aventure

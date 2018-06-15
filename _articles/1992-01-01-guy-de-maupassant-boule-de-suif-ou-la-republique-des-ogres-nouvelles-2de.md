@@ -5,7 +5,7 @@ rubrique: 'Nouvelles [2de]'
 annee: '1992'
 magazine: 'n°13 1er juin 1993'
 pages: '10'
-description: |-
+description: 
   '1. Topographie de l’ordre
   2. Le grand appétit social
   3. La communauté repue

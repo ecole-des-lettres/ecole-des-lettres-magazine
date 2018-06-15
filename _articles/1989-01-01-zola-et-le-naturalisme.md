@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1989'
 magazine: 'n°6 15 décembre 1989'
 pages: 166 pages
-description: |-
+description: 
   '1. Un concept littéraire : le naturalisme
   2. « Une page d’amour » et la description naturaliste
   3. Zola, peintre de Paris

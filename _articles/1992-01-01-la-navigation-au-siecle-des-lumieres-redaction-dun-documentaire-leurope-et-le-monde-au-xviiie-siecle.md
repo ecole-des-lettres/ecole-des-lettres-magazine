@@ -5,7 +5,7 @@ rubrique: 'L’Europe et le monde au XVIIIe siècle'
 annee: '1992'
 magazine: 'n°9 1er mars 1993'
 pages: '18'
-description: |-
+description: 
   'Une expérience pédagogique alliant histoire et français…
   1. Le projet interdisciplinaire
   2. La classe de français : un atelier d’écriture

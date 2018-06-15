@@ -5,7 +5,7 @@ rubrique: 'Littérature médiévale [5e] '
 annee: '1991'
 magazine: 'n°8 15 février 1992'
 pages: '20'
-description: |-
+description: 
   '– Le fin mot de l’amour
   – Les rites de la fine amor
   – La Dame souveraine

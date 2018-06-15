@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1992'
 magazine: 'n°10 15 mars 1993'
 pages: 146 pages
-description: |-
+description: 
   '1. « La Vie, le procès, les prophéties et révélations de Jacques Cazotte », par Gérard de Nerval (fac-similé de l’édition illustrée de 1845)
   2. « Le Diable amoureux » lu par Nerval 
   – Nerval commentateur du Diable amoureux 

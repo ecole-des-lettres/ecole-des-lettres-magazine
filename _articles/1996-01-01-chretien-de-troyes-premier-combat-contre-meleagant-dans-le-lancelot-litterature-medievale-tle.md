@@ -5,7 +5,7 @@ rubrique: 'Littérature médiévale [Tle]'
 annee: '1996'
 magazine: 'n°10 1er mars 1997'
 pages: '6'
-description: |-
+description: 
   'Étude littéraire des vers  3489 à 3757 :
   1. Déroulement et portée du duel : un combat épique
   2. Regards et points de vue : un combat spectaculaire

@@ -5,7 +5,7 @@ rubrique: 'La lettre [4e]'
 annee: '1992'
 magazine: '1993'
 pages: '29'
-description: |-
+description: 
   '1. Introduction : éléments biographiques sur Mme de Sévigné
   2. Étude des lettres 1 à 7 : la première séparation ; la diversité des sujets abordés ; la diversité des tons
   3. Étude des lettres 8 à 14 : la diversité des sujets ; l’expression des sentiments liés à la séparation ; l’art de la narration

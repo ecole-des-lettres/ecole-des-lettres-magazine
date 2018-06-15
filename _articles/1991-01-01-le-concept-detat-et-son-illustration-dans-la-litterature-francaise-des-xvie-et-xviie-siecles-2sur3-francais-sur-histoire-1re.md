@@ -6,7 +6,7 @@ rubrique: 'Français / histoire [1re]'
 annee: '1991'
 magazine: 'n°2 1er octobre 1991'
 pages: '10'
-description: |-
+description: 
   'Montaigne, Pascal et La Boétie assistent à la naissance de l’État moderne en France. Tous trois tentent d’expliquer le rôle de la coutume dans la constitution de l’État, mais n’en tirent pas les mêmes conclusions. Présentation de leurs positions respectives…
   3. Le XVIe siècle : recherche de la stabilité institutionnelle et critique de la tyrannie
   – Montaigne

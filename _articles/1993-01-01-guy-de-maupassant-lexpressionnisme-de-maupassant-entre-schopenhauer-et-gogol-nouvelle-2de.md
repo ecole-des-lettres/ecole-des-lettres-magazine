@@ -6,7 +6,7 @@ rubrique: 'Nouvelle [2de]'
 annee: '1993'
 magazine: 'n°12 15 juin 1994'
 pages: '14'
-description: |-
+description: 
   '1. Schopenhauer
   – la création
   – l’amour

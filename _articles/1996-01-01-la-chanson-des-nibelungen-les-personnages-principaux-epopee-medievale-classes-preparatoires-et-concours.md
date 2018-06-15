@@ -5,7 +5,7 @@ rubrique: 'Épopée médiévale [classes préparatoires et concours] '
 annee: '1996'
 magazine: 'n°5 1er décembre 1996'
 pages: '24'
-description: |-
+description: 
   '1. Kriemhild
   – une jeune fille sous la tutelle de ses frères
   – l’épouse aimante et soumise

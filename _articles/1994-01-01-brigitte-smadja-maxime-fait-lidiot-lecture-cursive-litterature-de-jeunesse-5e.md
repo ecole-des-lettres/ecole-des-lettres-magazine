@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse [5e] '
 annee: '1994'
 magazine: 'n°7 1er février 1995'
 pages: '3'
-description: |-
+description: 
   '1. Résumé
   2. Test de lecture
   3. Étude d’orthographe et de vocabulaire

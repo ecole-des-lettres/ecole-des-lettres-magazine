@@ -5,7 +5,7 @@ rubrique: 'Théâtre [2de]'
 annee: '2004'
 magazine: 'n°11-12 août 2005'
 pages: '46'
-description: |-
+description: 
   '1. Une révolution littéraire
   2. Le théâtre de Jarry
   3. Lectures analytiques

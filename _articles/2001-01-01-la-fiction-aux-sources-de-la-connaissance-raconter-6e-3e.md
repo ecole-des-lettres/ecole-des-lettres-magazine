@@ -5,7 +5,7 @@ rubrique: 'Raconter [6e-3e]'
 annee: '2001'
 magazine: 'n°11 mars 2002'
 pages: '12'
-description: |-
+description: 
   '1. Itinéraires de découverte : une place pour la fiction ?
   – la fiction, le domaine privilégié du professeur de français
   – la fiction, véhicule de l’information

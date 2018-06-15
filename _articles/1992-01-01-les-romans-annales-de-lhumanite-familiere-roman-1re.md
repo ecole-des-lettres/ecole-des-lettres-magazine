@@ -5,7 +5,7 @@ rubrique: 'Roman [1re]'
 annee: '1992'
 magazine: 'n°1 15 septembre 1992'
 pages: '9'
-description: |-
+description: 
   'Résumé-discussion sur un texte de Claude Roy extrait de « Défense de la littérature » (« Apologie pour les romans »)…
   1. Préparation du résumé
   – problématique du texte

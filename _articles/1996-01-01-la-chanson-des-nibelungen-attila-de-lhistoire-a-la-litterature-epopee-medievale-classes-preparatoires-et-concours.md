@@ -5,7 +5,7 @@ rubrique: 'Épopée médiévale [classes préparatoires et concours] '
 annee: '1996'
 magazine: 'n°5 1er décembre 1996'
 pages: '10'
-description: |-
+description: 
   '1. Attila dans l’histoire
   2. Attila dans les arts, au cinéma et dans la publicité
   3. Attila, personnage littéraire

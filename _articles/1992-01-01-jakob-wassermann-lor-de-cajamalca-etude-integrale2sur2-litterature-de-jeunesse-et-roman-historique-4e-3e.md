@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et roman historique [4e-3e] '
 annee: '1992'
 magazine: 'n°6 15 décembre 1992'
 pages: '12'
-description: |-
+description: 
   '5. Étude détaillée de la troisième partie (chapitres 12 à 16)
   – une trahison annoncée (lecture individuelle avec questionnaire-guide, trahison et fatalité)
   – la relation des événements et le statut du narrateur (étude collective : les commentaires du narrateur ; le personnage de l’Inca)

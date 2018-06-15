@@ -5,7 +5,7 @@ rubrique: 'Littérature médiévale [5e]'
 annee: '1992'
 magazine: 'n°12 15 mai 1993'
 pages: '11'
-description: |-
+description: 
   '1. Un amour passion
   – l’amour de près
   – l’amour de loin

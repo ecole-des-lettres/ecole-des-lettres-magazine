@@ -5,7 +5,7 @@ rubrique: 'Documentation [6e-3e]'
 annee: '1995'
 magazine: 'n°12 15 juin 1996'
 pages: '13'
-description: |-
+description: 
   'Le CDI, outil d’appropriation et d’organisation de connaissances non structurées…
   1. Culture scientifique et technique et vulgarisation
   2. L’appropriation d’un savoir scientifique

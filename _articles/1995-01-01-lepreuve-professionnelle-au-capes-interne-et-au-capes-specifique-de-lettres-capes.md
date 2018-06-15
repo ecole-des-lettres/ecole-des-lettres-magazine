@@ -5,7 +5,7 @@ rubrique: 'Capes'
 annee: '1995'
 magazine: 'n°1 1er septembre 1995'
 pages: '4'
-description: |-
+description: 
   'Bibliographie commentée
   1. Textes officiels relatifs à l’épreuve
   2. Textes officiels  relatifs à l’enseignement du français

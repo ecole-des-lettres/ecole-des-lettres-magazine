@@ -5,7 +5,7 @@ rubrique: 'Didactique des langues anciennes'
 annee: '1993'
 magazine: 'n°11 1er juin 1994'
 pages: '6'
-description: |-
+description: 
   'Difficultés de l’enseignement du latin en Espagne…
   L’article est suivi d’exemples de cours et d’exercices en espagnol.'
 article_pdf: '1175.pdf'

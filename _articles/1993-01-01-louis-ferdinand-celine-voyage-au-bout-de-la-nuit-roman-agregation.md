@@ -5,7 +5,7 @@ rubrique: 'Roman [agrégation]'
 annee: '1993'
 magazine: 'n°13-14 juillet 1994'
 pages: '38'
-description: |-
+description: 
   'Le problème du sujet :
   1. Publication du « Voyage au bout de la nuit »
   – contexte social et intellectuel

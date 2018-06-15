@@ -6,7 +6,7 @@ rubrique: 'Étude de l'image [4e-3e]'
 annee: '1994'
 magazine: 'n°12 15 juin 1995'
 pages: '26'
-description: |-
+description: 
   'Un extrait cinématographique analysé non pour lui-même, mais dans la perspective d’un transfert dans le texte littéraire…
   1. Première proposition : « Les Enchaînés », d’Hitchcock
   – objectif : amener les élèves à percevoir comment la notion de regard peut infléchir le récit

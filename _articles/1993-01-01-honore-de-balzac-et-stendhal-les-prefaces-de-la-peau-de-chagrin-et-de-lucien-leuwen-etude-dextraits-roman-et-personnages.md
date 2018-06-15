@@ -6,7 +6,7 @@ rubrique: 'Roman et personnages'
 annee: '1993'
 magazine: 'n°3 15 octobre 1993'
 pages: '10'
-description: |-
+description: 
   'Rapprochement entre deux extraits de préfaces : celle de « La Peau de chagrin », de Balzac et celle de « Lucien Leuwen », de Stendhal…
   1. Présentation
   2. L’auteur et son œuvre

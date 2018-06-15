@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse'
 annee: '2013'
 magazine: 'mars 2013'
 pages: '2'
-description: |-
+description: 
   'À plus de quatre-vingt-un ans, Tomi Ungerer continue d’occuper le devant de la scène avec une juvénilité qui n’appartient qu’à lui. L’école des loisirs publie son dernier album, « Maître des Brumes », l’un de ces contes eschatologiques et drolatiques
   dont il a le secret…'
 article_pdf: '12319.pdf'

@@ -6,7 +6,7 @@ rubrique: 'Roman fantastique [4e]'
 annee: '1999'
 magazine: 'n°7 15 novembre 1999'
 pages: '32'
-description: |-
+description: 
   'Le court roman de Robert Louis Stevenson a l’avantage de présenter, dans son écriture, de nombreuses descriptions dont la finalité est de créer une ambiance mystérieuse afin d’effrayer le lecteur. Aussi l’objectif principal de cette séquence sera-t-il de développer l’étude de la description, du portrait et de la notion de point de vue. Le roman pourra ensuite donner lieu à un groupement de textes sur le point de vue, puis à un autre groupement sur les autres fonctions de la description. Il nous semble plus facile d’aborder la description par le biais du fantastique, dont les objectifs sont clairs pour les élèves. La séquence s’organise autour de quelques-uns des objectifs prescrits dans les Instructions officielles :
   – reconnaître les caractéristiques d’un genre narratif particulier, le fantastique, et s’approprier une culture littéraire grâce à cette étude ;
   – repérer les fonctions du discours descriptif et son organisation ;

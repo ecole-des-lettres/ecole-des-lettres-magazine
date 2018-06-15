@@ -5,7 +5,7 @@ rubrique: 'Interdisciplinarité français, documentation [4e-5e]'
 annee: '1991'
 magazine: 'n°10 15 avril 1992'
 pages: '8'
-description: |-
+description: 
   'Que doit faire l’élève lorsqu’on lui demande une recherche sur un écrivain, un peintre, un musicien, etc. ? Description d’une méthodologie pour réaliser des biographies au CDI à partir de l’exemple de Robert Louis Stevenson.
   – Mobilisation d’idées
   – Confronter les questions à un premier document

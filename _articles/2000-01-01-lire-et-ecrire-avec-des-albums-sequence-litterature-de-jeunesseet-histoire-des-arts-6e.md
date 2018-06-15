@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et histoire des arts [6e]'
 annee: '2000'
 magazine: 'n°4 1er octobre 2000'
 pages: '6'
-description: |-
+description: 
   'Afin d’aider les enseignants à intégrer la lecture cursive dans leurs séquences, cet article propose une bibliographie commentée sur :
   – les fictions où l’on croise des peintres réels
   – la vie de peintres imaginaires

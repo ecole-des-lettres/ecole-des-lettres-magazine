@@ -5,7 +5,7 @@ rubrique: ' Littérature médiévale [5e]'
 annee: '2000'
 magazine: 'n°9 15 janvier 2001'
 pages: '11'
-description: |-
+description: 
   '1. Un exemple de traduction de l’ancien français
   2. Phonétique
   – évolution des voyelles

@@ -5,7 +5,7 @@ rubrique: 'Étude de la langue [3e]'
 annee: '1992'
 magazine: 'n°8 1er février 1993'
 pages: '3'
-description: |-
+description: 
   'Du côté de la référence et du contextuel
   (le sens comme production langagière)…
   1. La levée de l’ambiguïté

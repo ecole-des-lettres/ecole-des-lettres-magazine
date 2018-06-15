@@ -5,7 +5,7 @@ rubrique: 'Arts'
 annee: '1991'
 magazine: 'n°3 15 octobre 1991'
 pages: '6'
-description: |-
+description: 
   '– La dation (la loi, la procédure)
   – La dation Jacqueline Picasso
   – « Le Faucheur » (bronze de 1943)

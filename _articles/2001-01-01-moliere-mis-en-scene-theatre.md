@@ -5,7 +5,7 @@ rubrique: 'Théâtre'
 annee: '2001'
 magazine: 'n°13 mai 2002'
 pages: 144 pages
-description: |-
+description: 
   '1. Molière acteur comique
   2. Hommage à Molière par un « serviteur fasciné », Michel Etcheverry, de la Comédie-Française
   3. « Dom Juan ou le Festin de pierre » (1665). Entretien avec Jacques Lassalle

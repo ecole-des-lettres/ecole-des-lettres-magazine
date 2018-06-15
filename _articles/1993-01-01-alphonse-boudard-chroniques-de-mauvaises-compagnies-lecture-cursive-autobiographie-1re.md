@@ -6,7 +6,7 @@ rubrique: 'Autobiographie [1re]'
 annee: '1993'
 magazine: 'n°8 15 février 1994'
 pages: '14'
-description: |-
+description: 
   '1. Les métamorphoses d’Alphonse Boudard
   2. Les « Chroniques de mauvaises compagnies »
   3. Saint Frédo ou sacré Frédo ?'

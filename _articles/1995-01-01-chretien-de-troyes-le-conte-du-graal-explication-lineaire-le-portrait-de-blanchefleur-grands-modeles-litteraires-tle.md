@@ -6,7 +6,7 @@ rubrique: 'Grands modèles littéraires [Tle]'
 annee: '1995'
 magazine: 'n°6 15 janvier 1996'
 pages: '8'
-description: |-
+description: 
   'Explication linéaire des vers 1746 à 1787 du « Conte du Graal »…
   1. L’arrivée des gentilshommes
   2. L’arrivée de Blanchefleur dans sa toilette somptueuse

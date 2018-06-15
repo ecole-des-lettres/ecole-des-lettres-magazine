@@ -5,7 +5,7 @@ rubrique: 'Histoire [1re]'
 annee: '2001'
 magazine: 'n°4 1er octobre 2001'
 pages: '10'
-description: |-
+description: 
   'Notes de lecture sur :
   – « Le siècle des camps », de Joël Kotek et Pierre Rigoulot (Jean-Claude Lattès, 2000)
   – « Le Livre noir sur l’extermination des Juifs, URSS et, Pologne », de Vassili Grossman et Ilya Ehrenburg (Livre de poche, 2001)

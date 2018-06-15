@@ -6,7 +6,7 @@ rubrique: 'Nouvelles [2de]'
 annee: '1990'
 magazine: 'n°7 15 janvier 1991'
 pages: '12'
-description: |-
+description: 
   '1. L’histoire selon Barbey
   2. Le dandy aurevillien
   3. La mission historique ambiguë du dandy aurevillien'

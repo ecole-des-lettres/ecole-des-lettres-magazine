@@ -6,7 +6,7 @@ rubrique: 'Didactique des lettres'
 annee: '1994'
 magazine: 'n°6 15 janvier 1995'
 pages: '10'
-description: |-
+description: 
   '1. L’évolution des programmes de 1809 à 1870
   2. Les enjeux des programmes
   – connaissance et approfondissement de l’Antiquité grecque et latine

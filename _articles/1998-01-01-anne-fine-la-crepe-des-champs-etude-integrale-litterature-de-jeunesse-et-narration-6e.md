@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et narration [6e]'
 annee: '1998'
 magazine: '1998'
 pages: '28'
-description: |-
+description: 
   'Ce livre permet d’engager l’année scolaire dans des conditions psycho-affectives favorables. La vision qui est donnée de l’école dans ce roman est d’une telle fraîcheur qu’elle aide à balayer tout ce qui entrave le bon climat du groupe-classe. L’écriture est limpide, et surtout, la construction du roman autorise à opérer les choix que l’on attend en début d’année de sixième.
   Déroulement de la séquence : six séances.'
 article_pdf: '3015.pdf'

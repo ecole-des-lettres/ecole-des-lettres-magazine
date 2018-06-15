@@ -5,7 +5,7 @@ rubrique: 'Histoire des arts'
 annee: '1995'
 magazine: 'n°13 15 juin 1996'
 pages: '4'
-description: |-
+description: 
   'Compte rendu d’exposition.
   L’article est suivi d’une bibliographie.'
 article_pdf: '1951.pdf'

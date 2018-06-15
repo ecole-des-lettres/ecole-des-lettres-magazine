@@ -5,7 +5,7 @@ rubrique: 'Conte philosophique [2de-1re]'
 annee: '1991'
 magazine: 'n°11 15 mai 1992'
 pages: '6'
-description: |-
+description: 
   'Étude de cet extrait du chapitre 19 de « Candide »…
 
   1. Une critique de la société esclavagiste (la part philosophique du conte)

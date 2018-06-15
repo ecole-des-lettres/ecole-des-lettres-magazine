@@ -6,7 +6,7 @@ rubrique: 'Roman [agrégation]'
 annee: '2001'
 magazine: 'n°8 1er janvier 2002'
 pages: '14'
-description: |-
+description: 
   '1. L’échange impossible
   – le rêve de conjugalité
   – la communication douteuse

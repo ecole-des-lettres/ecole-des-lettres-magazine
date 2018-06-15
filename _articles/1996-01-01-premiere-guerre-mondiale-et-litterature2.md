@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1996'
 magazine: 'n°13 1er mai 1997'
 pages: 160 pages
-description: |-
+description: 
   '1. « Capitaine Conan », de Roger Vercel, et « La Comédie de Charleroi », de Pierre Drieu la Rochelle : mythe et réalité du héros de guerre
   2. « À l’Ouest, rien de nouveau », d’Erich Maria Remarque
   3. Roger Martin du Gard et la Grande Guerre

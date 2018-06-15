@@ -6,7 +6,7 @@ rubrique: 'Pierre Corneille'
 annee: '2001'
 magazine: 'n°9 1er février 2002'
 pages: '19'
-description: |-
+description: 
   '1. Deux genres, deux héros
   – Matamore, fanfaron comique
   – Rodrigue, jeune premier tragique

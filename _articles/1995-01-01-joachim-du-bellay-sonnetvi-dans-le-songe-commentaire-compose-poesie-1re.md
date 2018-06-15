@@ -6,7 +6,7 @@ rubrique: 'Poésie [1re]'
 annee: '1995'
 magazine: 'n°2 1er octobre 1995'
 pages: '7'
-description: |-
+description: 
   'Commentaire composé du sonnet VI…
   1. Un « songe » en quatre tableaux
   2. Un spectacle symbolique

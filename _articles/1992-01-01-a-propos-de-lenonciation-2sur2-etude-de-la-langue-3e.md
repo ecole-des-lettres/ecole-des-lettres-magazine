@@ -5,7 +5,7 @@ rubrique: 'Étude de la langue [3e]'
 annee: '1992'
 magazine: 'n°13 1er juin 1993'
 pages: '4'
-description: |-
+description: 
   '1. L’opposition « posé » / « présupposé »
   2. Sous-entendus et implicite
   3. Les lois de discours ou contrats de parole

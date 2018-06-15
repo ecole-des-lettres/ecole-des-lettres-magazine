@@ -5,7 +5,7 @@ rubrique: 'Roman et personnages [1re]'
 annee: '1990'
 magazine: 'n°10 15 mars 1991'
 pages: '12'
-description: |-
+description: 
   'Commentaire composé d’un passage extrait de « La Princesse de Clèves » : « Je veux vous parler encore, avec la même sincérité que j’ai commencé… » à « et la seule bienséance interdit tout commerce entre nous »…
   1. Repérages : le roman, l’auteur, l’extrait
   2. Structures : la progression de la conscience

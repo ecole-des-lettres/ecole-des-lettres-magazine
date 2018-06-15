@@ -5,7 +5,7 @@ rubrique: 'Documentaires [4e-3e]'
 annee: '1992'
 magazine: 'n°5 1er décembre 1992'
 pages: '10'
-description: |-
+description: 
   'Quelques pistes de travail pour aborder les ouvrages documentaires au CDI…
   2. Des outils pour lire les images
   – Comment identifier les images d’un livre documentaire ? : symbolique, transcrite, impressionnée, digitale : différents types d’images ; photographie, dessin, schéma, diagramme, langage : le chemin vers l’abstraction

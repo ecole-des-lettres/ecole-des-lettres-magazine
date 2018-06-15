@@ -6,7 +6,7 @@ rubrique: 'Interdisciplinarité français, latin [5e]'
 annee: '1993'
 magazine: 'n°3 15 octobre 1993'
 pages: '8'
-description: |-
+description: 
   'Objectif : harmoniser autour d’un thème commun cours de français et de latin (six séances)
   * Séance 1. Étude du texte traduit
   – la complainte des pêcheurs, un extrait du « Rudens », comédie de Plaute : questions pour l’explication de texte, corrections et sujet de rédaction

@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et fantastique [5e-3e]'
 annee: '1994'
 magazine: 'n°9 15 mars 1995'
 pages: '6'
-description: |-
+description: 
   'Une série d’articles sur le genre de la science-fiction, le genre fantastique, historique et le ton naïf…
   Le genre « fantastique » :
   – deux interprétations entre lesquelles le lecteur ne peut trancher : « L’Arbre du Portugais », de Bernard Cassac (« Le Train perdu et autres histoires mystérieuses ») ; « La Peur », de Maupassant

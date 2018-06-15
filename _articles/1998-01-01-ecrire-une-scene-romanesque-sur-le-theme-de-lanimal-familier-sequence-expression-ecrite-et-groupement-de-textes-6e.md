@@ -5,7 +5,7 @@ rubrique: 'Expression écrite et groupement de textes [6e]'
 annee: '1998'
 magazine: '1998'
 pages: '29'
-description: |-
+description: 
   'La production d’écrit étant indissociable de la lecture, cette séquence s’appuie sur l’étude d’un groupement de textes d’auteurs de littérature jeunesse
   – « Toufdepoil », de Claude Gutman
   – « Les Six Compagnons de la Croix-Rousse », de Paul-Jacques Bonzon

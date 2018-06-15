@@ -5,7 +5,7 @@ rubrique: 'Éducation aux médias [6e-3e]'
 annee: '1997'
 magazine: 'n°9 15 janvier 1998'
 pages: '11'
-description: |-
+description: 
   'Étude du titre de presse par ses différentes fonctions…
   1. La fonction référentielle
   – les éléments du titre

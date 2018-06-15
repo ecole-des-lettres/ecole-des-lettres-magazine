@@ -5,7 +5,7 @@ rubrique: 'Latin [4e]'
 annee: '1994'
 magazine: 'n°12 15 juin 1995'
 pages: '10'
-description: |-
+description: 
   '« Spartacus », de Stanley Kubrick et « Ben Hur », de William Wyler…
   1. Le contexte social : l’esclavage à Rome
   2. Le contexte historique

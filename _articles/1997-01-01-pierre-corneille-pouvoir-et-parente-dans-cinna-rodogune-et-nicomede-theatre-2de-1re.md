@@ -6,7 +6,7 @@ rubrique: 'Théâtre [2de-1re]'
 annee: '1997'
 magazine: 'n°11 15 mars 1998'
 pages: '14'
-description: |-
+description: 
   'Variations sur un rapport conflictuel dans…
   1. « Cinna ou la clémence d’Auguste »
   2. « Nicomède »

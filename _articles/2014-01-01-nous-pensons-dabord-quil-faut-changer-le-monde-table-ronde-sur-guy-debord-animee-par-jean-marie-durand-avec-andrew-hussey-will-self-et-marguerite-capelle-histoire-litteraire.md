@@ -7,7 +7,7 @@ rubrique: 'Histoire littéraire '
 annee: '2014'
 magazine: 'n°2'
 pages: '26'
-description: |-
+description: 
   '« ANDREW HUSSEY. – J’ai découvert Guy Debord dans les années 1970, en Angleterre. C’était l’époque de la révolution punk, dont j’étais l’un des soldats. Je connaissais le nom de Guy Debord à travers le prisme de groupes comme les Sex Pistols, The Clash, Subway Sect.
   Le nom de Guy Debord circulait comme une espèce de chose occulte, on ne savait pas vraiment de quoi il s’agissait. Guy Debord et les situationnistes, dans les années 1970, c’était quelque chose de totémique : on ne savait pas exactement ce que c’était, mais on savait que c’était la résistance totale... »
   '

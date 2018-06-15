@@ -6,7 +6,7 @@ rubrique: 'Théâtre [1re]'
 annee: '2002'
 magazine: 'n°8 1er janvier 2003'
 pages: '11'
-description: |-
+description: 
   'On a l’habitude d’aborder Voltaire essentiellement sous l’angle du philosophe et de l’homme de lettres. Pourtant, c’est principalement par ses pièces de théâtre qu’il était connu en son temps. « Le Droit du Seigneur ou l’Écueil du Sage » est une comédie qui présente au moins quatre avantages pour l’enseignement. En effet, elle permet :
   – d’étudier l’ironie voltairienne par le biais de ce « second rire » propre au genre comique dans lequel il excelle ;
   – d’analyser le sens dramatique de l’auteur, homme de théâtre avant tout ;

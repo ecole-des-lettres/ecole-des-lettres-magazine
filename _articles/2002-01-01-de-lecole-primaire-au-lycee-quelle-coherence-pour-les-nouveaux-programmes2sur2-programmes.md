@@ -5,7 +5,7 @@ rubrique: 'Programmes'
 annee: '2002'
 magazine: 'n°2 août 2002'
 pages: '8'
-description: |-
+description: 
   '4. Les nouvelles épreuves du baccalauréat (ÉAF)
   – les épreuves orales
   – les épreuves écrites

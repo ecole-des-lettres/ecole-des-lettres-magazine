@@ -5,7 +5,7 @@ rubrique: 'Théâtre [2de] '
 annee: '2003'
 magazine: '2003'
 pages: '28'
-description: |-
+description: 
   'Compte rendu d’une expérience pédagogique dont l’objectif était, notamment, l’étude des registres tragique et comique
   1. Étude d’« Othello » (1602-1603)
   – lecture de l’œuvre, étude du personnage de Iago, exercice d’écriture sur la fable du mouchoir, interprétation d’une scène, étude de la scène dans le film d’Orson Welles et sur une photo tirée de la mise en scène de Stanislavski.

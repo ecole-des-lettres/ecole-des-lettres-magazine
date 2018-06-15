@@ -5,7 +5,7 @@ rubrique: 'Poésie / Récit [classes préparatoires]'
 annee: '1991'
 magazine: 'n°13 15 juin 1992'
 pages: '20'
-description: |-
+description: 
   '1. Un schéma narratif variable
   2. Le réel et l’imaginaire
   3. La vie exprimée dans sa totalité'

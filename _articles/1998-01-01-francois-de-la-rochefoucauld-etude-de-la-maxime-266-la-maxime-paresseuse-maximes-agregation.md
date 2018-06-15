@@ -5,7 +5,7 @@ rubrique: 'Maximes [agrégation] '
 annee: '1998'
 magazine: 'n°14 1er juin 1999'
 pages: '18'
-description: |-
+description: 
   '1. Le discours de la paresse
   2. Travailler contre la paresse : convaincre et séduire
   3. La maxime des apparences

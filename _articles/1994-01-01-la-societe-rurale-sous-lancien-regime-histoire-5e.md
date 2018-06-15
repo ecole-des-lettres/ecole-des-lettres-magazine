@@ -5,7 +5,7 @@ rubrique: 'Histoire [5e]'
 annee: '1994'
 magazine: 'n°5 15 décembre 1994'
 pages: '16'
-description: |-
+description: 
   'Étude faite à partir d’extraits de registres paroissiaux…
   Objectifs : décrire, à travers des exemples précis, les rythmes et structures de la communauté villageoise et montrer, par l’examen de sources historiques, des réalités culturelles telles que le degré d’instruction.
   1. Les registres paroissiaux, sources pour l’Histoire

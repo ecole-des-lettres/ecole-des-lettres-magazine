@@ -5,7 +5,7 @@ rubrique: 'Étude de la langue [6e-5e]'
 annee: '1990'
 magazine: 'n°3 15 octobre 1990'
 pages: '3'
-description: |-
+description: 
   '1. Théorie
   2. Considérations pédagogiques : les noms féminins en [te], les noms en [war], les noms singuliers terminés par un « s », les effets de sens produits par l’opposition masculin / féminin, l’opposition singulier / pluriel…'
 article_pdf: '286.pdf'

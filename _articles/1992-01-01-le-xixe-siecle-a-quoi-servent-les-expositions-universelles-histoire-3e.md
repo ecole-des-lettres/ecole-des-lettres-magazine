@@ -5,7 +5,7 @@ rubrique: 'Histoire [3e]'
 annee: '1992'
 magazine: 'n°4 1er novembre 1992'
 pages: '8'
-description: |-
+description: 
   '– Le culte du progrès
   – La gloire de la civilisation
   – Le concert des nations

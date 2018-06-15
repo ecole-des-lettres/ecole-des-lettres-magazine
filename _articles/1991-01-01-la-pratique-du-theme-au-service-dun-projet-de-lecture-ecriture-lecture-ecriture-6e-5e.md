@@ -5,7 +5,7 @@ rubrique: 'Lecture, écriture [6e-5e]'
 annee: '1991'
 magazine: 'n°10 15 avril 1992'
 pages: '8'
-description: |-
+description: 
   'Autour du thème du chat, des élèves de sixième-cinquième ont réalisé une monographie. Intérêt de l’aspect transdisciplinaire de ce travail et sensibilisation à la lecture…
   1. L’homme et l’animal. Les raisons d’un choix
   2. Comment lier lecture et écriture ?

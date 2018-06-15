@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et épistolaire [4e]'
 annee: '1995'
 magazine: 'n°3 15 octobre 1995'
 pages: '12'
-description: |-
+description: 
   'À la fois journal, lettre et roman à la première personne, ce petit ouvrage, rigoureusement construit, alterne savamment les genres (journal, forme épistolaire, roman à la première personne…) et marque une progression nette aux différents niveaux de l’intrigue comme dans le style.
   1. Le sujet
   2. Les premières lettres : la prise de contact

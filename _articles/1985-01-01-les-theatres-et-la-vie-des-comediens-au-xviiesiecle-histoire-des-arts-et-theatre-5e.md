@@ -5,7 +5,7 @@ rubrique: 'Histoire des arts et théâtre [5e]'
 annee: '1985'
 magazine: 'n°12 15 avril 1986'
 pages: '4'
-description: |-
+description: 
   '1. Les théâtres parisiens
   2. Le théâtre en province
   3. L’aménagement des salles

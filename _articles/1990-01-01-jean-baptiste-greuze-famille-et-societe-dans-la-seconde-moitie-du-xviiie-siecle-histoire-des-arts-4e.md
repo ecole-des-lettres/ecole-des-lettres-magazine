@@ -6,7 +6,7 @@ rubrique: 'Histoire des arts [4e]'
 annee: '1990'
 magazine: 'n°6 15 décembre 1990'
 pages: '6'
-description: |-
+description: 
   'Une approche de la société du XVIIIe siècle par l’étude de l’œuvre de Greuze…
   Deux thèmes : les conditions enfantines et le désordre des familles.
   En annexe la reproduction d’un tableau : « La Mort d’un père dénaturé abandonné par ses enfants ».'

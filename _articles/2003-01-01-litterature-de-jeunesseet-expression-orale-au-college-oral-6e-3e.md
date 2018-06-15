@@ -5,7 +5,7 @@ rubrique: 'Oral [6e-3e]'
 annee: '2003'
 magazine: 'n°3 1er octobre 2003'
 pages: '8'
-description: |-
+description: 
   'Cet article propose des situations d’oral permettant de rendre compte de lectures et de faciliter les échanges autour des livres. On s’appuie sur un cadre d’intervention qui rend possible les comparaisons et incite à confronter les points de vue. Un même roman est confié à deux équipes de deux lecteurs, qui préparent leur intervention à l’aide d’une fiche élève et interviennent successivement après tirage au sort.
   – « À la brocante du cœur », de Robert Cormier (quatrième-troisième)
   – « La Ballade de John Henry », de Gérard Herzaft (sixième-cinquième)'

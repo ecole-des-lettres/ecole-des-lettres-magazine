@@ -5,7 +5,7 @@ rubrique: 'Autobiographie [1re]'
 annee: '1985'
 magazine: 'n°11 15 mars 1986'
 pages: '8'
-description: |-
+description: 
   'Présentation de l’ouvrage.
   Les indications bibliographiques figurent en fin de numéro.'
 article_pdf: '20.pdf'

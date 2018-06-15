@@ -6,7 +6,7 @@ rubrique: 'Théâtre : le drame romantique [1re]'
 annee: '1996'
 magazine: 'n°4 1er novembre 1996'
 pages: '10'
-description: |-
+description: 
   'Lorenzo et le duc
   1. Un couple antithétique
   2. Un couple gémellaire

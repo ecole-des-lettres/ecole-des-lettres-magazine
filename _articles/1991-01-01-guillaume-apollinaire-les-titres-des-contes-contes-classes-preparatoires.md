@@ -5,7 +5,7 @@ rubrique: 'Contes [classes préparatoires]'
 annee: '1991'
 magazine: 'n°13 15 juin 1992'
 pages: '16'
-description: |-
+description: 
   '1. Structure et fonction du titre apollinarien
   2. Les types de titres et leurs référents
   3. Les sujets prévisibles

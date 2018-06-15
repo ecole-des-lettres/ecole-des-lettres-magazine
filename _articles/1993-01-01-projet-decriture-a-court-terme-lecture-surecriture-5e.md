@@ -5,7 +5,7 @@ rubrique: 'Lecture /Écriture [5e]'
 annee: '1993'
 magazine: 'n°7 15 janvier 1994'
 pages: '3'
-description: |-
+description: 
   '1. De la lecture…
   objectif : recomposition du schéma narratif
   2. … À l’écriture

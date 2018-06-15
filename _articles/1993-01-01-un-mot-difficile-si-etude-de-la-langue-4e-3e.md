@@ -5,7 +5,7 @@ rubrique: 'Étude de la langue [4e-3e]'
 annee: '1993'
 magazine: 'n°5 1er décembre 1993'
 pages: '6'
-description: |-
+description: 
   '1. Considérations théoriques
   – « si » conjonction de subordination
   – le « si » adverbe

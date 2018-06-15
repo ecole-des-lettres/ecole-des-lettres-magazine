@@ -5,7 +5,7 @@ rubrique: 'Récits du XIXe siècle [4e]'
 annee: '1994'
 magazine: 'n°6 1er janvier 1995'
 pages: '17'
-description: |-
+description: 
   '* Séance 4. Chapitre 11
   – rappel des chapitres précédents
   – contrôle de la compréhension du chapitre préparé à la maison

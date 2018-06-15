@@ -5,7 +5,7 @@ rubrique: 'Témoignage [1re]'
 annee: '1990'
 magazine: 'n°14 15 juillet 1991'
 pages: '10'
-description: |-
+description: 
   '– Qu’est-ce qui fait un homme ?
   – L’homme parmi les autres
   – Les ambiguïtés de la morale

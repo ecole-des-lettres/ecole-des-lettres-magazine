@@ -6,7 +6,7 @@ rubrique: 'Roman [6e-4e]'
 annee: '2011'
 magazine: 'n°1'
 pages: '31'
-description: |-
+description: 
   'Si, comme le suggérait Hemingway, sous forme de boutade, un classique est une œuvre dont tout le monde parle, mais que personne n’a lu, « Le Livre de la jungle » est le classique par excellence.
   Le livre, qui se présente comme une succession de récits indépendants, peut parfaitement convenir à l’étude du conte en sixième.
   Mais l’exotisme indien et les nombreuses péripéties qui conduisent le héros à réintégrer la civilisation composent un magnifique roman d’aventures que les élèves de cinquième découvriront avec profit.

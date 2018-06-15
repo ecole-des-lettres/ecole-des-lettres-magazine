@@ -6,7 +6,7 @@ rubrique: 'Roman contemporain [2de]'
 annee: '1990'
 magazine: 'n°2 1er octobre 1990'
 pages: '10'
-description: |-
+description: 
   '1. L’univers sonore de « L’Écume des jours »
   2. La musique de jazz comme espace-temps d’identification
   3. La musique, la poésie et l’amour'

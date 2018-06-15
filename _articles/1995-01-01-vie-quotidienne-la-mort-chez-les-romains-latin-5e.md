@@ -5,7 +5,7 @@ rubrique: 'Latin [5e]'
 annee: '1995'
 magazine: 'n°9 1er avril 1996'
 pages: '14'
-description: |-
+description: 
   '1. Rappels mythologiques
   2. Les Romains et la destinée des morts
   3. Pratiques funéraires et monuments

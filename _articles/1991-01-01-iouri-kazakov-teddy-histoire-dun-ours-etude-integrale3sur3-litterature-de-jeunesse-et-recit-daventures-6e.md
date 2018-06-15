@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et récit d’aventures [6e]'
 annee: '1991'
 magazine: 'n°10 15 avril 1992'
 pages: '8'
-description: |-
+description: 
   '3. Étude des chapitres 11 à 13
   – Le territoire de Teddy
   – Le « seigneur des lieux »

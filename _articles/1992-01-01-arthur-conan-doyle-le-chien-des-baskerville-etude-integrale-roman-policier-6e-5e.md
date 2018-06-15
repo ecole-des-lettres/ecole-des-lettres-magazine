@@ -5,7 +5,7 @@ rubrique: 'Roman policier [6e-5e]'
 annee: '1992'
 magazine: 'n°6 15 décembre 1992'
 pages: '20'
-description: |-
+description: 
   '1. Préparation des chapitres 1 à 3 (à domicile)
   – questions
   – commentaire  (les trois chapitres ; le couple Holmes / Watson ; la méthode de Holmes  ; les deux attitudes de Holmes ; le suspense)

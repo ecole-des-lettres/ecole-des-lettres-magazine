@@ -5,7 +5,7 @@ rubrique: 'Science-fiction [4e-3e]'
 annee: '1993'
 magazine: 'n°12-13 1er juin 1994'
 pages: '10'
-description: |-
+description: 
   '– Quelques familles de la science-fiction : voyage dans le temps ; science pure et dure ; antiutopies ou dysutopies ; fiction spéculative ; opéra de l’espace ; fantaisie héroïque ; uchronies (ce qui se serait passé si…)
   – Familles de SF et profils de lecteurs intéressés
   – Comment montrer les multiples facettes de la SF ?

@@ -5,7 +5,7 @@ rubrique: 'Linguistique [classes préparatoires et concours]'
 annee: '1992'
 magazine: 'n°4 1er novembre 1992'
 pages: '3'
-description: |-
+description: 
   '1. Discours et théorie de Jakobson
   2. Le discours comme acte de langage (Austin, Searle)
   3. Entre linguistique et littérature

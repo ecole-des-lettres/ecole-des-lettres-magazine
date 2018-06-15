@@ -5,7 +5,7 @@ rubrique: 'Argumentation [1re]  / Épistoliare'
 annee: '2001'
 magazine: '2001'
 pages: '34'
-description: |-
+description: 
   'Le programme de première prévoit un travail sur l’épistolaire, dans une perspective argumentative et esthétique. La séquence proposée ici s’inscrit en début d’année, et ce pour plusieurs raisons. La lettre (de fiction) est un écrit généralement court, qui offre un champ très commode aux révisions initiales sur les données de la communication et de l’énonciation ; c’est, d’autre part, un objet textuel autonome, et la clôture du texte se prête particulièrement à l’entraînement au commentaire (écrit et oral) ; de plus, elle représente un fragment brillant qui incite fortement à la lecture de l’œuvre dont elle est extraite ; enfin, la thématique choisie, la rupture, est, par son caractère dramatique, un moyen de dynamiser le début de l’année.
   Déroulement de la séquence : six séances.
   Groupement de textes :

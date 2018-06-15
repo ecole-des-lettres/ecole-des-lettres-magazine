@@ -5,7 +5,7 @@ rubrique: 'Le naturalisme [2de]'
 annee: '1989'
 magazine: 'n°6 15 décembre 1989'
 pages: '6'
-description: |-
+description: 
   '1. Manet : l’initiateur de la modernité
   2. Manet : un autre Dreyfus
   3. Manet : un double de Zola'

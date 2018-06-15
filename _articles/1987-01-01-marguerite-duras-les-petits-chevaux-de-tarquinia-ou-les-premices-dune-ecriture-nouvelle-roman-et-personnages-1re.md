@@ -6,7 +6,7 @@ rubrique: 'Roman et personnages [1re]'
 annee: '1987'
 magazine: 'n°6 1er décembre 1987'
 pages: '25'
-description: |-
+description: 
   '1. La méthodologie
   2. Fiction et narration
   3. La chaleur ou la mise en abyme de l’ennui

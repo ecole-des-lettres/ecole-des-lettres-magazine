@@ -5,7 +5,7 @@ rubrique: 'Histoire [4e] '
 annee: '1990'
 magazine: 'n°13 1er juin 1991'
 pages: '8'
-description: |-
+description: 
   '3. Un siècle de luttes nationales en Europe centrale et orientale (1815-1823). Présentation de trois cartes.
   Carte 1 : l’Empire ottoman, l’Empire russe, l’Empire autrichien + des extraits de « La Niche de la honte », d’Ismaïl Kadaré
   Carte 2. Repères chronologiques : un siècle de luttes en Europe centrale et orientale

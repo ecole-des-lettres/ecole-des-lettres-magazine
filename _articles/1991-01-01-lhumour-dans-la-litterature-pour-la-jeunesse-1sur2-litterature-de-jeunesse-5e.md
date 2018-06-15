@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse [5e]'
 annee: '1991'
 magazine: 'n°12-13 1er juin 1992'
 pages: '18'
-description: |-
+description: 
   'Comment approcher la notion d’humour avec des enfants ? Quelle distinction faire entre comique et humour ? Y a-t-il un humour spécifique à la littérature pour la jeunesse ? Peut-on écrire des textes humoristiques ?
   1. La littérature et l’humour : humour et antiphrase, humour et comique, variation des tons
   2. Petit atelier des pratiques d’humour : transposition de registre, point de vue du naïf, jeux de mots, portraits caricatures, de l’image au mot, les parodies

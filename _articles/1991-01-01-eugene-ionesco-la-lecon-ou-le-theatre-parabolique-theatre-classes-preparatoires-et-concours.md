@@ -5,7 +5,7 @@ rubrique: 'Théâtre [classes préparatoires et concours]'
 annee: '1991'
 magazine: 'n°10 15 avril 1992'
 pages: '12'
-description: |-
+description: 
   '1. Les procédés comiques
   – caricature satirique de la pédagogie
   – l’absurdité burlesque

@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et Antiquité, initiation au théâtre [6e] 
 annee: '2003'
 magazine: 'n°9 15 février 2004'
 pages: '25'
-description: |-
+description: 
   'L’étude de ce court récit de Sophie Dieuaide permet de répondre à un double objectif de lecture :
   – « initier les élèves à la connaissance d’une culture fondatrice » par le biais des grands mythes, ici le mythe d’Œdipe ;
   – aborder une technique d’écriture : le détournement.

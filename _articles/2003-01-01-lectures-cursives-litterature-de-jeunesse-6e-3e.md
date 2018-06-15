@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse [6e-3e]'
 annee: '2003'
 magazine: 'n°2 août 2003'
 pages: '6'
-description: |-
+description: 
   'Cet article propose des résumés de plusieurs ouvrages de littérature jeunesse permettant de prendre contact avec les élèves dès la rentrée…
   – Jean-Charles Bernardini, Frank Le Gall : « L’Écaille du dragon » (sixième)
   – Béatrice Nicomède : « Wiggins chez les Johnnies » (cinquième)

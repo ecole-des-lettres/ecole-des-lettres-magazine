@@ -5,7 +5,7 @@ rubrique: 'Histoire littéraire [2de] '
 annee: '1989'
 magazine: 'n°6 15 décembre 1989'
 pages: '16'
-description: |-
+description: 
   '1. Le naturalisme : aspects esthétiques et idéologiques
   – le problème de l’appartenance
   – la dimension esthétique du naturalisme

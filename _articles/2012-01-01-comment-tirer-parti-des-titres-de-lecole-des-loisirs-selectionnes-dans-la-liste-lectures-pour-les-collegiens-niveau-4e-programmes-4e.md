@@ -6,7 +6,7 @@ rubrique: 'Programmes [4e]'
 annee: '2012'
 magazine: 'n°2 2012-2013'
 pages: '13'
-description: |-
+description: 
   'Ces fiches proposent Présentation de l’ouvrage, de son auteur et quelques suggestions de pistes pédagogiques pour les titres de la liste « Lectures pour les collégiens » concernant le niveau quatrième.
   – Jean-François Chabas, « L’Eau verte »
   – Xavier-Laurent Petit, « Maestro », « Les Yeux de Rose Andersen »

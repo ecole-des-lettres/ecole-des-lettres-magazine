@@ -6,7 +6,7 @@ rubrique: 'Histoire'
 annee: '1990'
 magazine: 'n°14 15 juillet 1991'
 pages: '6'
-description: |-
+description: 
   'Bibliographie portant sur :
   – Les causes et les prémisses du conflit
   – La Seconde Guerre mondiale. Généralités

@@ -5,7 +5,7 @@ rubrique: 'Démontrer, convaincre, persuader [2de]'
 annee: '2003'
 magazine: '2003'
 pages: '39'
-description: |-
+description: 
   'L’amplitude temporelle de l’ensemble des textes proposés dans ce groupement recouvre à peu près la période qui a conduit de l’ouvrage de Beccaria (« Des délits et des peines », 1764) à l’abolition de la peine de mort en France (1981) ; elle figure donc en raccourci l’histoire de cette conquête, dans une centaine de pays du moins. Ces textes politiques mettent en jeu des analyses, des raisonnements, des stratégies de séduction et des systèmes de valeurs complexes. Ils jalonnent une histoire vieille de plus de deux siècles et qui n’est pas terminée dans beaucoup de pays. Étudier ce qui a fait leur efficacité est donc riche d’enseignements, susceptible d’apprendre à penser, propre à aiguiser le sens critique. Enfin, ils renvoient à un éventail assez large de genres (roman, essai, lettre ouverte, discours) et de registres (ironique, polémique, tragique, satirique, épique, pathétique, comique).
   Corpus :
   – un extrait du « Commentaire sur le livre ‘Des délits et des peines’ (de Beccaria) par un avocat de province », de Voltaire

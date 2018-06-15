@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et Moyen Âge [5e]'
 annee: '1997'
 magazine: 'n°5-6 1er-15 novembre 1997'
 pages: '18'
-description: |-
+description: 
   'Objectifs : faire découvrir aux élèves les textes fondateurs d’une culture et les sensibiliser à la permanence de certains mythes ; ici, la légende arthurienne et l’univers de la Table ronde…
   1. Les origines du mythe
   – la légende arthurienne : la tradition orale, le récit de Monmouth

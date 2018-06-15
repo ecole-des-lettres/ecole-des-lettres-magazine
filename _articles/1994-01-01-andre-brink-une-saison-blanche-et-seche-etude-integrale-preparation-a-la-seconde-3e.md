@@ -5,7 +5,7 @@ rubrique: 'Préparation à la seconde [3e]'
 annee: '1994'
 magazine: 'n°10 15 avril 1995'
 pages: '25'
-description: |-
+description: 
   '1. L’auteur
   2. Étude de l’œuvre
   – la fonction du prologue : l’authenticité du témoignage : Ben Du Toit ; le narrateur ; les circonstances ; la matière romanesque

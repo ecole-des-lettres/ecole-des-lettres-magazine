@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1997'
 magazine: 'n°12 1er avril 1998'
 pages: 160 pages
-description: |-
+description: 
   '1. Senghor, poète africain ?
   2. Senghor et le chant de la négritude dans « Éthiopiques »
   3. Lire « Éthiopiques » en Terminale L, une gageure ?

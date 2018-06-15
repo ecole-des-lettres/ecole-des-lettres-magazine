@@ -6,7 +6,7 @@ rubrique: 'Histoire-géographie [Capes]'
 annee: '1990'
 magazine: 'n°6 15 décembre 1990'
 pages: '2'
-description: |-
+description: 
   'Dans le cadre de la préparation au CAPES interne d’histoire-géographie :
   – L’héritage urbain en Italie
   – Les éléments moteurs du réveil urbain

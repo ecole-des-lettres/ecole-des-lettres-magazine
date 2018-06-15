@@ -5,7 +5,7 @@ rubrique: 'Éducation civique'
 annee: '2000'
 magazine: 'n°8 1er janvier 2001'
 pages: '8'
-description: |-
+description: 
   '– « Qu’est-ce que la citoyenneté ? », de Dominique Schnapper (Gallimard, 2000)
   – « La Citoyenneté au risque de la nationalité », de Dominique Colas, in « La Démocratie, France », de Marc Sadoun (Gallimard, 2000)
   – « La Démocratie au XXe siècle : Europe de l’Ouest et États-Unis », de Marie-Anne Matard-Bonucci (Atlande, 2000)

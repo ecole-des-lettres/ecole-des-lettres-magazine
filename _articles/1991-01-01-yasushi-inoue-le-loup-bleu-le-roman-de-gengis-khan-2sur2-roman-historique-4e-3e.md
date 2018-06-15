@@ -5,7 +5,7 @@ rubrique: 'Roman historique [4e-3e]'
 annee: '1991'
 magazine: 'n°9 15 mars 1992'
 pages: '6'
-description: |-
+description: 
   'Étude de quatre thèmes :
   1. Au cœur du continent eurasiatique, des contraintes naturelles extrêmes
   2. En marge des grands systèmes politico-religieux qui dominent le monde, des peuples qu’on appelle « barbares »

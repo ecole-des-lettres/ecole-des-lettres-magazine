@@ -5,7 +5,7 @@ rubrique: 'Latin [Tle]'
 annee: '1993'
 magazine: 'n°11 1er juin 1994'
 pages: '10'
-description: |-
+description: 
   'À propos de « vanus » dans Servius (in « Aen », 11, 715). Étude du récit du combat entre Camille et le fils d’Aunus dans l’« Énéide », 11, 699-717 et du passage correspondant du commentaire de Servius où est discutée la signification de l’adjectif « vanus » employé par Virgile au vers 715…
   1. Le problème de l’appareil pédagogique : titre, chapeau, traduction, notes, questions
   2. La conduite de l’étude et les résultats que l’on peut espérer

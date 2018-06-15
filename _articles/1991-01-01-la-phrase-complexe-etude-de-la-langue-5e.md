@@ -5,7 +5,7 @@ rubrique: 'Étude de la langue [5e]'
 annee: '1991'
 magazine: 'n°5 15 novembre 1991'
 pages: '3'
-description: |-
+description: 
   '– Essai de définition
   – Rappel de la notion de « mot » et notamment de « verbe »
   – Approche pédagogique

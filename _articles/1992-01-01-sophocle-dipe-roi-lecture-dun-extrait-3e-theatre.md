@@ -5,7 +5,7 @@ rubrique: 'Théâtre'
 annee: '1992'
 magazine: 'n°4 1er novembre 1992'
 pages: '4'
-description: |-
+description: 
   '– Lecture de la traduction
   – Repérages sur le texte grec
   – Analyse des tableaux obtenus'

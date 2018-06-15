@@ -5,7 +5,7 @@ rubrique: 'Commentaire composé [1re]'
 annee: '1998'
 magazine: 'n°3 15 septembre 1998'
 pages: '9'
-description: |-
+description: 
   'Sujet proposé au baccalauréat général (session de juin 1998).
   1. Analyse du sujet
   2. Corrigé des questions

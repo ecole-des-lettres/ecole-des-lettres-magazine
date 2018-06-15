@@ -6,7 +6,7 @@ rubrique: 'Littérature et débat d’idées. Argumentation et réécritures [1r
 annee: '2002'
 magazine: '2002'
 pages: '41'
-description: |-
+description: 
   'Le « Supplément au voyage de Bougainville » est une œuvre complexe et attachante, qui peut intéresser aussi bien le professeur de français de première que celui de « littérature » en terminale. Sa relative brièveté la rend abordable dans beaucoup de classes, d’autant que son étude permet de croiser trois objets d’étude du programme de première :
   – un mouvement littéraire et culturel français et européen du XVIe au XVIIIe siècle (les Lumières) ;
   – formes et fonctions de l’essai, du dialogue et de l’apologue ;

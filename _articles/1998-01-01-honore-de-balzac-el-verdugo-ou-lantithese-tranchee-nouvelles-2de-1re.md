@@ -5,7 +5,7 @@ rubrique: 'Nouvelles [2de-1re]'
 annee: '1998'
 magazine: 'n°13 1er mai 1999'
 pages: '16'
-description: |-
+description: 
   '1. Bases de lecture
   2. Situation du texte
   3. Lecture du conte

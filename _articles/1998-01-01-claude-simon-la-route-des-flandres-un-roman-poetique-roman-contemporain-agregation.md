@@ -5,7 +5,7 @@ rubrique: 'Roman contemporain [agrégation]'
 annee: '1998'
 magazine: 'n°10 1er février 1999'
 pages: '24'
-description: |-
+description: 
   'Les mystères du titre…
   1. Un récit poétique
   2. Un collage textuel

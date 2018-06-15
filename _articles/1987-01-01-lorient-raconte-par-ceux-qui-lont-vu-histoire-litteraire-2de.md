@@ -5,7 +5,7 @@ rubrique: 'Histoire littéraire [2de]'
 annee: '1987'
 magazine: 'n°12 15 avril 1988'
 pages: '12'
-description: |-
+description: 
   '1. Un genre, un acte, un lieu
   2. Les lieux
   – paysages naturels

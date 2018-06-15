@@ -6,7 +6,7 @@ rubrique: 'Roman [5e-4e]'
 annee: '2003'
 magazine: 'n°10 15 mars 2004'
 pages: '33'
-description: |-
+description: 
   'Cette séquence, fondée essentiellement sur une pédagogie de l’écriture, prend pour objet d’étude la scène romanesque. Celle-ci est un lieu de concentration dramatique, symbolique et esthétique fort. D’où l’intérêt d’en faire un objet d’apprentissage. Travailler sur une scène romanesque permet de dédramatiser l’écriture en montrant à chacun que l’imagination n’est pas une incontournable clé d’accès. Le récit se construira à partir d’une représentation du réel commune à chacun. Le dispositif mis en place repose sur trois grands mouvements :
   – écriture d’une scène de commérage par l’élève ;
   – étude d’un groupement de scènes romanesques extraites de romans afin de montrer une diversité de perspectives, de contextes, d’outils syntaxiques et lexicaux utilisés ;

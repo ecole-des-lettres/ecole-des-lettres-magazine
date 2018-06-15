@@ -5,7 +5,7 @@ rubrique: 'Étude de l'image [4e]'
 annee: '1997'
 magazine: 'n°11 15 mars 1998'
 pages: '4'
-description: |-
+description: 
   'On a souvent lu que l’image n’est pas la réalité, mais la représentation de la réalité au moyen de diverses techniques. Mais est-ce bien sûr ? Cette interrogation parcourt nombre de récits fantastiques. On trouvera dans cet article quelques références qui sont autant de pistes de lecture pour les enseignants désireux d’exploiter ce thème.
   1. Quelques classiques
   2. Variations sur le même thème et modernité

@@ -5,7 +5,7 @@ rubrique: 'Didactique des langues anciennes'
 annee: '1993'
 magazine: 'n°11 1er juin 1994'
 pages: '14'
-description: |-
+description: 
   'L’explication de texte telle qu’elle est demandée aux concours à partir d’un extrait des « Métamorphoses », d’Ovide : l’enlèvement d’Europe
   1. Lecture analytique
   2. Lecture synthétique

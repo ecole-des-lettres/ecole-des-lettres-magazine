@@ -5,7 +5,7 @@ rubrique: 'Théâtre [4e]'
 annee: '1997'
 magazine: 'n°10 15 février 1998'
 pages: '30'
-description: |-
+description: 
   '1. Introduction à la pièce et au monde théâtral
   – approche visuelle
   – travail préparatoire

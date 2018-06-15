@@ -5,7 +5,7 @@ rubrique: 'L’argumentation [1re]'
 annee: '1990'
 magazine: 'n°6 15 décembre 1990'
 pages: '12'
-description: |-
+description: 
   'Six textes illustrent la problématique :
   – « Apologie de Raymond Sebond », tirée des « Essais », de Montaigne
   – un extrait du livre 1 de « Dissertation en forme de paradoxe contre les aristotéliciens », de Gassendi

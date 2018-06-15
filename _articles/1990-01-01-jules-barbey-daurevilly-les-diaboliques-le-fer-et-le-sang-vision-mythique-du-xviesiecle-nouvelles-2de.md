@@ -6,7 +6,7 @@ rubrique: 'Nouvelles [2de]'
 annee: '1990'
 magazine: 'n°7 15 janvier 1991'
 pages: '6'
-description: |-
+description: 
   '1. Quel XVIe siècle ?
   2. Un réseau emblématique
   3. Construction du mythe : « L’âpre saveur de la vie »

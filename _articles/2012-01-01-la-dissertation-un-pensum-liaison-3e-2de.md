@@ -5,7 +5,7 @@ rubrique: 'Liaison [3e-2de]'
 annee: '2012'
 magazine: 'n°1 2012-2013'
 pages: '6'
-description: |-
+description: 
   'Tout se passe comme si la mémoire collective inscrivait l’exercice de la dissertation dans la lignée de rites initiatiques éprouvants.
   Que faire quand un élève habituellement capable de réflexion organisée se montre soudain désemparé ?  La situation mérite que l’on s’y intéresse car il ne s’agit pas seulement d’un exercice
   scolaire manqué mais d’un sournois et destructeur sentiment d’incompétence qui pointe le bout de son nez…'

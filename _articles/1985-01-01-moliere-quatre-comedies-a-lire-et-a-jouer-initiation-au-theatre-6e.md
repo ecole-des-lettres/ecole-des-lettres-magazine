@@ -5,7 +5,7 @@ rubrique: 'Initiation au théâtre [6e]'
 annee: '1985'
 magazine: 'n°12 15 avril 1986'
 pages: '18'
-description: |-
+description: 
   '« Quatre comédies à lire et à jouer » (l’école des loisirs) incluant « La Jalousie du barbouillé », « Le Médecin volant », « Le Mariage forcé », et « La Comtesse d’Escarbagnas ».
   1. Présentation des œuvres
   2. Historique des quatre comédies

@@ -6,7 +6,7 @@ rubrique: 'Roman [agrégation]'
 annee: '1994'
 magazine: 'n°4 15 novembre 1994'
 pages: '11'
-description: |-
+description: 
   '1. « Télémaque » dans les programmes
   2. « Télémaque » dans les recueils de morceaux choisis
   3. « Télémaque » dans les histoires de la littérature

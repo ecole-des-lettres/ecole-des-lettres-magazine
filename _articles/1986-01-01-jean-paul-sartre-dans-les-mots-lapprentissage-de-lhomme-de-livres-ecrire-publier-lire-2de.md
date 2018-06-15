@@ -5,7 +5,7 @@ rubrique: 'Écrire, publier, lire [2de]'
 annee: '1986'
 magazine: 'n°11 15 mars 1987'
 pages: '10'
-description: |-
+description: 
   '1. L’approche du livre
   2. L’usage du livre
   3. Le domicile du livre

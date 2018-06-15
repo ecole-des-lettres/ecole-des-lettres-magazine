@@ -5,7 +5,7 @@ rubrique: ''
 annee: '2003'
 magazine: 'n°5 1er novembre 2003'
 pages: '16'
-description: |-
+description: 
   '1. La vie de Jean Giono
   – origines
   – enfance et adolescence

@@ -5,7 +5,7 @@ rubrique: 'Littérature épistolaire [classes préparatoires et concours]'
 annee: '1995'
 magazine: 'n°8 15 mars 1996'
 pages: '20'
-description: |-
+description: 
   '1. Liaison de plaisir ou roman désastreux ?
   2. Le sacrifice de la tranquillité
   3. Trop charnel pour être délicat

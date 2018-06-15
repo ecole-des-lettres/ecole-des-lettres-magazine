@@ -6,7 +6,7 @@ rubrique: 'Poésie [1re]'
 annee: '1998'
 magazine: 'n°9 15 janvier 1999'
 pages: '18'
-description: |-
+description: 
   'Les représentations du poète dans  « Les Châtiments »
   1. L’« aile » et le « front »
   2. Du « rêveur » au lutteur

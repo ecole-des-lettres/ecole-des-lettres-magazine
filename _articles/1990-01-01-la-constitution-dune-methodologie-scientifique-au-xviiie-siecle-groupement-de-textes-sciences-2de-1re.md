@@ -6,7 +6,7 @@ rubrique: 'Sciences [2de-1re]'
 annee: '1990'
 magazine: 'n°13 15 juin 1991'
 pages: '62'
-description: |-
+description: 
   'Il peut être intéressant d’aborder la littérature du XVIIIe siècle en insistant sur les liens qui unissaient littérature et sciences. Cet article (qui compose tout le numéro) propose un groupement thématique de textes  autour de la constitution d’une méthodologie scientifique au siècle des Lumières…
   1. L’engouement du public mondain pour la « physique »
   2. L’élaboration d’une méthode scientifique

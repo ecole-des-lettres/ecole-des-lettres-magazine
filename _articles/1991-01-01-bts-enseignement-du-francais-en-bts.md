@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1991'
 magazine: 'n°14 1er juillet 1992'
 pages: 118 pages
-description: |-
+description: 
   '1. Enjeux et aspects institutionnels 
   – le bulletin officiel
   – horaires et coefficients

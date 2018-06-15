@@ -6,7 +6,7 @@ rubrique: 'Pierre Corneille'
 annee: '2001'
 magazine: 'n°9 1er février 2002'
 pages: '18'
-description: |-
+description: 
   '1. La dette : le visage
   2. Le don : l’épée
   3. L’échange

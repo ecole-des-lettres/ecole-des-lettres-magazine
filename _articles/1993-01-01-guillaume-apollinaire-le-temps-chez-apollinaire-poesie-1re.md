@@ -5,7 +5,7 @@ rubrique: 'Poésie [1re]'
 annee: '1993'
 magazine: 'n°6 1er janvier 1994'
 pages: '12'
-description: |-
+description: 
   '1. Le temps subi
   2. Le temps maîtrisé
   L’article est suivi d’une bibliographie.'

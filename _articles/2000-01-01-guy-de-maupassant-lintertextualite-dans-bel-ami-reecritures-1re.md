@@ -5,7 +5,7 @@ rubrique: 'Réécritures [1re]'
 annee: '2000'
 magazine: 'n°8 1er janvier 2001'
 pages: '9'
-description: |-
+description: 
   'Le topos de l’entrée dans le monde de Balzac à Maupassant
   1. Un topos romanesque
   2. Une autre écriture

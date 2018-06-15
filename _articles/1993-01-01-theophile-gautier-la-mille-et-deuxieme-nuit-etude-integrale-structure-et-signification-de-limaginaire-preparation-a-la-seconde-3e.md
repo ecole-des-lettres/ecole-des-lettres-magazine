@@ -6,7 +6,7 @@ rubrique: 'Préparation à la seconde [3e]'
 annee: '1993'
 magazine: 'n°9 15 mars 1994'
 pages: '24'
-description: |-
+description: 
   '1. Les étapes de l’itinéraire
   – l’appel : éléments préparatoires ; les circonstances : le regard ; la drogue ; le délire de l’imagination; le théâtre ; le guide
   – le seuil : le rêve ou la veille ? ; l’éclipse de la conscience et du réel ; l’hallucination ; la métamorphose ; l’expérience du double ; l’extase

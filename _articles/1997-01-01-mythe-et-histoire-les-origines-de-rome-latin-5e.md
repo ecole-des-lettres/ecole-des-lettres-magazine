@@ -5,7 +5,7 @@ rubrique: 'Latin [5e]'
 annee: '1997'
 magazine: 'n°4 15 octobre 1997'
 pages: '12'
-description: |-
+description: 
   'Cette étude sélectionne quatre textes pour servir de support à une étude des origines de Rome : les trois premiers sont de Tite-Live, le dernier de Velleius Paterculus. Les nombreuses coupures effectuées entraînent parfois des modifications grammaticales et lexicales. La traduction s’efforce d’être littérale pour faciliter le travail des élèves, et les exercices proposés privilégient l’étude de la civilisation.
   1. L’arrivée d’Énée dans le Latium : extrait de l’« Histoire romaine » de Tite-Live
   2. La naissance de Romulus et Remus : extrait de l’« Histoire romaine » de Tite-Live

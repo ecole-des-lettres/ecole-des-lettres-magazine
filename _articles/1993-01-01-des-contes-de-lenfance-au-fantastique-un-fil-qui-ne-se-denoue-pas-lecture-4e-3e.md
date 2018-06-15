@@ -5,7 +5,7 @@ rubrique: 'Lecture [4e-3e]'
 annee: '1993'
 magazine: 'n°12-13 1er juin 1994'
 pages: '6'
-description: |-
+description: 
   '– Qu’est-ce que le fantastique ?
   – Les thèmes du fantastique et les genres voisins
   – Du conte au fantastique

@@ -5,7 +5,7 @@ rubrique: 'Autobiographie [1re]'
 annee: '1985'
 magazine: 'n°11 15 mars 1986'
 pages: '6'
-description: |-
+description: 
   '1. L’ennui, c’est les autres
   2. Quelle passion ?
   3. Écrire le moi

@@ -6,7 +6,7 @@ rubrique: 'Grands modèles littéraires [Tle]'
 annee: '1995'
 magazine: 'n°6 15 janvier 1996'
 pages: '8'
-description: |-
+description: 
   'Commentaire composé des vers 3485 à 3533 du « Conte du Graal »…
   Au sortir du château du Graal, Perceval est surpris de constater que l’endroit est désert, mais il est loin de soupçonner qu’il y a subi un échec. C’est pourquoi la rencontre avec sa cousine germaine est déterminante. Un dialogue dramatique se noue entre les deux personnages, au cours duquel l’auteur propose un récit rétrospectif de la scène du cortège. La conversation témoigne enfin de l’évolution de Perceval, qui prend conscience de sa personnalité et de sa responsabilité.'
 article_pdf: '2100.pdf'

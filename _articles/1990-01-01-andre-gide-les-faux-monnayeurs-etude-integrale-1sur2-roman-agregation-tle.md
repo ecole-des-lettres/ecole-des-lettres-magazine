@@ -5,7 +5,7 @@ rubrique: 'Roman [agrégation-Tle]'
 annee: '1990'
 magazine: 'n°10 15 mars 1991'
 pages: '22'
-description: |-
+description: 
   '1. Gide et la crise du roman. La quête du roman pur
   2. Gide et les problèmes de la narration. La vision de biais'
 article_pdf: '168.pdf'

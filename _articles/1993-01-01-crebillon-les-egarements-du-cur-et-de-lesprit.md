@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1993'
 magazine: 'n°6 1er janvier 1994'
 pages: 70 pages
-description: |-
+description: 
   '1. Crébillon : « Les Égarements du cœur et de l’esprit »
   2. Crébillon moraliste
   3. La fortune littéraire des « Égarements du cœur et de l’esprit »'

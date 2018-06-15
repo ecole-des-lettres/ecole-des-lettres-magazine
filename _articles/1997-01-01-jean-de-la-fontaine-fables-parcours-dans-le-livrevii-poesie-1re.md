@@ -5,7 +5,7 @@ rubrique: 'Poésie [1re]'
 annee: '1997'
 magazine: 'n°2 15 septembre 1997'
 pages: '10'
-description: |-
+description: 
   'L’expression du désir dans l’écriture de La Fontaine…
   1. Le désir, un esclavage ?
   2. Le désir comme clé de la jouissance du présent

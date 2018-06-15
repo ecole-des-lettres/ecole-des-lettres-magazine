@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et roman historique [4e]'
 annee: '1994'
 magazine: 'n°9 15 mars 1995'
 pages: '6'
-description: |-
+description: 
   'Le contexte historique du roman de Mark Salzman…
   1. Étude chronologique (1911-1956) : l’« avant Sheng-hui »
   – acte 1 : 1911

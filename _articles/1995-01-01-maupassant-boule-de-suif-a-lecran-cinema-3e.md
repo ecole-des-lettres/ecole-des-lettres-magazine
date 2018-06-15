@@ -5,7 +5,7 @@ rubrique: 'Cinéma [3e]'
 annee: '1995'
 magazine: 'n°9 1er avril 1996'
 pages: '8'
-description: |-
+description: 
   'Proposition d’étude interdisciplinaire (français, histoire) en troisième : analyse du film tiré de la nouvelle de Maupassant par Christian-Jaque en 1945.
   1. Maupassant au cinéma
   2. Éléments de construction : l’enchâssement

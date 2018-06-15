@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1991'
 magazine: 'n°13 15 juin 1992'
 pages: 102 pages
-description: |-
+description: 
   '1. Deux entrées dans l’œuvre de fiction de Guillaume Apollinaire
   2. Lire les titres des contes de Guillaume Apollinaire
   3. La mise en « je » dans les contes de Guillaume Apollinaire

@@ -5,7 +5,7 @@ rubrique: 'L’argumentation [1re]'
 annee: '2001'
 magazine: 'n°12 15 avril 2002'
 pages: '7'
-description: |-
+description: 
   'Proposition de corrigé fourni par le MEN sur :
   Convaincre, persuader et délibérer (fables)
   Textes retenus :

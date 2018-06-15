@@ -5,7 +5,7 @@ rubrique: 'Poésie [5e]'
 annee: '1991'
 magazine: 'n°8 15 février 1992'
 pages: '8'
-description: |-
+description: 
   '– Marie de France
   – Le genre du lai
   – Le lai du chèvrefeuille

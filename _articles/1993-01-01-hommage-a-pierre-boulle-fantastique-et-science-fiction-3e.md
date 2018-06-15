@@ -5,7 +5,7 @@ rubrique: 'Fantastique et science-fiction [3e]'
 annee: '1993'
 magazine: 'n°10 1er avril 1994'
 pages: '6'
-description: |-
+description: 
   'Interview d’un écrivain un peu en marge du monde littéraire décédé le 1er février 1994. Son nom est surtout connu par les adaptations cinématographiques qui ont été faites du « Pont de la rivière Kwaï » et de « La Planète des singes »…
   – L’ombre du « Pont » et de la « Planète »
   – Une extrême discrétion

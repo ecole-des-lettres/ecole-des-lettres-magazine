@@ -5,7 +5,7 @@ rubrique: 'Nouvelles [2de]'
 annee: '1990'
 magazine: 'n°1 15 septembre 1990'
 pages: '14'
-description: |-
+description: 
   '1. « Pierrot »
   – Un récit cocasse
   – Un conte noir

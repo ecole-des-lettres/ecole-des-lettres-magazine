@@ -5,7 +5,7 @@ rubrique: 'Oral [5e-3e]'
 annee: '2001'
 magazine: '2001'
 pages: '20'
-description: |-
+description: 
   '1. De la réalité des pratiques aux exigences des programmes
   2. Caractéristiques de l’oral
   Tableau permettant d’élaborer une progression en classe de cinquième.

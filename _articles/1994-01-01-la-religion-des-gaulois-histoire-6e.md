@@ -5,7 +5,7 @@ rubrique: 'Histoire [6e]'
 annee: '1994'
 magazine: 'n°11 15 mai 1995'
 pages: '15'
-description: |-
+description: 
   '1. « Mystère gaulois » : les difficultés d’une approche
   – les Gaulois sont avant tout des Celtes
   – éléments d’une religion disparue

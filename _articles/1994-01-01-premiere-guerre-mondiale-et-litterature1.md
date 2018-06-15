@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1994'
 magazine: 'n°14 1er juillet 1995'
 pages: 172 pages
-description: |-
+description: 
   '1. Guerre et littérature
   2. Une littérature de guerre
   3. Prix littéraires et récits de guerre

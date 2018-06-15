@@ -5,7 +5,7 @@ rubrique: 'Poésie [classes préparatoire, concours]'
 annee: '1995'
 magazine: 'n°14 juillet 1996'
 pages: '27'
-description: |-
+description: 
   '1. « Les Loups », 1867
   – Verlaine républicain
   – « Les Loups » : un poème symbolique ?

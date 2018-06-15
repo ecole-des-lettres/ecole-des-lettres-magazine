@@ -5,7 +5,7 @@ rubrique: 'Antiquité et textes fondateurs [6e] '
 annee: '1990'
 magazine: 'n°4 1er novembre 1990'
 pages: '6'
-description: |-
+description: 
   'Une lecture dirigée de « L’Iliade » dans la collection « Classiques abrégés » (l’école des loisirs)…
   Thèmes de recherche :
   – les représentations et rites de la mort

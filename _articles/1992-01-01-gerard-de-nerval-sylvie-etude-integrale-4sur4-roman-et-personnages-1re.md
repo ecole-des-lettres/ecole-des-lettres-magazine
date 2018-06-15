@@ -5,7 +5,7 @@ rubrique: 'Roman et personnages [1re]'
 annee: '1992'
 magazine: 'n°12 15 mai 1993'
 pages: '14'
-description: |-
+description: 
   'L’espace et le temps dans « Sylvie »…
   1. Généralités
   2. Particularités de « Sylvie »

@@ -5,7 +5,7 @@ rubrique: 'Littérature/histoire [1re-Tle]'
 annee: '2002'
 magazine: '2002'
 pages: '30'
-description: |-
+description: 
   '3. Un livre sur le pouvoir d’écrire
   – le chapitre central sur la « Lettre sur le pouvoir d’écrire », de Claude-Edmonde Magny
   – le recours à l’artifice, « passeur » d’inimaginable

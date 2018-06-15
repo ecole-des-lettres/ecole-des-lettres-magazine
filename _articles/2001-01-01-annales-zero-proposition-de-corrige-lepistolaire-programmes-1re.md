@@ -5,7 +5,7 @@ rubrique: 'Programmes [1re]'
 annee: '2001'
 magazine: 'n°14 juin 2002'
 pages: '9'
-description: |-
+description: 
   'Corrigé d’un sujet fourni par le MEN sur le genre épistolaire.
   Textes retenus :
   – les « Lettres portugaises », de Guilleragues

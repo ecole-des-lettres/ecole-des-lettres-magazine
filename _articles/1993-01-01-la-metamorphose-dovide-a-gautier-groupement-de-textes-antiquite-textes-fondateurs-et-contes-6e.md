@@ -5,7 +5,7 @@ rubrique: 'Antiquité, textes fondateurs et contes [6e]'
 annee: '1993'
 magazine: 'n°9 15 mars 1994'
 pages: '12'
-description: |-
+description: 
   '1. Récits et poèmes mythologiques
   – Ovide : « Les Métamorphoses » : la transformation d’Ulysse et de ses compagnons en pourceaux par Circé ; la transformation par Pallas d’Arachné, la fileuse, en araignée suspendue à un fil et tissant sa toile ; la transformation de Midas en âne
   2. Contes merveilleux

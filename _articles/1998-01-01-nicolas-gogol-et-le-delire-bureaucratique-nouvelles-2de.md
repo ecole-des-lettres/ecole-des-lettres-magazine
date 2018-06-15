@@ -5,7 +5,7 @@ rubrique: 'Nouvelles [2de]'
 annee: '1998'
 magazine: 'n°4 1er octobre 1998'
 pages: '15'
-description: |-
+description: 
   'La bureaucratie a connu au XXe siècle de tels développements et de telles conséquences que l’œuvre de Gogol semble préfigurer ses délires.
   1. Motifs bureaucratiques
   – apparences

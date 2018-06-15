@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1993'
 magazine: 'n°12-13 1er juin 1994'
 pages: 224 pages
-description: |-
+description: 
   '– Introduction.
   – Pourquoi les adolescents devraient-ils lire ?
   – Lectures modèles/modèles de lecture.

@@ -5,7 +5,7 @@ rubrique: 'BTS'
 annee: '1991'
 magazine: 'n°14 1er juillet 1992'
 pages: '6'
-description: |-
+description: 
   '1. La définition de l’épreuve dans les instructions officielles (BOEN du 25 mai 1989)
   2. Propositions pour une démarche d’apprentissage
   3. Quels sont les critères d’évaluation d’un devoir de synthèse ?'

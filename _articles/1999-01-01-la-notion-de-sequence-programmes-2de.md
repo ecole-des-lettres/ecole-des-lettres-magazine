@@ -5,7 +5,7 @@ rubrique: 'Programmes [2de]'
 annee: '1999'
 magazine: 'n°7 1er décembre 1999'
 pages: '8'
-description: |-
+description: 
   '1. La séquence
   – « un ensemble limité de séances » ?
   – pourquoi limiter le nombre de séances ?

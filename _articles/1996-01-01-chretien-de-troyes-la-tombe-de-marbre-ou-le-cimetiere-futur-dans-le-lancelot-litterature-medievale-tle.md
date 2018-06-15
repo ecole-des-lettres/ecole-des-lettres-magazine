@@ -5,7 +5,7 @@ rubrique: 'Littérature médiévale [Tle]'
 annee: '1996'
 magazine: 'n°10 1er mars 1997'
 pages: '9'
-description: |-
+description: 
   'Étude littéraire des vers 1829 à 2013
   1. Situation
   2. Structure narrative du passage

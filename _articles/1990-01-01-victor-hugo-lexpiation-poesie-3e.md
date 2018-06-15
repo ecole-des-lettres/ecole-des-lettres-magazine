@@ -5,7 +5,7 @@ rubrique: 'Poésie [3e]'
 annee: '1990'
 magazine: 'n°14 15 juin 1991'
 pages: '5'
-description: |-
+description: 
   'Comment une réalité dramatique historique devient une épopée grâce à la transposition effectuée par le poète…
   1. Aspect du texte
   2. Les personnages : le locuteur, les soldats, Napoléon

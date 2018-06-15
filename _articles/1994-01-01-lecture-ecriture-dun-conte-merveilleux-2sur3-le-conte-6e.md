@@ -5,7 +5,7 @@ rubrique: 'Le conte [6e]'
 annee: '1994'
 magazine: 'n°2 1er octobre 1994'
 pages: '9'
-description: |-
+description: 
   '– le vocabulaire du conte : l’évocation ; listage des représentations ; bilan des représentations ; utilisation des représentations ; réinvestissement
   – « Les Trois Cheveux d’or du diable » : travail individuel
   – écrire une situation finale de conte

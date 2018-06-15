@@ -5,7 +5,7 @@ rubrique: 'Étude de la langue [5e-4e]'
 annee: '1991'
 magazine: 'n°2 1er octobre 1991'
 pages: '2'
-description: |-
+description: 
   'Emploi des préfixes à valeur d’intensité.
   L’article est suivi d’exercices.'
 article_pdf: '575.pdf'

@@ -5,7 +5,7 @@ rubrique: 'Histoire littéraire [2de] '
 annee: '1987'
 magazine: 'n°12 15 avril 1988'
 pages: '16'
-description: |-
+description: 
   '1. La tentation de l’Orient, pourquoi ?
   2. L’âme orientale
   3. L’art

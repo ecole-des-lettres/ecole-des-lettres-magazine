@@ -5,7 +5,7 @@ rubrique: 'Nouvelle [2de]'
 annee: '1993'
 magazine: 'n°12 15 juin 1994'
 pages: '10'
-description: |-
+description: 
   'Étude d’un cas de névrose…
   1. Les deux discours
   – la plaidoirie

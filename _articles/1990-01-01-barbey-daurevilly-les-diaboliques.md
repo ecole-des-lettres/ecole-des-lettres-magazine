@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1990'
 magazine: 'n°7 15 janvier 1991'
 pages: 150 pages
-description: |-
+description: 
   '1. « Les Diaboliques » ou la communion des pécheurs
   2. Réalisme et fantastique
   3. Je, tu, il : parole et silence dans « Les Diaboliques »

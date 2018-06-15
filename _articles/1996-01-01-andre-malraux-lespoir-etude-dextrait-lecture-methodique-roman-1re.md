@@ -5,7 +5,7 @@ rubrique: 'Roman [1re]'
 annee: '1996'
 magazine: 'n°6 15 décembre 1996'
 pages: '7'
-description: |-
+description: 
   'Le survol de Badajoz
   1. Qui voit ? Étude du point de vue
   2. Structures de la représentation

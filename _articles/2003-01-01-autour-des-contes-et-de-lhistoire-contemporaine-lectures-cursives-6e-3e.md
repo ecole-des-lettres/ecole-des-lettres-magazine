@@ -5,7 +5,7 @@ rubrique: 'Lectures cursives [6e-3e]'
 annee: '2003'
 magazine: 'n°1 juillet-septembre 2003'
 pages: '4'
-description: |-
+description: 
   'Un article qui propose de lire contes ou extraits de romans aux élèves de la sixième à la troisième.
   – « Et puis on est partis. Un émigrant raconte », de Serge Hochain et Philippe Brochard
   – Collection « Contes » (l’école des loisirs)

@@ -5,7 +5,7 @@ rubrique: 'Histoire littéraire [1re]'
 annee: '1992'
 magazine: 'n°14 15 juin 1993'
 pages: '46'
-description: |-
+description: 
   'Expérience et utopie voltairiennes du despotisme éclairé…
   4. Commentaire composé d’un extrait de la première lettre de Voltaire à Frédéric de Prusse
   – les flatteries du courtisan

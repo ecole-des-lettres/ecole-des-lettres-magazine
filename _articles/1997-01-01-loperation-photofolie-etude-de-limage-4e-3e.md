@@ -5,7 +5,7 @@ rubrique: 'Étude de l’image [4e-3e]'
 annee: '1997'
 magazine: 'n°11 15 mars 1998'
 pages: '13'
-description: |-
+description: 
   'Compte rendu d’une opération proposée par le Centre national de la photographie à destination du public scolaire…
   1. Particularités de Photofolie
   2. Lire des photographies

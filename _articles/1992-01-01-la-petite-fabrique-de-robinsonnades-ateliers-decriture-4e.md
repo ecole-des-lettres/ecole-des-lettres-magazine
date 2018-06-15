@@ -5,7 +5,7 @@ rubrique: 'Ateliers d'écriture [4e]'
 annee: '1992'
 magazine: 'n°9 1er mars 1993'
 pages: '10'
-description: |-
+description: 
   'Un jeu d’écriture inspiré du « Tarot des mille et un contes », publié aux éditions de l’École. Le but : écrire une robinsonnade en s’aidant d’un jeu de cartes reprenant les éléments qui constituent traditionnellement le récit d’aventures sur une île…
   1. Principes du jeu d’écriture
   – écrire avec des cartes

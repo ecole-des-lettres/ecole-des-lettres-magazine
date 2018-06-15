@@ -6,7 +6,7 @@ rubrique: 'Roman contemporain [1re-Tle]'
 annee: '1997'
 magazine: 'n°6 15 novembre 1997'
 pages: '12'
-description: |-
+description: 
   'Des pages destinées aux élèves ayant déjà fait une première lecture de « La Chute »…
   1. Bonheur et conscience
   – chute biblique contre bonheur terrestre

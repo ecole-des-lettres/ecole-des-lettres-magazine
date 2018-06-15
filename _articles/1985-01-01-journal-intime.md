@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1985'
 magazine: 'n°11 15 mars 1986'
 pages: 146 pages
-description: |-
+description: 
   '1. Le journal, miroir de la création, de la critique, de la réflexion philosophique 
   – le « Journal », d’André Gide 
   – le « Journal », de Charles Du Bos 

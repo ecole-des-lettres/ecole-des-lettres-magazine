@@ -5,7 +5,7 @@ rubrique: 'Oral [6e-3e]'
 annee: '1999'
 magazine: 'n°5 15 octobre 1999'
 pages: '8'
-description: |-
+description: 
   'Présentation de quatre ouvrages de littérature jeunesse permettant de travailler l’expression orale :
   – « Léon », de Leon Walter Tillage
   – « La Menace fantôme », de Patricia C. Wrede

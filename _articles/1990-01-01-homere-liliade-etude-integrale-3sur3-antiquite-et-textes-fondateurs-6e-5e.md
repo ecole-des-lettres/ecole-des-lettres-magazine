@@ -5,7 +5,7 @@ rubrique: 'Antiquité et textes fondateurs [6e-5e]'
 annee: '1990'
 magazine: 'n°5 15 novembre 1990'
 pages: '6'
-description: |-
+description: 
   'Une lecture dirigée de « L’Iliade » dans la collection « Classiques abrégés » (l’école des loisirs).
   Étude littéraire thématique autour d’un groupement de textes sur la guerre :
   – « La Chanson de Roland »

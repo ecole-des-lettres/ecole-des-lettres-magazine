@@ -5,7 +5,7 @@ rubrique: 'Histoire [5e] '
 annee: '1990'
 magazine: 'n°3 15 octobre 1990'
 pages: '6'
-description: |-
+description: 
   'Étude d’un extrait de l’ouvrage de Pierre Goubert, « Louis XIV et 20 millions de Français »…
   1. Lecture et explication des mots difficiles
   2. Nature et sources du texte

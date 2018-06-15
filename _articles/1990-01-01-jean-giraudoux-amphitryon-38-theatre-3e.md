@@ -5,7 +5,7 @@ rubrique: 'Théâtre [3e]'
 annee: '1990'
 magazine: 'n°11 1er mai 1991'
 pages: '12'
-description: |-
+description: 
   '– « Amphitryon 38 » dans la carrière de Giraudoux
   – Schéma de la pièce
   – Originalité(s) de Giraudoux : une « Alcmène » après tant d’« Amphitryons », effacement de Sosie, une action remaniée et simplifiée

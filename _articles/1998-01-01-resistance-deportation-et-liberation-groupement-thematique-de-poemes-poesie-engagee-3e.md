@@ -5,7 +5,7 @@ rubrique: 'Poésie engagée [3e]'
 annee: '1998'
 magazine: 'n°11 15 mars 1999'
 pages: '38'
-description: |-
+description: 
   'Parmi les lectures préconisées dans les programmes de troisième, figure la poésie engagée. Dans cette perspective, il a paru intéressant d’étudier des poèmes écrits pendant ou après la Seconde Guerre mondiale. Outre le lien que l’on peut établir avec le programme d’histoire, cette étude permet de travailler sur les formes poétiques sans négliger la portée politique de ces textes.
   Groupement de textes :
   – « Demain », de Robert Desnos

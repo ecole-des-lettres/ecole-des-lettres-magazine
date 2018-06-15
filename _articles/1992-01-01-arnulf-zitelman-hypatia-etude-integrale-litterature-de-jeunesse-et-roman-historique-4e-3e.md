@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et roman historique [4e-3e]'
 annee: '1992'
 magazine: 'n°10 15 mars 1993'
 pages: '16'
-description: |-
+description: 
   'Approche du monde antique à partir de l’étude d’un roman racontant la vie d’une femme philosophe et mathématicienne enseignant à l’université d’Alexandrie au 5e siècle…
   1. Introduction
   – présentation du roman

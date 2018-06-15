@@ -5,7 +5,7 @@ rubrique: 'Autobiographie et journal [1re]'
 annee: '1994'
 magazine: 'n°6 15 janvier 1995'
 pages: '11'
-description: |-
+description: 
   'Se plonger dans un volume du « Journal » de Charles Juliet, c’est vérifier une évidence : cet écrivain entretient avec la littérature des rapports qui s’accordent parfaitement (et presque exclusivement) au genre du « journal ».
   1. « La perfection doit naître de la conciliation des contraires »
   2. « Tout mon temps donné à l’amitié »

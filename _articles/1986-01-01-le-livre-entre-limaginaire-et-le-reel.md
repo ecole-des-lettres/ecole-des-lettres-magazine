@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1986'
 magazine: 'n°11 15 mars 1987'
 pages: 114 pages
-description: |-
+description: 
   '1. Victor Hugo : de la bible de pierre à la bible de papier
   2. Représentations du livre : livre et liberté 
   – livre, texte, lecture, littérature chez Paul Valéry et Roland Barthes 

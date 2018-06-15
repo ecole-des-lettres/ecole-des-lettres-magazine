@@ -5,7 +5,7 @@ rubrique: 'Émile Zola : « La Bête humaine »'
 annee: '1989'
 magazine: 'n°6 15 décembre 1989'
 pages: '14'
-description: |-
+description: 
   '1. L’ordre
   2. L’ère industrielle
   3. L’espace

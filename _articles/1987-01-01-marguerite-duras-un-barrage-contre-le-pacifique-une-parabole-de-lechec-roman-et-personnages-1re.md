@@ -5,7 +5,7 @@ rubrique: 'Roman et personnages [1re]'
 annee: '1987'
 magazine: 'n°6 1er décembre 1987'
 pages: '14'
-description: |-
+description: 
   '1. La narration
   – le sujet
   - la construction

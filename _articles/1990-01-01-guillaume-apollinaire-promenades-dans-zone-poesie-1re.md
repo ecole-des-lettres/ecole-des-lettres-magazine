@@ -5,7 +5,7 @@ rubrique: 'Poésie [1re]'
 annee: '1990'
 magazine: 'n°5 15 novembre 1990'
 pages: '6'
-description: |-
+description: 
   'Étude du poème d’Apollinaire…
   1. Problèmes de structure
   – Histoire d’une transfiguration manquée

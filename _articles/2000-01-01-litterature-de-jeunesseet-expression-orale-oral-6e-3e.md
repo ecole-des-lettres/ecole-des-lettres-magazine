@@ -5,7 +5,7 @@ rubrique: 'Oral [6e-3e]'
 annee: '2000'
 magazine: 'n°5 15 octobre 2000'
 pages: '6'
-description: |-
+description: 
   'Présentation de trois ouvrages de littérature jeunesse permettant de travailler l’expression orale :
   – « Pour l’amour d’un cheval », d’Alim Hekmat
   – « La Longue Marche des dindes »,  de Kathleen Karr

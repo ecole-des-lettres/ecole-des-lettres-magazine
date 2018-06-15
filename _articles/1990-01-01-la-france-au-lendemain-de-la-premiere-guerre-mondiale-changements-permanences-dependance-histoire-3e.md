@@ -6,7 +6,7 @@ rubrique: 'Histoire  [3e]'
 annee: '1990'
 magazine: 'n°1 15 septembre 1990'
 pages: '6'
-description: |-
+description: 
   'Objectif : faire acquérir un vocabulaire politique et économique, faire percevoir la complexité d’une situation historique…
   1. La France victorieuse
   2. Tensions sociales et politiques : poussée du mouvement ouvrier et création du parti communiste

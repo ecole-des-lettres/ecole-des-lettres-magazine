@@ -5,7 +5,7 @@ rubrique: 'Poésie [1re]'
 annee: '1993'
 magazine: 'n°10 15 avril 1994'
 pages: '6'
-description: |-
+description: 
   'Présentation et étude de l’œuvre poétique de Louis-René des Forêts (1918-2001) : mise en scène des rapports de l’être et du langage, poésie de l’échec…
   L’article est suivi d’une bibliographie.'
 article_pdf: '1126.pdf'

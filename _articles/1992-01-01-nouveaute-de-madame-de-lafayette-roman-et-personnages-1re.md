@@ -5,7 +5,7 @@ rubrique: 'Roman et personnages [1re]'
 annee: '1992'
 magazine: 'n°2 1er octobre 1992'
 pages: '11'
-description: |-
+description: 
   'Présentation de « La Princesse de Montpensier » et de « La Princesse de Clèves »…
   1. La naissance du « nouveau roman »
   – ruptures et abandon

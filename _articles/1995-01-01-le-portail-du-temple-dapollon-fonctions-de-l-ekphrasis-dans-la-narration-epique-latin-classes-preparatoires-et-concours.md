@@ -6,7 +6,7 @@ rubrique: 'Latin  [classes préparatoires et concours]'
 annee: '1995'
 magazine: 'n°4 15 novembre 1995'
 pages: '10'
-description: |-
+description: 
   '1. Les origines rhétoriques de l’« ekphrasis »
   2. Tendances narcissiques de la description
   3. L’« ekphrasis » programmatique du temple d’Apollon

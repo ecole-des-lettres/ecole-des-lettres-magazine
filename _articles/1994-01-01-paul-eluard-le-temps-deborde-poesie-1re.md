@@ -5,7 +5,7 @@ rubrique: 'Poésie [1re]'
 annee: '1994'
 magazine: 'n°5 15 décembre 1994'
 pages: '6'
-description: |-
+description: 
   'Lecture méthodique du poème « Notre vie »
   1. Préparation
   2. Séance en classe 

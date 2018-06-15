@@ -5,7 +5,7 @@ rubrique: 'Histoire des arts [1re]'
 annee: '1993'
 magazine: 'n°2 1er octobre 1993'
 pages: '18'
-description: |-
+description: 
   '– L’atelier et le travail du temps
   – L’existence et le temps du travail
   – Les choses de l’art

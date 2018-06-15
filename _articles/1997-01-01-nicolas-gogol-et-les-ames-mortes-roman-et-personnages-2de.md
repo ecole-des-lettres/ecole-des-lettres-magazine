@@ -5,7 +5,7 @@ rubrique: 'Roman et personnages [2de]'
 annee: '1997'
 magazine: 'juin 1998'
 pages: '15'
-description: |-
+description: 
   '1. « Les Âmes mortes » : poème ?
   2. L’œuvre de Gogol
   3. L’histoire des « Âmes mortes »

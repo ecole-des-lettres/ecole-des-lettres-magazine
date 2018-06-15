@@ -5,7 +5,7 @@ rubrique: 'Littérature médiévale [5e]'
 annee: '1991'
 magazine: 'n°8 15 février 1992'
 pages: '32'
-description: |-
+description: 
   'Étude de l’adaptation de René Louis
   Objectif : favoriser l’accès à une légende qui fait référence dans de nombreuses œuvres artistiques ou littéraires
   – Séance préparatoire

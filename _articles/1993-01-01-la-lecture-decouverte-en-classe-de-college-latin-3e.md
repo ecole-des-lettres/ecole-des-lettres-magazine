@@ -5,7 +5,7 @@ rubrique: 'Latin [3e]'
 annee: '1993'
 magazine: 'n°11 1er juin 1994'
 pages: '4'
-description: |-
+description: 
   'Étude d’un texte tiré des « Métamorphoses » d’Ovide et permettant, par le truchement d’un texte simplifié, une approche de la littérature latine accessible à une classe de troisième…
   1. Traduction du texte
   2. Explication du texte

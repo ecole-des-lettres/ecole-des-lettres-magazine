@@ -5,7 +5,7 @@ rubrique: 'Latin [5e] '
 annee: '1991'
 magazine: 'n°1 15 septembre 1991'
 pages: '4'
-description: |-
+description: 
   '– Mythologie et astrologie
   – Astrologie et magie
   – La mode des astrologues à Rome'

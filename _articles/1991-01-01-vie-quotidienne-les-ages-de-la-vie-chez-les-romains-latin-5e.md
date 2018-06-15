@@ -5,7 +5,7 @@ rubrique: 'Latin [5e]'
 annee: '1991'
 magazine: 'n°12-13 1er juin 1992'
 pages: '6'
-description: |-
+description: 
   '1. Le système des âges d’après Isidore de Séville
   2. Le système des âges chez les Romains
   3. Recherches étymologiques

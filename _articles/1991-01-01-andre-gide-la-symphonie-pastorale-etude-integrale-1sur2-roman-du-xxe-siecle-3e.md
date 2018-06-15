@@ -5,7 +5,7 @@ rubrique: 'Roman du XXe siècle [3e]'
 annee: '1991'
 magazine: 'n°1 15 septembre 1991'
 pages: '6'
-description: |-
+description: 
   '1. Contrôle de lecture visant à vérifier la compréhension du texte
   2. Caractéristiques de l’œuvre : genèse, climat, accueil du livre
   3. Étude de la première page

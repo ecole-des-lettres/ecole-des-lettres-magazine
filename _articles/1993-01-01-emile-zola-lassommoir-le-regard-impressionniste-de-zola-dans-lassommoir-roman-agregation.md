@@ -5,7 +5,7 @@ rubrique: 'Roman [agrégation]'
 annee: '1993'
 magazine: 'n°9 15 mars 1994'
 pages: '16'
-description: |-
+description: 
   '1. Émile Zola, peintre de la vie moderne
   2. Manières de voir
   3. Manières de dire'

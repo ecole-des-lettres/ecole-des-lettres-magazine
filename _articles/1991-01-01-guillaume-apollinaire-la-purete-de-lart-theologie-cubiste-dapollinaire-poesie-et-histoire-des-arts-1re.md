@@ -5,7 +5,7 @@ rubrique: 'Poésie et histoire des arts  [1re]'
 annee: '1991'
 magazine: 'n°12 1er juin 1992'
 pages: '18'
-description: |-
+description: 
   'Le cubisme, pour Apollinaire : un idéal de composition intellectuelle…
   – Lexique. Les « bêtes théologales »
   – « Signes lumineux » et « signification plastique »

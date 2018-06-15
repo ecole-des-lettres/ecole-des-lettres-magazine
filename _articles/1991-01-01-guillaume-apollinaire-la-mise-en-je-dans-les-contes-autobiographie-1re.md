@@ -5,7 +5,7 @@ rubrique: 'Autobiographie [1re]'
 annee: '1991'
 magazine: 'n°13 15 juin 1992'
 pages: '20'
-description: |-
+description: 
   '1. Les jeux de la narration
   – les formes de la présence du « je »
   – le « je » du narrateur et l’auteur

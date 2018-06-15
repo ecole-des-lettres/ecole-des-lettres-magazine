@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et roman historique [5e]'
 annee: '1994'
 magazine: 'n°10 15 avril 1995'
 pages: '6'
-description: |-
+description: 
   'Une série d’articles sur le genre de la science-fiction, le genre fantastique, historique et le ton naïf…
   Dans ce numéro, le genre historique :
   3. Le genre historique

@@ -6,7 +6,7 @@ rubrique: 'Roman et personnages [1re]'
 annee: '1993'
 magazine: 'n°6 1er janvier 1994'
 pages: '10'
-description: |-
+description: 
   '1. Le succès des « Égarements du cœur et de l’esprit » au XVIIIe siècle
   2. Crébillon égaré au XIXe siècle
   3. Réhabilitation des « Égarements » au XXe siècle

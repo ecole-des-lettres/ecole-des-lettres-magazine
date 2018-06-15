@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse'
 annee: '1988'
 magazine: 'n°11 1er mai 1989'
 pages: '6'
-description: |-
+description: 
   '– Un concours de lecture
   – L’organisation d’un prix
   – Une bibliothèque de cour de récréation

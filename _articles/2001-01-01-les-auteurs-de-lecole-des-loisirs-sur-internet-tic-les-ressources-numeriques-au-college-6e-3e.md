@@ -5,7 +5,7 @@ rubrique: 'TIC : les ressources numériques au collège [6e-3e]'
 annee: '2001'
 magazine: 'n°5 15 octobre 2001'
 pages: '6'
-description: |-
+description: 
   '1. Options méthodologiques
   2. Internet, audimat des auteurs ?
   3. Un auteur passé au crible : Marie-Aude Murail

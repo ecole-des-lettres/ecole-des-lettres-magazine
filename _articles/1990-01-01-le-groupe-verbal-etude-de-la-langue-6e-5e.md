@@ -5,7 +5,7 @@ rubrique: 'Étude de la langue [6e-5e]'
 annee: '1990'
 magazine: 'n°7 15 janvier 1991'
 pages: '3'
-description: |-
+description: 
   '1. Théorie
   2. Considérations pédagogiques : le complément d’objet direct, la conjonctive par « que », un problème orthographique : l’alternance « -é » / »-er »'
 article_pdf: '405.pdf'

@@ -5,7 +5,7 @@ rubrique: ''
 annee: '2002'
 magazine: 'n°11 mars 2003'
 pages: 96 pages
-description: |-
+description: 
   '1. La poétique de l’effet programmé 
   – l’amour urbain : « À une passante »
   – un sonnet pour représenter une « Obsession »

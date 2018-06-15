@@ -5,7 +5,7 @@ rubrique: 'Récits du XIXe siècle et fantastique [4e]'
 annee: '1993'
 magazine: 'n°6 15 décembre 1993'
 pages: '10'
-description: |-
+description: 
   '– Lire du fantastique
   – de la lecture à l’écriture…
   1. Lecture d’une nouvelle fantastique : « Vision de Charles IX » (trois étapes)

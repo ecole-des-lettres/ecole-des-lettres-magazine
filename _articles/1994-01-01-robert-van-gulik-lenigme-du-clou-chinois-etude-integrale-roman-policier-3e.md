@@ -5,7 +5,7 @@ rubrique: 'Roman policier [3e]'
 annee: '1994'
 magazine: 'n°13-14 30 juin 1995'
 pages: '27'
-description: |-
+description: 
   'Un roman policier dans la Chine du 7e siècle…
   Les ouvrages de Robert Van Gulik, diplomate, sinologue, historien et esthète, sont des romans policiers très particuliers, puisqu’ils se déroulent sous les T’ang, dans la Chine impériale du 7e siècle après Jésus-Christ. Leur documentation, d’une extraordinaire richesse, leurs intrigues, multiples, et leur style, d’une grande pureté, méritent bien un détour par ce qui n’est qu’en apparence de la paralittérature.
   1. Introduction

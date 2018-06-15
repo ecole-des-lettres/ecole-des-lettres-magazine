@@ -5,7 +5,7 @@ rubrique: 'Didactique des lettres'
 annee: '1993'
 magazine: 'n°7 1er février 1994'
 pages: '12'
-description: |-
+description: 
   '1. Hier : Paulin Paris ou la légitimité conquise
   – l’argument nationaliste
   – l’argument grammatical

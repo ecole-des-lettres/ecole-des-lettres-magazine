@@ -6,7 +6,7 @@ rubrique: 'Histoire [2de]'
 annee: '1998'
 magazine: 'n°12 1er avril 1999'
 pages: '10'
-description: |-
+description: 
   'Objectif : préparation à l’explication et à l’étude de documents…
   1. Le contexte
   2. Documents à étudier : Kleist, « Catéchisme des Allemands » ; Blücher, lettre au ministre Scharnhorst ; Görres, « Le Mercure rhénan »

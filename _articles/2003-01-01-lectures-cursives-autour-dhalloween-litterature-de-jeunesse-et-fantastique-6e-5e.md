@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et fantastique [6e-5e]'
 annee: '2003'
 magazine: 'n°3 1er octobre 2003'
 pages: '3'
-description: |-
+description: 
   'S’il est un thème qui peut faire l’unanimité dans une classe, c’est bien celui de la sorcellerie, et les élèves sont sans cesse en quête de nouveautés et toujours prêts à se laisser ensorceler. Ce thème est aussi largement exploité au cinéma. Il permet de créer un tremplin vers la lecture pour les petits lecteurs et les réfractaires. Cet article propose donc un corpus de romans où se mêlent nouveautés et livres à découvrir ou à redécouvrir.
   – Éric Boisset : « Le Grimoire d’Arkandias »
   – Marie Desplechin : « Verte »

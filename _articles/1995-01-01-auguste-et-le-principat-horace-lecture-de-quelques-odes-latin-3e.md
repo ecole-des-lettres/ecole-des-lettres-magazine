@@ -5,7 +5,7 @@ rubrique: 'Latin [3e]'
 annee: '1995'
 magazine: 'n°11 15 mai 1996'
 pages: '8'
-description: |-
+description: 
   '1. Introduction
   – biographie de l’auteur
   – le genre lyrique : l’ode

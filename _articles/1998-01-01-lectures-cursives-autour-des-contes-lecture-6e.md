@@ -5,7 +5,7 @@ rubrique: 'Lecture [6e] '
 annee: '1998'
 magazine: 'n°3 15 septembre 1998'
 pages: '4'
-description: |-
+description: 
   'Cet article présente deux ouvrages appartenant au genre du conte. Bien adaptés aux élèves de sixième, ils sont riches en descriptions et en portraits. De plus, ils rappellent souvent certains textes fondateurs, récits mythologiques ou classiques de la littérature de jeunesse.
   – « Natsarkéia et autres contes géorgiens », de Kéthévane Davrichewy
   – « Les Sept Sœurs Sapins », de Yak Rivais'

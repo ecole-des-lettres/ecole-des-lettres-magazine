@@ -5,7 +5,7 @@ rubrique: 'Lecture [3e]'
 annee: '1998'
 magazine: 'n°8 15 décembre 1998'
 pages: '31'
-description: |-
+description: 
   'Cette séquence répond à deux objectifs :
   – montrer que le sens d’un récit ne se réduit pas à la somme de ses constituants (idées, caractères, sentiments...) ;
   – élargir le travail sur le programme narratif à d’autres récits que ceux dont la composition obéit à la logique de l’enchaînement causal.

@@ -5,7 +5,7 @@ rubrique: ''
 annee: '2013'
 magazine: 'n°3'
 pages: '96'
-description: |-
+description: 
   '– « Le Horla » de Maupassant par Guillaume Sorel, aux éditions Rue de Sèvres, un nouveau mode d’expression du fantastique (par Yves Stalloni)
   – « Le Horla » de Maupassant par Guillaume Sorel, une adaptation inspirée (par Marie-Hélène Giannoni)
   – Entretien avec Guillaume Sorel

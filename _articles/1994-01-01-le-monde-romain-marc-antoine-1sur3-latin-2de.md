@@ -5,7 +5,7 @@ rubrique: 'Latin [2de]'
 annee: '1994'
 magazine: 'n°8 1er mars 1995'
 pages: '13'
-description: |-
+description: 
   'Groupement de textes autour du personnage de Marc Antoine…
   1. Le personnage de Marc Antoine
   – ses qualités militaires

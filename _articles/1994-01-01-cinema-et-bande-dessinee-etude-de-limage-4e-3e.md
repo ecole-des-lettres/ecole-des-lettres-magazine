@@ -5,7 +5,7 @@ rubrique: 'Étude de l'image [4e-3e]'
 annee: '1994'
 magazine: 'n°12 15 juin 1995'
 pages: '12'
-description: |-
+description: 
   'À propos d’une planche de l’album « Adios Palomita », d’Alain Clément, Olivier Vatine, Fabrice Lamy et Isabelle Rabarot…
   1. Les exercices préparatoires
   – le « storyboard »

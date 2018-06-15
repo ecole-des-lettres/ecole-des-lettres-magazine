@@ -5,7 +5,7 @@ rubrique: 'Le naturalisme [2de]'
 annee: '1989'
 magazine: 'n°6 15 décembre 1989'
 pages: '10'
-description: |-
+description: 
   '– Zola et les arts
   – Principes d’art
   – Zola et Manet

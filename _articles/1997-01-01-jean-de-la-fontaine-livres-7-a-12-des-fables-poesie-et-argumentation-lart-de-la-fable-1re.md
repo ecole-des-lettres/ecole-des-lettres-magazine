@@ -5,7 +5,7 @@ rubrique: 'Poésie et argumentation : l’art de la fable [1re]'
 annee: '1997'
 magazine: 'n°5 1er novembre 1997'
 pages: '12'
-description: |-
+description: 
   'Comment La Fontaine dispense, au fil de son ouvrage, des réflexions sur la genèse, la fonction et la forme de la fable.
   1. La genèse des « Fables »
   – mode d’emploi

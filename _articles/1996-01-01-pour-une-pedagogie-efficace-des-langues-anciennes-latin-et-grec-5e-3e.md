@@ -5,7 +5,7 @@ rubrique: 'Latin et grec [5e-3e]'
 annee: '1996'
 magazine: 'n°1 1er septembre 1996'
 pages: '5'
-description: |-
+description: 
   '1. L’enseignement dans les années 1950
   2. Les langues anciennes aujourd’hui
   – l’évolution de l’enseignement

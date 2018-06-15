@@ -5,7 +5,7 @@ rubrique: 'Romancontemporain [1re]'
 annee: '1990'
 magazine: 'n°10 15 mars 1991'
 pages: '4'
-description: |-
+description: 
   '1. Des propositions d’études de textes
   2. Des questions d’ensemble :
   – un roman « moderne »

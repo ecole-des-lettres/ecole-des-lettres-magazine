@@ -5,7 +5,7 @@ rubrique: 'Théâtre [6e-5e]'
 annee: '1997'
 magazine: 'n°13 1er mai 1998'
 pages: '33'
-description: |-
+description: 
   'Proposer un groupement de textes dans les classes de sixième ou de cinquième peut paraître une démarche surprenante. Pourtant, il peut convenir à l’approche du genre théâtral, souvent peu connu dans les premières classes de collège. La confrontation de petites scènes permet d’aborder, sans lasser, quelques aspects génériques importants, de familiariser les élèves avec des savoirs favorisant l’accès à des pièces complètes.
   1. Le thème de la dispute
   2. « Le Gora », de Courteline

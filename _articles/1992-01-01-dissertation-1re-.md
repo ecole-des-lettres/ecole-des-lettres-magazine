@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1992'
 magazine: 'n°4 1er novembre 1992'
 pages: '10'
-description: |-
+description: 
   'Document d’aide à l’évaluation
   Mémento présentant quelques critères à partir desquels noter une composition française
   1. La présentation matérielle

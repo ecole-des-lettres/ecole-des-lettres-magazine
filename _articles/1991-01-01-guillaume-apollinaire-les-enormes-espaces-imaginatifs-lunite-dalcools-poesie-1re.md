@@ -6,7 +6,7 @@ rubrique: 'Poésie [1re]'
 annee: '1991'
 magazine: 'n°12 1er juin 1992'
 pages: '8'
-description: |-
+description: 
   '1. La quête des nouvelles joies
   2. L’aventure de l’imagination
   3. Le sacrifice du poète'

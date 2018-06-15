@@ -5,7 +5,7 @@ rubrique: 'Récits du XIXe siècle [4e]'
 annee: '1990'
 magazine: 'n°6 15 décembre 1990'
 pages: '8'
-description: |-
+description: 
   '* Séance 1
   – étude de la couverture
   – le contenu du livre

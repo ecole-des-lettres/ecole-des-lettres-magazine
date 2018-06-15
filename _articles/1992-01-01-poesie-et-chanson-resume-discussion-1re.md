@@ -5,7 +5,7 @@ rubrique: 'Résumé-discussion [1re]'
 annee: '1992'
 magazine: 'n°3 15 octobre 1992'
 pages: '11'
-description: |-
+description: 
   'Composition française (résumé-discussion) à partir d’un texte de Gérard Spitéri donné au baccalauréat en 1982…
   1. Résumé (paragraphe par paragraphe)
   2. Explications

@@ -6,7 +6,7 @@ rubrique: 'Romans du XXe siècle [3e]'
 annee: '1990'
 magazine: 'n°8 1er février 1991'
 pages: '8'
-description: |-
+description: 
   '1. Premier travail de synthèse : le problème du narrateur et le schéma structurel des deux romans
   2. Les niveaux de temporalité
   3. L’évocation de l’espace ; lieux, décors

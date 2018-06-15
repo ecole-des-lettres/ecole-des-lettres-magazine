@@ -5,7 +5,7 @@ rubrique: 'Poésie [1re]'
 annee: '1991'
 magazine: 'n°6 1er janvier 1992'
 pages: '9'
-description: |-
+description: 
   'Étude d’un sonnet de Ronsard, « Page, suis-moi… », tiré des « Amours de Cassandre » sous la forme d’une initiation au commentaire composé…
   1. L’évocation de la nature
   2. Le sentiment de l’amour

@@ -5,7 +5,7 @@ rubrique: 'Théâtre [2de-1re]'
 annee: '2002'
 magazine: 'n°14 juin 2003'
 pages: '20'
-description: |-
+description: 
   'Un article qui étudie de manière détaillée toutes les représentations du théâtre hugolien auxquelles ont donné lieu les célébrations du bicentenaire de sa naissance :
   – « Ruy-Blas », mis en scène par Brigitte Jaques à la Comédie-Française
   – « Hernani », mise en scène par Anne Delbée

@@ -6,7 +6,7 @@ rubrique: 'Première guerre mondiale [1re]'
 annee: '1996'
 magazine: 'n°13 1er mai 1997'
 pages: '19'
-description: |-
+description: 
   'Mythe et réalité du héros de guerre…
   1. La construction du héros dans la guerre
   – une aventure individuelle

@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse / cinéma [5e]'
 annee: '2012'
 magazine: 'n° 6-7 2012-2013'
 pages: '8'
-description: |-
+description: 
   'L’œuvre d’Yvan Pommaux entretient un rapport étroit avec le monde du cinéma. Ses bandes dessinées comportent, comme les films, un scénario précis, des personnages répartis en premiers et seconds rôles, des dialogues et des cadrages cinématographiques. Les liens entre le cinéma et l’auteur sont donc nombreux et de natures différentes, ce qui peut donner l’occasion d’en explorer certains avec les élèves.
   '
 article_pdf: '12188.pdf'

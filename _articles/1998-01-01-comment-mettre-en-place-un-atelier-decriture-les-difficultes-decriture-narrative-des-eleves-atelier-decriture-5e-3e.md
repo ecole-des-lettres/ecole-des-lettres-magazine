@@ -6,7 +6,7 @@ rubrique: 'Atelier d'écriture [5e-3e]'
 annee: '1998'
 magazine: 'n°11 15 mars 1999'
 pages: '4'
-description: |-
+description: 
   'Pour un élève qui découvre l’art d’écrire, maîtriser en même temps le récit, les personnages et l’écriture est une gageure. C’est pourquoi les séquences de réécriture, dans un atelier, peuvent être chacune centrées sur un aspect particulier du texte. En partant des maladresses les plus fréquentes dans les textes de jeunes, cette étude se propose de sérier les difficultés d’écriture et d’y apporter quelques solutions.
   1. Les problèmes de structure narrative
   2. Les problèmes de genres

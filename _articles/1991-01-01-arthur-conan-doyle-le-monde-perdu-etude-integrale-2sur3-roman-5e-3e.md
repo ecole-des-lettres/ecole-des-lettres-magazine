@@ -5,7 +5,7 @@ rubrique: 'Roman [5e-3e]'
 annee: '1991'
 magazine: 'n°2 1er octobre 1991'
 pages: '8'
-description: |-
+description: 
   'Séquence 2 : chapitres 7 à 9
   – étude du rythme de la narration (la variation du rythme fictionnel, un récit non linéaire)
   – le personnel de l’expédition

@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et monde contemporain [5e-4e]'
 annee: '1991'
 magazine: 'n°12-13 1er juin 1992'
 pages: '14'
-description: |-
+description: 
   'Présentation de l’auteur et de l’histoire. Suggestions pour une lecture collective. Bibliographie sur le Brésil et sur le travail des enfants.
   1. Chapitre 1
   – étude collective : l’amorce, découverte du début du récit (synthèse collective), le narrateur, le contexte social

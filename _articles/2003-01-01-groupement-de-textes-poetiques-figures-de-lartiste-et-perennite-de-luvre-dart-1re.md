@@ -5,7 +5,7 @@ rubrique: 'Figures de l’artiste et pérennité de l’œuvre d’art (1re)'
 annee: '2003'
 magazine: '2003'
 pages: '30'
-description: |-
+description: 
   'Le groupement de textes proposé dans cet article est  susceptible de faire accéder à la réflexivité du langage poétique, à sa diversité, à ses ressources, à ses fonctions, de faire saisir aux élèves la spécificité du travail poétique sur le langage, de leur faire comprendre aussi l’importance de la contextualisation historique. Une telle mise en perspective est propre à faire ressortir des relations d’intertextualité et d’hypertextualité. Il permet de s’interroger sur les notions de postérité et de réception. Comment l’œuvre poétique envisage-t-elle sa propre pérennité ? Depuis quelle postérité peut-on parler d’elle ? La pérennité d’une œuvre est assurée par des lectures successives au fil des siècles, lectures qui peuvent échapper aux prévisions de l’artiste et du poète en ce qu’elles dépassent les circonstances particulières de leur création.
   Corpus :
   – « Quand vous serez bien vieille », de Ronsard (« Sonnets pour Hélène »)

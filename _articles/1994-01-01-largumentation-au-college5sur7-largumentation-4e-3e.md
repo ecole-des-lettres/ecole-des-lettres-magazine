@@ -5,7 +5,7 @@ rubrique: 'L'argumentation [4e-3e]'
 annee: '1994'
 magazine: 'n°5 15 décembre 1994'
 pages: '10'
-description: |-
+description: 
   '5. Classer ses idées
   6. Rédiger un paragraphe
   – le raisonnement

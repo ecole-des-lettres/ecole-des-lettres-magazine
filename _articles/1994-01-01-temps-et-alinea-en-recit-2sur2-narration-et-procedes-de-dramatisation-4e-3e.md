@@ -5,7 +5,7 @@ rubrique: 'Narration et procédés de dramatisation  [4e-3e]'
 annee: '1994'
 magazine: 'n°7 1er février 1995'
 pages: '10'
-description: |-
+description: 
   'Étude des procédés de dramatisation à partir de l’analyse des temps, de l’alternance des premier plan et arrière-plan narratifs et des alinéas dans six textes…
   Dans ce numéro :
   3. Évaluation

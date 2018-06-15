@@ -5,7 +5,7 @@ rubrique: 'Histoire [3e]'
 annee: '1993'
 magazine: 'n°3 15 octobre 1993'
 pages: '8'
-description: |-
+description: 
   '3. Le travail et les loisirs, ou « la vie est à nous »
   – les transformations de l’univers du travail : qui travaille ? ;  comment travaille-t-on ? ; combien de temps travaille-t-on ? (loi des huit heures, retraites, congés payés)
   – l’invention des loisirs : une idée neuve ; des moyens et des besoins nouveaux ; le rôle de la génération de 1936

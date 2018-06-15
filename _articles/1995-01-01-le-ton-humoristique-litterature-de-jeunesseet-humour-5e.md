@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et humour [5e]'
 annee: '1995'
 magazine: 'n°11 15 mai 1996'
 pages: '10'
-description: |-
+description: 
   '1. Le mécanisme de l’humour
   2. Des procédés humoristiques (absurde, « nonsense », humour noir, etc.).
   L’article est suivi d’une bibliographie de livres humoristiques pour la jeunesse.'

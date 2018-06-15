@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse [5e]'
 annee: '1991'
 magazine: 'n°14 15 juin 1992'
 pages: '10'
-description: |-
+description: 
   'Comment approcher la notion d’humour avec des enfants ? Quelle distinction faire entre comique et humour ? Y a-t-il un humour spécifique à la littérature pour la jeunesse ? Peut-on écrire des textes humoristiques ?
   1. Entretien avec Marie-Aude Murail
   2. Extraits de « Baby-sitter Blues » et du « Hollandais sans peine »

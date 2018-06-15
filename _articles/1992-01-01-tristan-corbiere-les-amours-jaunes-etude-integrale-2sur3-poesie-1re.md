@@ -5,7 +5,7 @@ rubrique: 'Poésie [1re]'
 annee: '1992'
 magazine: 'n°11 15 avril 1993'
 pages: '22'
-description: |-
+description: 
   '5. Le Paris de Corbière
   – repères biographiques
   – les lieux mentionnés : Montmartre, quartier emblématique

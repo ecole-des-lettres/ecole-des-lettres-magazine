@@ -5,7 +5,7 @@ rubrique: 'Le récit (roman ou nouvelle) [2de]'
 annee: '1993'
 magazine: 'n°8 15 février 1994'
 pages: '8'
-description: |-
+description: 
   '1. « Isis » ou le choix nervalien d’une écriture érudite
   2. Structure d’« Isis » : de l’écriture savante à l’écriture des chimères
   – l’écriture savante des deux premiers chapitres

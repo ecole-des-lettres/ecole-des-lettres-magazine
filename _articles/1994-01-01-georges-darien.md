@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1994'
 magazine: 'n°13 15 juin 1995'
 pages: 47 pages
-description: |-
+description: 
   'Dossier : Les œuvres romanesques de Georges Darien
   1. Situation de Georges Darien
   2. Littérature et anarchie à l’époque de Georges Darien

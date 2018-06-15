@@ -5,7 +5,7 @@ rubrique: 'Roman [agrégation]'
 annee: '1993'
 magazine: 'n°13-14 juillet 1994'
 pages: '10'
-description: |-
+description: 
   'Le langage des fleurs dans « Le Lys dans la vallée » :
   1. L’éloquence des bouquets
   2. Des métaphores implicites

@@ -5,7 +5,7 @@ rubrique: 'Le naturalisme [2de]'
 annee: '1989'
 magazine: 'n°6 15 décembre 1989'
 pages: '8'
-description: |-
+description: 
   '1. Procès de la description naturaliste
   2. Décrire-prescrire
   3. Décrire-transcrire

@@ -5,7 +5,7 @@ rubrique: 'Poésie [1re]'
 annee: '1993'
 magazine: 'n°5 1er décembre 1993'
 pages: '10'
-description: |-
+description: 
   '1. Présentation de Valery Larbaud
   2. Les sources d’A. O. Barnabooth
   3. De Larbaud à Barnabooth

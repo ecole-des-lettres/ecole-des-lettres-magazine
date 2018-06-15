@@ -5,7 +5,7 @@ rubrique: 'Réécritures (1re)'
 annee: '2003'
 magazine: 'n°4 15 octobre 2003'
 pages: '7'
-description: |-
+description: 
   '1. Revue de toutes les adaptations cinématographiques de l’œuvre de Cervantès :
   – « Don Quichotte », de Georg Wilhelm Pabst (1933)
   – « Don Quichotte », d’Orson Welles (1992)

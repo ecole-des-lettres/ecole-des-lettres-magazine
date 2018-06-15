@@ -6,7 +6,7 @@ rubrique: 'Interdisciplinarité français, latin [5e-3e]'
 annee: '1994'
 magazine: '1995'
 pages: '23'
-description: |-
+description: 
   'Propositions d’activités interdisciplinaires à partir de divers fragments sur le thème de la mer…
   1. Ovide, « La seiche et la murène » : français-latin
   2. Ovide, « Le poulpe » : latin quatrième-troisième

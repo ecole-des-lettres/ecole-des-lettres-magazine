@@ -5,7 +5,7 @@ rubrique: 'Didactique des lettres'
 annee: '1992'
 magazine: 'n°9 1er mars 1993'
 pages: '14'
-description: |-
+description: 
   'Comment conjuguer imagination et rigueur dans la lecture d’un texte poétique :
   1. « Et c’est une poésie d’action qui s’est engagée là »
   2. « J’aime la règle qui corrige l’émotion, j’aime l’émotion qui corrige la règle »

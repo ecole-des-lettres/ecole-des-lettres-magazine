@@ -5,7 +5,7 @@ rubrique: 'Grands modèles littéraires[Tle]'
 annee: '2001'
 magazine: '2002'
 pages: '27'
-description: |-
+description: 
   'Le mythe d’Arthur s’est élaboré, à partir des années 500, en plusieurs étapes marquées par le talent ou le génie d’écrivains souvent exceptionnels. Ce mythe s’est développé en symbiose et en opposition avec celui de Charlemagne, chacun des deux souverains étant lié à un genre littéraire, Charlemagne à la chanson de geste, au genre épique, Arthur au roman en vers et en prose. Il s’est nourri et enrichi de souvenirs romains, de légendes celtiques et, bien entendu, de l’atmosphère chrétienne dans laquelle il a baigné. Il convient donc de se demander :
   – comment s’est constitué le mythe du roi Arthur autour de certaines composantes d’origines diverses ; autrement dit, comment naît un roi imaginaire dont on fait un personnage historique ;
   – comment la chevalerie s’est organisée autour du roi, qui est devenu un héros de fiction, en particulier par l’institution de la Table ronde ;

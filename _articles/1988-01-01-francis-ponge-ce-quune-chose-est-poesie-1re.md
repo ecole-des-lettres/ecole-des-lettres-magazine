@@ -5,7 +5,7 @@ rubrique: 'Poésie [1re]'
 annee: '1988'
 magazine: 'n°8 1er février 1989'
 pages: '20'
-description: |-
+description: 
   'La vérité des choses chez Francis Ponge…
   1. Le problème du langage performatif
   2. Le parti pris des choses

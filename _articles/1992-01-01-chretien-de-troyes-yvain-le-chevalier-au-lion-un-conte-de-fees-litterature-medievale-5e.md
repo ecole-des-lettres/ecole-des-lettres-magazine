@@ -6,7 +6,7 @@ rubrique: 'Littérature médiévale [5e]'
 annee: '1992'
 magazine: 'n°12 15 mai 1993'
 pages: '5'
-description: |-
+description: 
   'Un chevalier qui se bat comme un lion, c’est une épopée. Un lion qui se bat chevaleresquement, c’est une fable. Mais un chevalier et un lion qui errent dans Brocéliande, c’est mêler effets de réel et effets de merveilleux ! Chrétien de Troyes est, à vrai dire, familier de ce balancement entre conte et
   « roman », entre traditions folkloriques et mise en œuvre littéraire...'
 article_pdf: '852.pdf'

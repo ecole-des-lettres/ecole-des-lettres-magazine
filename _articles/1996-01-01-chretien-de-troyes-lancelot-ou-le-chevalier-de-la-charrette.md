@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1996'
 magazine: 'n°10 1er mars 1997'
 pages: 180 pages
-description: |-
+description: 
   '1. Préface
   2. Schéma narratif du « Chevalier de la charrette »
   3. La conjointure du « Chevalier de la charrette »

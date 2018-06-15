@@ -5,7 +5,7 @@ rubrique: 'Autobiographie [1re]'
 annee: '1990'
 magazine: 'n°14 15 juillet 1991'
 pages: '8'
-description: |-
+description: 
   'Le roman de Perec fait alterner un texte évoquant les institutions d’une cité olympique et un récit autobiographique retraçant son enfance de 1939 à 1945…
   1. Le récit impossible
   2. Le jeu avec les doubles

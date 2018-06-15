@@ -6,7 +6,7 @@ rubrique: 'Théâtre et réécritures [1re]'
 annee: '1994'
 magazine: 'n°6 15 janvier 1995'
 pages: '13'
-description: |-
+description: 
   'Le plus souvent, les élèves découvrent les œuvres théâtrales par le biais d’une adaptation cinématographique ou télévisuelle. Sont-ils pour autant plus familiarisés avec le langage du film qu’avec celui du théâtre, plus aptes à en percevoir et à en analyser les codes et les modes de fonctionnement ?
   1. Deux choix de mise en scène
   – la réorganisation du texte théâtral

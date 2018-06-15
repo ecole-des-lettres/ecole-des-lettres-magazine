@@ -5,7 +5,7 @@ rubrique: 'Didactique du français [3e]'
 annee: '1999'
 magazine: 'n°1 juillet 1999'
 pages: '12'
-description: |-
+description: 
   '1. Le rappel des objectifs
   2. Les travaux proposés dans « L’École des lettres des collèges »
   – séquences et études centrées sur les textes narratifs

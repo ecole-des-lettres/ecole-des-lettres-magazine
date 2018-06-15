@@ -5,7 +5,7 @@ rubrique: 'Langage verbal et images [Tle]'
 annee: '1996'
 magazine: 'n°11 15 mars 1997'
 pages: '63'
-description: |-
+description: 
   'Dossier consacré à « Une partie de campagne », de Maupassant…
   1. Alphonse Daudet, Henry Céard, Guy de Maupassant ou les différences d’un style : les environs de Paris
   2. Guy de Maupassant : la beauté vague de « Mouche »

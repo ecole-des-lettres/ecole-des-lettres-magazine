@@ -5,7 +5,7 @@ rubrique: 'Histoire [3e]'
 annee: '1990'
 magazine: 'n°8 1er février 1991'
 pages: '8'
-description: |-
+description: 
   'Ce document inédit est le témoignage de l’un des rescapés du dernier convoi parti en Allemagne vers Buchenwald…
   – de Compiègne à Buchenwald
   – le camp de Buchenwald

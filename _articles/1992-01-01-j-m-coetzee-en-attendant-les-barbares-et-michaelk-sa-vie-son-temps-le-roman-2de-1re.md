@@ -6,7 +6,7 @@ rubrique: 'Le roman [2de-1re]'
 annee: '1992'
 magazine: 'n°14 15 juin 1993'
 pages: '16'
-description: |-
+description: 
   'Rapprochement des deux œuvres autour des thèmes suivants :
   1. L’originalité narrative
   2. L’individu confronté à un monde de violence

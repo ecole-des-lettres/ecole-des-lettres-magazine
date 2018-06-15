@@ -5,7 +5,7 @@ rubrique: 'Histoire [5e]'
 annee: '1993'
 magazine: 'n°2 1er octobre 1993'
 pages: '6'
-description: |-
+description: 
   'Objectifs : à partir d’un texte de Louis XIV, « Lettre circulaire du roi aux intendants », découvrir la concentration du pouvoir et la notion d’arbitraire ; par l’utilisation d’un schéma sur le fonctionnement du pouvoir, comprendre comment, à cette époque, une loi était élaborée et appliquée…
   – La concentration des pouvoirs
   – Le fonctionnement du pouvoir

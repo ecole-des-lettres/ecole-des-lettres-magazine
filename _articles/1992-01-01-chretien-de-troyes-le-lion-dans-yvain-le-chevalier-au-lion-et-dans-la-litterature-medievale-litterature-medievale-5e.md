@@ -6,7 +6,7 @@ rubrique: 'Littérature médiévale [5e]'
 annee: '1992'
 magazine: 'n°12 15 mai 1993'
 pages: '29'
-description: |-
+description: 
   '1. Le lion animal
   – l’aspect physique du lion
   – le caractère du lion

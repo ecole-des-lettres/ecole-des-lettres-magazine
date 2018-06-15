@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et fantastique [5e'
 annee: '1994'
 magazine: 'n°8 1er mars 1995'
 pages: '6'
-description: |-
+description: 
   'Une série d’articles sur le genre de la science-fiction, le genre fantastique, historique et le ton naïf…
   2. Le genre « fantastique »
   – une tentative de définition

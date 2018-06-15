@@ -5,7 +5,7 @@ rubrique: 'Grec / Théâtre [Tle]'
 annee: '1991'
 magazine: 'n°5 1er décembre 1991'
 pages: '4'
-description: |-
+description: 
   '2. Le chœur répond aux questions de la reine, vers 231 à 245
   – traduction
   – éléments de commentaire'

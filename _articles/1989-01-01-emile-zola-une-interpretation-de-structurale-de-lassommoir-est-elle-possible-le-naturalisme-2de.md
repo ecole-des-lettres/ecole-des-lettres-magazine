@@ -6,7 +6,7 @@ rubrique: 'Le naturalisme [2de]'
 annee: '1989'
 magazine: 'n°6 15 décembre 1989'
 pages: '6'
-description: |-
+description: 
   '1. La nature différentielle du sens
   2. Structuralisme et formalisme'
 article_pdf: '124.pdf'

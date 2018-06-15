@@ -5,7 +5,7 @@ rubrique: 'BTS'
 annee: '1991'
 magazine: 'n°14 1er juillet 1992'
 pages: '14'
-description: |-
+description: 
   'Remarques émanant de deux rapports de stages consacrés à « L’enseignement du français en STS »…
   1. Problèmes généraux
   2. De l’initiation linguistique à la pratique méthodologique

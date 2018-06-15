@@ -5,7 +5,7 @@ rubrique: 'Histoire'
 annee: '2002'
 magazine: 'n°14 juin 2003'
 pages: '16'
-description: |-
+description: 
   'Cet article propose des notes de lecture très détaillées sur :
   – « Vietnam », de Larry Burrows (Flammarion, 2002)
   – « L’Enfer », de Luc Santé (Phaidon, 1999), avec des photographies de James Nachtwey

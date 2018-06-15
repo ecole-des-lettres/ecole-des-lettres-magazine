@@ -5,7 +5,7 @@ rubrique: 'Marguerite Duras : « Dix heures et demie du soir en été », un 
 annee: '1987'
 magazine: 'n°6 1er décembre 1987'
 pages: '14'
-description: |-
+description: 
   '1. L’attente
   2. L’ennui
   3. La rencontre

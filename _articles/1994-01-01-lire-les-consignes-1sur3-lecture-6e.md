@@ -5,7 +5,7 @@ rubrique: 'Lecture [6e]'
 annee: '1994'
 magazine: 'n°3 15 octobre 1994'
 pages: '4'
-description: |-
+description: 
   'Comment aider les élèves (surtout en sixième) à comprendre les consignes fournies dans les exercices qui leur sont proposés…
   1. Quelques points de repère pour appréhender l’étendue du problème…
   – comprendre un message écrit

@@ -5,7 +5,7 @@ rubrique: 'Travail de l’écriture [2de]'
 annee: '1989'
 magazine: 'n°6 15 décembre 1989'
 pages: '10'
-description: |-
+description: 
   '– Hôtels, immeubles, appartements
   – Lieux divers
   – Des moments de Paris…

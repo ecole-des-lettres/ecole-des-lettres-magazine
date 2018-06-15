@@ -5,7 +5,7 @@ rubrique: 'Programmes [2de]'
 annee: '1999'
 magazine: 'n°7 1er décembre 1999'
 pages: '10'
-description: |-
+description: 
   'La réforme des programmes de français présentée par l’un de ses concepteurs…
   1. Les choix théoriques
   – une approche des textes moins formelle et plus contextuelle

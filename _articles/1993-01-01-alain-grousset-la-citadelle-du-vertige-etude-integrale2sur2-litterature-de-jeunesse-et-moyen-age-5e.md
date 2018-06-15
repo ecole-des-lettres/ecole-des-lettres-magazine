@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et Moyen Âge [5e]'
 annee: '1993'
 magazine: 'n°4 1er novembre 1993'
 pages: '6'
-description: |-
+description: 
   '2. Méthodologie (suite)
   – consignes, guides, questionnaires
   L’article est suivi de jeux de lecture.'

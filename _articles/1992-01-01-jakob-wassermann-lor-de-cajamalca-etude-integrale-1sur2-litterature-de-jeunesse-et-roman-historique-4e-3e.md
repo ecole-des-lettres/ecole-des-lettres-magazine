@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et roman historique [4e-3e]'
 annee: '1992'
 magazine: 'n°5 1er décembre 1992'
 pages: '22'
-description: |-
+description: 
   '1. Introduction à l’étude de l’œuvre
   – l’auteur
   – le roman (plan détaillé du roman)

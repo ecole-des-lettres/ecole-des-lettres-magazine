@@ -5,7 +5,7 @@ rubrique: 'Roman [agrégation]'
 annee: '1994'
 magazine: 'n°13 15 juin 1995'
 pages: '11'
-description: |-
+description: 
   '1. Un héros sans qualités
   2. Intrigue ou errance ?
   3. Le labyrinthe bureaucratique

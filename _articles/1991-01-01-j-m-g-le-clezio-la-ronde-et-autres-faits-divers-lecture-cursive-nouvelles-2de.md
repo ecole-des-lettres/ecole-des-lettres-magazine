@@ -6,7 +6,7 @@ rubrique: 'Nouvelles [2de]'
 annee: '1991'
 magazine: 'n°6 1er janvier 1992'
 pages: '12'
-description: |-
+description: 
   'Un recueil composé de onze nouvelles marquées par la violence dont sont victimes les personnages…
   1. L’univers des personnages
   2. Une vie intérieure incertaine

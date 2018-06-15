@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et récit d’aventures [5e]'
 annee: '1994'
 magazine: 'n°11 15 mai 1995'
 pages: '37'
-description: |-
+description: 
   '1. Le début du roman : chapitres 1 à 5
   – l’histoire : où il est question du rat-trompette… ; … et de partir à sa recherche
   – la narration : la fonction « émotive » du message ; tel père, tel fils ; « j’ai deux enfants »

@@ -5,7 +5,7 @@ rubrique: 'Documentation'
 annee: '1995'
 magazine: 'n°12 15 juin 1996'
 pages: '12'
-description: |-
+description: 
   'Résultat d’une enquête lancée par « L’École des lettres » sur la collaboration entre professeurs et documentalistes…
   1. Qui fréquente le CDI ?
   2. Comment inciter les élèves à fréquenter le CDI ?

@@ -6,7 +6,7 @@ rubrique: 'Bande dessinée [CM-6e]'
 annee: '2009'
 magazine: 'n°7 2009-2010'
 pages: '13'
-description: |-
+description: 
   'Recommandée par le ministère de l’Éducation nationale pour le cycle 3, cette BD répond aux critères attendus par les enseignants de l’école primaire dans le cadre des apprentissages de la langue française.
   Cet article propose des éléments d’information et d’analyse, ainsi que des pistes pédagogiques permettant de l’exploiter au cours moyen et en sixième. '
 article_pdf: '11998.pdf'

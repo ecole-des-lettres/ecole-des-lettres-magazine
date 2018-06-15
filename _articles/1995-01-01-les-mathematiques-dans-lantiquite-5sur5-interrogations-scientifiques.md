@@ -5,7 +5,7 @@ rubrique: 'Interrogations scientifiques'
 annee: '1995'
 magazine: 'n°10-11 15 mai 1996'
 pages: '6'
-description: |-
+description: 
   'Introduction à une étude interdisciplinaire sur les mathématiques dans l’Antiquité autour de textes latins et grecs…
   9. Épigrammes arithmétiques
   10. Approximation de la racine carrée'

@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1993'
 magazine: 'n°12 15 juin 1994'
 pages: 112 pages
-description: |-
+description: 
   '1. Fini de rire
   2. Modulations sur un titre : « Le Horla »
   3. « Un cas de divorce »

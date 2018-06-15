@@ -5,7 +5,7 @@ rubrique: 'Éducation aux médias [5e-4e]'
 annee: '1996'
 magazine: 'n°8 15 février 1997'
 pages: '12'
-description: |-
+description: 
   'Une collection qui rassemble tous les journaux scolaires…
   1. Pourquoi cette collection ?
   2. Des journaux très différents

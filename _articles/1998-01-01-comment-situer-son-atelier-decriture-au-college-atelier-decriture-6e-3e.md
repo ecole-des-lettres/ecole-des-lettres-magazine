@@ -5,7 +5,7 @@ rubrique: 'Atelier d'écriture [6e-3e]'
 annee: '1998'
 magazine: 'n°13 1er mai 1999'
 pages: '4'
-description: |-
+description: 
   'Comment mettre en place un atelier d’écriture de type littéraire : typologie des ateliers d’écriture au collège…
   1. Des types d’ateliers variés
   2. À qui revient l’initiative ?

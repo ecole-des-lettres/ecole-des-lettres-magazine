@@ -5,7 +5,7 @@ rubrique: 'Le naturalisme [2de-1re]'
 annee: '1992'
 magazine: 'n°7 15 janvier 1993'
 pages: '25'
-description: |-
+description: 
   'Dans « La Curée », Zola montre les transformations de Paris opérées par Haussmann…
   1. L’espace de « La Curée »
   2. Les « comptes fantastiques » de l’haussmannisation

@@ -5,7 +5,7 @@ rubrique: 'Poésie [3e]'
 annee: '1993'
 magazine: 'n°11 1er mai 1994'
 pages: '10'
-description: |-
+description: 
   'À partir de quelques œuvres de quatre poètes contemporains : Saint-John Perse, René Char, Jean Follain et Georges Schéhadé, cet article se propose de familiariser les élèves de troisième avec la poésie contemporaine par le biais de l’étude thématique du monde de l’enfance et de l’adolescence…
   1. Éléments pour une analyse linguistique élémentaire de la poésie au collège
   – perception et reconnaissance du langage poétique

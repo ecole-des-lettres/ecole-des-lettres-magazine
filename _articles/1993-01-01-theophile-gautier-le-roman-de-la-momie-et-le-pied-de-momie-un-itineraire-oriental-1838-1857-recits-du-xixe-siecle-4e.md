@@ -6,7 +6,7 @@ rubrique: 'Récits du XIXe siècle [4e]'
 annee: '1993'
 magazine: 'n°9 15 mars 1994'
 pages: '20'
-description: |-
+description: 
   'Gautier et l’Orient…
   1. La vision de l’Orient chez Gautier
   2. Les sources documentaires (historiques et archéologiques) du « Roman de la momie »

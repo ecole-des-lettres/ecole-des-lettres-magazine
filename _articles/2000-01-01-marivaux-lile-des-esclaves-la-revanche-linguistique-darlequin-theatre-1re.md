@@ -5,7 +5,7 @@ rubrique: 'Théâtre [1re}'
 annee: '2000'
 magazine: 'n°7 1er décembre 2000'
 pages: '17'
-description: |-
+description: 
   'Commentaire composé d’un extrait de la scène 5…
   1. Le rôle de Trivelin
   – un meneur de jeu

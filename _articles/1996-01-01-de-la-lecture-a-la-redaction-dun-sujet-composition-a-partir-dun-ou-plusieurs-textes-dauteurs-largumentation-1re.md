@@ -6,7 +6,7 @@ rubrique: 'L’argumentation [1re]'
 annee: '1996'
 magazine: 'n°11 15 mars 1997'
 pages: '26'
-description: |-
+description: 
   'Préparation à l’agrégation interne en liaison avec le programme de première.
   L’argumentation chez :
   – Montesquieu, « Lettres persanes »

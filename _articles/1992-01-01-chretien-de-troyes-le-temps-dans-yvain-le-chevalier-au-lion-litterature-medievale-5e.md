@@ -5,7 +5,7 @@ rubrique: 'Littérature médiévale [5e]'
 annee: '1992'
 magazine: 'n°12 15 mai 1993'
 pages: '12'
-description: |-
+description: 
   '1. La mesure du temps de l’histoire
   – l’époque
   – les indices temporels

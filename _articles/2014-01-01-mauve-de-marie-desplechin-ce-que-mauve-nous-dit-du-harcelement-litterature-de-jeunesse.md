@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse'
 annee: '2014'
 magazine: 'n°4'
 pages: '6'
-description: |-
+description: 
   '« Mauve », le dernier roman de Marie Desplechin, qui constitue la suite de « Verte » et de « Pome », est une histoire beaucoup plus angoissante que les précédentes, sans doute parce qu’elle s’ancre d’une façon plus résolue dans le genre fantastique. Le surnaturel un peu dérisoire qui traversait en souriant les deux premiers romans devient ici plus menaçant. Les forces du mal surgissent, faisant irruption dans l’univers des personnages sous les formes à la fois réalistes et irrationnelles du harcèlement scolaire et de la stigmatisation sociale...
   '
 article_pdf: '12743.pdf'

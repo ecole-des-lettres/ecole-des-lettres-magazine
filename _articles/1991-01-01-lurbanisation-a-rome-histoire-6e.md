@@ -5,7 +5,7 @@ rubrique: 'Histoire [6e]'
 annee: '1991'
 magazine: 'n°1 15 septembre 1991'
 pages: '3'
-description: |-
+description: 
   '1. La création et le plan d’une ville
   2. La parure ornementale (forum, théâtre, amphithéâtre, autres monuments)
   3. L’organisation politique'

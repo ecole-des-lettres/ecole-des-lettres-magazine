@@ -5,7 +5,7 @@ rubrique: 'Poésie [5e]'
 annee: '1994'
 magazine: 'n°5 15 décembre 1994'
 pages: '12'
-description: |-
+description: 
   'Une séquence de travail de six semaines autour des « Fables » de La Fontaine…
   1. Variations autour de « La Cigale et la Fourmi »
   – comparaison entre la fable d’Ésope et celle de La Fontaine ; apport du professeur de biologie

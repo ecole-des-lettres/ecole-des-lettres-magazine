@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et narration [4e-3e]'
 annee: '1997'
 magazine: 'n°14 15 mai 1998'
 pages: '38'
-description: |-
+description: 
   'Souvent habitués à chercher le sens d’un texte, les élèves sont rarement entraînés à en détecter les sous-entendus. Pourtant, leurs contenus implicites caractérisent autant un texte que leurs contenus explicites. Ils contribuent à permettre plusieurs interprétations d’un même contenu. C’est sans doute pourquoi les Programmes du cycle central indiquent : « On aborde l’étude de l’implicite dans tous les types de discours. » Plusieurs textes narratifs serviront à cette étude, mais également des albums : l’implicite du code des images ne correspond pas forcément à l’implicite du texte.
   – « Fleurs d’été et autres nouvelles japonaises », « Un os au bout de l’autoroute », de William Camus ;
   – « Lettres d’amour de 0 à 10 », de Susie Morgenstern ;

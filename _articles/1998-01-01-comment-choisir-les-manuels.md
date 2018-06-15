@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1998'
 magazine: 'n°14 15 mai 1999'
 pages: '4'
-description: |-
+description: 
   '1. Exploration
   – le manuel scolaire : un produit commercial
   – les destinataires des manuels scolaires

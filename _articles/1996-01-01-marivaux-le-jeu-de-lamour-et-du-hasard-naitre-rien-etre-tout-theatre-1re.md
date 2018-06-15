@@ -5,7 +5,7 @@ rubrique: 'Théâtre [1re]'
 annee: '1996'
 magazine: 'n°8 1er février 1997'
 pages: '12'
-description: |-
+description: 
   '1. Née de père inconnu
   2. Une quête qui dévie
   3. Le désir de « Silvia »

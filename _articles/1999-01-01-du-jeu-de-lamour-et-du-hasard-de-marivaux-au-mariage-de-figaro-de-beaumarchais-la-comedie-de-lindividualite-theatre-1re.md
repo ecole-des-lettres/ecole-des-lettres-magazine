@@ -6,7 +6,7 @@ rubrique: 'Théâtre [1re]'
 annee: '1999'
 magazine: 'n°12 mai 2000'
 pages: '20'
-description: |-
+description: 
   'Le XVIIIe siècle est traversé par la problématique de la servitude. La comédie, en particulier, depuis la fin du XVIIe siècle jusqu’à la Révolution, semble avoir été un lieu privilégié d’exploration de la domesticité comme forme sociale et civile de l’asservissement…
   1. Aux origines : le valet, une donnée de la comédie
   2. Un valet, c’est un valet ou comment s’en sortir ?

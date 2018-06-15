@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1998'
 magazine: 'n°12 avril 1999'
 pages: 192 pages
-description: |-
+description: 
   '1. Apprendre à lire un manuel scolaire
   2. Maîtriser les discours scientifiques dans les manuels scolaires
 

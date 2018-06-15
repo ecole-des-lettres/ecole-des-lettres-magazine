@@ -5,7 +5,7 @@ rubrique: 'Lecture méthodique [6e-3e]'
 annee: '1994'
 magazine: 'n°5 15 décembre 1994'
 pages: '2'
-description: |-
+description: 
   '4. Les implications didactiques
   5. Quels savoirs ? Quels outils d’analyse ?'
 article_pdf: '1713.pdf'

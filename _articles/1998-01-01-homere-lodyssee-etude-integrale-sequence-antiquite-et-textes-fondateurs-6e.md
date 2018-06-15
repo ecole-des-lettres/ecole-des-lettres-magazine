@@ -5,7 +5,7 @@ rubrique: 'Antiquité et textes fondateurs [6e]'
 annee: '1998'
 magazine: '1998'
 pages: '49'
-description: |-
+description: 
   'Dans le cadre de l’étude des textes fondateurs en classe de sixième, l’« Odyssée » présente un intérêt particulier : sa structure narrative est suffisamment claire pour être perçue par des élèves de onze à douze ans. La version abrégée étudiée ici (« Classiques abrégés », l’école des loisirs) autorise la lecture complète d’un récit achevé. Elle résume ce qui se passe en Ithaque avant le retour du roi et centre l’adaptation sur le héros, Ulysse, en adoptant une formulation accessible aux jeunes lecteurs.
   Séquence : dix-sept séances.'
 article_pdf: '3322.pdf'

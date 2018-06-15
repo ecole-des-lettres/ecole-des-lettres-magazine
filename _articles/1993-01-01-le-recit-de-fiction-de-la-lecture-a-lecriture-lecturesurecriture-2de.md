@@ -5,7 +5,7 @@ rubrique: 'Lecture/écriture [2de]'
 annee: '1993'
 magazine: 'n°1 15 septembre 1993'
 pages: '6'
-description: |-
+description: 
   'Une expérience d’enseignement modulaire en seconde
   1. Prérequis et finalités
   2. Descriptif de la démarche

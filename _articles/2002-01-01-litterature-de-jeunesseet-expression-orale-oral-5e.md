@@ -5,7 +5,7 @@ rubrique: 'Oral [5e]'
 annee: '2002'
 magazine: 'n°1 juillet-septembre 2002'
 pages: '8'
-description: |-
+description: 
   'Présentation de trois ouvrages de littérature jeunesse permettant de travailler l’expression orale :
   – « Aliocha, cheval des steppes », de Jackie Valabrègue
   – « La Croisade de la liberté », de Bertrand Solet

@@ -6,7 +6,7 @@ rubrique: 'Nouvelles [2de-1re]'
 annee: '1994'
 magazine: 'n°1 15 septembre 1994'
 pages: '12'
-description: |-
+description: 
   '1. « Le Chevalier double », une nouvelle de la dualité
   – redoublements et dédoublements
   – un univers romanesque éclaté

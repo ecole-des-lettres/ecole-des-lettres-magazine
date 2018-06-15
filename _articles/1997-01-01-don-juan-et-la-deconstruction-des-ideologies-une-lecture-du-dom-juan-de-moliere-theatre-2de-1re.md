@@ -6,7 +6,7 @@ rubrique: 'Théâtre [2de-1re]'
 annee: '1997'
 magazine: 'n°11 15 mars 1998'
 pages: '18'
-description: |-
+description: 
   'Toutes les règles, toutes les maximes morales, sont ébranlées par l’insoumission de don Juan. C’est pourquoi il doit mourir. Mais lorsqu’il mourra, les idéologies qu’il aura  déconstruites laisseront voir à Sganarelle – et, à travers lui, aux spectateurs – la réalité nue des rapports sociaux…
   1. Une société en mutation : des valeurs flottantes
   – déclin de la noblesse

@@ -6,7 +6,7 @@ rubrique: 'Théâtre'
 annee: '2012'
 magazine: 'novembre 2012'
 pages: '6'
-description: |-
+description: 
   '« Un chapeau de paille d’Italie » constitue, avec « Le Voyage de M. Perrichon », un sommet de l’œuvre théâtrale d’Eugène Labiche (1815-1888), riche pourtant de quelque 180 pièces.
   La Comédie-Française donne une nouvelle mise en scène, fort réussie, de ce chef-d’œuvre de vaudeville au Théâtre éphémère des jardins du Palais-Royal. L’occasion est ainsi offerte d’apprécier l’originalité de ce spectacle par rapport aux précédentes mises en scène d’une pièce qui, depuis sa création en 1851, a connu un succès considérable…'
 article_pdf: '12367.pdf'

@@ -5,7 +5,7 @@ rubrique: 'Histoire des arts'
 annee: '2005'
 magazine: 'n°4 1er novembre 2005'
 pages: '5'
-description: |-
+description: 
   'Présentation de quelques catalogues d’exposition particulièrement remarquables :
   – « L’Homme et ses masques » : chefs-d’œuvre des musées Barbier-Mueller
   – « Les Portraits de Memling »

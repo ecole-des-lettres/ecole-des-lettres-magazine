@@ -5,7 +5,7 @@ rubrique: 'Première guerre mondiale [1re]'
 annee: '1996'
 magazine: 'n°13 1er mai 1997'
 pages: '29'
-description: |-
+description: 
   'Deux représentations de l’« arrière »…
   1. Le monde de l’« arrière » et son rapport à la guerre
   2. L’action corruptrice de la guerre

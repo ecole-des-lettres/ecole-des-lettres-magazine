@@ -5,7 +5,7 @@ rubrique: 'Initiation à la poésie et étude de l’image [6e]'
 annee: '1994'
 magazine: 'n°13-14 30 juin 1995'
 pages: '8'
-description: |-
+description: 
   'Expérience pédagogique menée par deux professeurs de français afin d’inciter leurs élèves à lire et apprécier la poésie…
   1. Introduction
   2. Travail sur les poèmes et les illustrations

@@ -5,7 +5,7 @@ rubrique: 'Étude de l’image [4e-3e]'
 annee: '2003'
 magazine: '2004'
 pages: '18'
-description: |-
+description: 
   'Cet article constitue le prolongement de deux séquences consacrées aux héros, aux monstres et au dragon et d’une série portant sur les thèmes mythologiques.
   Ses objectifs sont de :
   – faire acquérir aux élèves une culture commune, toujours présente dans le langage et les images qui nous entourent ;

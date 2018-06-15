@@ -5,7 +5,7 @@ rubrique: 'Poésie [5e]'
 annee: '1998'
 magazine: 'n°5 15 octobre 1998'
 pages: '10'
-description: |-
+description: 
   'Proposition de progression :
   1. L’hendécasyllabe phalécien
   – découverte de la quantité des voyelles : lecture et bref commentaire d’un épigramme de Martial

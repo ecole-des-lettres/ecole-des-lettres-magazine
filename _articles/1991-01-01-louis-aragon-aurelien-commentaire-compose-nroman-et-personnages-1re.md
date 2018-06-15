@@ -5,7 +5,7 @@ rubrique: 'nRoman et personnages [1re]'
 annee: '1991'
 magazine: 'n°10 15 avril 1992'
 pages: '4'
-description: |-
+description: 
   '1. Préparation du roman
   2. Commentaire composé
   – introduction

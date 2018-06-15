@@ -5,7 +5,7 @@ rubrique: 'Étude de l’image [6e]'
 annee: '1994'
 magazine: 'n°11 15 mai 1995'
 pages: '4'
-description: |-
+description: 
   'Utilisation de l’album en sixième. Mise en évidence de structures littéraires que soulignent les illustrations. Travail sur la connotation et l’intertextualité.
   5. « Tropical Center », de Bruno Heitz
   – résumé

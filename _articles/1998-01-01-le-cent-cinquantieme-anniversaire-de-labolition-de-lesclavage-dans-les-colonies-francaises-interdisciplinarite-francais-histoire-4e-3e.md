@@ -6,7 +6,7 @@ rubrique: 'Interdisciplinarité français, histoire [4e-3e]'
 annee: '1998'
 magazine: 'n°9 15 janvier 1999'
 pages: '17'
-description: |-
+description: 
   'Les commémorations peuvent constituer un levier pour les enseignants, en leur permettant d’enrichir et de structurer la culture, la maîtrise intellectuelle et la présence au monde de leurs élèves.
   – Bibliographie commentée et pistes de travail'
 article_pdf: '3383.pdf'

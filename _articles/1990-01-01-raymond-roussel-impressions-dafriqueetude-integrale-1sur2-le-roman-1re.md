@@ -5,7 +5,7 @@ rubrique: 'Le roman [1re]'
 annee: '1990'
 magazine: 'n°11 1er avril 1991'
 pages: '8'
-description: |-
+description: 
   'Analyse d’« Impressions d’Afrique », l’un des textes essentiels de Raymond Roussel, auteur dont se sont réclamés à la fois les surréalistes et les structuralistes. Ce roman procède d’un travail sur le langage, sur les codes du roman d’aventures et du roman policier…
   1. Situation de Raymond Roussel
   – de l’enfance à l’extase

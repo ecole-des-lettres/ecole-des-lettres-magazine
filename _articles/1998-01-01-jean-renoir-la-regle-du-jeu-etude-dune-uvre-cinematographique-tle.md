@@ -5,7 +5,7 @@ rubrique: 'Étude d’une œuvre cinématographique [Tle]'
 annee: '1998'
 magazine: 'n°10 1er février 1999'
 pages: '25'
-description: |-
+description: 
   'Une théâtralité cinématographique…
   1. Renoir, héritier de la comédie « classique »
   – sur les traces d’Octave

@@ -5,7 +5,7 @@ rubrique: 'Roman historique [4e-3e]'
 annee: '1991'
 magazine: 'n°9 15 mars 1992'
 pages: '6'
-description: |-
+description: 
   '2. Lecture de l’œuvre (suite)
   – Chapitre 2 : synthèse
   – Chapitre 3 : les descriptions de batailles, la lutte pour le pouvoir, l’invention de l’écriture

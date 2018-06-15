@@ -6,7 +6,7 @@ rubrique: 'Théâtre et réécritures [1re]'
 annee: '1997'
 magazine: 'juin 1998'
 pages: '18'
-description: |-
+description: 
   'Un dossier qui montre tout ce qui opposait Stanislavski et Meyerhold dans leur conception de l’œuvre de Gogol…
   – Floraison postrévolutionnaire de l’art russe : le théâtre en URSS après la révolution de 1917
   – « Les Âmes mortes », œuvre révolutionnaire ?

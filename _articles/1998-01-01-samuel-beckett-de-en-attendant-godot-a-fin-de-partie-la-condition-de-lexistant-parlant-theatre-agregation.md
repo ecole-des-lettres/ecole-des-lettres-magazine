@@ -6,7 +6,7 @@ rubrique: 'Théâtre [agrégation]'
 annee: '1998'
 magazine: '1999'
 pages: '24'
-description: |-
+description: 
   '1. Le langage au centre du drame existentiel
   – la crise de la représentation
   – limites et nécessité du langage

@@ -5,7 +5,7 @@ rubrique: 'Poésie [4e-3e]'
 annee: '1991'
 magazine: 'n°14 15 juin 1992'
 pages: '10'
-description: |-
+description: 
   'Initiation au groupement de textes sur le thème de l’enfance autour de sept poèmes de Prévert :
   – « Page d’écriture » (« Paroles »)
   – « L’Enfance » (« Histoires »)

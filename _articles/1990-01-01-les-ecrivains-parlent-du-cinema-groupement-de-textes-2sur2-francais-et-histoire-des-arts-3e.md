@@ -5,7 +5,7 @@ rubrique: 'Français et histoire des arts [3e]'
 annee: '1990'
 magazine: 'n°10 15 mars 1991'
 pages: '10'
-description: |-
+description: 
   'Afin de présenter l’origine et l’histoire du cinéma à des collégiens, les auteurs de l’article choisissent d’analyser son impact sur des spectateurs un peu particuliers : Hélias, Sartre, Cavanna, Martin du Gard, Kaminsky…
   2. La réception du cinéma ou « le chewing-gum des yeux »
   3. Le cinéma, divertissement d’îlotes ou art majeur ?

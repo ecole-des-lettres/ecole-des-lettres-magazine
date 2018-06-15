@@ -5,7 +5,7 @@ rubrique: 'Première guerre mondiale [1re]'
 annee: '1996'
 magazine: 'n°13 1er mai 1997'
 pages: '11'
-description: |-
+description: 
   '1. Les voix de l’initiation
   2. La fascination pour la guerre
   3. La remise en cause du conflit

@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1992'
 magazine: 'n°12 15 mai 1993'
 pages: 238 pages
-description: |-
+description: 
   '1. Préface
   2. Repères chronologiques : 1100-1200
   3. Chrétien de Troyes et son œuvre

@@ -5,7 +5,7 @@ rubrique: 'Antiquité et textes fondateurs [6e-5e] '
 annee: '1990'
 magazine: 'n°3 15 octobre 1990'
 pages: '8'
-description: |-
+description: 
   'Une lecture dirigée de « L’Iliade » dans la collection « Classiques abrégés » (l’école des loisirs) :
   1. Les origines mythiques
   2. Thèmes de recherche :

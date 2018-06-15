@@ -6,7 +6,7 @@ rubrique: 'Expression écrite, contes et TIC [6e]'
 annee: '1993'
 magazine: 'n°4 1er novembre 1993'
 pages: '6'
-description: |-
+description: 
   '4. Les héros rencontrent des êtres fantastiques
   – découverte du lexique (deux heures)
   – travail collectif sur des œuvres d’art (deux heures)

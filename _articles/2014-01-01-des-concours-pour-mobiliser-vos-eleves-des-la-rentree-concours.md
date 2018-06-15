@@ -5,7 +5,7 @@ rubrique: 'Concours'
 annee: '2014'
 magazine: 'n°1'
 pages: '3'
-description: |-
+description: 
   'ÉCOLES
   • L’imagier des dix mots.
   • Les petits artistes de la mémoire.

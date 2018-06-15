@@ -5,7 +5,7 @@ rubrique: 'Didactique des lettres [2de]'
 annee: '1999'
 magazine: 'n°12 15 avril 2000'
 pages: '20'
-description: |-
+description: 
   'Cet article propose de réfléchir sur l’étude de la langue en troisième et en seconde, avec trois objectifs.
   – 1. proposer une réflexion liminaire et nécessaire sur les orientations que prend l’enseignement de la langue française. Que recouvre le terme de « maîtrise de la langue » ? C’est à la notion même d’outils de la langue qu’il faut réfléchir. Car choisir et offrir des outils n’a de sens que si on a idée des usages qu’on en peut faire et des buts que l’on se fixe.
   – 2. faire le point sur les connaissances qu’il est raisonnable d’attendre d’un collégien en fin de troisième : quels outils de la langue devrait-il avoir dans ses bagages ? Cette mise au point permettra de proposer une liste – non exhaustive, pour être essentielle – des compétences à développer chez les élèves. Elle sera accompagnée de quelques suggestions et exemples de pratiques.

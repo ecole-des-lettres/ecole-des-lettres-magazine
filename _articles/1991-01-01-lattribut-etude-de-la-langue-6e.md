@@ -5,7 +5,7 @@ rubrique: 'Étude de la langue [6e]'
 annee: '1991'
 magazine: 'n°3 15 octobre 1991'
 pages: '3'
-description: |-
+description: 
   '1. L’attribut du sujet
   – Approche théorique
   – Approche pédagogique

@@ -5,7 +5,7 @@ rubrique: 'Latin / français /histoire  [6e-5e]'
 annee: '1997'
 magazine: '1998'
 pages: '30'
-description: |-
+description: 
   'Pourquoi étudier « La Guerre des Gaules » ? Parce qu’il s’agit d’un livre unique en son genre, écrit par l’acteur principal des événements rapportés, juste après leur déroulement, pour servir, entre autres, sa propagande ; parce qu’il s’agit de la source écrite la plus importante sur les origines de la France, de la Belgique, de la Suisse, de la Grande-Bretagne et de l’Allemagne ; parce que nos « ancêtres les Gaulois » et Vercingétorix font partie de nos principaux lieux de mémoire, mis en place par le XIXe siècle avec beaucoup de stéréotypes propagés par l’iconographie.
   1. Découverte de l’auteur et de l’œuvre
   2. Histoire et mythe'

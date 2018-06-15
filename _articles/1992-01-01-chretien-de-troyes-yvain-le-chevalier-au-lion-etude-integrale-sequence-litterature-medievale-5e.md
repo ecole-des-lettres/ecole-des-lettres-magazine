@@ -5,7 +5,7 @@ rubrique: 'Littérature médiévale [5e]'
 annee: '1992'
 magazine: 'n°12 15 mai 1993'
 pages: '29'
-description: |-
+description: 
   'Préambule
   * Séance 1. Chapitre 1 : le récit de Calogrenant
   * Séance 2. Chapitres 2 à 4 : la fontaine merveilleuse

@@ -5,7 +5,7 @@ rubrique: 'Essai'
 annee: '2014'
 magazine: ''
 pages: '1'
-description: |-
+description: 
   'Dominique Noguez est un érudit de l’aphorisme, un esthète de la référence, un maniaque de la paternité littéraire. Sa minutie confine à la pathologie : « J’ai cette maladie, écrit-il à la première ligne de sa postface, je veux toujours savoir qui est l’auteur véritable d’une citation. » Et, plus loin, il évoque sa
   famille et sa pratique, « cette sorte d’archéologie ou de paléontologie du bon sens »…'
 article_pdf: '12650.pdf'

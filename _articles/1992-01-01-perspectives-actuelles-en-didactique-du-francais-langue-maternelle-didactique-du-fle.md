@@ -5,7 +5,7 @@ rubrique: 'Didactique du FLE'
 annee: '1992'
 magazine: 'n°9 1er mars 1993'
 pages: '10'
-description: |-
+description: 
   '1. La didactique du français : un champ intellectuel
   – le triangle didactique
   – le quadrilatère des sciences contributoires

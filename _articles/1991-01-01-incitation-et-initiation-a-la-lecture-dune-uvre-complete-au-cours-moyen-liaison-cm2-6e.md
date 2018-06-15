@@ -5,7 +5,7 @@ rubrique: 'Liaison CM2-6e'
 annee: '1991'
 magazine: 'n°6 1er janvier 1992'
 pages: '6'
-description: |-
+description: 
   'Deux objectifs : familiariser l’élève avec l’objet-livre, lui donner l’envie et les moyens de lire…
   1. Savoir repérer, identifier, choisir : visite de la bibliothèque municipale, utilisation de la bibliothèque de la classe, repérer certains indices (nom de l’auteur, titre, illustrateur…), trier les livres, préparer une exposition
   2. Savoir lire un texte long : quels livres choisir ? Quelle démarche adopter ?'

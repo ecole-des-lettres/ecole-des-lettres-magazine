@@ -5,7 +5,7 @@ rubrique: 'Écrire, publier, lire [2de]'
 annee: '1986'
 magazine: 'n°11 15 mars 1987'
 pages: '18'
-description: |-
+description: 
   '1. Le livre conquérant
   – du manuscrit à l’imprimé
   – l’édition : géographie, sollicitations, métiers (1530-1660)

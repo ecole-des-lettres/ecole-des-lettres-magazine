@@ -5,7 +5,7 @@ rubrique: 'Théâtre [1re]'
 annee: '1994'
 magazine: 'n°2 1er octobre 1994'
 pages: '16'
-description: |-
+description: 
   'Dissertation sur un sujet extrait du « Mythe de Sisyphe », d’Albert Camus…
   1. Analyse de la thèse de Camus
   2. Analyse du « Dom Juan » de Molière

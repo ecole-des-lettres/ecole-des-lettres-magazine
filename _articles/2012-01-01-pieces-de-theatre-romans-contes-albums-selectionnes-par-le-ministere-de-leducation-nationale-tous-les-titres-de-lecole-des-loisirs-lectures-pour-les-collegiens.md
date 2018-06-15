@@ -6,7 +6,7 @@ rubrique: 'Lectures pour les collégiens'
 annee: '2012'
 magazine: 'n°2 2012-2013'
 pages: '96'
-description: |-
+description: 
   '– La littérature de jeunesse revient dans les programmes : un événement attendu, par Norbert Czarny
   – « Lectures pour les collégiens »
   Entretien avec Brigitte Réauté (Bureau des collèges, Direction générale de l’enseignement scolaire)

@@ -5,7 +5,7 @@ rubrique: 'Étude de la langue  [6e-5e]'
 annee: '1991'
 magazine: 'n°10 15 avril 1992'
 pages: '2'
-description: |-
+description: 
   '1. L’expression « à ce que »
   2. « Le fait que »
   3. Restrictions combinatoires en français

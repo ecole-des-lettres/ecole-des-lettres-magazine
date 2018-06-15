@@ -5,7 +5,7 @@ rubrique: 'Théâtre [4e-3e]'
 annee: '1992'
 magazine: 'n°2 1er octobre 1992'
 pages: '10'
-description: |-
+description: 
   'Séquence 2 : Le proverbe
   – le proverbe comme comédie de caractères
   – le proverbe comme comédie de mœurs

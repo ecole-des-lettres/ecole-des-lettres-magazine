@@ -5,7 +5,7 @@ rubrique: 'Poésie [1re]'
 annee: '1997'
 magazine: 'n°4 15 octobre 1997'
 pages: '10'
-description: |-
+description: 
   'La forme régulière de ce poème, ainsi que son sujet d’inspiration antique, semblent propices à un apprentissage multiple, que le commentaire composé se propose d’illustrer dans le cadre de l’exercice rédigé.
   1. L’épigramme funéraire
   – l’imitation d’un éloge funèbre à l’antique

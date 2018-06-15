@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse'
 annee: '1988'
 magazine: 'n°11 1er mai 1989'
 pages: '15'
-description: |-
+description: 
   'Résultats d’une enquête sur ce que lisent les collégiens…
   1. Profs, vous faites aimer les livres !
   2. Quels livres aiment-ils ? Genèse des intérêts de la sixième à la troisième'

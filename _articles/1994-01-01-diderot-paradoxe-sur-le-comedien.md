@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1994'
 magazine: 'n°10 15 avril 1995'
 pages: 64 pages
-description: |-
+description: 
   '1. Diderot et le théâtre
   2. Le corps du comédien
   3. La fonction sociale du comédien

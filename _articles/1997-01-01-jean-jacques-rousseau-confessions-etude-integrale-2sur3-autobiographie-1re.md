@@ -5,7 +5,7 @@ rubrique: 'Autobiographie [1re]'
 annee: '1997'
 magazine: '1997'
 pages: '66'
-description: |-
+description: 
   'V. Étude du livre II
   – Orientation générale du livre II
   – L’analyse d’un caractère

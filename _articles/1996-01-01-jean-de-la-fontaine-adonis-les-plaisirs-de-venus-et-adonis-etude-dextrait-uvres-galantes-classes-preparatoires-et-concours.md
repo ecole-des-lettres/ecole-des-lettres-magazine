@@ -6,7 +6,7 @@ rubrique: 'Œuvres galantes [classes préparatoires et concours]'
 annee: '1996'
 magazine: 'n°14 15 mai 1997'
 pages: '8'
-description: |-
+description: 
   'Explication de texte d’un extrait d’« Adonis »…
   1. La parole des origines
   2. La belle recette poétique de l’amour

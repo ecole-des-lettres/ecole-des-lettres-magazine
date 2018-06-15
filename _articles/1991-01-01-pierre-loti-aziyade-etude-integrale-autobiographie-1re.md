@@ -5,7 +5,7 @@ rubrique: 'Autobiographie [1re]'
 annee: '1991'
 magazine: 'n°10 15 avril 1992'
 pages: '30'
-description: |-
+description: 
   '1. Un écrivain méconnu et incompris
   2. Des pistes de travail
   3. « Aziyadé », récit ou roman autobiographique

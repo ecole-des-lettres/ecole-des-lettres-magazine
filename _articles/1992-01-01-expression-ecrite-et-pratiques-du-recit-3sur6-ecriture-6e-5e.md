@@ -5,7 +5,7 @@ rubrique: 'Écriture [6e-5e]'
 annee: '1992'
 magazine: 'n°4 1er novembre 1992'
 pages: '4'
-description: |-
+description: 
   'Vers l’écriture de récits…
   1. Imparfait - passé simple : premiers repères
   2. De l’image au texte : transposition à partir de la planche de Boutet de Monvel illustrant « Le Loup et la Cigogne », de La Fontaine'

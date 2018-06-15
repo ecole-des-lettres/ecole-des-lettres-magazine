@@ -5,7 +5,7 @@ rubrique: 'Lecture [5e]'
 annee: '2002'
 magazine: 'n°3 15 septembre 2002'
 pages: '2'
-description: |-
+description: 
   'Un article qui propose de lire des extraits de romans aux élèves de cinquième.
   – « Attention, ça mord ! », de Louise Cooper
   – « Ouled Roumia ou comment se faire des amis », de Claire Ubac

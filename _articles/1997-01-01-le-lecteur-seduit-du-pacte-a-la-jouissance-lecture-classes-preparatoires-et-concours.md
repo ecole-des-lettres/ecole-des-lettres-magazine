@@ -5,7 +5,7 @@ rubrique: 'Lecture [classes préparatoires et concours]'
 annee: '1997'
 magazine: 'n°14 juillet 1998'
 pages: '8'
-description: |-
+description: 
   'Semblable à celui d’Aladin, le génie, dans la lecture, procède de la toute-puissance imaginaire, du pouvoir magique. À quelles conditions ce génie est-il bienfaisant ou malfaisant, du côté du plaisir, de la jouissance ou, au contraire, du côté non pas de l’angoisse – qui entretient l’excitation et participe de celle-ci –, mais de l’aliénation ?…
   1. Séduction et jouissance esthétique : le narcissique et le sexuel
   2. Le pacte de lecture

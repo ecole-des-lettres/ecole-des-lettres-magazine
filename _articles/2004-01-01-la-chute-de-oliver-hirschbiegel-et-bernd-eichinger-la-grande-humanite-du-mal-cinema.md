@@ -6,7 +6,7 @@ rubrique: 'Cinéma'
 annee: '2004'
 magazine: 'n°5 janvier 2005'
 pages: '9'
-description: |-
+description: 
   'Présentation du film de Oliver Hirschbiegel et Bernd Eichinger, adapté du livre de Joachim Fest :
   « Les Derniers Jours d’Hitler ».'
 article_pdf: '11200.pdf'

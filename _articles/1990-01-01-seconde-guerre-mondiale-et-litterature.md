@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1990'
 magazine: 'n°14 15 juillet 1991'
 pages: 230 pages
-description: |-
+description: 
   '1. « Un balcon en forêt », de Julien Gracq
   2. « Le Fidèle Berger », d’Alexandre Vialatte
   3. « Le Silence de la mer », de Vercors

@@ -5,7 +5,7 @@ rubrique: 'Histoire [5e]'
 annee: '1994'
 magazine: 'n°3 15 octobre 1994'
 pages: '11'
-description: |-
+description: 
   'Étude de deux documents : un extrait des « Moulins de Toulouse au Moyen Âge », de Germain Sicard, et un document sur les moulins de Toulouse, premières sociétés industrielles…
   1. Les moulins de Toulouse au Moyen Âge
   2. Les moulins de Toulouse, premières sociétés industrielles ?

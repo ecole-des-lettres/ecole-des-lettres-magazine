@@ -5,7 +5,7 @@ rubrique: 'Poésie [1re]'
 annee: '1991'
 magazine: 'n°12 1er juin 1992'
 pages: '12'
-description: |-
+description: 
   'Étude comparée de « Nuit rhénane », « Mai », « La Loreley », « Les femmes »…
   1. Analyse des titres
   2. Analyse formelle : composition et versification

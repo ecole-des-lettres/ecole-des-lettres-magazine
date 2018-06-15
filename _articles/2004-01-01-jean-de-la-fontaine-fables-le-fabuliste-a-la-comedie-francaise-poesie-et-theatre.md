@@ -5,7 +5,7 @@ rubrique: 'Poésie et théâtre'
 annee: '2004'
 magazine: 'n°6 février 2005'
 pages: '7'
-description: |-
+description: 
   'Présentation de la mise en scène des
   « Fables » de La Fontaine par Bob Wilson à la Comédie-Française.'
 article_pdf: '11213.pdf'

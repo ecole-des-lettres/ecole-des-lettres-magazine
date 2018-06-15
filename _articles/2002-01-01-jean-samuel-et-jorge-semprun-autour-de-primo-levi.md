@@ -5,7 +5,7 @@ rubrique: ''
 annee: '2002'
 magazine: 'n°6 novembre 2002'
 pages: 48 pages
-description: |-
+description: 
   'Entretiens avec Jean Samuel, compagnon de déportation de Primo Levi à Auschwitz, et Jorge Semprun, dont l’œuvre est traversée par une réflexion sur sa détention à Buchenwald
   Propos recueillis par Yves Stalloni'
 article_pdf: '5049.pdf'

@@ -6,7 +6,7 @@ rubrique: 'Théâtre [5e]'
 annee: '1993'
 magazine: 'n°14 juin 1994'
 pages: '8'
-description: |-
+description: 
   'Lecture comparée de deux scènes : comparaison entre deux scènes de l’« Aulularia » (actes 1 et 4) et la scène 3 de l’acte 1 de « L’Avare »…
   – Première étape : présentation des auteurs et des œuvres
   – Deuxième étape : lecture de la scène de Molière

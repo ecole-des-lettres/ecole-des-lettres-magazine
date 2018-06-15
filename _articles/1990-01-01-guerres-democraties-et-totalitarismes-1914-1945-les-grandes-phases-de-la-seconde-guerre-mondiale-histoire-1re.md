@@ -6,7 +6,7 @@ rubrique: 'Histoire [1re]'
 annee: '1990'
 magazine: 'n°14 15 juillet 1991'
 pages: '8'
-description: |-
+description: 
   '1. Les offensives de l’Axe (1939-1942)
   2. La guerre totale (1942-1945)'
 article_pdf: '241.pdf'

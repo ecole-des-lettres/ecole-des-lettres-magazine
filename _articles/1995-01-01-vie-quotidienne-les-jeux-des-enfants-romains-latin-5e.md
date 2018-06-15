@@ -5,7 +5,7 @@ rubrique: 'Latin [5e]'
 annee: '1995'
 magazine: 'n°4 15 novembre 1995'
 pages: '7'
-description: |-
+description: 
   'Inventaire des jeux en vogue chez les enfants romains, établi à l’aide de textes d’auteurs de l’Antiquité…
   1. Jeux d’éveil, de motricité, d’adresse et de maîtrise du corps
   2. Jeux de hasard

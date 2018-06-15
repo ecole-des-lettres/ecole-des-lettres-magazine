@@ -5,7 +5,7 @@ rubrique: 'Roman contemporain [agrégation]'
 annee: '1998'
 magazine: 'n°7 1er décembre 1998'
 pages: '12'
-description: |-
+description: 
   'Étude de la technique cinématographique utilisée par Claude Simon dans l’écriture de son roman…
   1. La référence explicite
   2. L’art du montage

@@ -5,7 +5,7 @@ rubrique: 'L’analyse d’un document écrit [5e]'
 annee: '1996'
 magazine: 'n°4 1er novembre 1996'
 pages: '5'
-description: |-
+description: 
   'Le document écrit pose souvent problème aux élèves de sixième et cinquième du fait de leur insuffisante maîtrise de la lecture. Cette constatation doit amener à limiter le nombre de documents écrits (trois ou quatre maximum par leçon), et à donner des textes courts, faciles, de préférence narratifs ou descriptifs.
   L’analyse d’un document écrit doit permettre :
   – de le comprendre, c’est-à-dire d’être à même de le présenter, d’en dégager les idées essentielles, de traduire les informations qu’il comporte sous forme d’un résumé, d’un tableau ou d’un schéma ;

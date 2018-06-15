@@ -5,7 +5,7 @@ rubrique: 'Naturalisme et poésie [2de]'
 annee: '2000'
 magazine: 'n°14 15 juin 2001'
 pages: '12'
-description: |-
+description: 
   '1. Première approche
   – une structure antithétique
   – une prose poétique

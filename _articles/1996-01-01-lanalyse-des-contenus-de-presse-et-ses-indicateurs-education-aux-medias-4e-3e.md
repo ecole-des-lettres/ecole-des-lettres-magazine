@@ -5,7 +5,7 @@ rubrique: 'Éducation aux médias [4e-3e]'
 annee: '1996'
 magazine: 'n°8 15 février 1997'
 pages: '8'
-description: |-
+description: 
   '1. L’analyse de contenu comme méthodologie
   – les clés de lecture de l’actualité
   – les principes de l’analyse de contenu : l’observable ; l’indicateur ; le systématique

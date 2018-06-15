@@ -5,7 +5,7 @@ rubrique: 'L’éloge et le blâme'
 annee: '2000'
 magazine: 'n°12 15 avril 2001'
 pages: '20'
-description: |-
+description: 
   '1. 1900-2000 : évolution de la rhétorique dans l’enseignement secondaire
   2. La rhétorique dans les programmes du lycée
   – les configurations de l’analyse du texte littéraire

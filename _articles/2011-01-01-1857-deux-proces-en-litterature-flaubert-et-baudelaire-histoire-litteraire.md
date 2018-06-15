@@ -5,7 +5,7 @@ rubrique: 'Histoire littéraire'
 annee: '2011'
 magazine: '2011'
 pages: '8'
-description: |-
+description: 
   '1857 fut une année terrible pour la littérature française : deux ouvrages comparurent devant la justice. Les débats opposèrent les intérêts de la société défendus par le célèbre procureur Pinard, et ceux du roman et de la poésie, représentés par Flaubert et Baudelaire.
   Maxime Du Camp, l’ami de Flaubert et son compagnon de voyage en Bretagne et, surtout à travers l’Égypte, la Grèce et l’Italie, plante ainsi le décor : « Nous étions à la fin de 1856. La presse périodique vivait – expirait – sous le règne de l’arbitraire et… l’administration n’avait qu’à serrer les doigts pour nous étrangler au coin d’un décret. »
   '

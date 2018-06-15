@@ -5,7 +5,7 @@ rubrique: 'Théâtre [3e]'
 annee: '1994'
 magazine: 'n°1 7 septembre 1994'
 pages: '15'
-description: |-
+description: 
   'Techniques de la tragédie…
   Comment acquérir un vocabulaire théâtral, étudier la notion de mythe, approcher la culture théâtrale et la diversité des textes de la tragédie antique ou classique…
   – La tragédie grecque antique : naissance de la tragédie ; organisation des concours tragiques ; structure d’une tragédie grecque ; l’organisation matérielle ; les auteurs tragiques grecs (Eschyle, Euripide, Sophocle) ; la tragédie latine

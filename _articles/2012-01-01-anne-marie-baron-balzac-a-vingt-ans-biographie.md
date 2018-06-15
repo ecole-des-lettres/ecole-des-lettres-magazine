@@ -5,7 +5,7 @@ rubrique: 'Biographie'
 annee: '2012'
 magazine: 'mars 2012'
 pages: '2'
-description: |-
+description: 
   'Qui est Balzac en 1819 ? Décèle-t-on en lui le génie qui va révolutionner le roman moderne ? C’est à ces questions qu’Anne-Marie Baron répond avec enthousiasme dans un petit ouvrage intitulé « Honoré de Balzac à vingt ans. L’esclave de
   sa volonté »…'
 article_pdf: '12419.pdf'

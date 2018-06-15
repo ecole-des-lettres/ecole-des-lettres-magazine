@@ -6,7 +6,7 @@ rubrique: 'Autobiographie [4e-3e]'
 annee: '1999'
 magazine: '1999'
 pages: '30'
-description: |-
+description: 
   'Du projet d’écriture à l’approche du genre autobiographique.
   Cette séquence (douze séances) est centrée sur l’étude d’un groupement de textes et pensée dans une constante interaction entre lecture et écriture.
   Groupement de textes :

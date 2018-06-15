@@ -5,7 +5,7 @@ rubrique: 'Autobiographie'
 annee: '2002'
 magazine: 'n°9 1er février 2003'
 pages: 50 pages
-description: |-
+description: 
   'L’autobiographie selon Annie Ernaux
   1. Les pratiques autobiographiques d’Annie Ernaux
   – du roman autobiographique à l’« autosociobiographie »

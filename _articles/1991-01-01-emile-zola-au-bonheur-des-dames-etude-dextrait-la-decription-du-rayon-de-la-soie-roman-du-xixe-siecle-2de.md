@@ -6,7 +6,7 @@ rubrique: 'Roman du XIXe siècle [2de]'
 annee: '1991'
 magazine: 'n°8 1er mars 1992'
 pages: '4'
-description: |-
+description: 
   'Étude d’un extrait du chapitre 4, de « À la soie, la foule était aussi venue… » à « …avec l’irrésistible envie de s’y jeter et de s’y perdre ». Ici, le réalisme cède la place à une certaine forme de lyrisme…
   1. Comment la description s’insère dans le récit
   2. Organisation de la description

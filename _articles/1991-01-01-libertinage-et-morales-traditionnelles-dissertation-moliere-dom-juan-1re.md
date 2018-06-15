@@ -5,7 +5,7 @@ rubrique: 'Molière : « Dom Juan » [1re]'
 annee: '1991'
 magazine: 'n°2 1er octobre 1991'
 pages: '4'
-description: |-
+description: 
   'Plan développé pour une composition française :
   1. Les morales traditionnelles
   – les morales sociales

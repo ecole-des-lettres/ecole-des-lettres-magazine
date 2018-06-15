@@ -6,7 +6,7 @@ rubrique: 'Théâtre [1re]'
 annee: '1996'
 magazine: 'n°8 1er février 1997'
 pages: '9'
-description: |-
+description: 
   '1. Dis/symétries
   2. La femme mariée
   3. La demande finale

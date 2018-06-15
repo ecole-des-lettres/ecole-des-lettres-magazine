@@ -5,7 +5,7 @@ rubrique: 'Poésie [1re]'
 annee: '1993'
 magazine: 'n°6 1er janvier 1994'
 pages: '8'
-description: |-
+description: 
   '1. L’hostilité à la curie romaine
   2. Le sentiment national
   3. L’ultime désillusion'

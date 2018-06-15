@@ -5,7 +5,7 @@ rubrique: 'Autobiographie [1re]'
 annee: '1987'
 magazine: 'n°12 15 avril 1988'
 pages: '6'
-description: |-
+description: 
   'Présentation de l’ouvrage…
   1. Voyages en Allemagne et en Autriche
   2. La crise de folie de l’année 1841

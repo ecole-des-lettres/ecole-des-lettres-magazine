@@ -5,7 +5,7 @@ rubrique: 'L'argumentation [4e-3e]'
 annee: '1994'
 magazine: 'n°3 15 octobre 1994'
 pages: '4'
-description: |-
+description: 
   '– le récit analysé
   – le répit dans l’action
   4. Trouver des idées

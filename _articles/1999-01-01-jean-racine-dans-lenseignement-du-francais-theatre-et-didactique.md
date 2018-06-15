@@ -5,7 +5,7 @@ rubrique: 'Théâtre et didactique'
 annee: '1999'
 magazine: '1999'
 pages: '22'
-description: |-
+description: 
   '– Comment Racine est-il étudié au lycée ? Réflexion sur les approches du théâtre de Racine dans le secondaire…
   – Comment Racine est-il étudié au Québec ?
   – Approche des textes dramatiques de Racine par le jeu théâtral…

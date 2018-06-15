@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1987'
 magazine: 'n°6 1er décembre 1987'
 pages: 130 pages
-description: |-
+description: 
   '1. Marguerite Duras, une parole perpétuelle
   2. 1950 : « Un barrage contre le Pacifique »
   3. 1953 : « Les Petits Chevaux de Tarquinia »

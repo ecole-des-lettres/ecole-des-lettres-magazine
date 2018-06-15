@@ -5,7 +5,7 @@ rubrique: 'Roman [1re]'
 annee: '1993'
 magazine: 'n°10 15 avril 1994'
 pages: '24'
-description: |-
+description: 
   'Les réflexions de Balzac sur les rapports qui unissent création artistique et sensibilité immédiate…
   1. Un art prométhéen
   – le discours de Frenhofer : à la recherche du sens perdu (la nature matérielle de la pensée ; dépasser la matière par la matière ; une intuition spiritualiste de l’unité)

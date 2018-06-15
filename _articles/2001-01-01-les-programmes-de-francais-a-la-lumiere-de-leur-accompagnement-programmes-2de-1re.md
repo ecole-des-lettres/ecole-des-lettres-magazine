@@ -5,7 +5,7 @@ rubrique: 'Programmes [2de-1re]'
 annee: '2001'
 magazine: 'n°7 1er décembre 2001'
 pages: '11'
-description: |-
+description: 
   'Un commentaire sur les documents d’accompagnement des nouveaux programmes
   1. Histoire littéraire
   2. Les épreuves et leur préparation

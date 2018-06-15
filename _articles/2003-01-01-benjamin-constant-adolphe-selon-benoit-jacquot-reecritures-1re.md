@@ -5,7 +5,7 @@ rubrique: 'Réécritures [1re]'
 annee: '2003'
 magazine: 'n°12-14 août 2004'
 pages: '17'
-description: |-
+description: 
   '1. Le roman du désamour
   – l’inversion d’un grand mythe littéraire
   – un grand texte « classique »

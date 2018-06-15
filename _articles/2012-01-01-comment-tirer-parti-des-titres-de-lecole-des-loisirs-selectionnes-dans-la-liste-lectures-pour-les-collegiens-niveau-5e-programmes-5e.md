@@ -6,7 +6,7 @@ rubrique: 'Programmes [5e]'
 annee: '2012'
 magazine: 'n°2 2012-2013'
 pages: '9'
-description: |-
+description: 
   'Ces fiches proposent Présentation de l’ouvrage, de son auteur et quelques suggestions de pistes pédagogiques pour les titres de la liste « Lectures pour les collégiens » concernant le niveau cinquième.
   – Lesley Beake, « Sans domicile fixe »
   – Sylvie Dodeller, « Léonard de Vinci », « Molière »

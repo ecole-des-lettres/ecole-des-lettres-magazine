@@ -5,7 +5,7 @@ rubrique: 'Poésie [4e-3e]'
 annee: '2004'
 magazine: 'n°3 1er novembre 2004'
 pages: '18'
-description: |-
+description: 
   'Préparation aux épreuves de didactique du CAPES interne.
   Sujet : « Dans la perspective de l’étude de la poésie lyrique en classe de troisième, vous entreprendrez l’étude du corpus suivant. Vous en proposerez une exploitation didactique sous la forme d’un projet de séquence incluant une séance d’étude de la langue. »
   Corpus :

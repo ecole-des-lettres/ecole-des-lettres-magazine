@@ -5,7 +5,7 @@ rubrique: 'Roman contemporain [1re-Tle]'
 annee: '1997'
 magazine: 'n°5 1er novembre 1997'
 pages: '14'
-description: |-
+description: 
   'Dans « La Chute », le cercle devient à la fois la représentation de l’univers moral de Clamence, du monde spatio-temporel dans lequel il se situe, de la forme et des fonctions du discours qu’il prononce…
   1. Le cercle et l’univers moral de Clamence
   – le « royaume » et ses symboles

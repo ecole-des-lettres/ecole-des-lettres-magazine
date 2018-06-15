@@ -6,7 +6,7 @@ rubrique: 'Roman contemporain [2de]'
 annee: '1990'
 magazine: 'n°14 15 juillet 1991'
 pages: '6'
-description: |-
+description: 
   '1. Statut et résumé des trois textes
   2. Présence de l’Occupation
   3. Sauver le père'

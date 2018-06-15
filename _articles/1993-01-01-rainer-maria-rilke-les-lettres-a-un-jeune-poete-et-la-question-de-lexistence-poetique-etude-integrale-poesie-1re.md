@@ -6,7 +6,7 @@ rubrique: 'Poésie [1re]'
 annee: '1993'
 magazine: 'n°2 1er octobre 1993'
 pages: '28'
-description: |-
+description: 
   '– La poésie ne s’enseigne pas
   – Existence et création
   – Apprendre à voir la vraie richesse

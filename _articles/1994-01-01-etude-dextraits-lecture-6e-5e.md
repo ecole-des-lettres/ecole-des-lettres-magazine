@@ -5,7 +5,7 @@ rubrique: 'Lecture [6e-5e]'
 annee: '1994'
 magazine: 'n°1 7 septembre 1994'
 pages: '6'
-description: |-
+description: 
   'Il s’agit d’évaluer l’aptitude des élèves de sixième-cinquième à se repérer dans un texte, à opérer des recoupements et à dégager une cohérence des textes lus…
   – Grel-le-Grillon et Jean-le-Loup, extrait de « Jean-le-Loup », de Jean Nesmy : questions et corrections
   – Le portefaix et le rôtisseur, d’après « Pantagruel », de Rabelais : questions et corrections'

@@ -5,7 +5,7 @@ rubrique: 'Littérature médiévale [5e]'
 annee: '1992'
 magazine: 'n°12 15 mai 1993'
 pages: '10'
-description: |-
+description: 
   '1. L’espace dans la structure du récit
   – tableau récapitulatif des différents lieux (la cour du roi Arthur, la fontaine merveilleuse, la forêt ou l’essart)
   – l’autre monde (une géographie imaginaire ; la tradition celtique)

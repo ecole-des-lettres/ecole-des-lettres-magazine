@@ -5,7 +5,7 @@ rubrique: 'Argumentation [1re]'
 annee: '2003'
 magazine: 'n°4 15 octobre 2003'
 pages: '32'
-description: |-
+description: 
   'Au cours de l’épreuve d’admissibilité au Capes interne de lettres modernes, « les candidats, dans un devoir rédigé et argumenté, analysent les textes, en fonction d’une problématique indiquée par le sujet ; proposent une exploitation didactique de ces textes, sous la forme d’un projet de séquence destinée à la classe de collège ou de lycée indiquée par le sujet. Il appartient au candidat de déterminer l’objectif qu’il fixe à sa séquence. »
   Le sujet proposé dans cet article est le suivant : « Dans la perspective de l’étude de l’argumentation en classe de première, vous proposerez une exploitation didactique de ce corpus sous la forme d’un projet de séquence incluant une séance d’étude de la langue. »
   Corpus :

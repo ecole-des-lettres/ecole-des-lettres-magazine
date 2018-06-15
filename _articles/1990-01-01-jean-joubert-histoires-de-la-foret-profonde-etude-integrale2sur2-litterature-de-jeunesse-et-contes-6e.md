@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et contes [6e]'
 annee: '1990'
 magazine: 'n°10 15 mars 1991'
 pages: '10'
-description: |-
+description: 
   'Suite de l’étude de l’ouvrage de Jean Joubert…
   3. Étude de l’histoire intitulée « Dans la forêt profonde » : la solitude de Sébastien, l’exploration de la forêt, Sébastien et Maria, la mort de Maria et la métamorphose de Sébastien
   4. Étude des « Beaux Chasseurs de Briche et de Bruche » : le portrait des chasseurs, la chasse et la guerre, enquête

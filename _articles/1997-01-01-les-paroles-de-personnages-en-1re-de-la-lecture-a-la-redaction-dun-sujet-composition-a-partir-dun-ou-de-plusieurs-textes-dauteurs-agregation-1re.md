@@ -6,7 +6,7 @@ rubrique: 'Composition à partir d’un ou de plusieurs textes d’auteurs [agr�
 annee: '1997'
 magazine: '1997'
 pages: '26'
-description: |-
+description: 
   'Élaborer un projet didactique pertinent pour une classe de première à partir de cinq extraits :
   – un extrait du « Tartuffe », de Molière
   – un extrait des « Caractères », de La Bruyère

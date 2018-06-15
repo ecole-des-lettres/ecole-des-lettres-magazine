@@ -5,7 +5,7 @@ rubrique: 'Groupement de textes [2de-1re]'
 annee: '1992'
 magazine: 'n°11 15 avril 1993'
 pages: '22'
-description: |-
+description: 
   'La réflexion théorique de Montesquieu…
   1. Étude partielle de « L’Esprit des lois »
   – la nature et le principe du gouvernement despotique

@@ -6,7 +6,7 @@ rubrique: 'Poésie [1re]'
 annee: '2002'
 magazine: 'n°11 mars 2003'
 pages: '15'
-description: |-
+description: 
   '1. La description d’un « objet sensible »
   – « Elle », l’objet textuel
   – un objet cultuel

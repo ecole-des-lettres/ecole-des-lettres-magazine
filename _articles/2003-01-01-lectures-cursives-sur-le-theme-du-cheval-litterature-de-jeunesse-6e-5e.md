@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse [6e-5e]'
 annee: '2003'
 magazine: 'n°8 15 janvier 2004'
 pages: '2'
-description: |-
+description: 
   'De tous les animaux, le cheval est celui qui suscite généralement le plus d’engouement auprès des jeunes adolescents. Ils sont nombreux à réclamer des livres sur ce thème. Outre les classiques incontournables comme « Crin Blanc » ou « Mon Ami Flicka », il existe une liste impressionnante de livres sur le cheval. Tous n’ont cependant pas le même intérêt ou la même qualité. Cet article présente un corpus dans lequel chaque livre nous fait voyager avec le cheval, soit dans le temps, soit dans l’espace. Le lecteur peut ainsi doublement s’enrichir.
   – Cesco Khan : « Cheval des steppes »
   – Anne Labbé : « Cheval soleil »

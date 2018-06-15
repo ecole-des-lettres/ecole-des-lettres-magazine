@@ -6,7 +6,7 @@ rubrique: 'Roman [2de]'
 annee: '1993'
 magazine: 'n°13-14 juillet 1994'
 pages: '16'
-description: |-
+description: 
   'Analyse de la façon dont le destin tragique du personnage s’exprime dans son langage et dans l’écriture de Hugo…
   1. Le sujet lyrique
   2. La distance intérieure

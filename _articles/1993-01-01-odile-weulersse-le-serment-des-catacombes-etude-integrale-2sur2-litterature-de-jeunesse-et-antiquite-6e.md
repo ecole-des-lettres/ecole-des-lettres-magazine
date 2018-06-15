@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et Antiquité [6e]'
 annee: '1993'
 magazine: 'n°6 15 décembre 1993'
 pages: '15'
-description: |-
+description: 
   '* Séance 4. Le serment des catacombes (étude des chapitres 9 et 10)
   – les monuments romains
   – les catacombes

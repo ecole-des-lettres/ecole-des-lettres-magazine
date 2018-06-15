@@ -6,7 +6,7 @@ rubrique: 'Interdisciplinarité français, latin [5e]'
 annee: '1993'
 magazine: 'n°4 1er novembre 1993'
 pages: '6'
-description: |-
+description: 
   'Objectif : harmoniser autour d’un thème commun cours de français et de latin (six séances)
   * Séance 3. Observation du texte latin
   – extrait du « Rudens », comédie de Plaute : questions de grammaire, corrections, expression écrite

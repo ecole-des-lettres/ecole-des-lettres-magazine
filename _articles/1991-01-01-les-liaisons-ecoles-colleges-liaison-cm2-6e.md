@@ -5,7 +5,7 @@ rubrique: 'Liaison CM2-6e'
 annee: '1991'
 magazine: 'n°6 1er janvier 1992'
 pages: '4'
-description: |-
+description: 
   '– Utilité des liaisons écoles-collèges pour l’élève
   – Utilité des liaisons écoles-collèges pour les enseignants
   – Utilité des liaisons écoles-collèges concertées

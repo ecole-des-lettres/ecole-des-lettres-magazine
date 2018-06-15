@@ -5,7 +5,7 @@ rubrique: 'Lecture [4e-3e]'
 annee: '1992'
 magazine: 'n°13 1er juin 1993'
 pages: '18'
-description: |-
+description: 
   '1. Approche typologique
   – questions de définition
   – exercice d’introduction : un exercice pour aider les élèves à différencier les textes informatifs brefs, mais classables, des textes courts inclassables

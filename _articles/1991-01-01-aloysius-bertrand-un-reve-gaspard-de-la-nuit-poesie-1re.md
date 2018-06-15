@@ -5,7 +5,7 @@ rubrique: 'Poésie [1re]'
 annee: '1991'
 magazine: 'n°6 1er janvier 1992'
 pages: '6'
-description: |-
+description: 
   'Étude de « Un rêve », tiré de « Gaspard de la Nuit »…
   1. Une combinatoire savante
   2. Les composantes du rêve

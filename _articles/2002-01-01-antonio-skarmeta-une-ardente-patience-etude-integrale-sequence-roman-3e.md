@@ -5,7 +5,7 @@ rubrique: 'Roman [3e]'
 annee: '2002'
 magazine: 'n°10 1er mars 2003'
 pages: '30'
-description: |-
+description: 
   'Le choix de ce court roman – adapté au cinéma sous le titre « Le Facteur » – peut surprendre : l’écrivain, la période et le pays (le Chili) sont en effet méconnus des élèves, et il faut signaler la présence de certaines scènes érotiques. Mais la lecture de ce roman permet d’aborder, comme le préconisent les instructions officielles, une œuvre de littérature étrangère du XXe siècle, ainsi que le registre humoristique. Elle offre aussi la possibilité de faire le lien entre plusieurs objectifs du programme de troisième :
   – approcher la poésie engagée à travers la figure du poète chilien Pablo Neruda ;
   – déceler l’intertextualité et l’utilisation romanesque de l’autobiographie grâce à la confrontation du roman avec un chapitre des

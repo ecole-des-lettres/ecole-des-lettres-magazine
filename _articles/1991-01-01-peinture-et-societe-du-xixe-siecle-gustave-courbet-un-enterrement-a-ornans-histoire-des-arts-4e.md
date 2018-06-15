@@ -6,7 +6,7 @@ rubrique: 'Histoire des arts  [4e]'
 annee: '1991'
 magazine: 'n°4 1er novembre 1991'
 pages: '10'
-description: |-
+description: 
   'Présentation du tableau de Courbet :
   – orientations pédagogiques : lecture détaillée d’une œuvre, liaison entre peinture et contexte politique, modifications de perception d’un objet culturel
   – lectures : description-identification, les raisons d’un scandale'

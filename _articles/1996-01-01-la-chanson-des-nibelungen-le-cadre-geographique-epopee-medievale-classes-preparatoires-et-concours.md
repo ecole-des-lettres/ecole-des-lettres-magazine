@@ -5,7 +5,7 @@ rubrique: 'Épopée médiévale [classes préparatoires et concours] '
 annee: '1996'
 magazine: 'n°5 1er décembre 1996'
 pages: '2'
-description: |-
+description: 
   '1. La réalité des XIIe-XIIIe siècles
   2. Le poète et la connaissance des lieux'
 article_pdf: '2462.pdf'

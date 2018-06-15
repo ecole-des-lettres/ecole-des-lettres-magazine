@@ -5,7 +5,7 @@ rubrique: 'Roman contemporain [1re]'
 annee: '1994'
 magazine: 'n°14 1er juillet 1995'
 pages: '14'
-description: |-
+description: 
   '1. Un roman du deuil
   – la « martingale triste »
   – l’anamorphose textuelle

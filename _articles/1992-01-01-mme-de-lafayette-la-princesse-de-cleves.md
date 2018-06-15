@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1992'
 magazine: 'n°2 1er octobre 1992'
 pages: 44 pages
-description: |-
+description: 
   '1. Dossier, relecture 
   – histoire littéraire 
   – un récit simple et savant 

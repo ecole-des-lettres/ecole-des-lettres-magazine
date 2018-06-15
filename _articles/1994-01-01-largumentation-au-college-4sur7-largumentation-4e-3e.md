@@ -5,7 +5,7 @@ rubrique: ' L'argumentation [4e-3e]'
 annee: '1994'
 magazine: 'n°4 15 novembre 1994'
 pages: '4'
-description: |-
+description: 
   '– le « brainstorming »
   – la règle des cinq W (what ? who ? when ? where ? why ?) : description ; exemple
   – le changement de point de vue'

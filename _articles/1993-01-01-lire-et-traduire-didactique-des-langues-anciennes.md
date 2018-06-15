@@ -5,7 +5,7 @@ rubrique: 'Didactique des langues anciennes'
 annee: '1993'
 magazine: 'n°11 1er juin 1994'
 pages: '4'
-description: |-
+description: 
   '1. « Lire et traduire »
   2. Méthode de traduction
   3. Comment entraîner à la compréhension ?'

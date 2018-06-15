@@ -5,7 +5,7 @@ rubrique: 'Programme [2de-Tle]'
 annee: '1998'
 magazine: 'n°3 15 septembre 1998'
 pages: '17'
-description: |-
+description: 
   '1. L’étude de l’œuvre intégrale d’après les instructions officielles
   – les objectifs de l’étude des œuvres intégrales
   – les cadres donnés par les instructions officielles

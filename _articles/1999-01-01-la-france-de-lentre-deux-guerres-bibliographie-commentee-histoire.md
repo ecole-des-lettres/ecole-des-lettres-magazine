@@ -5,7 +5,7 @@ rubrique: 'Histoire'
 annee: '1999'
 magazine: 'n°11 15 mars 2000'
 pages: '5'
-description: |-
+description: 
   '1. Les manuels du secondaire
   2. Généralités sur la France
   3. Thèmes précis : relations internationales, colonisation, économie, vie politique, société, culture, cinéma (Jean Renoir)…'

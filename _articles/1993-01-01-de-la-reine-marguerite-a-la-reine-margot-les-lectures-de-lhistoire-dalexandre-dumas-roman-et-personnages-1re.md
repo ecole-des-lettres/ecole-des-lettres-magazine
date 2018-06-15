@@ -6,7 +6,7 @@ rubrique: 'Roman et personnages [ 1re]'
 annee: '1993'
 magazine: 'n°13-14 juillet 1994'
 pages: '20'
-description: |-
+description: 
   '1. Marguerite de Valois, personnage de légende
   2. Héroïne ou bête noire : les contradictions des débuts du XIXe siècle
   3. La rupture dumasienne : la naissance de la reine Margot

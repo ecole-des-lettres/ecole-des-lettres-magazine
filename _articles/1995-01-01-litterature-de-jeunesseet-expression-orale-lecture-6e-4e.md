@@ -5,7 +5,7 @@ rubrique: 'Lecture [6e-4e]'
 annee: '1995'
 magazine: 'n°6 1er janvier 1996'
 pages: '4'
-description: |-
+description: 
   'Présentation orale d’un livre par un élève à ses camarades et guides de préparation sur les deux titres suivants :
   1. « Tout ce qu’on ne dit pas », d’Agnès Desarthe (sixième)
   2. « L’assassin est un fantôme », de François Charles (quatrième)'

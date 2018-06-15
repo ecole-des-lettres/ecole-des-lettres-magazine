@@ -5,7 +5,7 @@ rubrique: 'nLittérature médiévale [5e]'
 annee: '1992'
 magazine: 'n°12 15 mai 1993'
 pages: '8'
-description: |-
+description: 
   'Quelques éléments sur Chrétien de Troyes, ainsi que sur son œuvre :
   – « Érec et Énide »
   – « Cligès »

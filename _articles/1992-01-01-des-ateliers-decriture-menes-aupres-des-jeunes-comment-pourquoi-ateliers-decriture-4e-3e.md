@@ -5,7 +5,7 @@ rubrique: 'Ateliers d'écriture [4e-3e]'
 annee: '1992'
 magazine: 'n°9 1er mars 1993'
 pages: '12'
-description: |-
+description: 
   'Compte rendu d’une conférence donnée en 1989 par Nadine Brun-Cosme, auteur de livres pour la jeunesse et animatrice d’ateliers d’écriture : « Faire écrire les jeunes pour les faire lire »…
   1. Fragments d’une séquence ou… l’histoire d’un ventre
   2. Différents types d’animations

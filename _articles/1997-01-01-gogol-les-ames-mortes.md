@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1997'
 magazine: 'juin 1998'
 pages: 40 pages
-description: |-
+description: 
   '1. Gogol et « Les Âmes mortes »
   2. « Les Âmes mortes », drame (1932) d’après l’œuvre de Gogol : de Stanislavski à Meyerhold
   Dossier réalisé par Wanda Bannour'

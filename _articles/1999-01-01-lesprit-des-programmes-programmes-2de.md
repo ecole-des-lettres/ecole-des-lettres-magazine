@@ -5,7 +5,7 @@ rubrique: 'Programmes [2de]'
 annee: '1999'
 magazine: 'n°7 1er décembre 1999'
 pages: '15'
-description: |-
+description: 
   'La réforme des programmes de français présentée par l’un de ses concepteurs…
   1. L’esprit des programmes
   2. Ne pas confondre l’acte éducatif et l’examen

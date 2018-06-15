@@ -6,7 +6,7 @@ rubrique: 'Histoire [4e]'
 annee: '1996'
 magazine: 'n°9 1er mars 1997'
 pages: '4'
-description: |-
+description: 
   'L’étude, en cours de français, des « Misérables », de Victor Hugo, offre au professeur d’histoire l’occasion de travailler avec son collègue de français sur la période de la Restauration, déterminante pour la compréhension du XIXe siècle, que les élèves étudieront en troisième. Cet article propose une introduction à ces années clés de l’histoire de France, et, sachant que le roman est bâti sur des retours en arrière, quelques points de repère sur les années qui ont précédé 1815.
   1. Évocation de la Révolution
   – la France des Thermidoriens

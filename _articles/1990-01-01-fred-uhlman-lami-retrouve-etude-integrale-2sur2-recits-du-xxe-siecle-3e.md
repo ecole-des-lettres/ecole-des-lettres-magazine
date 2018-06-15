@@ -5,7 +5,7 @@ rubrique: 'Récits du XXe siècle [3e]'
 annee: '1990'
 magazine: 'n°6 15 décembre 1990'
 pages: '8'
-description: |-
+description: 
   '– séquence 3 : chapitres 6 et 7
   – séquence 4 : chapitres 8 à 12
   – séquence 5 : chapitres 13 à 15

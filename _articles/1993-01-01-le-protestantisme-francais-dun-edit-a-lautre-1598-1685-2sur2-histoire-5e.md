@@ -5,7 +5,7 @@ rubrique: 'Histoire [5e] '
 annee: '1993'
 magazine: 'n°5 1er décembre 1993'
 pages: '20'
-description: |-
+description: 
   '3. Les protestants de 1598 à 1685 (suite)
   – les moyens de réduire « ceux de ladite religion »
   4. La révocation de l’édit de Nantes

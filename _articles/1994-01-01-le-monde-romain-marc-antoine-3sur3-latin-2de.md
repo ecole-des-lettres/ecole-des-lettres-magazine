@@ -5,7 +5,7 @@ rubrique: 'Latin [2de]'
 annee: '1994'
 magazine: 'n°12 15 mai 1995'
 pages: '19'
-description: |-
+description: 
   'Groupement de textes autour du personnage de Marc Antoine…
   4. Virgile : la bataille d’Actium
   – texte extrait du chant 8 de l’« Énéide »

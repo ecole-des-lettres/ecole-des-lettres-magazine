@@ -5,7 +5,7 @@ rubrique: 'Écrire, publier, lire [2de]'
 annee: '1992'
 magazine: 'n°13 1er juin 1993'
 pages: '12'
-description: |-
+description: 
   '« Ce métier terrible d’écrire tous les jours »…
   – la chronique et ses codes
   – les œuvres et les hommes

@@ -5,7 +5,7 @@ rubrique: 'Contes et étude de l’image : cinéma [6e]'
 annee: '1991'
 magazine: 'n°1 15 septembre 1991'
 pages: '6'
-description: |-
+description: 
   'Le conte « La Belle et la Bête » sert de support à ce projet pédagogique qui met en évidence les questions relatives à la transposition d’un texte à l’écran.
   Schémas narratifs du conte et du film sont mis en parallèle…'
 article_pdf: '470.pdf'

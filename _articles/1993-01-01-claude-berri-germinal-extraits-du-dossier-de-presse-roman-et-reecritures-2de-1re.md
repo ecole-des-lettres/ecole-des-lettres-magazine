@@ -5,7 +5,7 @@ rubrique: 'Roman et réécritures [2de-1re]'
 annee: '1993'
 magazine: 'n°4 1er novembre 1993'
 pages: '10'
-description: |-
+description: 
   '– Entretien avec Renaud
   – Entretien avec Gérard Depardieu
   – Entretien avec Miou-Miou

@@ -6,7 +6,7 @@ rubrique: 'Littérature médiévale [Tle]'
 annee: '1996'
 magazine: 'n°10 1er mars 1997'
 pages: '6'
-description: |-
+description: 
   '– Éditions et traductions
   – Ouvrages d’ensemble sur « Le Chevalier de la charrette »
   – Études particulières : sur les sources et les thèmes, sur la composition et les significations, sur Lancelot, sur les autres personnages et les relations humaines, sur le style, sur le prologue, etc.

@@ -5,7 +5,7 @@ rubrique: 'Écrire, publier, lire [2de]'
 annee: '1986'
 magazine: 'n°11 15 mars 1987'
 pages: '6'
-description: |-
+description: 
   'Quelques points de repère biographiques
   1. « Tlön Uqbar Orbis Tertius », ouverture des « Fictions »
   2. La Bibliothèque de Babel

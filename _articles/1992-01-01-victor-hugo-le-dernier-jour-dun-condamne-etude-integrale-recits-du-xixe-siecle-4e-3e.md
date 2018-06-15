@@ -5,7 +5,7 @@ rubrique: 'Récits du XIXe siècle [4e-3e]'
 annee: '1992'
 magazine: 'n°8 1er février 1993'
 pages: '10'
-description: |-
+description: 
   '1. Introduction
   – déroulement de la lecture
   – documentation

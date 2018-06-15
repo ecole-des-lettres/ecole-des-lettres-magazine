@@ -5,7 +5,7 @@ rubrique: 'Littérature médiévale [Tle]'
 annee: '2000'
 magazine: 'n°14 15 juin 2001'
 pages: '6'
-description: |-
+description: 
   '1. Un guerrier mythique
   – deux combats fondateurs
   – les blessures

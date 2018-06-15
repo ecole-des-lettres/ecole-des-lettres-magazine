@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse, fantastique et roman policier [5e]'
 annee: '2002'
 magazine: 'n°8 1er janvier 2003'
 pages: '2'
-description: |-
+description: 
   'Un article qui propose de lire des extraits de romans aux élèves de cinquième.
   – « Minuit-Cinq », de Malika Ferdjoukh
   – « Chambre 203 », de Cécile Demeyère-Fogelgesang

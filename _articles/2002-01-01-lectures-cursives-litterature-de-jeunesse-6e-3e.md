@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse [6e-3e] '
 annee: '2002'
 magazine: 'n°2 août 2002'
 pages: '8'
-description: |-
+description: 
   'Cet article a pour objectif de présenter des romans faciles et agréables à lire pour les élèves. Le choix des titres se fait selon deux critères : le plaisir que les collégiens peuvent tirer de la lecture et la qualité des œuvres.
   Titres proposés:
   – « Drôle de magicien ! », de Pete Johnson

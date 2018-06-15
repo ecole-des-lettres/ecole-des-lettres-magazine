@@ -5,7 +5,7 @@ rubrique: 'Lecture [ 6e-4e]'
 annee: '1996'
 magazine: 'n°14 1er juin 1997'
 pages: '4'
-description: |-
+description: 
   'Présentation orale d’un livre par un élève à ses camarades et guides de préparation sur les titres suivants :
   1. « Les Larmes de mon père », d’Adeline Yzac (sixième)
   2. « Amies sans frontières », d’Hélène Montardre (cinquième)

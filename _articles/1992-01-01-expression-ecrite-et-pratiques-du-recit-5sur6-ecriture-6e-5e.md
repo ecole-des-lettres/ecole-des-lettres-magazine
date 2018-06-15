@@ -5,7 +5,7 @@ rubrique: 'Écriture [6e-5e]'
 annee: '1992'
 magazine: 'n°10 15 mars 1993'
 pages: '8'
-description: |-
+description: 
   '1. La technique du dialogue
   – la distinction récit / discours rapporté
   – dire… mais comment ?

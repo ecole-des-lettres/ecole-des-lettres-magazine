@@ -6,7 +6,7 @@ rubrique: 'Théâtre et réécritures [1re]'
 annee: '1997'
 magazine: 'n°7 1er décembre 1997'
 pages: '17'
-description: |-
+description: 
   '1. Les trois Électre antiques
   – éléments communs aux trois Électre : l’esclavage, la révolte
   – les évolutions d’Électre : l’attitude psychologique ; la conduite à propos du meurtre ; le comportement religieux

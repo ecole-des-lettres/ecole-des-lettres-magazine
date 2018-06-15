@@ -5,7 +5,7 @@ rubrique: 'Nouvelles et textes brefs [5e-4e]'
 annee: '2002'
 magazine: 'n°3 15 septembre 2002'
 pages: '11'
-description: |-
+description: 
   '2. « Les Hommes », de Gabriel Deblander
   L’article est suivi d’une bibliographie.'
 article_pdf: '4649.pdf'

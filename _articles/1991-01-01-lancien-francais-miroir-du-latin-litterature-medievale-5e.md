@@ -5,7 +5,7 @@ rubrique: 'Littérature médiévale  [5e]'
 annee: '1991'
 magazine: 'n°8 15 février 1992'
 pages: '10'
-description: |-
+description: 
   '1. À quelle époque a-t-on cessé de parler le latin ?
   2. L’ancien français
   3. Les amants surpris dans la forêt : reproduction de l’extrait en ancien français (version de Béroul) et traduction

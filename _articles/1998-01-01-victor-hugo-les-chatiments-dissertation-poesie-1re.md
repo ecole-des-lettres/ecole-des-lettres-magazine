@@ -5,7 +5,7 @@ rubrique: 'Poésie [1re]'
 annee: '1998'
 magazine: 'n°7 1er décembre 1998'
 pages: '15'
-description: |-
+description: 
   'Quatre sujets de dissertation sont proposés, analysés et suivis chacun d’un plan détaillé :
   – « Les Châtiments », œuvre épique
   – la « poésie-ménagerie »

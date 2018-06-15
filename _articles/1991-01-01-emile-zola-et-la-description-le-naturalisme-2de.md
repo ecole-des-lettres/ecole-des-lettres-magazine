@@ -5,7 +5,7 @@ rubrique: 'Le naturalisme [2de]'
 annee: '1991'
 magazine: 'n°8 1er mars 1992'
 pages: '16'
-description: |-
+description: 
   'Pour Zola, la description est indissociable du récit : décrire n’est plus un exercice de peintre mais une analyse du milieu…
   1. Une nécessité de savant
   2. Les leçons d’optique d’un naturaliste

@@ -5,7 +5,7 @@ rubrique: 'Littérature fantastique [classes préparatoires]'
 annee: '1992'
 magazine: 'n°10 15 mars 1993'
 pages: '24'
-description: |-
+description: 
   '1. « Le Diable amoureux », récit initiatique ou la vérité cachée
   – l’allure apparente d’un roman de formation
   – la structure d’un récit initiatique

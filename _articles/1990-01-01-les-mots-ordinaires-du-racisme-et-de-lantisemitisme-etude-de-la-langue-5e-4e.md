@@ -5,7 +5,7 @@ rubrique: 'Étude de la langue [5e-4e]'
 annee: '1990'
 magazine: 'n°2 1er octobre 1990'
 pages: '4'
-description: |-
+description: 
   'Une meilleure connaissance du vocabulaire permet de percevoir les connotations de certains termes…
   1. Les termes « neutres »
   2. Les termes « injurieux » et péjoratifs

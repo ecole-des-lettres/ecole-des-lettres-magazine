@@ -5,7 +5,7 @@ rubrique: 'Nouvelles [2de]'
 annee: '1994'
 magazine: 'n°3 1er novembre 1994'
 pages: '10'
-description: |-
+description: 
   '3. Les figures féminines
   – tableau des figures féminines dans chacune des nouvelles de « La Mille et Deuxième Nuit »
   – une beauté à contempler

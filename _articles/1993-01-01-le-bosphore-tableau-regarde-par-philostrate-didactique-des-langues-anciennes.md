@@ -5,7 +5,7 @@ rubrique: 'Didactique des langues anciennes'
 annee: '1993'
 magazine: 'n°11 1er juin 1994'
 pages: '14'
-description: |-
+description: 
   'Autour de Philostrate, « La Galerie de tableaux »…
   1. La peinture peut parler, la parole peut peindre
   2. Le soleil noir de la mélancolie

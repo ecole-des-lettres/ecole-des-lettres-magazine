@@ -5,7 +5,7 @@ rubrique: 'Didactique des lettres'
 annee: '1992'
 magazine: 'n°9 1er mars 1993'
 pages: '8'
-description: |-
+description: 
   'Des recherches pour expliquer les difficultés de la rédaction…
   – Les représentations traditionnelles des processus rédactionnels
   – L’observation des scripteurs

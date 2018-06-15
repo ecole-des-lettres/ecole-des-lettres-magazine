@@ -5,7 +5,7 @@ rubrique: 'Récits du XXe siècle [3e]'
 annee: '1990'
 magazine: 'n°5 15 novembre 1990'
 pages: '6'
-description: |-
+description: 
   '1. Des prolongements de lecture conseillés au professeur
   2. Présentation de l’écrivain
   3. Plan d’étude en six séquences

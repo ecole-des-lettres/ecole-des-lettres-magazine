@@ -5,7 +5,7 @@ rubrique: 'Épopée médiévale  [classes préparatoires et concours]'
 annee: '1996'
 magazine: 'n°5 1er décembre 1996'
 pages: '4'
-description: |-
+description: 
   '1. « Siegfried »
   2. La fin des Burgondes'
 article_pdf: '2459.pdf'

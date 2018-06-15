@@ -6,7 +6,7 @@ rubrique: 'Éducation '
 annee: '2014'
 magazine: ''
 pages: '3'
-description: |-
+description: 
   'Cet article propose des séquences en accompagnement personnalisé susceptibles d’offrir une véritable progression sur l’année dans le domaine de l’argumentation :
   –  première séquence : « Pour une première approche raisonnée de l’argumentation ; de l’oral vers l’écrit » ;
   – deuxième séquence : « L’argumentation au service du commentaire littéraire » ;

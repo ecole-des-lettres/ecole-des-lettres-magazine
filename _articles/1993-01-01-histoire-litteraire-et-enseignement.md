@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1993'
 magazine: 'n°7 1er février 1994'
 pages: 136 pages
-description: |-
+description: 
   '1. Deux précurseurs de l’histoire littéraire au XVIIIe siècle : La Harpe, Mme de Staël
   2. Le statut de l’histoire littéraire dans l’enseignement secondaire à la fin du XVIIIe et au début du XIXe siècle
   3. Savoir et discipline d’enseignement aux origines de l’histoire littéraire

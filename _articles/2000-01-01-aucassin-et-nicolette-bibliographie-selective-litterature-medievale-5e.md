@@ -5,7 +5,7 @@ rubrique: 'Littérature médiévale [5e]'
 annee: '2000'
 magazine: 'n°9 15 janvier 2001'
 pages: '5'
-description: |-
+description: 
   '– Éditions de référence
   – Autres éditions et traductions
   – Études générales consacrées à « Aucassin et Nicolette »

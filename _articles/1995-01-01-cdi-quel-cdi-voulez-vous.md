@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1995'
 magazine: 'n°12 15 juin 1996'
 pages: 200 pages
-description: |-
+description: 
   '1. Quel CDI voulez-vous ?
   2. Au CDI avec les professeurs : résultats de l’enquête
   3. Pourquoi ça ne marche pas entre « les docs » et « les profs » ?

@@ -5,7 +5,7 @@ rubrique: 'Littérature médiévale  '
 annee: '1991'
 magazine: 'n°8 15 février 1992'
 pages: 182 pages
-description: |-
+description: 
   '1. La « fine amor » entre mythe et réalité
   2. « Tristan et Iseut », genèse de l’œuvre
   3. La légende de Tristan et Iseut. Étude de l’adaptation de René Louis (troisième)

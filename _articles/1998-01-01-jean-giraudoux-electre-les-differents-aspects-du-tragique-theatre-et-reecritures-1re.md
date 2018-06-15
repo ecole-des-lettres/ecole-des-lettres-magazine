@@ -5,7 +5,7 @@ rubrique: 'Théâtre et réécritures [1re]'
 annee: '1998'
 magazine: 'n°1 15 juillet 1998'
 pages: '14'
-description: |-
+description: 
   'Si le dramaturge a conservé les traits essentiels du tragique athénien, il lui a fait subir des métamorphoses importantes afin de l’adapter à la sensibilité du public actuel…
   1. Survivance des éléments essentiels du tragique
   – des personnages hors du commun

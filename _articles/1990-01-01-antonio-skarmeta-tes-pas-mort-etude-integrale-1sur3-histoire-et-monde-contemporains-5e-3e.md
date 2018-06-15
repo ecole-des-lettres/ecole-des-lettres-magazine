@@ -5,7 +5,7 @@ rubrique: 'Histoire et monde contemporains [5e-3e]'
 annee: '1990'
 magazine: 'n°3 15 octobre 1990'
 pages: '10'
-description: |-
+description: 
   'Une lecture aisée particulièrement destinée à des élèves en difficulté. L’histoire d’un immigré chilien en France
   Questionnaire de contrôle de lecture.
   * Séance 1. Portrait du héros

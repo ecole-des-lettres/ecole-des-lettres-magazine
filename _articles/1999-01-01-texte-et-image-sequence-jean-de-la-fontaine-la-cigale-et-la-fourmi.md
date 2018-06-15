@@ -5,7 +5,7 @@ rubrique: 'Jean de La Fontaine : « La Cigale et la Fourmi »'
 annee: '1999'
 magazine: 'n°14 15 mai 2000'
 pages: '32'
-description: |-
+description: 
   'Les objectifs de cette séquence sont les suivants :
   – mettre en évidence la façon dont la culture antique a été relayée par un écrivain d’époque
   classique pour parvenir jusqu’à nous ;

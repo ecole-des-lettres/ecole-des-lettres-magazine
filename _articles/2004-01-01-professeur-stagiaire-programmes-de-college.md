@@ -5,7 +5,7 @@ rubrique: 'Programmes de collège'
 annee: '2004'
 magazine: ''
 pages: ''
-description: |-
+description: 
   'Ce numéro spécial, conçu par une équipe de « néo-profs » de lettres et coordonné par Bénédicte Monat-Bouhanik, propose une progression annuelle pour chaque niveau de la sixième à la première, accompagnée de la première séquence sous forme de tableau, et de la première séance développée. Il donne les « trucs et astuces » pour maîtriser la situation dans l’établissement et faire face à la classe dès le premier jour.
   – sixième : La situation de communication
   (Aurore Violas)

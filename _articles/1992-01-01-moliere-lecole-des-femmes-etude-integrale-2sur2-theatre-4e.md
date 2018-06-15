@@ -5,7 +5,7 @@ rubrique: 'Théâtre [4e]'
 annee: '1992'
 magazine: 'n°14 15 juin 1993'
 pages: '16'
-description: |-
+description: 
   '2. « L’École des femmes », acte 1
   – l’exposition
   – Arnolphe (la question du nom ; la question du théâtre ; la question des femmes)

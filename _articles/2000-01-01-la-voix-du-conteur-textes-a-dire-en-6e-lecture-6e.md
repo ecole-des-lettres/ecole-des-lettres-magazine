@@ -5,7 +5,7 @@ rubrique: 'Lecture [6e]'
 annee: '2000'
 magazine: 'n°13 1er mai 2001'
 pages: '2'
-description: |-
+description: 
   'Un article qui propose de lire contes ou extraits de romans aux élèves de sixième.
   – « La Chasse au monstre », de Robert Edmund Alter
   – « Contes de la tête en plein ciel », de Philippe Dumas et Boris Moissard'

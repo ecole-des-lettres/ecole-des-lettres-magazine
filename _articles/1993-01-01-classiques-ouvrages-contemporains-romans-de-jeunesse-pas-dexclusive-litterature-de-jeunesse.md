@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse'
 annee: '1993'
 magazine: 'n°12-13 1er juin 1994'
 pages: '6'
-description: |-
+description: 
   '– Y a-t-il une spécificité des romans d’adolescence ?
   – Des attitudes de lecture
   – Des destins possibles

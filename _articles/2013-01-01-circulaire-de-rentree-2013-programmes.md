@@ -5,7 +5,7 @@ rubrique: 'Programmes'
 annee: '2013'
 magazine: 'avril 2013'
 pages: '13'
-description: |-
+description: 
   'La circulaire de rentrée cosignée par Vincent Peillon et George Pau-Langevin vient d’être publiée. Elle définit cinq grandes priorités pour la rentrée 2013 :
   – reconstruire la formation professionnelle des métiers du professorat et de l’éducation ;
   – rénover en profondeur l’enseignement du premier degré ;

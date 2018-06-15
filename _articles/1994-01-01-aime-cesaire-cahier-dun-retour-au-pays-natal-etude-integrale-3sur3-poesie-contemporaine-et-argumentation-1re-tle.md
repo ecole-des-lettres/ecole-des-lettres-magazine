@@ -6,7 +6,7 @@ rubrique: 'Poésie contemporaine et argumentation [1re-Tle]'
 annee: '1994'
 magazine: 'n°7 15 février 1995'
 pages: '14'
-description: |-
+description: 
   '5. La dimension orphique du « Cahier d’un retour au pays natal »
   – retour au pays natal, retour aux origines
   – mort et renaissance : la métamorphose du récitant en nègre et en poète

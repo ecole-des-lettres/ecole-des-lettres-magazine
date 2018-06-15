@@ -5,7 +5,7 @@ rubrique: 'Nouvelles [2de]'
 annee: '1992'
 magazine: 'n°13 1er juin 1993'
 pages: '8'
-description: |-
+description: 
   '1. Objets bureaucratiques
   2. Typologie bureaucratique
   3. Motifs récurrents'

@@ -5,7 +5,7 @@ rubrique: 'Histoire [5e] '
 annee: '1993'
 magazine: 'n°4 1er novembre 1993'
 pages: '10'
-description: |-
+description: 
   '1. Les protestants avant 1598
   – les origines du mouvement
   – composition numérique du protestantisme

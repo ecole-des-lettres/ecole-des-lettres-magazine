@@ -5,7 +5,7 @@ rubrique: 'Histoire [4e]'
 annee: '1990'
 magazine: 'n°8 1er février 1991'
 pages: '4'
-description: |-
+description: 
   '1. La nation : émergence d’une idée force au début du XIXe siècle
   – quelques étapes dans l’émergence de l’idée de nation : Valmy, le « Tres de Mayo » par Goya, les contes de Grimm, la machine à vapeur, le Congrès de Vienne
   2. Les composantes de l’idée de nation au XIXe siècle : langue, culture, religion, histoire

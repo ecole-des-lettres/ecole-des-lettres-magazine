@@ -5,7 +5,7 @@ rubrique: 'Le naturalisme [2de]'
 annee: '1991'
 magazine: 'n°8 1er mars 1992'
 pages: '14'
-description: |-
+description: 
   '1. D’un naturalisme l’autre : « La Faute de l’abbé Mouret »
   2. « Une page d’amour » : les japonneries parisiennes d’Émile Zola
   3. « L’Assommoir » : fantaisie naturaliste, kabuki et masques nô'

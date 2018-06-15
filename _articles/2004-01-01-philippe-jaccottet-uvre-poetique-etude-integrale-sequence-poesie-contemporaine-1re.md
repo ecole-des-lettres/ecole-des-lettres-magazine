@@ -5,7 +5,7 @@ rubrique: 'Poésie contemporaine [1re]'
 annee: '2004'
 magazine: 'n°10 juin 2005'
 pages: '21'
-description: |-
+description: 
   'Cette séquence se propose de faire découvrir l’œuvre de Philippe Jaccottet à des élèves de première littéraire, grâce à un parcours en trois
   temps, scandé par trois citations. D’abord, au cœur de cette poésie : la conscience du temps qui passe et la pensée de la mort, ensuite une capacité à défier la mort, à surmonter l’horreur par une contemplation de la nature, enfin l’originalité de cette figure de poète. L’objet d’étude convoqué ici est la poésie dans une perspective générique et intertextuelle.
   Déroulement de la séquence : six séances.'

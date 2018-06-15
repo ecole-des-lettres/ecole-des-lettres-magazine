@@ -5,7 +5,7 @@ rubrique: 'Histoire [3e] '
 annee: '1992'
 magazine: 'n°14 15 juin 1993'
 pages: '8'
-description: |-
+description: 
   'Introduction générale
   Objectif : repenser les clichés et les idées reçues sur la société française de l’entre-deux-guerres…
 

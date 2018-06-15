@@ -5,7 +5,7 @@ rubrique: 'Roman policier [4e-3e]'
 annee: '1993'
 magazine: 'n°12-13 1er juin 1994'
 pages: '11'
-description: |-
+description: 
   'Cet article propose un parcours dans le roman noir (américain et français), centré autour du thème du détective privé, qui en est la figure emblématique, et qui est également bien connu des élèves par le biais du cinéma et de la télévision, où il est devenu un stéréotype du genre…
   – Un personnage : le détective privé
   – Les modèles américains : Dashiell Hammett ; Raymond Chandler ; Collins ; Pronzini ; Parker

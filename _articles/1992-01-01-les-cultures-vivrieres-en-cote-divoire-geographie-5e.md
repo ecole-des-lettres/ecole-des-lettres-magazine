@@ -5,7 +5,7 @@ rubrique: 'Géographie [5e]'
 annee: '1992'
 magazine: 'n°14 15 juin 1993'
 pages: '6'
-description: |-
+description: 
   '1. Les principales cultures vivrières et leurs caractéristiques
   2. Les méthodes de culture
   3. Un exemple de culture en savane

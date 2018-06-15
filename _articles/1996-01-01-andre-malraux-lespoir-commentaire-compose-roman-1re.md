@@ -5,7 +5,7 @@ rubrique: 'Roman [1re]'
 annee: '1996'
 magazine: 'n°6 15 décembre 1996'
 pages: '8'
-description: |-
+description: 
   'L’armistice à Tolède, distribution de cigarettes et de lames de rasoir
   1. Une scène énigmatique
   – un lieu tabou

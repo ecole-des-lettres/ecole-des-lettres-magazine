@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1992'
 magazine: 'n°1 15 septembre 1992'
 pages: '4'
-description: |-
+description: 
   'Un article sur l’histoire de l’Europe construit autour de trois ouvrages :
   – « Histoire de l’Europe », manuel conçu par douze historiens (Hachette, 1992)
   – « Histoire de l’Europe, Histoire de l’Europe contemporaine : le XIXe siècle »

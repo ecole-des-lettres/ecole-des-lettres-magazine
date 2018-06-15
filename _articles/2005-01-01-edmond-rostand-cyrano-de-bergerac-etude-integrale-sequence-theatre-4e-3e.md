@@ -5,7 +5,7 @@ rubrique: 'Théâtre [4e-3e]'
 annee: '2005'
 magazine: '2007'
 pages: '19'
-description: |-
+description: 
   'Les principaux objectifs de cette séquence sont :
   – d’aborder sans tarder deux des spécificités du programme de français de la classe de troisième : l’expression de soi et la prise en compte d’autrui ;
   – de découvrir les grandes caractéristiques du texte de théâtre ;

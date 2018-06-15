@@ -5,7 +5,7 @@ rubrique: 'Interdisciplinarité [6e-3e]'
 annee: '2001'
 magazine: 'n°11 mars 2002'
 pages: '6'
-description: |-
+description: 
   '1. L’acquisition des compétences documentaires, du mythe à la réalité
   2. La pédagogie active… au risque d’une perte d’identité ?
   3. Le croisement des disciplines, une chance pour les CDI

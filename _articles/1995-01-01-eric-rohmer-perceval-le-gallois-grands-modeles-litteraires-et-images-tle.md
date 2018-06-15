@@ -5,7 +5,7 @@ rubrique: 'Grands modèles littéraires et images [Tle]'
 annee: '1995'
 magazine: 'n°6 15 janvier 1996'
 pages: '11'
-description: |-
+description: 
   'À travers son film « Perceval le Gallois », sorti en 1979, Éric Rohmer a travaillé sur « Le Conte du Graal » dans une perspective qui relève à la fois de la continuation et de l’interprétation, et qui allie réflexions modernes sur le texte médiéval et respect à son modèle, Chrétien de Troyes.
   1. La construction du scénario
   2. Adaptation et mise en scène

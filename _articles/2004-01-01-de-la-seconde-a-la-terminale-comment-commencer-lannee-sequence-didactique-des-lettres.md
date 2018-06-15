@@ -5,7 +5,7 @@ rubrique: 'Didactique des lettres'
 annee: '2004'
 magazine: 'n°1 août / septembre 2004'
 pages: '9'
-description: |-
+description: 
   'Les démarrages sont souvent douloureux en septembre. Cet article propose une petite séquence initiatique, utilisable à tout niveau d’enseignement, qui vise quatre objectifs :
   – repérer l’état des capacités interprétatives des élèves, sur une image, puis sur un texte ;
   – modéliser la démarche qui sera pratiquée en cours de français (et dans d’autres matières) sur les textes et les documents : « j’observe / j’interprète » ;

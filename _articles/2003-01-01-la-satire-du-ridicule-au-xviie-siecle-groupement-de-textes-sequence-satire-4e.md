@@ -5,7 +5,7 @@ rubrique: 'Satire [4e]'
 annee: '2003'
 magazine: 'n°6 1er décembre 2003'
 pages: '23'
-description: |-
+description: 
   'Ne pas être ridicule. Ne pas se « taper la honte », éviter d’être un « bouffon ». Telle est la principale préoccupation de la plupart des élèves. Ce souci majeur à l’adolescence illustre un besoin de reconnaissance sociale qui passe, entre autres, par le port de vêtements de marque ou l’usage d’un téléphone portable dernier cri. Mais, parallèlement à la mode dont ils sont la conséquence directe, les critères du ridicule varient avec une rapidité déconcertante, voire angoissante pour des enfants en devenir. Cette séquence n’a pas la prétention de désinhiber les élèves. Toutefois, à travers l’étude de textes littéraires aisément accessibles, il s’agit de leur proposer une vision différente de ce que peut recouvrir le ridicule, pour leur apprendre à relativiser, à porter un jugement différent sur soi comme sur autrui et pour participer, même très modestement, à leur affirmation de soi. En outre, cette séquence offre une transition chronologico-thématique intéressante entre l’étude d’une pièce de Molière et celle de la satire au XVIIIe siècle recommandées par les programmes.
   Déroulement de la séquence : neuf séances.'
 article_pdf: '5143.pdf'

@@ -5,7 +5,7 @@ rubrique: 'Lecture [6e-4e]'
 annee: '1997'
 magazine: 'n°2 15 septembre 1997'
 pages: '6'
-description: |-
+description: 
   'Présentation orale d’un livre par un élève à ses camarades et guides de préparation sur les titres suivants :
   1. « Surprise à Venise », de Fanny Joly (sixième)
   2. « La belle Anglaise a disparu », de Jean-François Ménard (cinquième)

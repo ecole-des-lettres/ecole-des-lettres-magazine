@@ -5,7 +5,7 @@ rubrique: ''
 annee: '2000'
 magazine: 'n°12 15 avril 2001'
 pages: 112 pages
-description: |-
+description: 
   '1. Éloge de la rhétorique
   – 1900-2000 : évolution de la rhétorique dans l’enseignement secondaire
   – la rhétorique dans les programmes du lycée

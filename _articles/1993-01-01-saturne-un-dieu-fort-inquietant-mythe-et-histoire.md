@@ -5,7 +5,7 @@ rubrique: 'Mythe et histoire'
 annee: '1993'
 magazine: 'n°1 7 septembre 1993'
 pages: '6'
-description: |-
+description: 
   '1. Cronos / Saturne, le dieu de l’âge d’or
   – la vie de Saturne
   – l’âge d’or

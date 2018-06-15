@@ -5,7 +5,7 @@ rubrique: 'Argumentation [1re]'
 annee: '2001'
 magazine: 'n°3 15 septembre 2001'
 pages: '11'
-description: |-
+description: 
   'La séquence proposée ici peut permettre de mettre en évidence les niveaux de rationalisation d’une problématique (l’évolution de l’humanité), l’orientation argumentative des textes, et les moyens mis en œuvre pour y parvenir. Elle peut aussi être utile pour une pratique interdisciplinaire (ÉCJS, histoire, mais aussi sciences).
   Groupement de textes réunissant :
   – des extraits du « Mondain » et de « Candide », de Voltaire

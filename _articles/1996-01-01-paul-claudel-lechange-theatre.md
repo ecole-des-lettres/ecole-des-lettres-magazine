@@ -5,7 +5,7 @@ rubrique: 'Théâtre'
 annee: '1996'
 magazine: 'n°14 15 mai 1997'
 pages: '15'
-description: |-
+description: 
   'Le théâtre de Claudel semble s’imposer désormais comme l’œuvre dramatique la plus puissante de notre siècle, tant par la profondeur de ses thèmes que par la nouveauté de son esthétique.
   1. Genèse et évolution
   – Claudel en 1893

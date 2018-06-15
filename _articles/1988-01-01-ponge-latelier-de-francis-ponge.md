@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1988'
 magazine: 'n°8 1er février 1989'
 pages: 154 pages
-description: |-
+description: 
   '1. Francis Ponge : un itinéraire dans l’histoire des mots
   2. La fabrique du « Papillon » (« Le Parti pris des choses »)
   3. Lecture de « Pièces »

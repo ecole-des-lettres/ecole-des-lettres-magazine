@@ -5,7 +5,7 @@ rubrique: 'Le naturalisme [2de-1re]'
 annee: '1991'
 magazine: 'n°8 1er mars 1992'
 pages: '6'
-description: |-
+description: 
   'Un roman qui réunit les deux thèmes de « l’or et de la chair », symbolisant pour son auteur la société du Second Empire…
   1. Les sources du symbolisme zolien
   2. Le triomphe de l’or'

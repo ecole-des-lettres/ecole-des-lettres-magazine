@@ -5,7 +5,7 @@ rubrique: 'Liaison CM2-6e'
 annee: '1991'
 magazine: 'n°6 1er janvier 1992'
 pages: '4'
-description: |-
+description: 
   'Recommandations du Conseil national des programmes…
   1. Assurer la continuité des programmes
   2. Développer les formations communes aux professeurs d’école et de collège

@@ -5,7 +5,7 @@ rubrique: 'Latin [5e]'
 annee: '1994'
 magazine: 'n°5 15 décembre 1994'
 pages: '7'
-description: |-
+description: 
   'Ce modeste objet de l’Antiquité revêt aujourd’hui une importance capitale pour les archéologues… À travers lui, on peut découvrir des métiers, des détails de la vie quotidienne et les antiques voies de commerce.
   1. Le vocabulaire de l’amphore
   2. Les amphores à travers l’Histoire

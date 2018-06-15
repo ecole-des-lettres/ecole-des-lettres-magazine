@@ -5,7 +5,7 @@ rubrique: 'Didactique des langues anciennes'
 annee: '1993'
 magazine: 'n°11 1er juin 1994'
 pages: '12'
-description: |-
+description: 
   '1. Faire sentir l’enjeu de la traduction
   2. Contrôler la compréhension
   3. Entraîner à la traduction

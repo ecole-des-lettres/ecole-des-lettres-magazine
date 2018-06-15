@@ -5,7 +5,7 @@ rubrique: 'Autobiographie [1re]'
 annee: '1993'
 magazine: 'n°3 15 octobre 1993'
 pages: '14'
-description: |-
+description: 
   '1. Une œuvre « improbable »
   – une naissance mouvementée
   – un format réduit

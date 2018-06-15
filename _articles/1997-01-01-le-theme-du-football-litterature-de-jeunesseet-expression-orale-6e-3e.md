@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et expression orale [6e-3e]'
 annee: '1997'
 magazine: 'n°10 15 février 1998'
 pages: '6'
-description: |-
+description: 
   'Présentation orale d’un livre par un élève à ses camarades et guides de préparation sur les titres suivants :
   1. « Le Ballon d’or », d’Yves Pinguilly (sixième à quatrième)
   2. « Penalty », de Michael Hardcastle (cinquième-quatrième)

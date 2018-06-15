@@ -5,7 +5,7 @@ rubrique: 'Interdisciplinarité français, latin [4e-3e]'
 annee: '1998'
 magazine: 'n°14 15 mai 1999'
 pages: '12'
-description: |-
+description: 
   '1. « Aulularia », de Plaute : étude du prologue
   – les pronoms
   – le culte domestique

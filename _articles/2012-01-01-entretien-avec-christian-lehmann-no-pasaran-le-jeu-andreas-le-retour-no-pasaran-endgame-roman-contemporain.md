@@ -6,7 +6,7 @@ rubrique: 'Roman contemporain'
 annee: '2012'
 magazine: 'n°1 2012-2013'
 pages: '10'
-description: |-
+description: 
   'En novembre 2012, la désormais mythique série des « No pasarán » est devenue une trilogie. Un livre en grand format a réuni les deux premiers titres, « No pasarán, le jeu » et « Andreas, le retour », dans une version revue par l’auteur. Le second volume, « No pasarán, endgame », constitue le dernier, et riche, volet du triptyque...
   Christian Lehmann a bien voulu revenir sur sa démarche de création pour les lecteurs de « l’École des lettres ».'
 article_pdf: '12151.pdf'

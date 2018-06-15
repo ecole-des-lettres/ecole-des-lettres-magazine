@@ -5,7 +5,7 @@ rubrique: 'Histoire littéraire [2de] '
 annee: '1987'
 magazine: 'n°12 15 avril 1988'
 pages: '8'
-description: |-
+description: 
   '1. De l’Orient du XIXe siècle à l’Orient du XXe siècle
   2. Nouveaux horizons, nouvelles motivations
   3. Les derniers mirages des Années folles

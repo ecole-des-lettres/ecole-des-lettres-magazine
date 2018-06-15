@@ -6,7 +6,7 @@ rubrique: 'Histoire [6e]'
 annee: '1993'
 magazine: 'n°6 15 décembre 1993'
 pages: '13'
-description: |-
+description: 
   'En complément de l’étude du roman d’Odile Weulersse, « Le Serment des catacombes »…
   1. Les cadres historique et géographique du roman
   – approche didactique

@@ -5,7 +5,7 @@ rubrique: 'Expression écrite et orale [4e-3e]'
 annee: '1996'
 magazine: 'n°8 15 février 1997'
 pages: '10'
-description: |-
+description: 
   'Du décryptage à la présentation, en classe, d’un film ou d’un roman…
   1. Lire une critique de cinéma
   – la réalisation du film

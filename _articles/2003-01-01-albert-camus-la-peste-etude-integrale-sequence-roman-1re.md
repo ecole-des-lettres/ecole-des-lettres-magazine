@@ -5,7 +5,7 @@ rubrique: 'Roman [1re]'
 annee: '2003'
 magazine: '2003'
 pages: '37'
-description: |-
+description: 
   'Cette séquence a pour objectifs principaux :
   – la maîtrise du discours argumentatif ;
   – la distinction entre les différentes techniques rhétoriques ;

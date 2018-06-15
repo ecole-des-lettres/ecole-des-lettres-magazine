@@ -5,7 +5,7 @@ rubrique: 'Littérature de jeunesse et Moyen Âge [5e]'
 annee: '2003'
 magazine: 'n°2 août 2003'
 pages: '6'
-description: |-
+description: 
   'En parallèle avec l’étude de la légende des chevaliers de la Table ronde au programme de cinquième, cet article suggère quelques ouvrages à faire circuler dans la classe. Mythes éternels que l’on retrouve dans de nombreux films, romans ou même publicités, la légende arthurienne et la quête du Graal représentent un ensemble d’aventures extraordinaires. De l’épée que le jeune Arthur arrache à la pierre, à la Table ronde où se retrouvent les meilleurs chevaliers, en passant par les sentiments amoureux plus ou moins contrariés, de multiples épisodes s’enchaînent. Les versions proposées aux élèves sont plus ou moins proches de la version originale de Chrétien de Troyes, et plus ou moins adaptées de la langue du Moyen Âge.
 
   – Jean-Pierre Tusseau : « Lancelot du Lac »

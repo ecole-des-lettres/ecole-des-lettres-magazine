@@ -5,7 +5,7 @@ rubrique: 'Étude de l’image : cinéma [4e-3e]'
 annee: '1994'
 magazine: 'n°12 15 juin 1995'
 pages: '12'
-description: |-
+description: 
   '« Les Visiteurs du soir », de Marcel Carné…
   1. Travail préparatoire à la projection du film
   – première approche du film

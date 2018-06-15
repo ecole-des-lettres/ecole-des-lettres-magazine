@@ -6,7 +6,7 @@ rubrique: 'Roman et personnages [1re]'
 annee: '1998'
 magazine: 'n°12 1er avril 1999'
 pages: '10'
-description: |-
+description: 
   'Présentation d’un travail autour du commentaire composé à partir d’un extrait du roman de Céline…
   1. Analyse du sujet et enjeux du commentaire
   2. Corrigé des questions

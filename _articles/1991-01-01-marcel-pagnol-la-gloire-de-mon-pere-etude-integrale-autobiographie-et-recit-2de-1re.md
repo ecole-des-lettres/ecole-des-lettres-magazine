@@ -5,7 +5,7 @@ rubrique: 'Autobiographie et récit [2de-1re]'
 annee: '1991'
 magazine: 'n°2 1er octobre 1991'
 pages: '6'
-description: |-
+description: 
   'Initiation à l’étude littéraire d’une œuvre complète dans le cadre de la liaison collège-lycée
   1. La genèse d’une œuvre : une séance d’initiation, une séance de restitution
   2. Fonctionnement de l’autobiographie : deux séances

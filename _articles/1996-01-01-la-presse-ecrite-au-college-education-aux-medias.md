@@ -5,7 +5,7 @@ rubrique: 'Éducation aux médias'
 annee: '1996'
 magazine: 'n°8 15 février 1997'
 pages: 192 pages
-description: |-
+description: 
   '1. Lexique des termes de presse
   2. La presse et l’école : une vieille histoire
   3. La Semaine de la presse dans l’école

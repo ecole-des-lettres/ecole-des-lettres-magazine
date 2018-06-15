@@ -5,7 +5,7 @@ rubrique: 'Poésie [1re]'
 annee: '1993'
 magazine: 'n°6 1er janvier 1994'
 pages: '4'
-description: |-
+description: 
   'Le thème de l’exil et du retour aux origines dans « Les Regrets », de Du Bellay…
   1. Le modèle romain et italien
   2. La triple désillusion

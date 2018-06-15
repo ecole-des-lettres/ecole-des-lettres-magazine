@@ -5,7 +5,7 @@ rubrique: 'Poésie [1re]'
 annee: '1990'
 magazine: 'n°1 15 septembre 1990'
 pages: '4'
-description: |-
+description: 
   '1. La clef des portes du passé
   2. Le voyage'
 article_pdf: '134.pdf'

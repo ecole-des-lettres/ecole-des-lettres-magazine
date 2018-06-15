@@ -5,7 +5,7 @@ rubrique: 'Latin [2de]'
 annee: '1994'
 magazine: 'n°11 1er mai 1995'
 pages: '20'
-description: |-
+description: 
   'Groupement de textes autour du personnage de Marc Antoine…
   2. Explication de deux extraits des « Philippiques » de Cicéron
   – premier extrait : Antoine dilapide les biens de Pompée (traduction et éléments de commentaire)

@@ -5,7 +5,7 @@ rubrique: ''
 annee: '1993'
 magazine: 'n°11 1er juin 1994'
 pages: 172 pages
-description: |-
+description: 
   '1. Lire et traduire : méthodes d’approche et de traduction des textes grecs et latins en Europe
   2. L’enseignement des langues anciennes en France au XVIIe siècle et au XVIIIe siècle
   3. La lecture des textes en Grande-Bretagne
