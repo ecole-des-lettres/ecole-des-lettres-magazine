@@ -1,7 +1,7 @@
 ---
 id: '11795'
 title: 'Jules Verne : « Les Révoltés de la “Bounty” ». Étude intégrale'
-rubrique: 'Récit d'aventures et récit documentaire [5e-3e]'
+rubrique: 'Récit d’aventures et récit documentaire [5e-3e]'
 annee: '2006'
 magazine: 'n°9 2007-2008'
 pages: '26'

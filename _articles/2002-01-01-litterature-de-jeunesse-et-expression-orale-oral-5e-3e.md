@@ -14,7 +14,7 @@ auteurs:
 - Yves Lucas
 auteur_jeunesse:
 - Kathleen Karr
-- Francesco d'Adamo
+- Francesco d’Adamo
 disciplines:
 - français
 jeunesse:

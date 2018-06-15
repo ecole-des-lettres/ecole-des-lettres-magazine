@@ -2,7 +2,7 @@
 id: '3051'
 title: 'Comment mettre en place un atelier d’écriture : les difficultés d’écriture
   narrative des élèves'
-rubrique: 'Atelier d'écriture [5e-3e]'
+rubrique: 'Atelier d’écriture [5e-3e]'
 annee: '1998'
 magazine: 'n°11 15 mars 1999'
 pages: '4'

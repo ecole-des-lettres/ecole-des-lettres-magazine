@@ -1,6 +1,6 @@
 ---
 id: '1875'
-title: 'Étude d’une œuvre cinématographique en classe de terminale, série L'
+title: 'Étude d’une œuvre cinématographique en classe de terminale, série l’
 rubrique: 'Cinéma'
 annee: '1995'
 magazine: 'n°1 1er septembre 1995'

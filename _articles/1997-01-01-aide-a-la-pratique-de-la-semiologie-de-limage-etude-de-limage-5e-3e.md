@@ -1,7 +1,7 @@
 ---
 id: '2658'
 title: 'Aide à la pratique de la sémiologie de l’image'
-rubrique: 'Étude de l'image [5e-3e]'
+rubrique: 'Étude de l’image [5e-3e]'
 annee: '1997'
 magazine: 'n°11 15 mars 1998'
 pages: '10'

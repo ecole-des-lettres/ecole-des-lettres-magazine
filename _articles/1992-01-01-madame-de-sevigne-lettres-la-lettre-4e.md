@@ -28,7 +28,7 @@ niveau_etudes:
 - quatrième
 oeuvres:
 - Lettres
-- Lettres d'Espagne
+- Lettres d’Espagne
 ecrivains:
 - Madame de Sévigné
 - Prosper Mérimée

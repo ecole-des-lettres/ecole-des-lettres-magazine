@@ -1,7 +1,7 @@
 ---
 id: '1546'
 title: 'De l’image au texte, un exercice de transposition '
-rubrique: 'Étude de l'image [3e]'
+rubrique: 'Étude de l’image [3e]'
 annee: '1994'
 magazine: 'n°12 15 juin 1995'
 pages: '10'

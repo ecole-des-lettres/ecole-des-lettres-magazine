@@ -22,7 +22,7 @@ jeunesse:
 niveau_etudes:
 - sixième
 oeuvres:
-- Ella, l'ensorcelée
+- Ella, l’ensorcelée
 programmes:
 - lecture - contes
 ---

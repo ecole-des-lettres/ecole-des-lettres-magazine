@@ -1,7 +1,7 @@
 ---
 id: '1082'
 title: 'Écrire avec Agnès Desarthe '
-rubrique: 'Ateliers d'écriture [4e-3e]'
+rubrique: 'Ateliers d’écriture [4e-3e]'
 annee: '1992'
 magazine: 'n°9 1er mars 1993'
 pages: '6'

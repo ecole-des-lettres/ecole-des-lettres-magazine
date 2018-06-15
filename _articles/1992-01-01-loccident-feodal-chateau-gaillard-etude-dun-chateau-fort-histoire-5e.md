@@ -12,7 +12,7 @@ description: 'Cette leçon aura pour objectif principal de faire découvrir à n
   Elle permettra aussi l’acquisition d’un vocabulaire spécifique : donjon, pontlevis,
   créneaux, merlons, enceinte, courtine, mâchicoulis, archères, bastille… et la vérification
   d’un certain nombre de savoir-faire comme l’étude d’un texte historique, le passage
-  du texte aux schémas, l’analyse d'une diapositive, l’utilisation d’un atlas…'
+  du texte aux schémas, l’analyse d’une diapositive, l’utilisation d’un atlas…'
 article_pdf: '805.pdf'
 revue: 'L’école des lettres des collèges'
 auteurs:

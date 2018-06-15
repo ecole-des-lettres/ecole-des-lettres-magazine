@@ -1,7 +1,7 @@
 ---
 id: '11223'
 title: 'Les nouvelles épreuves du baccalauréat'
-rubrique: 'Programmes d'histoire-géographie [Tle]'
+rubrique: 'Programmes d’histoire-géographie [Tle]'
 annee: '2004'
 magazine: 'n°7 mars 2005'
 pages: '2'

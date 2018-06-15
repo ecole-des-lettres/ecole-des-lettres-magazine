@@ -1,7 +1,7 @@
 ---
 id: '1075'
 title: 'Expression écrite et contes. Quatre années d’ateliers lecture-écriture '
-rubrique: 'Ateliers d'écriture [6e]'
+rubrique: 'Ateliers d’écriture [6e]'
 annee: '1992'
 magazine: 'n°9 1er mars 1993'
 pages: '6'

@@ -1,7 +1,7 @@
 ---
 id: '1081'
 title: 'Expression écrite : le roman policier '
-rubrique: 'Ateliers d'écriture [3e]'
+rubrique: 'Ateliers d’écriture [3e]'
 annee: '1992'
 magazine: 'n°9 1er mars 1993'
 pages: '6'

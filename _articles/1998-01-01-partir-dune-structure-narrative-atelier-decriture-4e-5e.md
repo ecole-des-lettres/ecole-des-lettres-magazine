@@ -1,7 +1,7 @@
 ---
 id: '3327'
 title: 'Partir d’une structure narrative'
-rubrique: 'Atelier d'écriture [4e-5e]'
+rubrique: 'Atelier d’écriture [4e-5e]'
 annee: '1998'
 magazine: 'n°7 1er décembre 1998'
 pages: '4'

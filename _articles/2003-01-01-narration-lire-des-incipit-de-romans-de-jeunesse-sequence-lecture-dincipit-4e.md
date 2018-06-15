@@ -1,7 +1,7 @@
 ---
 id: '5149'
 title: 'Narration : lire des « incipit » de romans de jeunesse (séquence)'
-rubrique: 'Lecture d'incipit [4e]'
+rubrique: 'Lecture d’incipit [4e]'
 annee: '2003'
 magazine: 'n°7 15 décembre 2003'
 pages: '24'

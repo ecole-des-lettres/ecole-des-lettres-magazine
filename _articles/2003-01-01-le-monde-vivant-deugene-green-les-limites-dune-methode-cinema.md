@@ -1,6 +1,6 @@
 ---
 id: '5254'
-title: '« Le Monde vivant », d'Eugène Green : les limites d’une méthode'
+title: '« Le Monde vivant », d’Eugène Green : les limites d’une méthode'
 rubrique: 'Cinéma'
 annee: '2003'
 magazine: 'n°6 1er décembre 2003'

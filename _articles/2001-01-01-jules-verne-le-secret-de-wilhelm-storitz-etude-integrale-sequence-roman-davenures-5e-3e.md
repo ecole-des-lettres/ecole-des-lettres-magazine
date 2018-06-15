@@ -1,7 +1,7 @@
 ---
 id: '4416'
 title: 'Jules Verne : « Le Secret de Wilhelm Storitz ». Étude intégrale (séquence)'
-rubrique: 'Roman d'avenures [5e-3e]'
+rubrique: 'Roman d’avenures [5e-3e]'
 annee: '2001'
 magazine: '2001'
 pages: '25'

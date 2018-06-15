@@ -1,6 +1,6 @@
 ---
 id: '11354'
-title: '« Orgueil et Préjugés », de Joe Wright, d'après Jane Austen : adaptation
+title: '« Orgueil et Préjugés », de Joe Wright, d’après Jane Austen : adaptation
   cousue main'
 rubrique: 'Cinéma'
 annee: '2005'

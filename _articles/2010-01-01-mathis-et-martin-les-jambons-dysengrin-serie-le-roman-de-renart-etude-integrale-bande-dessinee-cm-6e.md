@@ -21,7 +21,7 @@ niveau_etudes:
 - sixième
 oeuvres:
 - Le Roman de Renart
-- Les Jambons d'Ysengrin
+- Les Jambons d’Ysengrin
 programmes:
 - lecture - Moyen Âge et Renaissance
 - étude de l’image - bande dessinée

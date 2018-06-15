@@ -6,7 +6,7 @@ annee: '1994'
 magazine: '1994'
 pages: '26'
 description: 
-  'Le cinéma marque un intérêt prononcé pour les œuvres d'Alexandre Dumas père. Cet engouement peut être mis à profit pour faire découvrir « Les Trois Mousquetaires », classique du roman de cape et d'épée mondialement connu. Cette étude est réalisée à partir de l'édition de l'École des loisirs, dans la collection « Classiques abrégés ».
+  'Le cinéma marque un intérêt prononcé pour les œuvres d’Alexandre Dumas père. Cet engouement peut être mis à profit pour faire découvrir « Les Trois Mousquetaires », classique du roman de cape et d’épée mondialement connu. Cette étude est réalisée à partir de l’édition de l’École des loisirs, dans la collection « Classiques abrégés ».
   1. Travail de recherche
   – histoire littéraire : la connaissance de l’auteur ; les romans historiques
   – vocabulaire : le mot « quatre » ; le mot « mousquetaire », étymologie et histoire

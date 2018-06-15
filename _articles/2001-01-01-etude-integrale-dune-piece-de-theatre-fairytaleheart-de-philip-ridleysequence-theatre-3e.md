@@ -1,6 +1,6 @@
 ---
 id: '4517'
-title: 'Étude intégrale d'une pièce de théâtre « Fairytaleheart » de Philip Ridley (séquence)'
+title: 'Étude intégrale d’une pièce de théâtre « Fairytaleheart » de Philip Ridley (séquence)'
 rubrique: 'Théâtre [3e]'
 annee: '2001'
 magazine: '2001'

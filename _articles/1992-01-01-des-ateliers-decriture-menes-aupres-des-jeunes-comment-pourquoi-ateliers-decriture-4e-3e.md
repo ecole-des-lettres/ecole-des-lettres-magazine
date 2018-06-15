@@ -1,7 +1,7 @@
 ---
 id: '1072'
 title: 'Des ateliers d’écriture menés auprès des jeunes. Comment ? pourquoi ?'
-rubrique: 'Ateliers d'écriture [4e-3e]'
+rubrique: 'Ateliers d’écriture [4e-3e]'
 annee: '1992'
 magazine: 'n°9 1er mars 1993'
 pages: '12'

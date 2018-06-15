@@ -6,7 +6,7 @@ annee: '1992'
 magazine: 'n°4 1er novembre 1992'
 pages: '9'
 description: '« Aurélia » donne à lire la plongée douloureuse d’un enfant trouvé
-  dans les eaux troubles de l'archéologie du moi et prend l’allure incertaine d’une
+  dans les eaux troubles de l’archéologie du moi et prend l’allure incertaine d’une
   cure analytique dans les tréfonds des origines. Cette odyssée en soi suppose une
   véritable recréation du monde et une renaissance à soi-même qui ne doivent plus
   rien qu’à l’écriture et à la folie…'

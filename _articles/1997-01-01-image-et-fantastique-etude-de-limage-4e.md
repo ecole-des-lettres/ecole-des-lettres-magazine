@@ -1,7 +1,7 @@
 ---
 id: '2670'
 title: 'Image et fantastique'
-rubrique: 'Étude de l'image [4e]'
+rubrique: 'Étude de l’image [4e]'
 annee: '1997'
 magazine: 'n°11 15 mars 1998'
 pages: '4'

@@ -1,3 +1,3 @@
 ---
-title: Ella, l'ensorcelée
+title: Ella, l’ensorcelée
 ---

@@ -1,6 +1,6 @@
 ---
 id: '11794'
-title: 'Étude de l’image avec l’album : propositions de lecture et d'écriture autour
+title: 'Étude de l’image avec l’album : propositions de lecture et d’écriture autour
   du portfolio de Chris Van Allsburg : « Les Mystères de Harris Burdick » '
 rubrique: 'Littérature de jeunesse [CM-6e]'
 annee: '2006'

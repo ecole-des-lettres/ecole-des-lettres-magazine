@@ -1,7 +1,7 @@
 ---
 id: '3507'
 title: 'L’image, du collège au lycée'
-rubrique: 'Étude de l'image [3e]'
+rubrique: 'Étude de l’image [3e]'
 annee: '1999'
 magazine: 'n°12 15 avril 2000'
 pages: '17'

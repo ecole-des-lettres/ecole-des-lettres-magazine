@@ -1,7 +1,7 @@
 ---
 id: '11863'
 title: 'Du collège au lycée : quelques pistes de réflexion'
-rubrique: 'Programmes d'histoire géographie'
+rubrique: 'Programmes d’histoire géographie'
 annee: '1999'
 magazine: 'n°12 15 avril 2000'
 pages: '16'

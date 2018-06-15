@@ -1,6 +1,6 @@
 ---
 id: '11292'
-title: '« Zim et co », de Pierre Jolivet : banlieue et système D'
+title: '« Zim et co », de Pierre Jolivet : banlieue et système d’
 rubrique: 'Cinéma'
 annee: '2005'
 magazine: 'n°2 15 septembre 2005'

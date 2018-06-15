@@ -1,7 +1,7 @@
 ---
 id: '946'
 title: 'Écrire et jouer  (1/2)'
-rubrique: 'Atelier d'écriture [6e-5e]'
+rubrique: 'Atelier d’écriture [6e-5e]'
 annee: '1992'
 magazine: 'n°2 1er octobre 1992'
 pages: '4'

@@ -1,7 +1,7 @@
 ---
 id: '1073'
 title: 'Et si on écrivait un roman ? '
-rubrique: 'Ateliers d'écriture [6e]'
+rubrique: 'Ateliers d’écriture [6e]'
 annee: '1992'
 magazine: 'n°9 1er mars 1993'
 pages: '6'

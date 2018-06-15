@@ -1,7 +1,7 @@
 ---
 id: '3207'
 title: 'La problématique des ateliers d’écriture au collège'
-rubrique: 'Atelier d'écriture [6e-3e]'
+rubrique: 'Atelier d’écriture [6e-3e]'
 annee: '1998'
 magazine: 'n°3 15 septembre 1998'
 pages: '4'

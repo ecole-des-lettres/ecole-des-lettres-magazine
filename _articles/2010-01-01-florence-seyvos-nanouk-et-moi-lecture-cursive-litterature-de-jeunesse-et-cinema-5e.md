@@ -26,7 +26,7 @@ niveau_etudes:
 - cinquième
 oeuvres:
 - nanouk et moi
-- nanouk l'Esquimau
+- nanouk l’Esquimau
 programmes:
 - lecture - histoire et monde contemporains
 realisateurs:

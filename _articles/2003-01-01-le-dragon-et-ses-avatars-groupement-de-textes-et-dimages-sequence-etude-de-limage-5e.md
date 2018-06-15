@@ -1,7 +1,7 @@
 ---
 id: '5147'
 title: 'Le dragon et ses avatars. Groupement de textes et d’images (séquence)'
-rubrique: 'Étude de l'image [5e]'
+rubrique: 'Étude de l’image [5e]'
 annee: '2003'
 magazine: 'n°7 15 décembre 2003'
 pages: '32'

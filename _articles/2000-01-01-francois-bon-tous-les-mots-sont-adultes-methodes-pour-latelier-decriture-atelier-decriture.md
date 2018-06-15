@@ -1,7 +1,7 @@
 ---
 id: '3895'
 title: 'François Bon : « Tous les mots sont adultes : méthodes pour l’atelier d’écriture »'
-rubrique: 'Atelier d'écriture'
+rubrique: 'Atelier d’écriture'
 annee: '2000'
 magazine: 'n°13 15 mai 2001'
 pages: '3'

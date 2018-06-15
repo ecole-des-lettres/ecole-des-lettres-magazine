@@ -1,7 +1,7 @@
 ---
 id: '1691'
 title: 'L’argumentation au collège (4/7)'
-rubrique: ' L'argumentation [4e-3e]'
+rubrique: ' l’argumentation [4e-3e]'
 annee: '1994'
 magazine: 'n°4 15 novembre 1994'
 pages: '4'

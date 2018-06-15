@@ -20,7 +20,7 @@ oeuvres:
 - La Divine Comédie
 - Énéide
 - le  Récit de gilgamesh
-- la Porte de l'enfer
+- la Porte de l’enfer
 ecrivains:
 - Virgile
 - Homère

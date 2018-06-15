@@ -2,7 +2,7 @@
 id: '1686'
 title: 'Fénelon : quelques aspects de la structure de « Télémaque ». Écriture et
   imaginaire'
-rubrique: 'Roman d'apprentissage [agrégation]'
+rubrique: 'Roman d’apprentissage [agrégation]'
 annee: '1994'
 magazine: 'n°4 15 novembre 1994'
 pages: '7'

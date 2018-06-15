@@ -1,6 +1,6 @@
 ---
 id: '11823'
-title: 'Victor Hugo : « L’homme qui rit », le roman d'un proscrit. Étude intégrale
+title: 'Victor Hugo : « L’homme qui rit », le roman d’un proscrit. Étude intégrale
   '
 rubrique: 'Récits du XIXe siècle [4e-3e]'
 annee: '2007'

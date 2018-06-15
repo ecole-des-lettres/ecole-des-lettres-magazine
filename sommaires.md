@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sommaires des magazines de l'école des lettres
+title: Sommaires des magazines de l’école des lettres
 type: website
 permalink: sommaires/index.html
 ---

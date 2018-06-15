@@ -1,6 +1,6 @@
 ---
 id: '11274'
-title: 'Désenchantement. Le sujet d'invention'
+title: 'Désenchantement. Le sujet d’invention'
 rubrique: 'Programmes [1re]'
 annee: '2005'
 magazine: 'n°1 août-septembre 2005'

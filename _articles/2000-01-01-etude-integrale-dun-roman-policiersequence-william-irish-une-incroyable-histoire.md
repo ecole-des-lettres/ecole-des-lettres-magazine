@@ -1,6 +1,6 @@
 ---
 id: '3871'
-title: 'Étude intégrale d'un roman policier(séquence)'
+title: 'Étude intégrale d’un roman policier(séquence)'
 rubrique: 'William Irish : « Une incroyable histoire »'
 annee: '2000'
 magazine: 'n°12 15 avril 2001'

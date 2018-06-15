@@ -1,7 +1,7 @@
 ---
 id: '4397'
 title: 'Robert Louis Stevenson : « L’Île au trésor ». Étude intégrale (séquence)'
-rubrique: 'Roman d'aventures [5e-4e]'
+rubrique: 'Roman d’aventures [5e-4e]'
 annee: '2001'
 magazine: '2001'
 pages: '22'

@@ -11,7 +11,7 @@ description: 'Au lycée, l’étude de ce chapitre isolé peut être tout d’ab
   récurrents. D’autre part, la composition du chapitre, long d’environ dix pages,
   donne une idée intéressante de l’écriture péréquienne, non seulement en ce qui concerne
   les procédés manifestes, mais aussi en ce point névralgique qu’est le sens donné
-  par l’auteur à l'acte d’écrire…'
+  par l’auteur à l’acte d’écrire…'
 article_pdf: '1061.pdf'
 revue: 'L’école des lettres des lycées'
 auteurs:

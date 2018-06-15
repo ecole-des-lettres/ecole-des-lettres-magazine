@@ -3,7 +3,7 @@ title: Contacts
 permalink: /contacts
 ---
 
-## Contacter la rédaction de l'École des lettres
+## Contacter la rédaction de l’École des lettres
 
 **Par courrier :**  
 L’École des lettres  
@@ -19,7 +19,7 @@ courrier@ecoledeslettres.fr
 **Par fax :**  
 01 45 48 04 99
 
-## Contacter le Service abonnements de l'École des lettres
+## Contacter le Service abonnements de l’École des lettres
 
 **Par courrier :**  
 L’École des lettres / Abonnements,  

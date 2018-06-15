@@ -1,6 +1,6 @@
 ---
 id: '11913'
-title: 'Laurent Cantet : « Entre les murs », d'après le récit de François Bégaudeau'
+title: 'Laurent Cantet : « Entre les murs », d’après le récit de François Bégaudeau'
 rubrique: 'Cinéma'
 annee: '2008'
 magazine: 'n°2 2008-2009'

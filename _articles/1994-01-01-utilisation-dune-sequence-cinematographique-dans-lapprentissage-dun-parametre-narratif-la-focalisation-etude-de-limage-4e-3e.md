@@ -2,7 +2,7 @@
 id: '1547'
 title: 'Utilisation d’une séquence cinématographique dans l’apprentissage d’un paramètre
   narratif. La focalisation '
-rubrique: 'Étude de l'image [4e-3e]'
+rubrique: 'Étude de l’image [4e-3e]'
 annee: '1994'
 magazine: 'n°12 15 juin 1995'
 pages: '26'

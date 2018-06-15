@@ -1,6 +1,6 @@
 ---
 id: '11171'
-title: 'Portrait de l'artiste en saltimbanque (séquence)'
+title: 'Portrait de l’artiste en saltimbanque (séquence)'
 rubrique: 'Poésie [1re]'
 annee: '2004'
 magazine: '2004'

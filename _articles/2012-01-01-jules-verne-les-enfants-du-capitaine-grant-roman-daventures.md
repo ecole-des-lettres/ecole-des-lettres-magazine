@@ -1,7 +1,7 @@
 ---
 id: '12410'
 title: 'Jules Verne : « Les Enfants du capitaine Grant »'
-rubrique: 'Roman d'aventures'
+rubrique: 'Roman d’aventures'
 annee: '2012'
 magazine: 'avril 2012'
 pages: '2'

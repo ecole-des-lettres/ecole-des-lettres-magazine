@@ -1,7 +1,7 @@
 ---
 id: '3365'
 title: 'Un concours d’écriture policière '
-rubrique: 'Atelier d'écriture [3e]'
+rubrique: 'Atelier d’écriture [3e]'
 annee: '1998'
 magazine: 'n°8 15 décembre 1998'
 pages: '4'

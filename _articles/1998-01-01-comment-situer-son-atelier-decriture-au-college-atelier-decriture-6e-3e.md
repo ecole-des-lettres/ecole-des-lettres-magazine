@@ -1,7 +1,7 @@
 ---
 id: '3120'
 title: 'Comment situer son atelier d’écriture au collège ?'
-rubrique: 'Atelier d'écriture [6e-3e]'
+rubrique: 'Atelier d’écriture [6e-3e]'
 annee: '1998'
 magazine: 'n°13 1er mai 1999'
 pages: '4'
