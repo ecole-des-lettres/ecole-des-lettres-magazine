@@ -1,7 +1,7 @@
 ---
 id: '1541'
 title: 'Cinéma et bande dessinée '
-rubrique: 'Étude de l'image [4e-3e]'
+rubrique: 'Étude de l’image [4e-3e]'
 annee: '1994'
 magazine: 'n°12 15 juin 1995'
 pages: '12'
