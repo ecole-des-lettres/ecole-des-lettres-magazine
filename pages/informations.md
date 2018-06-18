@@ -1,26 +1,26 @@
 ---
 title: Conditions d’utilisation
-permalink: /conditions-utilisations
 ---
-
 ## Conditions générales de vente
 
 Les abonnements sont souscrits pour la durée de l’année scolaire, du 16 juillet au 15 juillet de l’année suivante.
 
-Pour vous abonner à l’École des lettres des collèges (cinq numéros papier par an) et accéder aux articles en ligne et à l’ensemble des archives sur www.ecoledeslettres.fr,
+Pour vous abonner à _l’École des lettres Collège_ (quatre numéros papier par an), accéder aux articles en ligne et à l’ensemble des archives sur www.ecoledeslettres.fr,
 
-pour accéder aux articles de l’Espace Lycée sur www.ecoledeslettres.fr,
+pour accéder aux articles de l_’École des lettres Lycée _sur _www.ecoledeslettres.fr_,
 
 ou pour vous abonner aux deux formules, souscrivez en ligne par règlement sécurisé ou bien imprimez le bulletin et retournez-le accompagné de votre règlement par chèque – ou d’un bon de commande pour les établissements – à :
 
-L'École des lettres / GLI  
-4, rue de Mouchy  
-60438 NOAILLES CEDEX  
-Tél. : 01.55.56.70.42\. - Fax : 01.55.56.70.91  
+L'École des lettres / Abonnements, 
+11, rue de Sèvres
+75278 Paris Cedex 06
+Tél. : 01.55.56.70.42. – Fax : 01.45.48.04.99  
 
-Un envoi groupé des numéros de l’École des lettres déjà parus au cours de l’année scolaire est immédiatement assuré, quel que soit le moment de la souscription.
+Un envoi groupé des numéros de _l’École des lettres_ déjà parus au cours de l’année scolaire est immédiatement assuré, quel que soit le moment de la souscription.
 
-Le code d’accès personnel aux ressources est communiqué par courrier ou par mél lorsque l’abonnement est souscrit par chèque ou en adressant un bon de commande, il est obtenu instantanément en souscrivant l’abonnement en ligne.
+L'accès aux ressources est instantané lorsque l'on souscrit un abonnement en ligne.
+
+Dès que votre adresse mail est enregistrée lorsque l’abonnement est souscrit par chèque ou en adressant un bon de commande.
 
 ## Conditions d’accès et de consultation
 
