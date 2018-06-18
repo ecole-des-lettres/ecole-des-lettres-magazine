@@ -25,4 +25,6 @@ L’École des lettres / Abonnements,\
 75278 Paris Cedex 06
 
 **Par téléphone :**\
-01 55 56 70 42 et 01 42 22 94 10
+01 55 56 70 42 
+\
+et 01 42 22 94 10
