@@ -11,10 +11,10 @@ pour accéder aux articles de l_’École des lettres Lycée _sur _www.ecoledesl
 
 ou pour vous abonner aux deux formules, souscrivez en ligne par règlement sécurisé ou bien imprimez le bulletin et retournez-le accompagné de votre règlement par chèque – ou d’un bon de commande pour les établissements – à :
 
-L'École des lettres / Abonnements, 
-11, rue de Sèvres
-75278 Paris Cedex 06
-Tél. : 01.55.56.70.42. – Fax : 01.45.48.04.99  
+L'École des lettres / Abonnements\
+11, rue de Sèvres\
+75278 Paris Cedex 06\
+Tél. : 01.55.56.70.42 - Fax : 01.45.48.04.99
 
 Un envoi groupé des numéros de _l’École des lettres_ déjà parus au cours de l’année scolaire est immédiatement assuré, quel que soit le moment de la souscription.
 
