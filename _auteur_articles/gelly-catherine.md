@@ -1,3 +1,0 @@
----
-title: Gelly Catherine
----

@@ -1,3 +1,0 @@
----
-title: Angélina et José
----

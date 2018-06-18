@@ -1,3 +1,0 @@
----
-title: Mangin Valérie
----

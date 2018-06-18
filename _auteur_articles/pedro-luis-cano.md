@@ -1,3 +1,0 @@
----
-title: Pedro-Luis Cano
----

@@ -1,3 +1,0 @@
----
-title: L’Oisif surmené
----

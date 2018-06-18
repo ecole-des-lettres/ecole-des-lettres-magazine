@@ -1,3 +1,0 @@
----
-title: Paradis du rêve
----

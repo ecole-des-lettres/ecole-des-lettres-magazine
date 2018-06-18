@@ -1,3 +1,0 @@
----
-title: Ollivier Jean
----

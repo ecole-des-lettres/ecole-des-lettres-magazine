@@ -1,3 +1,0 @@
----
-title: Carpentier Jean / Ducas
----

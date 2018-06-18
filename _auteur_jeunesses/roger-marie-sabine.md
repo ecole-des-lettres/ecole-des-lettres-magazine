@@ -1,3 +1,0 @@
----
-title: Roger Marie-Sabine
----

@@ -1,3 +1,0 @@
----
-title: Thorel-Cailleteau Sylvie
----

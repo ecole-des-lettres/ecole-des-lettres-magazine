@@ -1,3 +1,0 @@
----
-title: Tres de Mayo
----

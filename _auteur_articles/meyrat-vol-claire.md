@@ -1,3 +1,0 @@
----
-title: Meyrat-Vol Claire
----

@@ -1,3 +1,0 @@
----
-title: Kahn Nathaniel
----

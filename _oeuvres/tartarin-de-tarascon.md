@@ -1,3 +1,0 @@
----
-title: Tartarin de Tarascon
----

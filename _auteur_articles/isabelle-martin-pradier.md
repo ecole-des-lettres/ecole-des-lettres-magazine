@@ -1,3 +1,0 @@
----
-title: Isabelle Martin-Pradier
----

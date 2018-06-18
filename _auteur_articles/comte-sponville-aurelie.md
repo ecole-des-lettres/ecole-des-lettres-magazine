@@ -1,3 +1,0 @@
----
-title: Comte-Sponville Aurélie
----

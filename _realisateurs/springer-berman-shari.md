@@ -1,3 +1,0 @@
----
-title: Springer Berman Shari
----

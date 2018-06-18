@@ -1,3 +1,0 @@
----
-title: Silence complice
----

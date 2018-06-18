@@ -1,3 +1,0 @@
----
-title: Tarantino Quentin
----

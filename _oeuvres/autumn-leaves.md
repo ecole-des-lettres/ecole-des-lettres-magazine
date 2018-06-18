@@ -1,3 +1,0 @@
----
-title: Autumn Leaves
----

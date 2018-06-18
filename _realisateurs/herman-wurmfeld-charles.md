@@ -1,3 +1,0 @@
----
-title: Herman-Wurmfeld Charles
----

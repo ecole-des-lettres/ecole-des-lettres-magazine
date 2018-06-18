@@ -1,3 +1,0 @@
----
-title: Monnerie-Goarin Anne
----

@@ -1,3 +1,0 @@
----
-title: L’Histoire impossible
----

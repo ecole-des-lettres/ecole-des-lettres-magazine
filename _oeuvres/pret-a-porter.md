@@ -1,3 +1,0 @@
----
-title: Prêt-à-porter
----

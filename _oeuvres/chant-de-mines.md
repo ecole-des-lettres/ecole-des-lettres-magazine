@@ -1,3 +1,0 @@
----
-title: chant de mines
----

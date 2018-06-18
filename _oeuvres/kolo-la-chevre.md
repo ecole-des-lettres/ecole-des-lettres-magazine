@@ -1,3 +1,0 @@
----
-title: Kolo la chèvre
----

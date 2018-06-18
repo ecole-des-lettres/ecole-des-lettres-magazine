@@ -1,3 +1,0 @@
----
-title: Anne De Nadai
----

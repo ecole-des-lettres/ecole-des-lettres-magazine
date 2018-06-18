@@ -1,3 +1,0 @@
----
-title: Thibaut D’Anthonay
----

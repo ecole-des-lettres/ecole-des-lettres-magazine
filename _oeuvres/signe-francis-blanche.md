@@ -1,3 +1,0 @@
----
-title: Signé Francis Blanche
----

@@ -1,3 +1,0 @@
----
-title: Rabier-Cros Marguerite
----

@@ -1,3 +1,0 @@
----
-title: les mains libres
----

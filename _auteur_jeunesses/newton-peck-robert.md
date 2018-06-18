@@ -1,3 +1,0 @@
----
-title: Newton Peck Robert
----

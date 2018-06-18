@@ -1,3 +1,0 @@
----
-title: Schneider Anne / Giraud
----

@@ -1,3 +1,0 @@
----
-title: Aurore Violas
----

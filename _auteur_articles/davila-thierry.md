@@ -1,3 +1,0 @@
----
-title: Davila Thierry
----

@@ -1,3 +1,0 @@
----
-title: La Pierre parlante
----

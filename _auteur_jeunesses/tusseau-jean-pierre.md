@@ -1,3 +1,0 @@
----
-title: Tusseau Jean-Pierre
----

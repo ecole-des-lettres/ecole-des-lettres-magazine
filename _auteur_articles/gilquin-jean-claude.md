@@ -1,3 +1,0 @@
----
-title: Gilquin Jean-Claude
----

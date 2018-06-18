@@ -1,3 +1,0 @@
----
-title: Kelly Jacqueline
----

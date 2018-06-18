@@ -1,3 +1,0 @@
----
-title: Malika Ferdjoukh
----

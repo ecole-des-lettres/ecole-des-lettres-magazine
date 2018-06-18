@@ -1,3 +1,0 @@
----
-title: Loncke Aurélien
----

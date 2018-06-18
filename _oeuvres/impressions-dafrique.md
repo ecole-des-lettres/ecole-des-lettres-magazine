@@ -1,3 +1,0 @@
----
-title: Impressions d’Afrique
----

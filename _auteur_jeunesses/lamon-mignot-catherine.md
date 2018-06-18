@@ -1,3 +1,0 @@
----
-title: Lamon-Mignot Catherine
----

@@ -1,3 +1,0 @@
----
-title: Refus de témoigner
----

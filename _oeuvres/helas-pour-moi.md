@@ -1,3 +1,0 @@
----
-title: Hélas pour moi
----

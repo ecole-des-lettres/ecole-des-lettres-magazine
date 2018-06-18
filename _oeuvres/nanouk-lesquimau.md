@@ -1,3 +1,0 @@
----
-title: nanouk l’Esquimau
----

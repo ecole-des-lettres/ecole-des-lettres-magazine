@@ -1,3 +1,0 @@
----
-title: Bon à rien
----

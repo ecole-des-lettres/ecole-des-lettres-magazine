@@ -1,3 +1,0 @@
----
-title: Briatte Robert
----

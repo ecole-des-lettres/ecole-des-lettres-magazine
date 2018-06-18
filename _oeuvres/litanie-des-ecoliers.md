@@ -1,3 +1,0 @@
----
-title: Litanie des écoliers
----

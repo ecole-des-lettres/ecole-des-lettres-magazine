@@ -1,3 +1,0 @@
----
-title: Perrine Galand-Hallyn
----

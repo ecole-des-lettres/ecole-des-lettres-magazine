@@ -1,3 +1,0 @@
----
-title: Blanc Marie-Jo
----

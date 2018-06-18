@@ -1,3 +1,0 @@
----
-title: Delval Marie-Hélène
----

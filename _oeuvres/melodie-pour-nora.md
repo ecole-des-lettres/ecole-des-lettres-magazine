@@ -1,3 +1,0 @@
----
-title: Mélodie pour Nora
----

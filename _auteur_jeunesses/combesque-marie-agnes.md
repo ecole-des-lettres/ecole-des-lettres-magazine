@@ -1,3 +1,0 @@
----
-title: Combesque Marie-Agnès
----

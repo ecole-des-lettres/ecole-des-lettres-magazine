@@ -1,3 +1,0 @@
----
-title: Éric Tourrette
----

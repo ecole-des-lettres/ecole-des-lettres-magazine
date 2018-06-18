@@ -1,3 +1,0 @@
----
-title: Goya Francisco de
----

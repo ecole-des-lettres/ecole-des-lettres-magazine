@@ -1,3 +1,0 @@
----
-title: Belles à mourir
----

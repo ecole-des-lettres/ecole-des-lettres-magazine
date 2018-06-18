@@ -1,3 +1,0 @@
----
-title: Somtow S. P.
----

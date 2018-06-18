@@ -1,3 +1,0 @@
----
-title: Encore et jamais
----

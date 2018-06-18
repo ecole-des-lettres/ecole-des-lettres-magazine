@@ -1,3 +1,0 @@
----
-title: Fon Eisen Anthony
----

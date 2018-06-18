@@ -1,3 +1,0 @@
----
-title: Taconet Anne-Violaine
----

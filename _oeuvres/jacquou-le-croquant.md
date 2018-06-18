@@ -1,3 +1,0 @@
----
-title: Jacquou le Croquant
----

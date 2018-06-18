@@ -1,3 +1,0 @@
----
-title: Être et avoir
----

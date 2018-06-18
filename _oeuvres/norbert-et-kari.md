@@ -1,3 +1,0 @@
----
-title: norbert et Kari
----

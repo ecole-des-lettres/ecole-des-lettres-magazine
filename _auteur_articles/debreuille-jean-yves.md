@@ -1,3 +1,0 @@
----
-title: Debreuille Jean-Yves
----

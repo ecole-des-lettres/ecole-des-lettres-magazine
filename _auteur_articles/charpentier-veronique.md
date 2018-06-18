@@ -1,3 +1,0 @@
----
-title: Charpentier Véronique
----

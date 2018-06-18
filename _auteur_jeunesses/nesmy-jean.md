@@ -1,3 +1,0 @@
----
-title: Nesmy Jean
----

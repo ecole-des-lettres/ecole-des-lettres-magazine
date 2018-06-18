@@ -1,3 +1,0 @@
----
-title: Berthon Jean-François
----

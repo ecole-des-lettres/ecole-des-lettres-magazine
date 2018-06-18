@@ -1,3 +1,0 @@
----
-title: Belle du Seigneur
----

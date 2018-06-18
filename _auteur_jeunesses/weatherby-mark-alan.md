@@ -1,3 +1,0 @@
----
-title: Weatherby Mark Alan
----

@@ -1,3 +1,0 @@
----
-title: Baleine Philippe de
----

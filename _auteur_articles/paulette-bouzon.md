@@ -1,3 +1,0 @@
----
-title: Paulette Bouzon
----

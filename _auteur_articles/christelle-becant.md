@@ -1,3 +1,0 @@
----
-title: Christelle Bécant
----

@@ -1,3 +1,0 @@
----
-title: Gilson François
----

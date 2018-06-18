@@ -1,3 +1,0 @@
----
-title: Voyages de Gulliver
----

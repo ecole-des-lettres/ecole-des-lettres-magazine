@@ -1,3 +1,0 @@
----
-title: Satrapi Marjane
----

@@ -1,3 +1,0 @@
----
-title: Riou Chantal
----

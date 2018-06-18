@@ -1,3 +1,0 @@
----
-title: Ricord Marine
----

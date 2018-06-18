@@ -1,3 +1,0 @@
----
-title: Vol de nuit
----

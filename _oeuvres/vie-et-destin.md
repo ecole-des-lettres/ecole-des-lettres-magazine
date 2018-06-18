@@ -1,3 +1,0 @@
----
-title: Vie et Destin
----

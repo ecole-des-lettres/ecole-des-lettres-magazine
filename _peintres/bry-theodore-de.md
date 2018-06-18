@@ -1,3 +1,0 @@
----
-title: Bry Théodore de
----

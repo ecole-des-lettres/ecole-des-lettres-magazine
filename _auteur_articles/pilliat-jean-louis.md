@@ -1,3 +1,0 @@
----
-title: Pilliat Jean-Louis
----

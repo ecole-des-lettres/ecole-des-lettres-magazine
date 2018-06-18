@@ -1,3 +1,0 @@
----
-title: Jouvet Louis
----

@@ -1,3 +1,0 @@
----
-title: Marine Bérenguer
----

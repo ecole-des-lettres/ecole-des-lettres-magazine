@@ -1,3 +1,0 @@
----
-title: Rocha Paulo
----

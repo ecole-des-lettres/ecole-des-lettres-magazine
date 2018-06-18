@@ -1,3 +1,0 @@
----
-title: Ergüven Deniz Gamze
----

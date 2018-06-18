@@ -1,3 +1,0 @@
----
-title: Belfiore Robert
----

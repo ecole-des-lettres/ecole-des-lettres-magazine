@@ -1,3 +1,0 @@
----
-title: Krähenbühl Eddy
----

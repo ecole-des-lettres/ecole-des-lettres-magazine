@@ -1,3 +1,0 @@
----
-title: Jahier Bernard
----

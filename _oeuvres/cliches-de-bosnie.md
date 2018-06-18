@@ -1,3 +1,0 @@
----
-title: Clichés de Bosnie
----

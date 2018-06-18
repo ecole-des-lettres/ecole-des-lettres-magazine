@@ -1,3 +1,0 @@
----
-title: Marianne Aimé-Bielicki
----

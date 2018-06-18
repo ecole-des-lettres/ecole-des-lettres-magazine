@@ -1,3 +1,0 @@
----
-title: Bartoli Anglard Véronique
----

@@ -1,3 +1,0 @@
----
-title: Tezka Macoto
----

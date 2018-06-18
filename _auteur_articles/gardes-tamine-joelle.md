@@ -1,3 +1,0 @@
----
-title: Gardes-Tamine Joëlle
----

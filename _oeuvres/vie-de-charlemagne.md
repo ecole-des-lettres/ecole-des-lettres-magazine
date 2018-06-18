@@ -1,3 +1,0 @@
----
-title: Vie de Charlemagne
----

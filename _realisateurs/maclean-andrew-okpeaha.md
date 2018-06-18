@@ -1,3 +1,0 @@
----
-title: MacLean Andrew Okpeaha
----

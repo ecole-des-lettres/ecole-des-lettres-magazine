@@ -1,3 +1,0 @@
----
-title: Meurtre à Honfleur
----

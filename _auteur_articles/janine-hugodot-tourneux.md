@@ -1,3 +1,0 @@
----
-title: Janine Hugodot-Tourneux
----

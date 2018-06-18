@@ -1,3 +1,0 @@
----
-title: En attendant Godot
----

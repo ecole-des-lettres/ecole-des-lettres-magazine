@@ -1,3 +1,0 @@
----
-title: Summer of Sam
----

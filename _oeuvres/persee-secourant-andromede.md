@@ -1,3 +1,0 @@
----
-title: Persée secourant Andromède
----

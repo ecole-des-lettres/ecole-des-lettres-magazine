@@ -1,3 +1,0 @@
----
-title: Civeyrac Jean-Paul
----

@@ -1,3 +1,0 @@
----
-title: Jorgensen Jean-Claude
----

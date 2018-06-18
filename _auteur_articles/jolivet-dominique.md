@@ -1,3 +1,0 @@
----
-title: Jolivet Dominique
----

@@ -1,3 +1,0 @@
----
-title: avoir un corps
----

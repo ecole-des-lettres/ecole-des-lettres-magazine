@@ -1,3 +1,0 @@
----
-title: Tout pour enseigner
----

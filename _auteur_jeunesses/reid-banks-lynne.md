@@ -1,3 +1,0 @@
----
-title: Reid Banks Lynne
----

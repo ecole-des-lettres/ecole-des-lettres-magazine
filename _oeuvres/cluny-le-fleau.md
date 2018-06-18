@@ -1,3 +1,0 @@
----
-title: Cluny le Fléau
----

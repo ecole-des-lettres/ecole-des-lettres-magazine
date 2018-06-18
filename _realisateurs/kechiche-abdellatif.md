@@ -1,3 +1,0 @@
----
-title: Kechiche Abdellatif
----

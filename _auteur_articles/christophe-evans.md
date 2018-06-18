@@ -1,3 +1,0 @@
----
-title: Christophe Evans
----

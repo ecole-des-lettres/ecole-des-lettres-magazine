@@ -1,3 +1,0 @@
----
-title: Perrier Pascale
----

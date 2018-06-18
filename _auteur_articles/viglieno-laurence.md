@@ -1,3 +1,0 @@
----
-title: Viglieno Laurence
----

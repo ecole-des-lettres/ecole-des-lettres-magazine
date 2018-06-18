@@ -1,3 +1,0 @@
----
-title: Terre et cendres
----

@@ -1,3 +1,0 @@
----
-title: Roland-Billecart Luce
----

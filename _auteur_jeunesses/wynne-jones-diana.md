@@ -1,3 +1,0 @@
----
-title: Wynne-Jones Diana
----

@@ -1,3 +1,0 @@
----
-title: Dirty Pretty Things
----

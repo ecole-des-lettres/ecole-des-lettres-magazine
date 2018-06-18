@@ -1,3 +1,0 @@
----
-title: Jeannin Magali
----

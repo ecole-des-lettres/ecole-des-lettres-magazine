@@ -1,3 +1,0 @@
----
-title: Amants, heureux amants…
----

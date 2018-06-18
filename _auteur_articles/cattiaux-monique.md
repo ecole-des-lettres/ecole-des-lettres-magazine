@@ -1,3 +1,0 @@
----
-title: Cattiaux Monique
----

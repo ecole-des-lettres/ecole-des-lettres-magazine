@@ -1,3 +1,0 @@
----
-title: Guédiguian Robert
----

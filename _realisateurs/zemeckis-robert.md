@@ -1,3 +1,0 @@
----
-title: Zemeckis Robert
----

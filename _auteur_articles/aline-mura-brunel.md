@@ -1,3 +1,0 @@
----
-title: Aline Mura-Brunel
----

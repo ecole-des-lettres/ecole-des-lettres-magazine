@@ -1,3 +1,0 @@
----
-title: Hackford Taylor
----

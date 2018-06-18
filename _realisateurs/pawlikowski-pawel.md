@@ -1,3 +1,0 @@
----
-title: Pawlikowski Pawel
----

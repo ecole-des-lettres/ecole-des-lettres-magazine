@@ -1,3 +1,0 @@
----
-title: Gandolfi Silvana
----

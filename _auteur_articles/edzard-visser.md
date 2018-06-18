@@ -1,3 +1,0 @@
----
-title: Edzard Visser
----

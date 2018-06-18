@@ -1,3 +1,0 @@
----
-title: Guiron le Courtois
----

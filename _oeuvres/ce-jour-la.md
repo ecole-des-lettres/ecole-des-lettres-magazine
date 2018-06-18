@@ -1,3 +1,0 @@
----
-title: Ce jour-là
----

@@ -1,3 +1,0 @@
----
-title: Lumières pour enfants
----

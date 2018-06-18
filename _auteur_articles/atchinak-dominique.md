@@ -1,3 +1,0 @@
----
-title: Atchinak Dominique
----

@@ -1,3 +1,0 @@
----
-title: Giraud-Lidy Claudette
----

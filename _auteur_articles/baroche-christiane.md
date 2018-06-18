@@ -1,3 +1,0 @@
----
-title: Baroche Christiane
----

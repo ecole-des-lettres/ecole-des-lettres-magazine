@@ -1,3 +1,0 @@
----
-title: Habemus papam
----

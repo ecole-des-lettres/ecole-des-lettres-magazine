@@ -1,3 +1,0 @@
----
-title: Gray James
----

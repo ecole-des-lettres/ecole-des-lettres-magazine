@@ -1,3 +1,0 @@
----
-title: Danièle Moreau-Rénier
----

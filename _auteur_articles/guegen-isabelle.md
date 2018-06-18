@@ -1,3 +1,0 @@
----
-title: Guégen Isabelle
----

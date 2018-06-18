@@ -1,3 +1,0 @@
----
-title: Tasma Sophie
----

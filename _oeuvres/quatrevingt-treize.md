@@ -1,3 +1,0 @@
----
-title: Quatrevingt-treize
----

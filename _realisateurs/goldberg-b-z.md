@@ -1,3 +1,0 @@
----
-title: Goldberg B. Z.
----

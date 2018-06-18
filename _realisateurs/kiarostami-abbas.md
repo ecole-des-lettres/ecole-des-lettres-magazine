@@ -1,3 +1,0 @@
----
-title: Kiarostami Abbas
----

@@ -1,3 +1,0 @@
----
-title: Garcia Anne-Marie
----

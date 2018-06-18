@@ -1,3 +1,0 @@
----
-title: Jaines Danielle / Lemierre
----

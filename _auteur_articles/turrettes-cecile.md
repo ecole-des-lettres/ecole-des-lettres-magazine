@@ -1,3 +1,0 @@
----
-title: Turrettes Cécile
----

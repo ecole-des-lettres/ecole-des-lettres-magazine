@@ -1,3 +1,0 @@
----
-title: Schulz Hermann
----

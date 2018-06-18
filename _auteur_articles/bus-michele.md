@@ -1,3 +1,0 @@
----
-title: Bus Michèle
----

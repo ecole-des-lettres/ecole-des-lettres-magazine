@@ -1,3 +1,0 @@
----
-title: Stassen Jean-Pierre
----

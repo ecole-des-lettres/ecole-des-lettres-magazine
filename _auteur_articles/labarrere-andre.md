@@ -1,3 +1,0 @@
----
-title: Labarrère André
----

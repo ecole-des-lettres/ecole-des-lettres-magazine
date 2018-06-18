@@ -1,3 +1,0 @@
----
-title: Lejeune Philippe
----

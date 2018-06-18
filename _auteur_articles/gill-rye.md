@@ -1,3 +1,0 @@
----
-title: Gill Rye
----

@@ -1,3 +1,0 @@
----
-title: Jadis et Naguère
----

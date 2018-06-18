@@ -1,3 +1,0 @@
----
-title: Tranches de quartier
----

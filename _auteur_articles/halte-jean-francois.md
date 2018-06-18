@@ -1,3 +1,0 @@
----
-title: Halté Jean-François
----

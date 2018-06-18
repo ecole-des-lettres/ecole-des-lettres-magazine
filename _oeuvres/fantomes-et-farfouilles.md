@@ -1,3 +1,0 @@
----
-title: Fantômes et farfouilles
----

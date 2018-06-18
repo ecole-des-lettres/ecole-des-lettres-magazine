@@ -1,3 +1,0 @@
----
-title: Tarass Boulba
----

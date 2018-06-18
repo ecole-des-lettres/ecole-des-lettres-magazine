@@ -1,3 +1,0 @@
----
-title: Comprenne qui voudra
----

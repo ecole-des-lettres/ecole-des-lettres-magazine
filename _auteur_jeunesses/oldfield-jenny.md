@@ -1,3 +1,0 @@
----
-title: Oldfield Jenny
----

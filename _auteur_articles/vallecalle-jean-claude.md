@@ -1,3 +1,0 @@
----
-title: Vallecalle Jean-Claude
----

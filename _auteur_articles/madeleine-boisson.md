@@ -1,3 +1,0 @@
----
-title: Madeleine Boisson
----

@@ -1,3 +1,0 @@
----
-title: Partie de campagne
----

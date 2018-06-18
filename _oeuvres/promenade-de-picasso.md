@@ -1,3 +1,0 @@
----
-title: Promenade de Picasso
----

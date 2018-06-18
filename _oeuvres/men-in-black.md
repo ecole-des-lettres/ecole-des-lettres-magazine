@@ -1,3 +1,0 @@
----
-title: Men in Black
----

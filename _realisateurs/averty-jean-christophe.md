@@ -1,3 +1,0 @@
----
-title: Averty Jean-Christophe
----

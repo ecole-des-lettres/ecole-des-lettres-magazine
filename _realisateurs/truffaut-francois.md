@@ -1,3 +1,0 @@
----
-title: Truffaut François
----

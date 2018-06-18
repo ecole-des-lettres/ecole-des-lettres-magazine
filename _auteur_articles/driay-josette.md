@@ -1,3 +1,0 @@
----
-title: Driay Josette
----

@@ -1,3 +1,0 @@
----
-title: Longre Jean-Pierre
----

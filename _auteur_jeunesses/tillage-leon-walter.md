@@ -1,3 +1,0 @@
----
-title: Tillage Leon Walter
----

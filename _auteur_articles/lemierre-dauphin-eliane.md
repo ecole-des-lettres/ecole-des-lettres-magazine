@@ -1,3 +1,0 @@
----
-title: Lemierre-Dauphin Éliane
----

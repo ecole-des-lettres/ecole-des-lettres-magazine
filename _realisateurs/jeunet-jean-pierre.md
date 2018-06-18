@@ -1,3 +1,0 @@
----
-title: Jeunet Jean-Pierre
----

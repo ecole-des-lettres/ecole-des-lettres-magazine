@@ -1,3 +1,0 @@
----
-title: Boutin Christine K.
----

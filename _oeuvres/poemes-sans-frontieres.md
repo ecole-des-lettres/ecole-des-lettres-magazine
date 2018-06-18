@@ -1,3 +1,0 @@
----
-title: Poèmes sans frontières
----

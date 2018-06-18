@@ -1,3 +1,0 @@
----
-title: Chouraqui Élie
----

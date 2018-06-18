@@ -1,3 +1,0 @@
----
-title: Bourgeon François
----

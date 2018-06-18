@@ -1,3 +1,0 @@
----
-title: Laurent Emmanuelle
----

@@ -1,3 +1,0 @@
----
-title: Dragon de feu
----

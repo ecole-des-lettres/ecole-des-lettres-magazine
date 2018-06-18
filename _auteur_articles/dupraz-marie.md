@@ -1,3 +1,0 @@
----
-title: Dupraz Marie
----

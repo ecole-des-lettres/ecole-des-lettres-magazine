@@ -1,3 +1,0 @@
----
-title: Gardiens de buffles
----

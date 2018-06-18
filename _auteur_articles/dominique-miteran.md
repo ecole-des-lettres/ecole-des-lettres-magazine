@@ -1,3 +1,0 @@
----
-title: Dominique Mitéran
----

@@ -1,3 +1,0 @@
----
-title: Petites scènes capitales
----

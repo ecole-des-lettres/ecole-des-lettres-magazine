@@ -1,3 +1,0 @@
----
-title: Tyr et Sidon
----

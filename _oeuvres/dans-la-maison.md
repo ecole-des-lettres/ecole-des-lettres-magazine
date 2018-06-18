@@ -1,3 +1,0 @@
----
-title: dans la maison
----

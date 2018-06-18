@@ -1,3 +1,0 @@
----
-title: L’Afrique, petit Chaka…
----

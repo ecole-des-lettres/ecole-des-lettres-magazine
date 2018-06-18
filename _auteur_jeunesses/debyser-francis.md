@@ -1,3 +1,0 @@
----
-title: Debyser Francis
----

@@ -1,3 +1,0 @@
----
-title: Énquêtes et squelettes
----

@@ -1,3 +1,0 @@
----
-title: Fauchet Catherine
----

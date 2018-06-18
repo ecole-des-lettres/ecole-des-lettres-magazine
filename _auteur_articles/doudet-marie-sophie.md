@@ -1,3 +1,0 @@
----
-title: Doudet Marie-Sophie
----

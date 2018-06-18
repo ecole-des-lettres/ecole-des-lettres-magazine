@@ -1,3 +1,0 @@
----
-title: Quemada-Diez Diego
----

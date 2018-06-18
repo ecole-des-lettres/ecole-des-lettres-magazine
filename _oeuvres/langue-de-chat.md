@@ -1,3 +1,0 @@
----
-title: Langue de chat
----

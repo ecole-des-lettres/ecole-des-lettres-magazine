@@ -1,3 +1,0 @@
----
-title: Brun Catherine / Ducas
----

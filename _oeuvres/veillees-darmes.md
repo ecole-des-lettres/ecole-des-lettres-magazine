@@ -1,3 +1,0 @@
----
-title: Veillées d’armes
----

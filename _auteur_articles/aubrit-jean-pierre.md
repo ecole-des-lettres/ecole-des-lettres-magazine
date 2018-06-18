@@ -1,3 +1,0 @@
----
-title: Aubrit Jean-Pierre
----

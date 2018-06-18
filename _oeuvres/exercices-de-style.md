@@ -1,3 +1,0 @@
----
-title: Exercices de style
----

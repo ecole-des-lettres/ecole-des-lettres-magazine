@@ -1,3 +1,0 @@
----
-title: Cahiers de poèmes
----

@@ -1,3 +1,0 @@
----
-title: Ras le Bill !
----

@@ -1,3 +1,0 @@
----
-title: Édouard et Julie
----

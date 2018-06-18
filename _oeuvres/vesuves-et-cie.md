@@ -1,3 +1,0 @@
----
-title: Vésuves et Cie
----

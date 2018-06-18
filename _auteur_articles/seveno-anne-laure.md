@@ -1,3 +1,0 @@
----
-title: Séveno Anne-Laure
----

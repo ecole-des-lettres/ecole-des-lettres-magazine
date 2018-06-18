@@ -1,3 +1,0 @@
----
-title: Nous étions libres
----

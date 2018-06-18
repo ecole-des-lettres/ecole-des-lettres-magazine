@@ -1,3 +1,0 @@
----
-title: Prouteau Marie-Hélène
----

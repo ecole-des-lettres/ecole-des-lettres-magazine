@@ -1,3 +1,0 @@
----
-title: González Iñárritu Alejandro
----

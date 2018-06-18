@@ -1,3 +1,0 @@
----
-title: Voyage au Congo
----

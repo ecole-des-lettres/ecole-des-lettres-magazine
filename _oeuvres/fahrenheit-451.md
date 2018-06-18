@@ -1,3 +1,0 @@
----
-title: Fahrenheit 451
----

@@ -1,3 +1,0 @@
----
-title: Simonet-Tenant Françoise
----

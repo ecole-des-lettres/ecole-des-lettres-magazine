@@ -1,3 +1,0 @@
----
-title: Alceste à bicyclette
----

@@ -1,3 +1,0 @@
----
-title: Argod-Dutard Françoise
----

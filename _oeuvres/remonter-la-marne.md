@@ -1,3 +1,0 @@
----
-title: Remonter la Marne
----

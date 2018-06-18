@@ -1,3 +1,0 @@
----
-title: littérature de jeunesse
----

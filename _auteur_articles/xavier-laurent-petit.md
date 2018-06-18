@@ -1,3 +1,0 @@
----
-title: Xavier-Laurent Petit
----

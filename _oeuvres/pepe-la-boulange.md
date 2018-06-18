@@ -1,3 +1,0 @@
----
-title: Pépé la Boulange
----

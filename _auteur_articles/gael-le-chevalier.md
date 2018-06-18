@@ -1,3 +1,0 @@
----
-title: Gaël Le Chevalier
----

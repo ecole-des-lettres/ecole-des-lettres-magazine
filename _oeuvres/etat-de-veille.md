@@ -1,3 +1,0 @@
----
-title: État de veille
----

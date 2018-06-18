@@ -1,3 +1,0 @@
----
-title: Roméo et Juliette
----

@@ -1,3 +1,0 @@
----
-title: Escalante Amat
----

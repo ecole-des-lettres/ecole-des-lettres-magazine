@@ -1,3 +1,0 @@
----
-title: Boule de suif
----

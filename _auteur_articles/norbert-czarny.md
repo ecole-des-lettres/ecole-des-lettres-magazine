@@ -1,3 +1,0 @@
----
-title: Norbert Czarny
----

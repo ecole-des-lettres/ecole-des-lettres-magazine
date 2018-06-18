@@ -1,3 +1,0 @@
----
-title: Chollat Émilie
----

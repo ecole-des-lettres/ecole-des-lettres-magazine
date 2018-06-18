@@ -1,3 +1,0 @@
----
-title: Blin Vincent
----

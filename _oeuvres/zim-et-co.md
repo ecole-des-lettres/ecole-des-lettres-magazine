@@ -1,3 +1,0 @@
----
-title: Zim et co
----

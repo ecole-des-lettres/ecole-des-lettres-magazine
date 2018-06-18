@@ -1,3 +1,0 @@
----
-title: Reynald Squadrelli
----

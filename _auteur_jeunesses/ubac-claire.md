@@ -1,3 +1,0 @@
----
-title: Ubac Claire
----

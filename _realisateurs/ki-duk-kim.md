@@ -1,3 +1,0 @@
----
-title: Ki Duk Kim
----

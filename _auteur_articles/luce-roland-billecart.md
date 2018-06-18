@@ -1,3 +1,0 @@
----
-title: Luce Roland-Billecart
----

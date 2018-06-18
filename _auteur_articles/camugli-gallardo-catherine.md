@@ -1,3 +1,0 @@
----
-title: Camugli-Gallardo Catherine
----

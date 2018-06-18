@@ -1,3 +1,0 @@
----
-title: Juliette cherche Roméo
----

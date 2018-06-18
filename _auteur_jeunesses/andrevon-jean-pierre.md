@@ -1,3 +1,0 @@
----
-title: Andrevon Jean-Pierre
----

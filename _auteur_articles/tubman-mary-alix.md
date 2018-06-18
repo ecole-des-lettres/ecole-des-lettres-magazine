@@ -1,3 +1,0 @@
----
-title: Tubman-Mary Alix
----

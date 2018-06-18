@@ -1,3 +1,0 @@
----
-title: Sensations d’histoire
----

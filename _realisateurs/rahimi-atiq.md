@@ -1,3 +1,0 @@
----
-title: Rahimi Atiq
----

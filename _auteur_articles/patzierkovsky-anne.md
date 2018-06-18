@@ -1,3 +1,0 @@
----
-title: Patzierkovsky Anne
----

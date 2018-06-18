@@ -1,3 +1,0 @@
----
-title: L’Iroquois blanc
----

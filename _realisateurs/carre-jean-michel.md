@@ -1,3 +1,0 @@
----
-title: Carré Jean-Michel
----

@@ -1,3 +1,0 @@
----
-title: Corps et biens
----

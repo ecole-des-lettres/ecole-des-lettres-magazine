@@ -1,3 +1,0 @@
----
-title: L’Eté grec
----

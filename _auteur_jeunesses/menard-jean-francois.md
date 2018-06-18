@@ -1,3 +1,0 @@
----
-title: Ménard Jean-François
----

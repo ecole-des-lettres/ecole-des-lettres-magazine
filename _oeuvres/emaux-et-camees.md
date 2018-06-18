@@ -1,3 +1,0 @@
----
-title: Émaux et Camées
----

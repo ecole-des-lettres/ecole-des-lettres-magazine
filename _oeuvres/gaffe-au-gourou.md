@@ -1,3 +1,0 @@
----
-title: Gaffe au gourou
----

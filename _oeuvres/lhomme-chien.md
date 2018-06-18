@@ -1,3 +1,0 @@
----
-title: l’homme Chien
----

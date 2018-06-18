@@ -1,3 +1,0 @@
----
-title: Barnard Clio
----

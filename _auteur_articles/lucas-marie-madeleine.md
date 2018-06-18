@@ -1,3 +1,0 @@
----
-title: Lucas Marie-Madeleine
----

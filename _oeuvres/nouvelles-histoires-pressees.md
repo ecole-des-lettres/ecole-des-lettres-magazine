@@ -1,3 +1,0 @@
----
-title: Nouvelles histoires pressées
----

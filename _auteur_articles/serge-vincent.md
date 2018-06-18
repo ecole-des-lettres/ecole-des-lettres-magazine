@@ -1,3 +1,0 @@
----
-title: Serge Vincent
----

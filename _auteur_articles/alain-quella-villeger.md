@@ -1,3 +1,0 @@
----
-title: Alain Quella-Villéger
----

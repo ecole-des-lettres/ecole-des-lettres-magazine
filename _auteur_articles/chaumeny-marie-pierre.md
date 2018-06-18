@@ -1,3 +1,0 @@
----
-title: Chaumeny Marie-Pierre
----

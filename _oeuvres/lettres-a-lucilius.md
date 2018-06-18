@@ -1,3 +1,0 @@
----
-title: Lettres à Lucilius
----

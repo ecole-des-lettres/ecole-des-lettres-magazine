@@ -1,3 +1,0 @@
----
-title: Marie Pérouse Battello
----

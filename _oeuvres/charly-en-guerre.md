@@ -1,3 +1,0 @@
----
-title: Charly en guerre
----

@@ -1,3 +1,0 @@
----
-title: Duran Cohen Ilan
----

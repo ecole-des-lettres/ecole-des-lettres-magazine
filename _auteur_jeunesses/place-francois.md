@@ -1,3 +1,0 @@
----
-title: Place François
----

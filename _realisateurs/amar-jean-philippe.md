@@ -1,3 +1,0 @@
----
-title: Amar Jean-Philippe
----

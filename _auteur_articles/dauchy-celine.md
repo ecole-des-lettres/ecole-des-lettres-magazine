@@ -1,3 +1,0 @@
----
-title: Dauchy Céline
----

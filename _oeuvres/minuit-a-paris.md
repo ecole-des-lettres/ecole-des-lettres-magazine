@@ -1,3 +1,0 @@
----
-title: Minuit à Paris
----

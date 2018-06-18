@@ -1,3 +1,0 @@
----
-title: Camus- Deharbe Françoise
----

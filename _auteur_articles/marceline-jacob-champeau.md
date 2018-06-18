@@ -1,3 +1,0 @@
----
-title: Marceline Jacob-Champeau
----

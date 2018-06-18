@@ -1,3 +1,0 @@
----
-title: Opération Lune
----

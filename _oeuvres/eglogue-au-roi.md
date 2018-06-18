@@ -1,3 +1,0 @@
----
-title: Églogue au Roi
----

@@ -1,3 +1,0 @@
----
-title: Godier Rose-Marie
----

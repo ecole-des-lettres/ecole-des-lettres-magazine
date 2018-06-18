@@ -1,3 +1,0 @@
----
-title: Illusions perdues
----

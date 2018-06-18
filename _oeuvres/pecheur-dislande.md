@@ -1,3 +1,0 @@
----
-title: Pêcheur d’Islande
----

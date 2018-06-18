@@ -1,3 +1,0 @@
----
-title: Mamie Colette & Co
----

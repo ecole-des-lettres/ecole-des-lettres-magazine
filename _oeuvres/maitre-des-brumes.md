@@ -1,3 +1,0 @@
----
-title: Maître des Brumes
----

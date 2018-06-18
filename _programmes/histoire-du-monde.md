@@ -1,3 +1,0 @@
----
-title: histoire du monde
----

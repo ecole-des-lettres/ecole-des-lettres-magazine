@@ -1,3 +1,0 @@
----
-title: Sciama Élise
----

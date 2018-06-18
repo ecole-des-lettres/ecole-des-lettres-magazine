@@ -1,3 +1,0 @@
----
-title: Ariane Leturc
----

@@ -1,3 +1,0 @@
----
-title: Vipère au poing
----

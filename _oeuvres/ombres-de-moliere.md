@@ -1,3 +1,0 @@
----
-title: Ombres de Molière
----

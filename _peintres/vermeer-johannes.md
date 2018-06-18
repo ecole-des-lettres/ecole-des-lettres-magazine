@@ -1,3 +1,0 @@
----
-title: Vermeer Johannes
----

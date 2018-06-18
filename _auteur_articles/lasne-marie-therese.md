@@ -1,3 +1,0 @@
----
-title: Lasne Marie-Thérèse
----

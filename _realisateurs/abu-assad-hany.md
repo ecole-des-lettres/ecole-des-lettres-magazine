@@ -1,3 +1,0 @@
----
-title: Abu-Assad Hany
----

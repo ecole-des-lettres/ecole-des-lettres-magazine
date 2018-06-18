@@ -1,3 +1,0 @@
----
-title: Michell Roger
----

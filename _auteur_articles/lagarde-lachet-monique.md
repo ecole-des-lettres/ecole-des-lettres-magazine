@@ -1,3 +1,0 @@
----
-title: Lagarde-Lachet Monique
----

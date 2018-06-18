@@ -1,3 +1,0 @@
----
-title: Pythéas l’explorateur
----

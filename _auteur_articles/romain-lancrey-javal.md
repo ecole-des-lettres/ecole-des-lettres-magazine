@@ -1,3 +1,0 @@
----
-title: Romain Lancrey-Javal
----

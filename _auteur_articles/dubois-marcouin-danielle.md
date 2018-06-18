@@ -1,3 +1,0 @@
----
-title: Dubois-Marcouin Danielle
----

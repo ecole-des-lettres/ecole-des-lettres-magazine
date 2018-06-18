@@ -1,3 +1,0 @@
----
-title: Evans Walker
----

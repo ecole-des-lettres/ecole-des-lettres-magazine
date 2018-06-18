@@ -1,3 +1,0 @@
----
-title: Cerisier Emmanuel
----

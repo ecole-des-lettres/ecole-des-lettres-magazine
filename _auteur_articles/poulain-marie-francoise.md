@@ -1,3 +1,0 @@
----
-title: Poulain Marie-Françoise
----

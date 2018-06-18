@@ -1,3 +1,0 @@
----
-title: Cassou-Noguez Anne
----

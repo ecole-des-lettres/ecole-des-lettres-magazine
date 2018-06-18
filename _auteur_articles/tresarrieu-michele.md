@@ -1,3 +1,0 @@
----
-title: Trésarrieu Michèle
----

@@ -1,3 +1,0 @@
----
-title: Nahmias Jean-François
----

@@ -1,3 +1,0 @@
----
-title: Authier François-Jean
----

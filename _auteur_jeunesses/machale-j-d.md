@@ -1,3 +1,0 @@
----
-title: MacHale J. D.
----

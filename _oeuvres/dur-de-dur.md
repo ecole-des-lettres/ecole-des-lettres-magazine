@@ -1,3 +1,0 @@
----
-title: Dur de dur
----

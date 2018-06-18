@@ -1,3 +1,0 @@
----
-title: Van Draanen Wendelin
----

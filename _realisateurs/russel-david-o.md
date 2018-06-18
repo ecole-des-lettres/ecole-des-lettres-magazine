@@ -1,3 +1,0 @@
----
-title: Russel David O.
----

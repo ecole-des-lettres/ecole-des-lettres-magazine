@@ -1,3 +1,0 @@
----
-title: Famille de saltimbanques
----

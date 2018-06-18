@@ -1,3 +1,0 @@
----
-title: Pozzo Myriam
----

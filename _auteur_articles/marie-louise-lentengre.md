@@ -1,3 +1,0 @@
----
-title: Marie-Louise Lentengre
----

@@ -1,3 +1,0 @@
----
-title: Sturm und Drang
----

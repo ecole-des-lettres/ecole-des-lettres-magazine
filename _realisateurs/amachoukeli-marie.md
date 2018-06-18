@@ -1,3 +1,0 @@
----
-title: Amachoukeli Marie
----

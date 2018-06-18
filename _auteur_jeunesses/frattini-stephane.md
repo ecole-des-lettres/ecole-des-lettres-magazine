@@ -1,3 +1,0 @@
----
-title: Frattini Stéphane
----

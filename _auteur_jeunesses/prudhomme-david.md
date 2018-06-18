@@ -1,3 +1,0 @@
----
-title: Prudhomme David
----

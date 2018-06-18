@@ -1,3 +1,0 @@
----
-title: Hubat-Blanc Anne
----

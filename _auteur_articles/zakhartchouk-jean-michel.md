@@ -1,3 +1,0 @@
----
-title: Zakhartchouk Jean-Michel
----

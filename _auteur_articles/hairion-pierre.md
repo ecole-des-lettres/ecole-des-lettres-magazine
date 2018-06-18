@@ -1,3 +1,0 @@
----
-title: Hairion Pierre
----

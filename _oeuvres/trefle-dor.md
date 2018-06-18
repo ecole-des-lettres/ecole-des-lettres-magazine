@@ -1,3 +1,0 @@
----
-title: Trèfle d’or
----

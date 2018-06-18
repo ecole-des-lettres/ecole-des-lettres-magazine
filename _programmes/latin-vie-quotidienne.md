@@ -1,3 +1,0 @@
----
-title: latin - vie quotidienne
----

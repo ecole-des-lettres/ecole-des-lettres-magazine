@@ -1,3 +1,0 @@
----
-title: Miguet-Ollagnier Marie
----

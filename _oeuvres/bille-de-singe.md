@@ -1,3 +1,0 @@
----
-title: Bille de singe
----

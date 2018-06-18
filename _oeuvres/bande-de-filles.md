@@ -1,3 +1,0 @@
----
-title: Bande de filles
----

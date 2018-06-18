@@ -1,3 +1,0 @@
----
-title: Cautard Éliane
----

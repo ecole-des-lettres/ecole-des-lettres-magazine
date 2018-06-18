@@ -1,3 +1,0 @@
----
-title: Cerise Letenneur
----

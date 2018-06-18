@@ -1,3 +1,0 @@
----
-title: Chen Anthony
----

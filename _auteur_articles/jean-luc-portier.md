@@ -1,3 +1,0 @@
----
-title: Jean-Luc Portier
----

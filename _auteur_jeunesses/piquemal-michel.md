@@ -1,3 +1,0 @@
----
-title: Piquemal Michel
----

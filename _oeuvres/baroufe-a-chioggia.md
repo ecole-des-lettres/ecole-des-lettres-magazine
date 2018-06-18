@@ -1,3 +1,0 @@
----
-title: Baroufe à Chioggia
----

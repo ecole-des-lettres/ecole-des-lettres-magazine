@@ -1,3 +1,0 @@
----
-title: Grand Budapest Hotel
----

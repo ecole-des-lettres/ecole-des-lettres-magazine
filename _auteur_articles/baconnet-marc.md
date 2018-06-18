@@ -1,3 +1,0 @@
----
-title: Baconnet Marc
----

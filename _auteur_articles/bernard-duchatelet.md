@@ -1,3 +1,0 @@
----
-title: Bernard Duchatelet
----

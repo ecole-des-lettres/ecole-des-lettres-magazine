@@ -1,3 +1,0 @@
----
-title: Gauthier Patricia
----

@@ -1,3 +1,0 @@
----
-title: Zusak Markus
----

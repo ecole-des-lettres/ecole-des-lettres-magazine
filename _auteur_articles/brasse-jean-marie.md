@@ -1,3 +1,0 @@
----
-title: Brassé Jean-Marie
----

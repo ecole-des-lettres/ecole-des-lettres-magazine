@@ -1,3 +1,0 @@
----
-title: mandela et Nelson
----

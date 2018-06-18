@@ -1,3 +1,0 @@
----
-title: Delaspre Françoise
----

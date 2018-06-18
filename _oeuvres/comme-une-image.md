@@ -1,3 +1,0 @@
----
-title: Comme une image
----

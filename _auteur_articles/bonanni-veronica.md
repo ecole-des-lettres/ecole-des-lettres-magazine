@@ -1,3 +1,0 @@
----
-title: Bonanni Veronica
----

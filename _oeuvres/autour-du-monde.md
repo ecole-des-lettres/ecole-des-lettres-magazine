@@ -1,3 +1,0 @@
----
-title: Autour du monde
----

@@ -1,3 +1,0 @@
----
-title: Être sans destin
----

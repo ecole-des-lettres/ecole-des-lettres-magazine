@@ -1,3 +1,0 @@
----
-title: Rome sans pape
----

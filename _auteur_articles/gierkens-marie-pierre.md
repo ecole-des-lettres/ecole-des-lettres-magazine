@@ -1,3 +1,0 @@
----
-title: Gierkens Marie-Pierre
----

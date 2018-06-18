@@ -1,3 +1,0 @@
----
-title: angelot du Lac
----

@@ -1,3 +1,0 @@
----
-title: Tran Quoc Trung
----

@@ -1,3 +1,0 @@
----
-title: Tamine Michel
----

@@ -1,3 +1,0 @@
----
-title: Claude Hubert-Ganiayre
----

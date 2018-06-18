@@ -1,3 +1,0 @@
----
-title: Rêves d’or
----

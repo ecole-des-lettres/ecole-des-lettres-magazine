@@ -1,3 +1,0 @@
----
-title: Masson Pierre
----

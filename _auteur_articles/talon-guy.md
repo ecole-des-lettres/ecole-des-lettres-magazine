@@ -1,3 +1,0 @@
----
-title: Talon Guy
----

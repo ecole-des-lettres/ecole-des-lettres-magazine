@@ -1,3 +1,0 @@
----
-title: Boussard Françoise
----

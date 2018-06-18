@@ -1,3 +1,0 @@
----
-title: Rois et reine
----

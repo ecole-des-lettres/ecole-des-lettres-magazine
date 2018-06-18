@@ -1,3 +1,0 @@
----
-title: Rambour Jean-Louis
----

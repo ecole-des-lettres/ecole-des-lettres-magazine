@@ -1,3 +1,0 @@
----
-title: Herzaft Gérard
----

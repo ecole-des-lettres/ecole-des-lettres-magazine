@@ -1,3 +1,0 @@
----
-title: Putain de guerre !
----

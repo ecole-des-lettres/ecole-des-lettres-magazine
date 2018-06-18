@@ -1,3 +1,0 @@
----
-title: Écuer-Boisset Valérie
----

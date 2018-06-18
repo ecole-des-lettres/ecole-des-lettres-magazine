@@ -1,3 +1,0 @@
----
-title: Paroles de poilus
----

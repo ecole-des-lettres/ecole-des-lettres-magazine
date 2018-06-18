@@ -1,3 +1,0 @@
----
-title: Œdipe schlac ! schlac !
----

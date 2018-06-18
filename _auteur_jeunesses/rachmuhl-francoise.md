@@ -1,3 +1,0 @@
----
-title: Rachmuhl Françoise
----

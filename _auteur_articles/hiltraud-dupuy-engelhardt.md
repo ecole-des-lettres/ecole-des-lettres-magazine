@@ -1,3 +1,0 @@
----
-title: Hiltraud Dupuy-Engelhardt
----

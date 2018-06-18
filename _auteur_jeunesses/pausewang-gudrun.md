@@ -1,3 +1,0 @@
----
-title: Pausewang Gudrun
----

@@ -1,3 +1,0 @@
----
-title: Dufays Jean-Louis
----

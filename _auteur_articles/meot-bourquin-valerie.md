@@ -1,3 +1,0 @@
----
-title: Méot-Bourquin Valérie
----

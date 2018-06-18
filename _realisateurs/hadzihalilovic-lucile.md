@@ -1,3 +1,0 @@
----
-title: Hadzihalilovic Lucile
----

@@ -1,3 +1,0 @@
----
-title: Somme de poésie
----

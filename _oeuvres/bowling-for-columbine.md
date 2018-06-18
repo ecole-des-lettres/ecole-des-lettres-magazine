@@ -1,3 +1,0 @@
----
-title: Bowling for Columbine
----

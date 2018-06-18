@@ -1,3 +1,0 @@
----
-title: Guyon Thibaud
----

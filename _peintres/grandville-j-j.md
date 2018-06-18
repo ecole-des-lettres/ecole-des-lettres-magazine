@@ -1,3 +1,0 @@
----
-title: Grandville J. J.
----

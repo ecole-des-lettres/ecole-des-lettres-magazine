@@ -1,3 +1,0 @@
----
-title: Amies sans frontières
----

@@ -1,3 +1,0 @@
----
-title: Louis Baladier
----

@@ -1,3 +1,0 @@
----
-title: hyper l’hippo
----

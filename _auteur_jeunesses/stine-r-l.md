@@ -1,3 +1,0 @@
----
-title: Stine R. L.
----

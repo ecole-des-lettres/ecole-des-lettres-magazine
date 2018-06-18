@@ -1,3 +1,0 @@
----
-title: Talpin Jean-Marc
----

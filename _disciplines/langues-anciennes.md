@@ -1,3 +1,0 @@
----
-title: langues anciennes
----

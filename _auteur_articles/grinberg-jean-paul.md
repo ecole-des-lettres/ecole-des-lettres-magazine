@@ -1,3 +1,0 @@
----
-title: Grinberg Jean-Paul
----

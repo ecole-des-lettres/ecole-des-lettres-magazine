@@ -1,3 +1,0 @@
----
-title: Brigitte Farvacque
----

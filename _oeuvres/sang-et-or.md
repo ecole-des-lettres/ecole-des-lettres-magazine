@@ -1,3 +1,0 @@
----
-title: Sang et or
----

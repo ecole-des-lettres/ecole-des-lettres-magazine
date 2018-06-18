@@ -1,3 +1,0 @@
----
-title: Jin-Ho Hur
----

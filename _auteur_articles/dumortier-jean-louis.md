@@ -1,3 +1,0 @@
----
-title: Dumortier Jean-Louis
----

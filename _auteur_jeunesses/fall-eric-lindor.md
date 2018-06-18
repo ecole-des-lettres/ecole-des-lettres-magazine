@@ -1,3 +1,0 @@
----
-title: Fall Éric Lindor
----

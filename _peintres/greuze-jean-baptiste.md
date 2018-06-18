@@ -1,3 +1,0 @@
----
-title: Greuze Jean-Baptiste
----

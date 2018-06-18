@@ -1,3 +1,0 @@
----
-title: Bjorn le Morphir
----

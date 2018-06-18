@@ -1,3 +1,0 @@
----
-title: Rubens Pierre Paul
----

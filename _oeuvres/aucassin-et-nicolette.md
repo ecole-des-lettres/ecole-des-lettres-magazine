@@ -1,3 +1,0 @@
----
-title: Aucassin et Nicolette
----

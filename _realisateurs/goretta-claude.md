@@ -1,3 +1,0 @@
----
-title: Goretta Claude
----

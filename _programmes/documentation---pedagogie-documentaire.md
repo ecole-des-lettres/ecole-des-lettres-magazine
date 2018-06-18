@@ -1,3 +1,0 @@
----
-title: documentation - pédagogie documentaire
----

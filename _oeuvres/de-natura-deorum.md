@@ -1,3 +1,0 @@
----
-title: De natura deorum
----

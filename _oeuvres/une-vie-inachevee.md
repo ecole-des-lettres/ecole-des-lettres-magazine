@@ -1,3 +1,0 @@
----
-title: Une vie inachevée
----

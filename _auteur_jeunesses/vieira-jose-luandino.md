@@ -1,3 +1,0 @@
----
-title: Vieira José Luandino
----

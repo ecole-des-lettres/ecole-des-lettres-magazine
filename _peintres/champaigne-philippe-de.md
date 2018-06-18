@@ -1,3 +1,0 @@
----
-title: Champaigne Philippe de
----

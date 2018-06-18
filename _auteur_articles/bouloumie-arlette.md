@@ -1,3 +1,0 @@
----
-title: Bouloumié Arlette
----

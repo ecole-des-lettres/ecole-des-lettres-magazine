@@ -1,3 +1,0 @@
----
-title: Michèle Clément
----

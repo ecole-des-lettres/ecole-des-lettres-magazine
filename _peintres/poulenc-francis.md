@@ -1,3 +1,0 @@
----
-title: Poulenc Francis
----

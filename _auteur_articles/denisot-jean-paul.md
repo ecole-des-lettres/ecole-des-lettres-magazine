@@ -1,3 +1,0 @@
----
-title: Denisot Jean-Paul
----

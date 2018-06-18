@@ -1,3 +1,0 @@
----
-title: Murail Marie-Aude
----

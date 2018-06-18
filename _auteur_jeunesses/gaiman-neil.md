@@ -1,3 +1,0 @@
----
-title: Gaiman Neil
----

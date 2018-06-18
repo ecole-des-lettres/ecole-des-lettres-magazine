@@ -1,3 +1,0 @@
----
-title: Fombelle Timothée de
----

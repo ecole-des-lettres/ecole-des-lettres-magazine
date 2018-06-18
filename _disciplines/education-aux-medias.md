@@ -1,3 +1,0 @@
----
-title: éducation aux médias
----

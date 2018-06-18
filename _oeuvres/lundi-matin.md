@@ -1,3 +1,0 @@
----
-title: Lundi matin
----

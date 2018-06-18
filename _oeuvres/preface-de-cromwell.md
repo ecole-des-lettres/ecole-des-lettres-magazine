@@ -1,3 +1,0 @@
----
-title: Préface de Cromwell
----

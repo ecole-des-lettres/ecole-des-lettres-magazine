@@ -1,3 +1,0 @@
----
-title: Cathrine Arnaud
----

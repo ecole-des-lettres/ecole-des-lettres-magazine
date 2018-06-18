@@ -1,3 +1,0 @@
----
-title: Ceylan Nuri Bilge
----

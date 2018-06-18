@@ -1,3 +1,0 @@
----
-title: Vinci Léonard de
----

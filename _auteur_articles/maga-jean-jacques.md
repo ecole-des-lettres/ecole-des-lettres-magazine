@@ -1,3 +1,0 @@
----
-title: Maga Jean-Jacques
----

@@ -1,3 +1,0 @@
----
-title: Avet Pierre
----

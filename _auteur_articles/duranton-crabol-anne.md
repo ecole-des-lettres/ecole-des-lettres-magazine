@@ -1,3 +1,0 @@
----
-title: Duranton Crabol Anne
----

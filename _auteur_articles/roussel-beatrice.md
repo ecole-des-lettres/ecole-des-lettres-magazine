@@ -1,3 +1,0 @@
----
-title: Roussel Béatrice
----

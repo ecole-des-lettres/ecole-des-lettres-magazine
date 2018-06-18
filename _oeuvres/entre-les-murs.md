@@ -1,3 +1,0 @@
----
-title: Entre les murs
----

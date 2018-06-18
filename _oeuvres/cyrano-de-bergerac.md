@@ -1,3 +1,0 @@
----
-title: Cyrano de Bergerac
----

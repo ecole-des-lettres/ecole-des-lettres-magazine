@@ -1,3 +1,0 @@
----
-title: Guerre de Jugurtha
----

@@ -1,3 +1,0 @@
----
-title: Myung-Se Lee
----

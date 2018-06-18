@@ -1,3 +1,0 @@
----
-title: Teissier Philippe
----

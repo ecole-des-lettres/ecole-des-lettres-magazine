@@ -1,3 +1,0 @@
----
-title: le pôle-express
----

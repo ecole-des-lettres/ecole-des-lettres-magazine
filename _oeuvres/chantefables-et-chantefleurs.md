@@ -1,3 +1,0 @@
----
-title: Chantefables et chantefleurs
----

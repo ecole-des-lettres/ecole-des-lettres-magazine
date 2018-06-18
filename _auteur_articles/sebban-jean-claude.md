@@ -1,3 +1,0 @@
----
-title: Sebban Jean-Claude
----

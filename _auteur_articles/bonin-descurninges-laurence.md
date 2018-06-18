@@ -1,3 +1,0 @@
----
-title: Bonin-Descurninges Laurence
----

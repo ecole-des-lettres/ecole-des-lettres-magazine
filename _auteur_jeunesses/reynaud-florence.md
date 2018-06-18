@@ -1,3 +1,0 @@
----
-title: Reynaud Florence
----

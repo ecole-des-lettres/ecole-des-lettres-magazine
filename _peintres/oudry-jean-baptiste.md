@@ -1,3 +1,0 @@
----
-title: Oudry Jean-Baptiste
----

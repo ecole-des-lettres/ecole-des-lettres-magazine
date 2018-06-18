@@ -1,3 +1,0 @@
----
-title: Moscovici Jean-Claude
----

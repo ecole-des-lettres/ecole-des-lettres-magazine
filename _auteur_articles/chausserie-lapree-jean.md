@@ -1,3 +1,0 @@
----
-title: Chausserie Laprée Jean
----

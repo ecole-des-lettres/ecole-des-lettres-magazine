@@ -1,3 +1,0 @@
----
-title: Pièce rapportée
----

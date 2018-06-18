@@ -1,3 +1,0 @@
----
-title: Hercule et Prométhée
----

@@ -1,3 +1,0 @@
----
-title: Dalokay Vedat
----

@@ -1,3 +1,0 @@
----
-title: Fromage ou dessin
----

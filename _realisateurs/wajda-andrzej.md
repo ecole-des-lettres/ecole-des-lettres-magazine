@@ -1,3 +1,0 @@
----
-title: Wajda Andrzej
----

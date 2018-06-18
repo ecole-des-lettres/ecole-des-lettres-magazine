@@ -1,3 +1,0 @@
----
-title: Anastassiadi Marie-Christine
----

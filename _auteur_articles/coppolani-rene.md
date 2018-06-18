@@ -1,3 +1,0 @@
----
-title: Coppolani René
----

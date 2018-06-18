@@ -1,3 +1,0 @@
----
-title: Moderato Cantabile
----

@@ -1,3 +1,0 @@
----
-title: Pratt Hugo
----

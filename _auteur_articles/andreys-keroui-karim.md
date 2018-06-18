@@ -1,3 +1,0 @@
----
-title: Andreys-Keroui Karim
----

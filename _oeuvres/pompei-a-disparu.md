@@ -1,3 +1,0 @@
----
-title: Pompéi a disparu
----

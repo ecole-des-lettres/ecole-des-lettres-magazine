@@ -1,3 +1,0 @@
----
-title: Rien sans Thésée
----

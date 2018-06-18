@@ -1,3 +1,0 @@
----
-title: Siméon Jean-Pierre
----

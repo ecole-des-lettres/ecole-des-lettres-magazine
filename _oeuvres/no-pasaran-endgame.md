@@ -1,3 +1,0 @@
----
-title: no pasaràn, endgame
----

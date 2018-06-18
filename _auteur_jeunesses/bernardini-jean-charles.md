@@ -1,3 +1,0 @@
----
-title: Bernardini Jean-Charles
----

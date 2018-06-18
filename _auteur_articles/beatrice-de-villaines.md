@@ -1,3 +1,0 @@
----
-title: Béatrice De Villaines
----

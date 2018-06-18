@@ -1,3 +1,0 @@
----
-title: Captivi (Les Captifs)
----

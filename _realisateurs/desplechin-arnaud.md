@@ -1,3 +1,0 @@
----
-title: Desplechin Arnaud
----

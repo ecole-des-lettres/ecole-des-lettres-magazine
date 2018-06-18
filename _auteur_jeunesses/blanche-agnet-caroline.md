@@ -1,3 +1,0 @@
----
-title: Blanche-Agnet Caroline
----

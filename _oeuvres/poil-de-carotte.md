@@ -1,3 +1,0 @@
----
-title: Poil de carotte
----

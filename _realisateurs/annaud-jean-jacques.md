@@ -1,3 +1,0 @@
----
-title: Annaud Jean-Jacques
----

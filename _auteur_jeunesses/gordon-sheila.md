@@ -1,3 +1,0 @@
----
-title: Gordon Sheila
----

@@ -1,3 +1,0 @@
----
-title: Une éducation algérienne
----

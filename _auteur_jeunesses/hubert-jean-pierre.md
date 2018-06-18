@@ -1,3 +1,0 @@
----
-title: Hubert Jean-Pierre
----

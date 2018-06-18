@@ -1,3 +1,0 @@
----
-title: Dany Jeury Michel
----

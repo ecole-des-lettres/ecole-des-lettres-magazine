@@ -1,3 +1,0 @@
----
-title: Pietr-le-Letton
----

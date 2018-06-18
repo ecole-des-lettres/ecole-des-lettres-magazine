@@ -1,3 +1,0 @@
----
-title: Stupeur et tremblements
----

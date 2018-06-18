@@ -1,3 +1,0 @@
----
-title: Riaba ma poule
----

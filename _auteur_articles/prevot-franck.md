@@ -1,3 +1,0 @@
----
-title: Prévot Franck
----

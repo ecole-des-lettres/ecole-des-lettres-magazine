@@ -1,3 +1,0 @@
----
-title: Brisebarre Jean-Jacques
----

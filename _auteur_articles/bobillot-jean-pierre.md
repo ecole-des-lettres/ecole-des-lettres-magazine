@@ -1,3 +1,0 @@
----
-title: Bobillot Jean-Pierre
----

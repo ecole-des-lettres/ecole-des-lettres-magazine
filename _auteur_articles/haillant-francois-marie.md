@@ -1,3 +1,0 @@
----
-title: Haillant François-Marie
----

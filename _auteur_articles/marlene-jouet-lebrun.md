@@ -1,3 +1,0 @@
----
-title: Marlène Jouet-Lebrun
----

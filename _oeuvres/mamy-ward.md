@@ -1,3 +1,0 @@
----
-title: Mamy Ward
----

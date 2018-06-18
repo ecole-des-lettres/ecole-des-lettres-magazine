@@ -1,3 +1,0 @@
----
-title: Pontier Jean-Marc
----

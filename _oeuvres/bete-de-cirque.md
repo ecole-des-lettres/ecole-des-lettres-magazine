@@ -1,3 +1,0 @@
----
-title: Bête de cirque
----

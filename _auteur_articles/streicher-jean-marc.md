@@ -1,3 +1,0 @@
----
-title: Streicher Jean-Marc
----

@@ -1,3 +1,0 @@
----
-title: quelle équipe !
----

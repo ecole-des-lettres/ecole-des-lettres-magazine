@@ -1,3 +1,0 @@
----
-title: sans domicile fixe
----

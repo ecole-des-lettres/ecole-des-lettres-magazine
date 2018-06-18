@@ -1,3 +1,0 @@
----
-title: Bonello Bertrand
----

@@ -1,3 +1,0 @@
----
-title: Avec ses vêtements ondoyants et nacrés…
----

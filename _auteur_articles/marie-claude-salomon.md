@@ -1,3 +1,0 @@
----
-title: Marie-Claude Salomon
----

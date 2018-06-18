@@ -1,3 +1,0 @@
----
-title: César doit mourir
----

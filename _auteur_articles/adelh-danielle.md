@@ -1,3 +1,0 @@
----
-title: Adelh Danielle
----

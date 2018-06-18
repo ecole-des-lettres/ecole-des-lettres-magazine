@@ -1,3 +1,0 @@
----
-title: Nguyen-Vô Minh
----

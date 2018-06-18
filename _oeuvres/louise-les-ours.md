@@ -1,3 +1,0 @@
----
-title: louise les ours
----

@@ -1,3 +1,0 @@
----
-title: Le Roman policier
----

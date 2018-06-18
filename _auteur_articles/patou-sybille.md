@@ -1,3 +1,0 @@
----
-title: Patou Sybille
----

@@ -1,3 +1,0 @@
----
-title: Gravé-Rousseau Guillaume
----

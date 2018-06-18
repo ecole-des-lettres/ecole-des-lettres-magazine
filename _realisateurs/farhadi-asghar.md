@@ -1,3 +1,0 @@
----
-title: Farhadi Asghar
----

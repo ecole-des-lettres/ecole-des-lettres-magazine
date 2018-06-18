@@ -1,3 +1,0 @@
----
-title: Million Dollar Baby
----

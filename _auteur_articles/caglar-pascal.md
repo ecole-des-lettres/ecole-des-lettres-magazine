@@ -1,3 +1,0 @@
----
-title: Caglar Pascal
----

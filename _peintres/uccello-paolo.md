@@ -1,3 +1,0 @@
----
-title: Uccello Paolo
----

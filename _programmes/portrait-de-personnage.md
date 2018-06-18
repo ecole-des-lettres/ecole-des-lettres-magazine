@@ -1,3 +1,0 @@
----
-title: portrait de personnage
----

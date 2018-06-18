@@ -1,3 +1,0 @@
----
-title: Déjeuner du matin
----

@@ -1,3 +1,0 @@
----
-title: À la manière de…
----

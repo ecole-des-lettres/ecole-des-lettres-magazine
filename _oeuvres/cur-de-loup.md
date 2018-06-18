@@ -1,3 +1,0 @@
----
-title: Cœur de loup
----

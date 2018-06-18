@@ -1,3 +1,0 @@
----
-title: Gasco Roselyne
----

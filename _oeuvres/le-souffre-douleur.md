@@ -1,3 +1,0 @@
----
-title: le souffre-douleur
----

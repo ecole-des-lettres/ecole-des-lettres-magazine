@@ -1,3 +1,0 @@
----
-title: Malineau Jean-Hughes
----

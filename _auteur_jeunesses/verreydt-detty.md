@@ -1,3 +1,0 @@
----
-title: Verreydt Detty
----

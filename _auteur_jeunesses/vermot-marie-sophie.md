@@ -1,3 +1,0 @@
----
-title: Vermot Marie-Sophie
----

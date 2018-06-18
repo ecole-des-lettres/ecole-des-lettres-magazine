@@ -1,3 +1,0 @@
----
-title: Giordana Marco Tullio
----

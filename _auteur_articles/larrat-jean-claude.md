@@ -1,3 +1,0 @@
----
-title: Larrat Jean-Claude
----

@@ -1,3 +1,0 @@
----
-title: Phang Loo Hui
----

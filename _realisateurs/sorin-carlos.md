@@ -1,3 +1,0 @@
----
-title: Sorin Carlos
----

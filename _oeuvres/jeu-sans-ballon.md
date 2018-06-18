@@ -1,3 +1,0 @@
----
-title: Jeu sans ballon
----

@@ -1,3 +1,0 @@
----
-title: Ligny Jean-Marc
----

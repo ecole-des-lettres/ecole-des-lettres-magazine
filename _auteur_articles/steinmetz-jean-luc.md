@@ -1,3 +1,0 @@
----
-title: Steinmetz Jean-Luc
----

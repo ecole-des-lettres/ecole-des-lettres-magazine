@@ -1,3 +1,0 @@
----
-title: Asami le nageur
----

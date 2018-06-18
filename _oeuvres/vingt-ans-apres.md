@@ -1,3 +1,0 @@
----
-title: Vingt ans après
----

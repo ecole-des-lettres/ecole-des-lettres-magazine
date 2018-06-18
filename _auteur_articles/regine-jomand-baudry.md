@@ -1,3 +1,0 @@
----
-title: Régine Jomand-Baudry
----

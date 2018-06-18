@@ -1,3 +1,0 @@
----
-title: Odile Lambert-Chesnot
----

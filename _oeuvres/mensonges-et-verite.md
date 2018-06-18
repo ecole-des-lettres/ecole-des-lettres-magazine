@@ -1,3 +1,0 @@
----
-title: Mensonges et vérité
----

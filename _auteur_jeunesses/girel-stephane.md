@@ -1,3 +1,0 @@
----
-title: Girel Stéphane
----

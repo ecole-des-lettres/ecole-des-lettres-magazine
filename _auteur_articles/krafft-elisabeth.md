@@ -1,3 +1,0 @@
----
-title: Krafft Élisabeth
----

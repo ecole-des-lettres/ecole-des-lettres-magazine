@@ -1,3 +1,0 @@
----
-title: Decréau Laurence
----

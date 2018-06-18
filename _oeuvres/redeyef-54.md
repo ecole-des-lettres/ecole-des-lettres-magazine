@@ -1,3 +1,0 @@
----
-title: Redeyef 54
----

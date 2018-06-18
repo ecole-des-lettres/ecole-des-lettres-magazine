@@ -1,3 +1,0 @@
----
-title: sac à Puces
----

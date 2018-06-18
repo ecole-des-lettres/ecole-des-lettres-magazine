@@ -1,3 +1,0 @@
----
-title: Frappier-Mazur Lucienne
----

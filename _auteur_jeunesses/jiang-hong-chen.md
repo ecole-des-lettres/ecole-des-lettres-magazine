@@ -1,3 +1,0 @@
----
-title: Jiang Hong Chen
----

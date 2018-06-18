@@ -1,3 +1,0 @@
----
-title: Gaudreault Émile
----

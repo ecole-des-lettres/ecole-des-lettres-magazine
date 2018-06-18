@@ -1,3 +1,0 @@
----
-title: Raoul de Cambrai
----

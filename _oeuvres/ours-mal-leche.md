@@ -1,3 +1,0 @@
----
-title: Ours mal léché
----

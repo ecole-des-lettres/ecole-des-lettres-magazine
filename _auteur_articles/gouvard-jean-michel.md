@@ -1,3 +1,0 @@
----
-title: Gouvard Jean-Michel
----

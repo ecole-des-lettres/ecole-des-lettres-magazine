@@ -1,3 +1,0 @@
----
-title: Malade d’amour
----

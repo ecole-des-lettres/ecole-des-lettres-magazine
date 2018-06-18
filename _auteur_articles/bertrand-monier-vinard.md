@@ -1,3 +1,0 @@
----
-title: Bertrand Monier-Vinard
----

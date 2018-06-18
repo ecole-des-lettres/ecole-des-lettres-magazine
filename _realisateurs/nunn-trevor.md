@@ -1,3 +1,0 @@
----
-title: Nunn Trevor
----

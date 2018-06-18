@@ -1,3 +1,0 @@
----
-title: Marc Le Person
----

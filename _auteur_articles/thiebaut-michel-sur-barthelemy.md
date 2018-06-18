@@ -1,3 +1,0 @@
----
-title: Thiébaut Michel / Barthélémy
----

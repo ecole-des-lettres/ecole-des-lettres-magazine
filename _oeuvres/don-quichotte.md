@@ -1,3 +1,0 @@
----
-title: Don Quichotte
----

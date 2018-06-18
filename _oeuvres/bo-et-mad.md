@@ -1,3 +1,0 @@
----
-title: Bo et Mad
----

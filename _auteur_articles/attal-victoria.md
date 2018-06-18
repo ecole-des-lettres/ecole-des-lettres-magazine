@@ -1,3 +1,0 @@
----
-title: Attal Victoria
----

@@ -1,3 +1,0 @@
----
-title: Diallo Mamadou
----

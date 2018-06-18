@@ -1,3 +1,0 @@
----
-title: Heude Jean
----

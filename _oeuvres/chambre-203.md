@@ -1,3 +1,0 @@
----
-title: Chambre 203
----

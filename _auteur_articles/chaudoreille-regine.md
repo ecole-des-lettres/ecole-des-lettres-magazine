@@ -1,3 +1,0 @@
----
-title: Chaudoreille Régine
----

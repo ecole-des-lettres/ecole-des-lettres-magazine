@@ -1,3 +1,0 @@
----
-title: Nos vies romancées
----

@@ -1,3 +1,0 @@
----
-title: Lilienfeld Jean-Paul
----

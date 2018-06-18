@@ -1,3 +1,0 @@
----
-title: Séva-Tasin Christine
----

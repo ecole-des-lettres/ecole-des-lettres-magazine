@@ -1,3 +1,0 @@
----
-title: Mange-moi
----

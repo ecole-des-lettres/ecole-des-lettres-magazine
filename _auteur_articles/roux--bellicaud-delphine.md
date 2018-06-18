@@ -1,3 +1,0 @@
----
-title: Roux- Bellicaud Delphine
----

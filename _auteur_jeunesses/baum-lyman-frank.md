@@ -1,3 +1,0 @@
----
-title: Baum Lyman Frank
----

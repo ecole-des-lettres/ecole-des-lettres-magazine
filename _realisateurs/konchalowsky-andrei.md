@@ -1,3 +1,0 @@
----
-title: Konchalowsky Andreï
----

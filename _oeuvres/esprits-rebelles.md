@@ -1,3 +1,0 @@
----
-title: Esprits rebelles
----

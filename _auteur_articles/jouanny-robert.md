@@ -1,3 +1,0 @@
----
-title: Jouanny Robert
----

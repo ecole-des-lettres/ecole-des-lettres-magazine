@@ -1,3 +1,0 @@
----
-title: Esclaves en fuite
----

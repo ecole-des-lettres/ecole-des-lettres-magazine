@@ -1,3 +1,0 @@
----
-title: Mindel Allan
----

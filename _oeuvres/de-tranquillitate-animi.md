@@ -1,3 +1,0 @@
----
-title: De tranquillitate animi
----

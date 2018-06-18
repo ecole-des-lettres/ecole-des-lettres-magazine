@@ -1,3 +1,0 @@
----
-title: Antoinette Novara
----

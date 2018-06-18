@@ -1,3 +1,0 @@
----
-title: Dayre Valérie
----

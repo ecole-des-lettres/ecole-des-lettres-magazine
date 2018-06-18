@@ -1,3 +1,0 @@
----
-title: Martine Vincent
----

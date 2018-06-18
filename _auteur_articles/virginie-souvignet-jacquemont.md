@@ -1,3 +1,0 @@
----
-title: Virginie Souvignet-Jacquemont
----

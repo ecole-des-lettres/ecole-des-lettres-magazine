@@ -1,3 +1,0 @@
----
-title: wake Up America
----

@@ -1,3 +1,0 @@
----
-title: Amsallem Daniela
----

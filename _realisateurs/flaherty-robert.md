@@ -1,3 +1,0 @@
----
-title: Flaherty Robert
----

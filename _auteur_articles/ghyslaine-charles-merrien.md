@@ -1,3 +1,0 @@
----
-title: Ghyslaine Charles-Merrien
----

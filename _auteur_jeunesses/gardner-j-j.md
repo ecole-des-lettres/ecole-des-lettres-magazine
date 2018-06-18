@@ -1,3 +1,0 @@
----
-title: Gardner J. J.
----

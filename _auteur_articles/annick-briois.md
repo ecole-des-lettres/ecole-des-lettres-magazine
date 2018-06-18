@@ -1,3 +1,0 @@
----
-title: Annick Briois
----

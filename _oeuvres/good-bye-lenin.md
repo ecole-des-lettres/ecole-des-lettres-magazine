@@ -1,3 +1,0 @@
----
-title: Good Bye Lenin !
----

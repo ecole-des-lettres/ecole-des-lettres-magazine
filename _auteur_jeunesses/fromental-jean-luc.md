@@ -1,3 +1,0 @@
----
-title: Fromental Jean-Luc
----

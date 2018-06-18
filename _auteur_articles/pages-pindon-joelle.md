@@ -1,3 +1,0 @@
----
-title: Pagès-Pindon Joëlle
----

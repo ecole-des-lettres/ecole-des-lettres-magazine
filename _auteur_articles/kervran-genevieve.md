@@ -1,3 +1,0 @@
----
-title: Kervran Geneviève
----

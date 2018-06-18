@@ -1,3 +1,0 @@
----
-title: Landry Jean-Pierre
----

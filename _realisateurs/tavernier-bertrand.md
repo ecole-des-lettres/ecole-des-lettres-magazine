@@ -1,3 +1,0 @@
----
-title: Tavernier Bertrand
----

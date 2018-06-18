@@ -1,3 +1,0 @@
----
-title: Abras Pierre-Marie
----

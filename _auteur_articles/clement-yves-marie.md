@@ -1,3 +1,0 @@
----
-title: Clément Yves-Marie
----

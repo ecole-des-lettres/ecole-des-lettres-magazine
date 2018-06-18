@@ -1,3 +1,0 @@
----
-title: Guillaumin Jean-Yves
----

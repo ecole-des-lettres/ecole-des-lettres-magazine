@@ -1,3 +1,0 @@
----
-title: Kamanda Kama
----

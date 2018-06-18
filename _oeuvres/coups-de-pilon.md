@@ -1,3 +1,0 @@
----
-title: Coups de pilon
----

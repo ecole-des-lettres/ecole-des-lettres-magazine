@@ -1,3 +1,0 @@
----
-title: Toi et moi
----

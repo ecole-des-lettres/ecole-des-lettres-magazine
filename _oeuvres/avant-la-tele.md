@@ -1,3 +1,0 @@
----
-title: Avant la télé
----

@@ -1,3 +1,0 @@
----
-title: Gaëtane Gilles-Popesco
----

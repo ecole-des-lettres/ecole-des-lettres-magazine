@@ -1,3 +1,0 @@
----
-title: Campario Jean-François
----

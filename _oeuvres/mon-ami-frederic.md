@@ -1,3 +1,0 @@
----
-title: Mon ami Frédéric
----

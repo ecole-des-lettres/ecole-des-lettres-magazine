@@ -1,3 +1,0 @@
----
-title: Hong Sang-soo
----

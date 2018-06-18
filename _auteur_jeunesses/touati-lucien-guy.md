@@ -1,3 +1,0 @@
----
-title: Touati Lucien-Guy
----

@@ -1,3 +1,0 @@
----
-title: Aya de Yopougon
----

@@ -1,3 +1,0 @@
----
-title: Valette Jean-René
----

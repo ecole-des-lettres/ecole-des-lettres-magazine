@@ -1,3 +1,0 @@
----
-title: F comme garçon
----

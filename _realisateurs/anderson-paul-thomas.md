@@ -1,3 +1,0 @@
----
-title: Anderson Paul Thomas
----

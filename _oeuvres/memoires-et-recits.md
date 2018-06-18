@@ -1,3 +1,0 @@
----
-title: Mémoires et Récits
----

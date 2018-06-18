@@ -1,3 +1,0 @@
----
-title: Prête à tout
----

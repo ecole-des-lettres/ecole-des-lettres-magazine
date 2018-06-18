@@ -1,3 +1,0 @@
----
-title: Histoires de fantômes
----

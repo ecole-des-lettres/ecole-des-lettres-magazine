@@ -1,3 +1,0 @@
----
-title: Privat Jean-Marie
----

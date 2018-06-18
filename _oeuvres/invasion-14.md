@@ -1,3 +1,0 @@
----
-title: Invasion 14
----

@@ -1,3 +1,0 @@
----
-title: Dias de campo
----

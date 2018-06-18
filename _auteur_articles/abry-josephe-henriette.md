@@ -1,3 +1,0 @@
----
-title: Abry Josèphe-Henriette
----

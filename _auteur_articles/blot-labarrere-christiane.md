@@ -1,3 +1,0 @@
----
-title: Blot-Labarrère Christiane
----

@@ -1,3 +1,0 @@
----
-title: Payen-Héraud Françoise
----

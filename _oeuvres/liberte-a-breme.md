@@ -1,3 +1,0 @@
----
-title: Liberté à Brême
----

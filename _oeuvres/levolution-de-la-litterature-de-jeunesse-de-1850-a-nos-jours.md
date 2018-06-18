@@ -1,3 +1,0 @@
----
-title: L’Évolution de la littérature de jeunesse, de 1850 à nos jours...
----

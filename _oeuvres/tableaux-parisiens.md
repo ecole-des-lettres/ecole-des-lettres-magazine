@@ -1,3 +1,0 @@
----
-title: Tableaux parisiens
----

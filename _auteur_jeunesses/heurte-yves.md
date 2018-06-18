@@ -1,3 +1,0 @@
----
-title: Heurté Yves
----

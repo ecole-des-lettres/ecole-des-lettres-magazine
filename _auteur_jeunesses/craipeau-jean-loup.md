@@ -1,3 +1,0 @@
----
-title: Craipeau Jean-Loup
----

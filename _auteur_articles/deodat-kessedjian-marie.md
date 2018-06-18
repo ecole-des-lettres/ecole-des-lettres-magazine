@@ -1,3 +1,0 @@
----
-title: Déodat Kessedjian Marie
----

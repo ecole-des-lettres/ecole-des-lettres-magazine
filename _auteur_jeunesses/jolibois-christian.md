@@ -1,3 +1,0 @@
----
-title: Jolibois Christian
----

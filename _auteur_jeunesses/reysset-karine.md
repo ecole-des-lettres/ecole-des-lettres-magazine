@@ -1,3 +1,0 @@
----
-title: Reysset Karine
----

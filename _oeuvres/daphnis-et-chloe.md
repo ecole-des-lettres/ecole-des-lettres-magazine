@@ -1,3 +1,0 @@
----
-title: Daphnis et Chloé
----

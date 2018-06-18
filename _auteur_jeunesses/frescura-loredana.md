@@ -1,3 +1,0 @@
----
-title: Frescura Loredana
----

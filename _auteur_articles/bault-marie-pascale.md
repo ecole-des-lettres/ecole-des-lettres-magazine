@@ -1,3 +1,0 @@
----
-title: Bault Marie-Pascale
----

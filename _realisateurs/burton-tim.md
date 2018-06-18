@@ -1,3 +1,0 @@
----
-title: Burton Tim
----

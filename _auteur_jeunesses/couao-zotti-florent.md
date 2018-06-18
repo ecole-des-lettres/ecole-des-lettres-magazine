@@ -1,3 +1,0 @@
----
-title: Couao-Zotti Florent
----

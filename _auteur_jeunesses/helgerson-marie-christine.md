@@ -1,3 +1,0 @@
----
-title: Helgerson Marie-Christine
----

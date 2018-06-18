@@ -1,3 +1,0 @@
----
-title: Rappeneau Jean-Paul
----

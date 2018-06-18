@@ -1,3 +1,0 @@
----
-title: Monteiro Joao Cesar
----

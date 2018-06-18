@@ -1,3 +1,0 @@
----
-title: Mankiewicz Joseph L.
----

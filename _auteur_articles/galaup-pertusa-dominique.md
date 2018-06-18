@@ -1,3 +1,0 @@
----
-title: Galaup-Pertusa Dominique
----

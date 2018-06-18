@@ -1,3 +1,0 @@
----
-title: Destang Jean-Michel
----

@@ -1,3 +1,0 @@
----
-title: Delpech Nicole
----

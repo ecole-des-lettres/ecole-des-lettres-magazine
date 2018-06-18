@@ -1,3 +1,0 @@
----
-title: Quæstiones naturales
----

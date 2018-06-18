@@ -1,3 +1,0 @@
----
-title: Sollogoub Tania
----

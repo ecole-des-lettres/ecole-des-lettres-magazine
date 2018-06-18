@@ -1,3 +1,0 @@
----
-title: Asinus et Lyra
----

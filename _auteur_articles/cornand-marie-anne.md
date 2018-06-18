@@ -1,3 +1,0 @@
----
-title: Cornand Marie-Anne
----

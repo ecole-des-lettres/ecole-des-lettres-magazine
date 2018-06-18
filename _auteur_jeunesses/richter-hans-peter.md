@@ -1,3 +1,0 @@
----
-title: Richter Hans Peter
----

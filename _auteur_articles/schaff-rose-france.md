@@ -1,3 +1,0 @@
----
-title: Schaff Rose-France
----

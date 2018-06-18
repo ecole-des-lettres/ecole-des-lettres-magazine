@@ -1,3 +1,0 @@
----
-title: Tsai Ming Liang
----

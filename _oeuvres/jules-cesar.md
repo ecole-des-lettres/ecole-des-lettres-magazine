@@ -1,3 +1,0 @@
----
-title: jules César
----

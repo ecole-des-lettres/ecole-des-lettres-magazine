@@ -1,3 +1,0 @@
----
-title: Pérouse-Battello Marie
----

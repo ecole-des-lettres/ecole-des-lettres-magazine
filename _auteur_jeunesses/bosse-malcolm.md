@@ -1,3 +1,0 @@
----
-title: Bosse Malcolm
----

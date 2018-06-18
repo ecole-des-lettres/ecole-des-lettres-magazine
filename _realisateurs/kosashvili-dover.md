@@ -1,3 +1,0 @@
----
-title: Kosashvili Dover
----

@@ -1,3 +1,0 @@
----
-title: Dussere-Telmond Cécile
----

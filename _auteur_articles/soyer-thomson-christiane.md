@@ -1,3 +1,0 @@
----
-title: Soyer-Thomson Christiane
----

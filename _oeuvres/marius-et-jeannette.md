@@ -1,3 +1,0 @@
----
-title: Marius et Jeannette
----

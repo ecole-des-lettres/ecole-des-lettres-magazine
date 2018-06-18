@@ -1,3 +1,0 @@
----
-title: les Petits Hommes
----

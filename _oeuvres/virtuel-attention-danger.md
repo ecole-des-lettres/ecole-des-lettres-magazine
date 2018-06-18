@@ -1,3 +1,0 @@
----
-title: 'Virtuel – attention danger !'
----

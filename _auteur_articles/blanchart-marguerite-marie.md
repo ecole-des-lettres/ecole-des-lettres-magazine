@@ -1,3 +1,0 @@
----
-title: Blanchart Marguerite-Marie
----

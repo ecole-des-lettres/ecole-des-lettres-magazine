@@ -1,3 +1,0 @@
----
-title: Adam et Thomas
----

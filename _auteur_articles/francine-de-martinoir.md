@@ -1,3 +1,0 @@
----
-title: Francine De Martinoir
----

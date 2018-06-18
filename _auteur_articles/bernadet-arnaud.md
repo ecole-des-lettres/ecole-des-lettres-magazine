@@ -1,3 +1,0 @@
----
-title: Bernadet Arnaud
----

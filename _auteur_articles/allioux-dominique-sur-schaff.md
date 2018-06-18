@@ -1,3 +1,0 @@
----
-title: Allioux Dominique / Schaff
----

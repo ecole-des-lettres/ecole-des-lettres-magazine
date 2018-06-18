@@ -1,3 +1,0 @@
----
-title: Joos Louis
----

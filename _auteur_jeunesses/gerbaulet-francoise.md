@@ -1,3 +1,0 @@
----
-title: Gerbaulet Françoise
----

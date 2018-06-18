@@ -1,3 +1,0 @@
----
-title: Pilote de guerre
----

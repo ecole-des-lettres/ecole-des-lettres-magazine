@@ -1,3 +1,0 @@
----
-title: Lazar Hélène
----

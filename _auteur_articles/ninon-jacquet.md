@@ -1,3 +1,0 @@
----
-title: Ninon Jacquet
----

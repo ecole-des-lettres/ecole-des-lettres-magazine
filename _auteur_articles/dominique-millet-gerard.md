@@ -1,3 +1,0 @@
----
-title: Dominique Millet-Gérard
----

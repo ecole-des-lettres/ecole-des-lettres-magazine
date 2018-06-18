@@ -1,3 +1,0 @@
----
-title: Allen Woody
----

@@ -1,3 +1,0 @@
----
-title: moi et Rien
----

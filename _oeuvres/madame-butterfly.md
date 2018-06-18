@@ -1,3 +1,0 @@
----
-title: Madame Butterfly
----

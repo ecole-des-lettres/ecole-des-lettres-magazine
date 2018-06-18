@@ -1,3 +1,0 @@
----
-title: Kany-Turpin José
----

@@ -1,3 +1,0 @@
----
-title: Young Adam
----

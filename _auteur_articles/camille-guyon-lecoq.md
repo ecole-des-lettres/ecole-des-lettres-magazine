@@ -1,3 +1,0 @@
----
-title: Camille Guyon-Lecoq
----

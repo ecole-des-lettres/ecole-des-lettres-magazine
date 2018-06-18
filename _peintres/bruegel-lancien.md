@@ -1,3 +1,0 @@
----
-title: Bruegel l’Ancien
----

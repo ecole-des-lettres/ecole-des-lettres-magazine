@@ -1,3 +1,0 @@
----
-title: Cadeau du ciel
----

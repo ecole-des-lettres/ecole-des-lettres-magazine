@@ -1,3 +1,0 @@
----
-title: Butlen Max
----

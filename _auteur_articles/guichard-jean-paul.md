@@ -1,3 +1,0 @@
----
-title: Guichard Jean-Paul
----

@@ -1,3 +1,0 @@
----
-title: Duminy-Sauzeau Christine
----

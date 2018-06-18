@@ -1,3 +1,0 @@
----
-title: Beaumarchais l’insolent
----

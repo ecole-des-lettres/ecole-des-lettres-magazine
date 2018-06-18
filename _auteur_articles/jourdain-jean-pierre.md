@@ -1,3 +1,0 @@
----
-title: Jourdain Jean-Pierre
----

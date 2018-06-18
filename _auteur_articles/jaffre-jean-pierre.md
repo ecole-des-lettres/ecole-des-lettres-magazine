@@ -1,3 +1,0 @@
----
-title: Jaffré Jean-Pierre
----

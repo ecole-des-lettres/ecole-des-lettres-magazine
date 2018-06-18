@@ -1,3 +1,0 @@
----
-title: Plüss Nicole
----

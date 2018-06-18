@@ -1,3 +1,0 @@
----
-title: Un film parlé
----

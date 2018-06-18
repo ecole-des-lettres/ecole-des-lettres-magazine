@@ -1,3 +1,0 @@
----
-title: Camelin Colette
----

@@ -1,3 +1,0 @@
----
-title: Sophie Josselin
----

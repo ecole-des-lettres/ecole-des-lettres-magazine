@@ -1,3 +1,0 @@
----
-title: Mort à crédit
----

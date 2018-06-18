@@ -1,3 +1,0 @@
----
-title: Giamatti Paul
----

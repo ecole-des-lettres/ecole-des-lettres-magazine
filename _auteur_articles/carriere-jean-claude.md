@@ -1,3 +1,0 @@
----
-title: Carrière Jean-Claude
----

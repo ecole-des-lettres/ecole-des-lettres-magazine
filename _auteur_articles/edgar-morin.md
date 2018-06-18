@@ -1,3 +1,0 @@
----
-title: Edgar Morin
----

@@ -1,3 +1,0 @@
----
-title: Biard François-Auguste
----

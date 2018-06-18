@@ -1,3 +1,0 @@
----
-title: Beaucamp Henriques Sai
----

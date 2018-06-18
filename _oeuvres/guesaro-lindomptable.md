@@ -1,3 +1,0 @@
----
-title: Guesaro l’indomptable
----

@@ -1,3 +1,0 @@
----
-title: Gay-Para Praline
----

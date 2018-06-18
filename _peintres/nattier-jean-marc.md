@@ -1,3 +1,0 @@
----
-title: Nattier Jean-Marc
----

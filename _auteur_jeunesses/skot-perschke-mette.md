@@ -1,3 +1,0 @@
----
-title: Skot Perschke Mette
----

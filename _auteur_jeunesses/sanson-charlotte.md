@@ -1,3 +1,0 @@
----
-title: Sanson Charlotte
----

@@ -1,3 +1,0 @@
----
-title: Van Lancker
----

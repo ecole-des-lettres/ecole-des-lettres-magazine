@@ -1,3 +1,0 @@
----
-title: Antoine et Cléopâtre
----

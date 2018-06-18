@@ -1,3 +1,0 @@
----
-title: Jim l’Affreux
----

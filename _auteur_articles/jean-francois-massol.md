@@ -1,3 +1,0 @@
----
-title: Jean-François Massol
----

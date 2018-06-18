@@ -1,3 +1,0 @@
----
-title: Boisson Madeleine
----

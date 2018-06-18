@@ -1,3 +1,0 @@
----
-title: Hélène Feuillade-Gazzarata
----

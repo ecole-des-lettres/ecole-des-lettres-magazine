@@ -1,3 +1,0 @@
----
-title: Vasseur-Legangneux Patricia
----

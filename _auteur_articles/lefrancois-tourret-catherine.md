@@ -1,3 +1,0 @@
----
-title: Lefrançois-Tourret Catherine
----

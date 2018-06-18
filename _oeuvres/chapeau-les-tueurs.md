@@ -1,3 +1,0 @@
----
-title: Chapeau, les tueurs
----

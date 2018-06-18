@@ -1,3 +1,0 @@
----
-title: Crinquand-Lorent Christine
----

@@ -1,3 +1,0 @@
----
-title: Rougier Marie-Rose
----

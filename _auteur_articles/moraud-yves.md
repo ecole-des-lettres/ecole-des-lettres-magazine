@@ -1,3 +1,0 @@
----
-title: Moraud Yves
----

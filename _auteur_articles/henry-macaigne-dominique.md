@@ -1,3 +1,0 @@
----
-title: Henry Macaigne Dominique
----

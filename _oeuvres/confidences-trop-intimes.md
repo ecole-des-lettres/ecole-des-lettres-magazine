@@ -1,3 +1,0 @@
----
-title: Confidences trop intimes
----

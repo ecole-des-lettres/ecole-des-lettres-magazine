@@ -1,3 +1,0 @@
----
-title: L’Illusion comique
----

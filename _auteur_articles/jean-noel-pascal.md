@@ -1,3 +1,0 @@
----
-title: Jean-Noël Pascal
----

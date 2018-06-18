@@ -1,3 +1,0 @@
----
-title: Mignard Pierre
----

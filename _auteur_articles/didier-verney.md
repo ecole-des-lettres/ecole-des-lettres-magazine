@@ -1,3 +1,0 @@
----
-title: Didier Verney
----

@@ -1,3 +1,0 @@
----
-title: discours - informatif
----

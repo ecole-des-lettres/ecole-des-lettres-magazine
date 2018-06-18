@@ -1,3 +1,0 @@
----
-title: Passaret Anne-Marie
----

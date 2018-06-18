@@ -1,3 +1,0 @@
----
-title: Dai Sijie
----

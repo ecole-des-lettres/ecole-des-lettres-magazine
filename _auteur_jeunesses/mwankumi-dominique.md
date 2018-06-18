@@ -1,3 +1,0 @@
----
-title: Mwankumi Dominique
----

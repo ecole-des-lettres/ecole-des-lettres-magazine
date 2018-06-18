@@ -1,3 +1,0 @@
----
-title: Waechter Friedrich Karl
----

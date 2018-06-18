@@ -1,3 +1,0 @@
----
-title: Dany Marie-Dominique
----

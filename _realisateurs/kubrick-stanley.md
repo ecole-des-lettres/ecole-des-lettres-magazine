@@ -1,3 +1,0 @@
----
-title: Kubrick Stanley
----

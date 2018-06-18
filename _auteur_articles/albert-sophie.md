@@ -1,3 +1,0 @@
----
-title: Albert Sophie
----

@@ -1,3 +1,0 @@
----
-title: Claudine Vigouroux
----

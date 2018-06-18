@@ -1,3 +1,0 @@
----
-title: Panahi Jafar
----

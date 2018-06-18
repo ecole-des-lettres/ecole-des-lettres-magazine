@@ -1,3 +1,0 @@
----
-title: Pinthon Monique
----

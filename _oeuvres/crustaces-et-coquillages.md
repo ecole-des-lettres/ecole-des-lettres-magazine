@@ -1,3 +1,0 @@
----
-title: Crustacés et coquillages
----

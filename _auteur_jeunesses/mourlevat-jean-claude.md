@@ -1,3 +1,0 @@
----
-title: Mourlevat Jean-Claude
----

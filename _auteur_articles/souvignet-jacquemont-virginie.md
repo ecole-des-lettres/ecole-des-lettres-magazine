@@ -1,3 +1,0 @@
----
-title: Souvignet-Jacquemont Virginie
----

@@ -1,3 +1,0 @@
----
-title: Hors la vie
----

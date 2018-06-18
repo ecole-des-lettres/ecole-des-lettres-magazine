@@ -1,3 +1,0 @@
----
-title: L’Homme illustré
----

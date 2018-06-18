@@ -1,3 +1,0 @@
----
-title: Kazakov Iouri
----

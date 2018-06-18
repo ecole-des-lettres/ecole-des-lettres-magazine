@@ -1,3 +1,0 @@
----
-title: Anything else
----

@@ -1,3 +1,0 @@
----
-title: Pepe Louis
----

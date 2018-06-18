@@ -1,3 +1,0 @@
----
-title: Effet de nuit
----

@@ -1,3 +1,0 @@
----
-title: corinne et Jeannot
----

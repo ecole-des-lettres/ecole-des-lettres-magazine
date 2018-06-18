@@ -1,3 +1,0 @@
----
-title: Attention, ça mord !
----

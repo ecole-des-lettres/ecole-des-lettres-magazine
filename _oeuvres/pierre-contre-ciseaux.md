@@ -1,3 +1,0 @@
----
-title: Pierre contre ciseaux
----

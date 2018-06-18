@@ -1,3 +1,0 @@
----
-title: Jaton Anne-Marie
----

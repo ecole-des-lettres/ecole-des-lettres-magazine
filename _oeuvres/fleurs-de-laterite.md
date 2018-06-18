@@ -1,3 +1,0 @@
----
-title: Fleurs de latérite
----

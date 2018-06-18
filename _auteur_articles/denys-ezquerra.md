@@ -1,3 +1,0 @@
----
-title: Denys Ezquerra
----
